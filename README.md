@@ -1,5 +1,7 @@
 # PICS test practice
 
+Live at https://ibdotboss.github.io/pics-quiz/
+
 A study app for the MOD002647 Professional Issues, Computing and Society in-class test. The test has 40 questions in 50 minutes. Questions 1 to 20 have one answer and carry 2 marks each. Questions 21 to 40 have several correct answers and carry 3 marks each.
 
 GitHub Pages serves `docs/index.html`. It is one self-contained file that works offline, and `index.html` is the same file for opening locally. Marks are kept in the browser's localStorage.
@@ -16,7 +18,7 @@ GitHub Pages serves `docs/index.html`. It is one self-contained file that works 
 
 ## How answers are decided
 
-The test is marked against the lecture slides, so the slides decide every answer. Where a slide is unclear or disagrees with current law, the question carries a note. A choose-all question scores only when every box is right.
+The lecture slides decide every answer. Where a slide is unclear or disagrees with current law, the question carries a note. A choose-all question scores only when every box is right.
 
 Subagents drafted the lecture and seminar questions one week at a time. Every answer key was then read against the slide text. Questions about module admin, such as the report word count, were removed, and stems were reworded to ask for the fact directly. Questions from the set readings were drafted the same way, and their keys were not re-checked one by one.
 

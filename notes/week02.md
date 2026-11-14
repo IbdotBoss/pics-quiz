@@ -2,20 +2,6 @@
 
 ## Lecture 2: Data Protection (PICS-Lecture 2-Data Protection_new)
 
-### Learning objectives (L2 s3)
-- recall data protection definitions
-- outline the scope of the Data Protection Act 2018
-- describe the obligations of Data Controllers
-- describe the EIGHT data protection principles
-- outline data protection exemptions
-
-### Why interested (L2 s4)
-- its LAW!
-- you may need to advise others as to what is legal (or illegal)
-- you may need to assert your own rights
-- you may need to apply some of this to your final project, e.g. software, or surveys
-- you need to know where to go for further advice
-
 ### I.T. Law list with years (L2 s5)
 - Data Protection Act (DPA 1994, 1998, 2018)
 - GDPR (2016)
@@ -135,22 +121,12 @@
 
 ## Seminar 2: User Data Privacy: Facebook & Cambridge Analytica (PICS-Seminar 2)
 
-- Seminar #2 topic: User Data Privacy: Facebook & Cambridge Analytica (S2 s1-2)
-- Task (S2 s3): 1 Read the paper; 2 Discuss the paper in your group; 3 Write down the key points of the report from your point of view; 4 Write down the impacts on 5 categories of issues: Ethical, Legal, Social, Professional and Systems
 - OCEAN: 5 Big Five Personality Traits (S2 s4-5):
   - Openness to experience (inventive/curious vs. consistent/cautious)
   - Conscientiousness (efficient/organized vs. easy-going/careless)
   - Extraversion (outgoing/energetic vs. solitary/reserved)
   - Agreeableness (friendly/compassionate vs. challenging/detached)
   - Neuroticism (sensitive/nervous vs. secure/confident)
-- Assessment overview (S2 s14): one single fine graded assessment element, Element 010
-  - Part 1: in-class test, 20%
-  - Part 2: individual report (2000 words), 80%
-  - Submission via CANVAS: 2pm Friday week 12
-- This week (S2 s15): choose your topic after group discussion
-- Report prep (S2 s16): "What is my topic? Why does it matter?"; 30 minutes; brief overview of topic; why it matters; each group everyone can have 5 minutes informal presentation time
-- Homework (S2 s18): "One thing I will do this week in relation to the module..."
-- Slides 6-10, 17 image only (no text)
 
 ## Reading: "User Data Privacy: Facebook, Cambridge Analytica, and Privacy Protection" (Isaak and Hanna, IEEE Computer, The Policy Corner, August 2018)
 

@@ -1,8 +1,5 @@
 # Week 6 - Lecture 6: Ethics (MOD002647)
 
-## Learning objectives (L6 s2)
-- define what ethics are; define what ethics are not; explain how ethics apply to professionalism.
-
 ## What are ethics? (L6 s3)
 - Ethos [Greek] meaning custom or character (noun).
 - sociology: underlying sentiment informing beliefs, customs, practices.

@@ -2,11 +2,6 @@
 
 ## Lecture 11: Sustainability in IT (module MOD002647) (L4)
 
-### Learning objectives (L4 s2)
-- explain the global impact of computing
-- explain the implications of sustainability in computing
-- consider the aspects of green computing
-
 ### Global impact: benefits and drawbacks of IT (L4 s3)
 - Benefits of IT (7): creates new jobs; advances our knowledge as humans; makes our lives easier; improves communications; entertainment; infrastructure efficiency; liberating
 - Drawbacks of IT (10): reduces menial jobs; online bullying; dark nets; energy consumption; disposal; built in obsolescence; rare earth materials; sweat shops; dependency; knowledge is power
@@ -21,7 +16,6 @@
   - rising sea levels => habitation / migration
   - increased power of storms => habitation / migration
   - changing rain distribution => food
-- Slide 7 image source: Environment Agency, UK (L4 s7)
 
 ### Dual aspects for 'Green' computing (L4 s8-s9)
 1) Computing can create efficiencies in the way we live (L4 s8): intelligent heating/lighting controls and sensors; management of Energy networks; reducing travel

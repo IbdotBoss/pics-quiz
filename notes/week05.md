@@ -2,12 +2,6 @@
 
 ## Lecture 5: System Failures (L5) (PRIORITY)
 
-### Learning objectives (L5 s3)
-- define the term system failures
-- explain reasons for system failures
-- classify types of system failures
-- recall the six primary reasons for system failures
-
 ### Definitions (L5 s4)
 - System: a regularly interacting or interdependent group of items forming a unified whole
 - Failure: the state or condition of not meeting a desirable or intended objective
@@ -68,11 +62,6 @@
 - Large projects have a momentum of their own
 - Failures/bureaucracy of internal/external 'independent' regulators
 
-### Why do I care? (L5 s21)
-- You will all be involved in delivery projects - many will fail
-- Some of you will manage projects - beware of why they fail
-- Failure is costly: loss of money; loss of reputation (or job); loss of life?
-
 ### Case study 1: Kegworth Aircrash (L5 s22)
 - Evening of 8th January 1989; British Midland Airways flight BD092 (Boeing 737-400); took off from Heathrow
 - Approx 5 minutes into flight, pilots noticed shaking of aircraft frame; unbeknown to the crew a fan blade in engine #1 had fractured
@@ -107,11 +96,3 @@
 - L5 s7: slide text "one of more" (typo for one or more).
 - L5 s15 tension: bad interface input "can be considered errors" vs training failures "are not errors, they are mistakes by management".
 - L5 s11 and s12 give no costs or dates in text; only URL titles hint at them.
-
-## Seminar 5: System Failures (S5)
-- Seminar #5: System Failures (S5 s1)
-- System Failures: London Ambulance Service (S5 s2, s4); slide 3 image only
-- "What went wrong?" (S5 s5)
-- Assessment Prep (S5 s6)
-- Homework: "One thing I will do this week in relation to the module..." (S5 s7)
-- No facts, dates, numbers or causes about the London Ambulance Service are in the extracted text (slides are titles/images only).

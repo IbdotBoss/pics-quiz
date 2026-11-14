@@ -1,8 +1,5 @@
 # Week 7 - Lecture 4: Computer Misuse Act, governance and cyber bodies (MOD002647)
 
-## Learning objectives (L7 s2)
-- recall the Computer Misuse Act; understand other statutes criminalising hacking; understand the penalties; explain some of the problems prosecuting under CMA.
-
 ## Laws v ethics (L7 s3-4)
 - Ethics: define socially acceptable behaviours.
 - Laws: rules that mandate or prohibit certain behaviour; drawn from ethics.
@@ -104,10 +101,6 @@
 - National Institute for Standards and Technology (NIST) (s24): non-regulatory US agency; test and set standards for technology including security.
 - Open Web Application Security Project (OWASP) (s25): global non-for-profit that supports application security; research, pen-testing; education.
 - CREST (s25): non-for-profit organisation, representing the information security industry; research, pen-testing; education: "CyberEssentials" - professional qualifications.
-
-## Computer law - why do I care? (L7 s26)
-- You may need to incorporate (or omit) features from your software, e.g. 'authorised users only' at login; incorporate appropriate security; audit trails; etc.
-- advise others as to what is legal (or illegal); seek further advice (and understand that advice).
 
 ## Further reading named (L7 s27)
 - Lloyd 2014 Information Technology Law (OUP, 7th ed); Stoll 1990 The Cuckoo's Egg; Shimomura 1996 Takedown (Kevin Mitnick); 7Safe 2015 (treat PCI DSS as though it was the law).

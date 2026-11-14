@@ -6,11 +6,6 @@ Location key: L3 sN = Lecture 3 slide N; S3 sN = Seminar 3 slide N; US pN = "Und
 
 ## Lecture 3: Freedom of Information (PICS-Lecture 3-FOI-Privacy_new)
 
-### Module and learning objectives
-- Module MOD002647 Professional Issues: Computing and Society; topic Freedom of Information (L3 s1)
-- Learning objectives (L3 s2): describe the FOI Act 2000; understand Public Authority's obligations; outline exemptions from the act; outline the differences between DPA, FOI, EIR applications; explain what RIPA 2000 covers.
-- Discussion prompts (L3 s3-s6): "What is Freedom?"; "What does freedom of information mean?"; "Should information be free (available) or restricted?"
-
 ### I.T. Law list (L3 s7)
 - Data Protection Act (DPA 1998)
 - GDPR (2016)
@@ -101,11 +96,6 @@ QUALIFIED exemptions (8):
 - IC has absolute right to see the disputed information and make a judgement.
 - Cabinet Minister can (could) override this decision with a veto.
 
-### Why do I care? (L3 s19)
-- You may go to work for a public authority where FOI rights need to be honoured.
-- You may work for a private organisation tendering for work from a public authority or performing a public function.
-- You may wish to find things out, i.e. enforce/assert your own FOI rights.
-
 ### Privacy law (L3 s20)
 - UK Privacy law is "messy". Named: Data Protection Act 1998/2018; Privacy and Electronic Communications Regulations; Regulations of Investigatory Powers Act 2000; Freedom of Information Act 2000; Human Rights Act 1998 (European Convention of Human Rights Article 8); "a whole bunch of other legislation, regulation and non-statutory bodies".
 
@@ -138,15 +128,6 @@ QUALIFIED exemptions (8):
 - DPA is "1998" on s7 and "1998/2018" on s20.
 - RIPA is "Regulation of" on s7 and "Regulations of" on s20/s21.
 - s15 exemption lists differ from current real law (e.g. real law makes taxation and prevention/detection of crime qualified, not absolute).
-
----
-
-## Seminar 3: Ethics and Surveillance (Seminar 3-Ethics and Surveillence)
-Text-poor deck; most slides are images only.
-- Title: Seminar #3: Ethics and Surveillence [sic] (S3 s1).
-- Paper discussed: "Under Surveillance: Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring" (S3 s2, s8).
-- Assessment Prep; Assessment: Discussion Areas (S3 s10-s11).
-- Homework: "One thing I will do this week in relation to the module..." (S3 s12).
 
 ---
 

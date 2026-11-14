@@ -4,58 +4,14 @@ Slide numbers for the lecture are the page numbers printed on the slides (s1 = t
 
 ## Lecture 1: Module Introduction (L1)
 
-- Module: MOD002647, "Professional Issues: Computing and Society" (PiSoC). Lecture #1: Module Introduction (L1 s1)
-- Aim (L1 s2, s3): "To provide an understanding of the issues, opportunities and problems, which have arisen as a result of the computerization of wide areas of human activity."
-- Slide 3 asks "Why is this important?" (L1 s3)
 - Professional issues impact society (L1 s4): diagram with the INDIVIDUAL inside SOCIETY, surrounded by Laws, Technology, Markets, Social Norms. Source: adapted from Adams and McCrindle (2008), Pandora's Box, p7.
-- Lesson outcomes (L1 s5), by the end of the lesson:
-  1. Explain the module learning outcomes
-  2. Explain the five key themes of the module
-  3. Understand where to go for more information on canvas
-  4. Start to understand the requirements for assessment
-- Learning outcomes, Knowledge and Understanding (L1 s6):
-  1. Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT.
-  2. Appreciate complexities of, criticise and contribute to discussions lead by others on social, professional, legal and ethical aspects of computing and IT.
-- Learning outcomes, Intellectual, Practical, Affective and Transferrable Skills (L1 s7):
-  - items 1 and 2 are blank in the extract
-  - 3. Give a professional presentation and stimulate discussion, comparing and contrasting key issues.
-  - 4. Critically appraise and evaluate own and other's work.
 - 5 key areas of this module (L1 s8): Legal, Social, Ethical, Systems, Professional
-- Why should I care? (L1 s9):
-  - you may need to advise others as to what is legal (or illegal)
-  - you may need to assert your own rights
-  - you need to know where to go for further advice
 - Legal issues (L1 s10): Data protection; Freedom of information; Computer misuse; Computer crime; ...
 - Social issues (L1 s11): Technology trends; Social implications; Digital divide; Social access; Workplace / home; ...
 - Ethical issues (L1 s12): Privacy / surveillance; Censorship; Freedom of speech; Whistle blowing; Equality of opportunity; ...
 - System failures (L1 s13): Complexity; Organizational; Management; Impact; System design and life cycle; ...
 - Professionalism (L1 s14): Codes of conduct; Professional bodies; Why it matters; ...
-- How are you going to work? (L1 s15)
-  - Computer Scientist viewpoint throughout: research, evidence, critical evaluation, modeling, prediction; compliance and best practice
-  - Collaborative working: using resources on Canvas, reading etc.; with fellow students through discussion and presentations
-- Canvas (L1 s16), Canvas example (L1 s17), "Lots of reading..." (L1 s18): image-only, no text.
 - Note: slide 8 says "Systems" but slide 13 heading says "System Failures"; slide 14 heading is "Professionalism" while slide 8 says "Professional".
-
-## Seminar 1: Introduction (S1)
-
-Slides 1 to 9 are images only (no text extracted). Slides 16 to 18 are image/blank.
-
-- Assessment Outline (S1 s10): one single fine graded assessment, Element 010
-  - Component 1: one hour in class test, 20% (in week 10 lecture)
-  - Component 2: Individual Report (2000 words), 80%, [+400-500 words appendix], submission via Canvas
-- Assessment: Individual Report, weighting 80% (S1 s11): 2000 word report on the topic of your choice. Marks allocation before weighting:
-  - Overview/Introduction 15%
-  - THREE issues 3 x 5% (= 15%)
-  - Content/breadth of topic, analysis and depth of argument 30%
-  - Research and evidence presented 15%
-  - Presentation (structure and flow) 15%
-  - Conclusion 10%
-- Some of last year's report topics (S1 s12): Wikileaks and the freedom of Information; Should cryptocurrencies be regulated?; Effects of Linking Accounts; Internet Free Speech; Autonomous Vehicles: Friend or Foe?; Saudi Arabia grants Sophia by Hanson the first robotic citizenship; Google What they do with our information; Amazon/Netflix - has the telly had its day?
-- Questions to help find topics (S1 s13): consequences of a business world with "too much information"; easy access to data makes us intellectually lazy? effect on education systems; Can we do AI? Should we do AI? What are the ethical implications?; IoT: comfortable life at the cost of losing privacy? trust machines/sensors?
-- Recommended Professional Learning and Activities (S1 s14):
-  - Create a LinkedIn Profile; similarly a ResearchGate profile (researchers, PG students); create your GitHub profile (Computer Science and related fields), share source code in GitHub
-  - Use Professional Tools: Latex (e.g. online latex, overleaf) instead of MS Word for papers, reports, thesis (CS researchers / PG students); Unix based OS instead of Windows (SysAdmins, Programmers); open source software instead of commercial software (Researchers, Scientific Software Developers); identify professional tools in your own area
-- Recap group discussion, 15 minutes (S1 s15): Why is Professional Issues important? How is it relevant to your course? What are the 5 key areas of the module?
 
 ## ICO: Overview of the GDPR (ICO)
 

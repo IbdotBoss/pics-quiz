@@ -1,8 +1,5 @@
 # Week 9 - Lecture 9: Professionalism in IT (MOD002647)
 
-## Learning objectives (L9 s2)
-- describe what it is to be professional; articulate the Professional Bodies in the UK; explain how codes of conduct relate to professionalism.
-
 ## Professions (L9 s3) (Bott 2014; PIIIT 2014, chp 2)
 - Bott (2014) describes professions as including doctors, lawyers, accountants, architects, IT professionals.
 - Things in common:
