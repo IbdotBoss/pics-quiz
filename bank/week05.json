@@ -4,7 +4,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "Which of the following is the lecture's definition of 'failure'?",
+  "q": "Which of the following defines 'failure'?",
   "options": [
    "a regularly interacting or interdependent group of items forming a unified whole",
    "the inability of a system to meet its stakeholders' requirements",
@@ -199,7 +199,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "How many primary reasons for system failures does the lecture ask you to recall?",
+  "q": "How many primary causes of system failure are there?",
   "options": [
    "Three",
    "Four",
@@ -219,7 +219,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "How many types of system failure does the lecture give?",
+  "q": "How many types of system failure are there?",
   "options": [
    "Two",
    "Four",
@@ -239,7 +239,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "How many classifications of system failure does the lecture give?",
+  "q": "How many classifications of system failure are there?",
   "options": [
    "Three",
    "Five",
@@ -357,7 +357,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "According to the lecture, how many of the passengers on board were lost in the Kegworth crash?",
+  "q": "How many of the passengers on board were lost in the Kegworth crash?",
   "options": [
    "126 of the 47",
    "47 of the 146",
@@ -417,7 +417,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "Is the following statement correct? 'At Three Mile Island, the light indicating the relief valve position reflected the actual state of the valve.'",
+  "q": "Is the following statement correct?\n\n\"At Three Mile Island, the light indicating the relief valve position reflected the actual state of the valve.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -494,7 +494,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "Is the following statement correct? 'Failures due to a lack of training are not errors, they are mistakes by management.'",
+  "q": "Is the following statement correct?\n\n\"Failures due to a lack of training are not errors, they are mistakes by management.\"",
   "options": [
    "Not correct",
    "Correct"
@@ -551,7 +551,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "According to the lecture, what is a poor fit between system and organisation often driven by?",
+  "q": "What often drives a poor fit between system and organisation?",
   "options": [
    "faulty hardware and poor testing",
    "inadequate training and stress",
@@ -570,7 +570,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "single",
-  "q": "What does the lecture say about the 'Incorrect Assumptions' cause?",
+  "q": "What lies behind the 'incorrect assumptions' cause of system failure?",
   "options": [
    "the interface is poorly designed",
    "development team guess, or don't check",
@@ -709,7 +709,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "Which are listed under organisational culture as reasons for failure?",
+  "q": "Which aspects of organisational culture are reasons for failure?",
   "options": [
    "insufficient hardware capacity",
    "too expensive to contemplate (failure scenario / remedy)",
@@ -732,7 +732,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "Which are listed under 'People' as reasons for failure?",
+  "q": "Which are 'people' reasons for failure?",
   "options": [
    "poor user interface",
    "stress / pressure before / during / after",
@@ -845,7 +845,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "According to the lecture, failure is costly in which ways?",
+  "q": "In which ways is failure costly?",
   "options": [
    "loss of reputation (or job)",
    "loss of hardware warranty",
@@ -1080,7 +1080,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "Which cause-case study pairings match the lecture?",
+  "q": "Which case studies are paired with the correct cause?",
   "options": [
    "Kegworth - main-feed water pump failure",
    "Kegworth - the wrong engine was throttled back",
@@ -1102,7 +1102,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "Which statements about the lecture's definitions are correct?",
+  "q": "Which of these definitions are correct?",
   "options": [
    "A failure is a group of items forming a unified whole",
    "A system is a regularly interacting or interdependent group of items forming a unified whole",
@@ -1122,7 +1122,7 @@
   "week": 5,
   "topic": "System Failures",
   "type": "multi",
-  "q": "Which of the following are listed among the reasons for failure?",
+  "q": "Which of the following are reasons for failure?",
   "options": [
    "top management kept in dark",
    "failures/bureaucracy of internal/external 'independent' regulators",
@@ -1138,50 +1138,6 @@
   ],
   "explain": "Slide 20 lists these reasons. Rigorous testing is a prevention on slide 19.",
   "source": "Lecture 5 slide 20",
-  "flag": ""
- },
- {
-  "id": "w05-055",
-  "week": 5,
-  "topic": "System Failures",
-  "type": "multi",
-  "q": "What are the stated learning objectives of the system failures lecture?",
-  "options": [
-   "recall the six primary reasons for system failures",
-   "explain reasons for system failures",
-   "define the term system failures",
-   "classify types of system failures"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3
-  ],
-  "explain": "All four objectives are on the slide.",
-  "source": "Lecture 5 slide 3",
-  "flag": ""
- },
- {
-  "id": "w05-056",
-  "week": 5,
-  "topic": "System Failures",
-  "type": "multi",
-  "q": "Which of these are listed on the Why do I care? slide?",
-  "options": [
-   "Most projects succeed on time",
-   "Failure only costs money",
-   "Some of you will manage projects - beware of why they fail",
-   "You will all be involved in delivery projects - many will fail",
-   "Failure is costly"
-  ],
-  "answer": [
-   2,
-   3,
-   4
-  ],
-  "explain": "Slide 21 lists those three points. Failure costs money, reputation or job, and possibly life.",
-  "source": "Lecture 5 slide 21",
   "flag": ""
  },
  {

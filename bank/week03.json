@@ -42,7 +42,7 @@
   "week": 3,
   "topic": "Freedom of Information",
   "type": "single",
-  "q": "Is the following statement correct? 'If the public interest in disclosure outweighs the public interest of maintaining an exemption to disclosure, the ICO may rule that material has to be disclosed.'",
+  "q": "Is the following statement correct?\n\n\"If the public interest in disclosure outweighs the public interest of maintaining an exemption to disclosure, the ICO may rule that material has to be disclosed.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -59,7 +59,7 @@
   "week": 3,
   "topic": "Freedom of Information",
   "type": "single",
-  "q": "Is the following statement correct? 'The FOI Act 2000 gives people access to their own personal data, such as their health records or credit reference file.'",
+  "q": "Is the following statement correct?\n\n\"The FOI Act 2000 gives people access to their own personal data, such as their health records or credit reference file.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -209,7 +209,7 @@
   "week": 3,
   "topic": "Freedom of Information",
   "type": "single",
-  "q": "Which of the following is the correct order of the appeals route listed for FOI?",
+  "q": "What is the correct order of the appeals route for an FOI request?",
   "options": [
    "Information Commissioner, Internal Departmental Review, Courts",
    "Courts, Information Commissioner, Internal Departmental Review",
@@ -266,7 +266,7 @@
   "week": 3,
   "topic": "Freedom of Information",
   "type": "single",
-  "q": "Is the following statement correct? 'Under FOI 2000, FOI rights prevail, so a public authority should consider FOI before the DPA.'",
+  "q": "Is the following statement correct?\n\n\"Under FOI 2000, FOI rights prevail, so a public authority should consider FOI before the DPA.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -359,7 +359,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "single",
-  "q": "UK privacy law is described in the lecture as which of the following?",
+  "q": "How is UK privacy law best described?",
   "options": [
    "Messy",
    "Comprehensive",
@@ -473,7 +473,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "single",
-  "q": "'All internet traffic should be treated equally' is the lecture's description of which concept?",
+  "q": "'All internet traffic should be treated equally' describes which concept?",
   "options": [
    "Open Internet",
    "Free speech",
@@ -492,7 +492,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "single",
-  "q": "'The Internet should be accessible to everyone' is the lecture's description of which concept?",
+  "q": "'The Internet should be accessible to everyone' describes which concept?",
   "options": [
    "Net neutrality",
    "Article 8",
@@ -507,30 +507,11 @@
   "flag": ""
  },
  {
-  "id": "w03-028",
-  "week": 3,
-  "topic": "Privacy",
-  "type": "single",
-  "q": "In which year is the GDPR listed in the lecture's I.T. Law list?",
-  "options": [
-   "1998",
-   "2000",
-   "2016",
-   "1990"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "The I.T. Law list gives GDPR 2016.",
-  "source": "Lecture 3 slide 7",
-  "flag": ""
- },
- {
   "id": "w03-029",
   "week": 3,
   "topic": "Privacy",
   "type": "single",
-  "q": "In which year is the Computer Misuse Act (CMA) listed in the lecture's I.T. Law list?",
+  "q": "In which year was the Computer Misuse Act passed?",
   "options": [
    "1990",
    "1998",
@@ -814,7 +795,7 @@
   "week": 3,
   "topic": "Freedom of Information",
   "type": "multi",
-  "q": "Which of the following are listed as outside of public interest?",
+  "q": "Which of the following fall outside of public interest under FOI?",
   "options": [
    "Government classified material",
    "Good decision making",
@@ -874,53 +855,6 @@
   "flag": ""
  },
  {
-  "id": "w03-044",
-  "week": 3,
-  "topic": "Freedom of Information",
-  "type": "multi",
-  "q": "Why does the lecture say FOI matters to you?",
-  "options": [
-   "You may go to work for a public authority where FOI rights need to be honoured",
-   "You may work for a private organisation tendering for work from a public authority",
-   "You may work for a private organisation performing a public function",
-   "You may wish to enforce or assert your own FOI rights",
-   "It lets you read other people's personal data"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3
-  ],
-  "explain": "Slide 'Why do I care?' lists the first four reasons.",
-  "source": "Lecture 3 slide 19",
-  "flag": ""
- },
- {
-  "id": "w03-045",
-  "week": 3,
-  "topic": "Freedom of Information",
-  "type": "multi",
-  "q": "Which are learning objectives of the lecture?",
-  "options": [
-   "Describe the FOI Act 2000",
-   "Understand Public Authority's obligations",
-   "Outline exemptions from the act",
-   "Outline the differences between DPA, FOI, EIR applications",
-   "Explain what RIPA 2000 covers"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3,
-   4
-  ],
-  "explain": "All five are listed as learning objectives.",
-  "source": "Lecture 3 slide 2",
-  "flag": ""
- },
- {
   "id": "w03-046",
   "week": 3,
   "topic": "Freedom of Information",
@@ -969,7 +903,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "multi",
-  "q": "Which legislation does the lecture name as part of 'messy' UK privacy law?",
+  "q": "Which legislation makes up the 'messy' UK privacy law?",
   "options": [
    "Data Protection Act 1998/2018",
    "Privacy and Electronic Communications Regulations",
@@ -1039,7 +973,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "multi",
-  "q": "Which acts are listed in the lecture's I.T. Law list with the correct year?",
+  "q": "Which of these Acts are paired with the correct year?",
   "options": [
    "Data Protection Act (1998)",
    "Freedom of Information Act (2000)",
@@ -1063,7 +997,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "multi",
-  "q": "Which acts are listed in the lecture's I.T. Law list with the correct year?",
+  "q": "Which of these Acts are paired with the correct year?",
   "options": [
    "Freedom of Information Act (1998)",
    "Computer Misuse Act (2000)",
@@ -1084,7 +1018,7 @@
   "week": 3,
   "topic": "Privacy",
   "type": "multi",
-  "q": "Which statements about the internet from the lecture are correct?",
+  "q": "Which statements about the internet are correct?",
   "options": [
    "Article 19 of the UDHR calls for the protection of free expression in all media",
    "Net neutrality means all internet traffic should be treated equally",
@@ -1098,48 +1032,6 @@
   ],
   "explain": "These are Article 19 of the UDHR, net neutrality meaning all traffic is treated equally, and an open Internet meaning it is accessible to everyone.",
   "source": "Lecture 3 slide 25",
-  "flag": ""
- },
- {
-  "id": "w03-054",
-  "week": 3,
-  "topic": "Surveillance",
-  "type": "single",
-  "q": "Which paper is the focus of Seminar 3 on Ethics and Surveillance?",
-  "options": [
-   "New Species in a Built Ecosystem",
-   "The Right to Privacy in the Information Age",
-   "Surveillance Capitalism and Facebook",
-   "Under Surveillance: Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring"
-  ],
-  "answer": [
-   3
-  ],
-  "explain": "Slides 2 and 8 show the title \"Under Surveillance, Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring\".",
-  "source": "Seminar 3 slide 2",
-  "flag": ""
- },
- {
-  "id": "w03-055",
-  "week": 3,
-  "topic": "Surveillance",
-  "type": "multi",
-  "q": "Which statements about the Seminar 3 paper title are correct?",
-  "options": [
-   "It refers to Facebook",
-   "It refers to a 'spiral of Silence'",
-   "It refers to the NSA",
-   "It refers to Internet Monitoring",
-   "It refers to GCHQ"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3
-  ],
-  "explain": "The title is \"Under Surveillance, Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring\". GCHQ is not mentioned.",
-  "source": "Seminar 3 slide 2",
   "flag": ""
  },
  {
@@ -1223,7 +1115,7 @@
   "week": 3,
   "topic": "Surveillance",
   "type": "single",
-  "q": "Is the following statement correct? 'Only 40% of surveyed Americans believe surveillance against ordinary U.S. citizens is justified, while upward of 80% believe it is necessary for individuals suspected of terrorist activity.'",
+  "q": "Is the following statement correct?\n\n\"Only 40% of surveyed Americans believe surveillance against ordinary U.S. citizens is justified, while upward of 80% believe it is necessary for individuals suspected of terrorist activity.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -1365,7 +1257,7 @@
   "week": 3,
   "topic": "Surveillance",
   "type": "single",
-  "q": "Which U.S. law's provisions let the NSA surreptitiously monitor online activities of U.S. citizens, according to the article?",
+  "q": "Which U.S. law's provisions let the NSA surreptitiously monitor online activities of U.S. citizens?",
   "options": [
    "U.S. Patriot Act",
    "Freedom of Information Act 1966",

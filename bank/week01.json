@@ -4,7 +4,7 @@
   "week": 1,
   "topic": "Introduction",
   "type": "single",
-  "q": "What are the five key areas of professional issues in computing and society covered in this module?",
+  "q": "What are the five key areas of professional issues in computing and society?",
   "options": [
    "Political, Social, Ethical, Systems, Professional",
    "Legal, Social, Ethical, Systems, Professional",
@@ -24,7 +24,7 @@
   "week": 1,
   "topic": "Introduction",
   "type": "multi",
-  "q": "Which of the following are key areas of this module?",
+  "q": "Which of the following are key areas of professional issues in computing?",
   "options": [
    "Social",
    "Financial",
@@ -46,50 +46,11 @@
   "flag": ""
  },
  {
-  "id": "w01-003",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "What is the module code of Professional Issues: Computing and Society?",
-  "options": [
-   "MOD006247",
-   "MOD002674",
-   "MOD002647",
-   "MOD002467"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "The slides are headed MOD002647 PiSoC, Module Introduction.",
-  "source": "Lecture 1 slide 2",
-  "flag": ""
- },
- {
-  "id": "w01-004",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "The module aim is to provide an understanding of the issues, opportunities and problems which have arisen as a result of the ______ of wide areas of human activity. Which word completes it?",
-  "options": [
-   "globalisation",
-   "automation",
-   "computerization",
-   "regulation",
-   "digitisation"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "The aim reads \"as a result of the computerization of wide areas of human activity.\"",
-  "source": "Lecture 1 slide 2",
-  "flag": ""
- },
- {
   "id": "w01-005",
   "week": 1,
   "topic": "Legal issues",
   "type": "single",
-  "q": "Which of the following is NOT listed as a legal issue in the module introduction?",
+  "q": "Which of the following is NOT a legal issue in computing?",
   "options": [
    "Data protection",
    "Freedom of information",
@@ -109,7 +70,7 @@
   "week": 1,
   "topic": "Legal issues",
   "type": "multi",
-  "q": "Which of the following are listed as legal issues?",
+  "q": "Which of the following are legal issues in computing?",
   "options": [
    "Computer crime",
    "Digital divide",
@@ -133,7 +94,7 @@
   "week": 1,
   "topic": "Social issues",
   "type": "multi",
-  "q": "Which of the following are listed as social issues?",
+  "q": "Which of the following are social issues in computing?",
   "options": [
    "Workplace / home",
    "Digital divide",
@@ -159,7 +120,7 @@
   "week": 1,
   "topic": "Ethical issues",
   "type": "multi",
-  "q": "Which of the following are listed as ethical issues?",
+  "q": "Which of the following are ethical issues in computing?",
   "options": [
    "Whistle blowing",
    "Equality of opportunity",
@@ -183,7 +144,7 @@
   "week": 1,
   "topic": "System failures",
   "type": "multi",
-  "q": "Which of the following are listed under system failures?",
+  "q": "Which of the following are aspects of system failures?",
   "options": [
    "Codes of conduct",
    "Impact",
@@ -209,7 +170,7 @@
   "week": 1,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which of the following are listed under professionalism?",
+  "q": "Which of the following come under professionalism?",
   "options": [
    "Professional bodies",
    "Whistle blowing",
@@ -232,7 +193,7 @@
   "week": 1,
   "topic": "Professionalism",
   "type": "single",
-  "q": "Under which area of the module are 'Codes of conduct' and 'Professional bodies' listed?",
+  "q": "Under which area of professional issues do 'Codes of conduct' and 'Professional bodies' fall?",
   "options": [
    "Professionalism",
    "Social issues",
@@ -252,7 +213,7 @@
   "week": 1,
   "topic": "Social issues",
   "type": "single",
-  "q": "Under which area of the module is 'Digital divide' listed?",
+  "q": "Under which area of professional issues does the 'Digital divide' fall?",
   "options": [
    "Social issues",
    "Legal issues",
@@ -272,7 +233,7 @@
   "week": 1,
   "topic": "Ethical issues",
   "type": "single",
-  "q": "Under which area of the module is 'Whistle blowing' listed?",
+  "q": "Under which area of professional issues does 'Whistle blowing' fall?",
   "options": [
    "Legal issues",
    "System failures",
@@ -292,7 +253,7 @@
   "week": 1,
   "topic": "Legal issues",
   "type": "single",
-  "q": "Is the following statement correct? Computer crime is listed as an ethical issue.",
+  "q": "Is the following statement correct?\n\n\"Computer crime is an ethical issue.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -309,7 +270,7 @@
   "week": 1,
   "topic": "System failures",
   "type": "single",
-  "q": "Is the following statement correct? Complexity is listed under system failures.",
+  "q": "Is the following statement correct?\n\n\"Complexity is an aspect of system failures.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -326,7 +287,7 @@
   "week": 1,
   "topic": "Social issues",
   "type": "single",
-  "q": "Is the following statement correct? 'Workplace / home' is listed under social issues.",
+  "q": "Is the following statement correct?\n\n\"Workplace / home' is a social issue.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -343,7 +304,7 @@
   "week": 1,
   "topic": "Ethical issues",
   "type": "single",
-  "q": "Is the following statement correct? Equality of opportunity is listed as a legal issue.",
+  "q": "Is the following statement correct?\n\n\"Equality of opportunity is a legal issue.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -377,376 +338,6 @@
   ],
   "explain": "The diagram places the INDIVIDUAL within SOCIETY surrounded by Laws, Technology, Markets and Social Norms.",
   "source": "Lecture 1 slide 4",
-  "flag": ""
- },
- {
-  "id": "w01-019",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "The diagram showing how professional issues impact society was adapted from which source?",
-  "options": [
-   "Adams and McCrindle (2008), Pandora's Box",
-   "Adams and McCrindle (2008), Digital Society",
-   "Adams and McCrindle (2012), Pandora's Box",
-   "Adams and Crindle (2018), Pandora's Box",
-   "Adams and McCrindle (2003), Ethics in IT"
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "The source line reads \"Adapted from Adams and McCrindle, 2008, Pandora's Box, p7.\"",
-  "source": "Lecture 1 slide 4",
-  "flag": ""
- },
- {
-  "id": "w01-020",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "How many lesson outcomes are listed for Lecture 1?",
-  "options": [
-   "3",
-   "4",
-   "6",
-   "5"
-  ],
-  "answer": [
-   1
-  ],
-  "explain": "The Lesson Outcomes slide lists four numbered outcomes.",
-  "source": "Lecture 1 slide 5",
-  "flag": ""
- },
- {
-  "id": "w01-021",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "multi",
-  "q": "Which of the following are lesson outcomes for Lecture 1?",
-  "options": [
-   "Understand where to go for more information on canvas",
-   "Explain the five key themes of the module",
-   "Complete the individual report",
-   "Start to understand the requirements for assessment",
-   "Explain the principles of the GDPR",
-   "Explain the module learning outcomes"
-  ],
-  "answer": [
-   0,
-   1,
-   3,
-   5
-  ],
-  "explain": "The lesson outcomes are 1, explain the module learning outcomes, 2, explain the five key themes, 3, understand where to go for more information on canvas, and 4, start to understand the requirements for assessment.",
-  "source": "Lecture 1 slide 5",
-  "flag": ""
- },
- {
-  "id": "w01-022",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "multi",
-  "q": "The Knowledge and Understanding learning outcomes refer to which aspects of computing and IT?",
-  "options": [
-   "Environmental",
-   "Technical",
-   "Legal",
-   "Social",
-   "Economic",
-   "Ethical",
-   "Professional"
-  ],
-  "answer": [
-   2,
-   3,
-   5,
-   6
-  ],
-  "explain": "Learning outcomes refer to 'social, professional, legal or ethical aspects of computing and IT'.",
-  "source": "Lecture 1 slide 6",
-  "flag": ""
- },
- {
-  "id": "w01-023",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "Which learning outcome is listed under 'Intellectual, practical, affective and transferrable skills'?",
-  "options": [
-   "Give a professional presentation and stimulate discussion, comparing and contrasting key issues",
-   "Explain the five key themes of the module",
-   "Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT",
-   "Appreciate complexities of, criticise and contribute to discussions lead by others"
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "The skills outcomes include \"Give a professional presentation and stimulate discussion, comparing and contrasting key issues\" and \"Critically appraise and evaluate own and other's work\".",
-  "source": "Lecture 1 slide 7",
-  "flag": ""
- },
- {
-  "id": "w01-024",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "Which learning outcome is listed under 'Knowledge and understanding'?",
-  "options": [
-   "Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT",
-   "Critically appraise and evaluate own and other's work",
-   "Give a professional presentation and stimulate discussion, comparing and contrasting key issues",
-   "Understand where to go for more information on canvas"
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "Knowledge and Understanding outcome 1 is 'Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT.'",
-  "source": "Lecture 1 slide 6",
-  "flag": ""
- },
- {
-  "id": "w01-025",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "multi",
-  "q": "Why should I care about professional issues? Which of the following does the module give as reasons?",
-  "options": [
-   "You may need to design systems that avoid regulation",
-   "You need to know where to go for further advice",
-   "You may need to assert your own rights",
-   "You will be personally liable for every system failure",
-   "You may need to advise others as to what is legal (or illegal)"
-  ],
-  "answer": [
-   1,
-   2,
-   4
-  ],
-  "explain": "Under \"Why should I care?\", you may need to advise others as to what is legal or illegal, assert your own rights, and know where to go for further advice.",
-  "source": "Lecture 1 slide 9",
-  "flag": ""
- },
- {
-  "id": "w01-026",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "multi",
-  "q": "The module takes a 'Computer Scientist viewpoint throughout'. Which of the following does the slide list under this viewpoint?",
-  "options": [
-   "Modeling",
-   "Evidence",
-   "Critical evaluation",
-   "Prediction",
-   "Research",
-   "Marketing",
-   "Compliance and best practice"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3,
-   4,
-   6
-  ],
-  "explain": "The Computer Scientist viewpoint covers research, evidence, critical evaluation, modeling, prediction, and compliance and best practice.",
-  "source": "Lecture 1 slide 15",
-  "flag": ""
- },
- {
-  "id": "w01-027",
-  "week": 1,
-  "topic": "Introduction",
-  "type": "single",
-  "q": "Which statement below is NOT correct about how you are going to work on this module?",
-  "options": [
-   "Students work individually without using resources on Canvas",
-   "Collaborative working includes discussion and presentations with fellow students",
-   "A Computer Scientist viewpoint is used throughout",
-   "Compliance and best practice are part of the viewpoint",
-   "Collaborative working includes using resources on Canvas, reading etc."
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "Collaborative working means using resources on Canvas, reading etc. and working with fellow students through discussion and presentations.",
-  "source": "Lecture 1 slide 15",
-  "flag": ""
- },
- {
-  "id": "w01-028",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "What percentage of the module mark is the in-class test (Component 1)?",
-  "options": [
-   "40%",
-   "80%",
-   "10%",
-   "20%",
-   "30%"
-  ],
-  "answer": [
-   3
-  ],
-  "explain": "Component 1 is a one hour in class test worth 20%, held in the week 10 lecture.",
-  "source": "Seminar 1 slide 10",
-  "flag": "The slide says the in-class test is one hour in the week 10 lecture, but the real test is described as 50 minutes."
- },
- {
-  "id": "w01-029",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "Which statement below is NOT correct about the module assessment?",
-  "options": [
-   "The individual report carries an appendix of 400-500 words",
-   "The report is submitted via Canvas",
-   "The in-class test is in the week 10 lecture",
-   "The individual report is worth 20% and the in-class test 80%",
-   "The individual report is 2000 words"
-  ],
-  "answer": [
-   3
-  ],
-  "explain": "Component 1 is the in-class test at 20%. Component 2 is the Individual Report of 2000 words at 80%, plus a 400-500 word appendix, submitted via Canvas.",
-  "source": "Seminar 1 slide 10",
-  "flag": "The slide says the in-class test is one hour in the week 10 lecture, but the real test is described as 50 minutes."
- },
- {
-  "id": "w01-030",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "How long is the appendix that accompanies the 2000 word individual report?",
-  "options": [
-   "1000 words",
-   "500-1000 words",
-   "400-500 words",
-   "200-300 words",
-   "100-200 words"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "Component 2 is the Individual Report of 2000 words plus a 400-500 word appendix.",
-  "source": "Seminar 1 slide 10",
-  "flag": ""
- },
- {
-  "id": "w01-031",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "Which element of the individual report carries the largest share of the marks (before weighting)?",
-  "options": [
-   "Research and evidence presented (15%)",
-   "Content/breadth of topic, analysis and depth of argument (30%)",
-   "Overview/Introduction (15%)",
-   "Conclusion (10%)",
-   "Presentation (structure and flow) (15%)"
-  ],
-  "answer": [
-   1
-  ],
-  "explain": "Content, breadth of topic, analysis and depth of argument is worth 30%, and the other elements are worth 15% or less.",
-  "source": "Seminar 1 slide 11",
-  "flag": ""
- },
- {
-  "id": "w01-032",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "multi",
-  "q": "Which of the following mark allocations for the individual report (before weighting) are correct?",
-  "options": [
-   "Conclusion 10%",
-   "Research and evidence presented 30%",
-   "Overview/Introduction 15%",
-   "Research and evidence presented 15%",
-   "Conclusion 15%",
-   "Presentation (structure and flow) 15%",
-   "Three issues, 3 x 5%"
-  ],
-  "answer": [
-   0,
-   2,
-   3,
-   5,
-   6
-  ],
-  "explain": "The slide gives Overview and Introduction 15%, THREE issues at 3 x 5%, Content and breadth 30%, Research and evidence 15%, Presentation 15% and Conclusion 10%.",
-  "source": "Seminar 1 slide 11",
-  "flag": ""
- },
- {
-  "id": "w01-033",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "multi",
-  "q": "Which of the following were listed as some of last year's report topics?",
-  "options": [
-   "Wikileaks and the freedom of Information",
-   "Should social media be banned for children?",
-   "Should cryptocurrencies be regulated?",
-   "Internet Free Speech",
-   "Effects of Linking Accounts",
-   "Autonomous Vehicles: Friend or Foe?",
-   "Open source versus commercial software"
-  ],
-  "answer": [
-   0,
-   2,
-   3,
-   4,
-   5
-  ],
-  "explain": "Slide lists these five among last year's topics.",
-  "source": "Seminar 1 slide 12",
-  "flag": ""
- },
- {
-  "id": "w01-034",
-  "week": 1,
-  "topic": "Professional learning",
-  "type": "multi",
-  "q": "Which of the following are recommended professional learning and activities?",
-  "options": [
-   "Use open source software instead of commercial software",
-   "Use Latex (e.g. Overleaf) instead of MS Word for reports",
-   "Use a Unix based OS instead of Windows (SysAdmins, Programmers)",
-   "Use MS Word instead of Latex",
-   "Create a LinkedIn profile",
-   "Avoid sharing source code publicly",
-   "Create a GitHub profile and share your source code"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   4,
-   6
-  ],
-  "explain": "The recommended activities are a LinkedIn or ResearchGate profile, a GitHub profile, Latex instead of MS Word, a Unix based OS and open source software.",
-  "source": "Seminar 1 slide 14",
-  "flag": ""
- },
- {
-  "id": "w01-035",
-  "week": 1,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "Is the following statement correct? The individual report is a 2000 word report on the topic of your choice.",
-  "options": [
-   "Correct",
-   "Not correct"
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "The slide says \"2000 word report on the topic of your choice.\"",
-  "source": "Seminar 1 slide 11",
   "flag": ""
  },
  {
@@ -820,7 +411,7 @@
   "week": 1,
   "topic": "GDPR scope",
   "type": "single",
-  "q": "Is the following statement correct? Under the GDPR, the processor says how and why personal data is processed, and the controller acts on the processor's behalf.",
+  "q": "Is the following statement correct?\n\n\"Under the GDPR, the processor says how and why personal data is processed, and the controller acts on the processor's behalf.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -924,7 +515,7 @@
   "week": 1,
   "topic": "Lawful basis",
   "type": "single",
-  "q": "Is the following statement correct? The legitimate interests condition is available to processing carried out by public authorities in the performance of their tasks.",
+  "q": "Is the following statement correct?\n\n\"The legitimate interests condition is available to processing carried out by public authorities in the performance of their tasks.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -984,7 +575,7 @@
   "week": 1,
   "topic": "Children",
   "type": "single",
-  "q": "Is the following statement correct? Parental/guardian consent is not required where the processing is related to preventative or counselling services offered directly to a child.",
+  "q": "Is the following statement correct?\n\n\"Parental/guardian consent is not required where the processing is related to preventative or counselling services offered directly to a child.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -1167,7 +758,7 @@
   "week": 1,
   "topic": "Right to erasure",
   "type": "single",
-  "q": "Is the following statement correct? The right to erasure is an absolute right to be forgotten.",
+  "q": "Is the following statement correct?\n\n\"The right to erasure is an absolute right to be forgotten.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -1297,7 +888,7 @@
   "week": 1,
   "topic": "Right to object",
   "type": "single",
-  "q": "Is the following statement correct? An organisation may refuse an objection to direct marketing if it can show compelling legitimate grounds.",
+  "q": "Is the following statement correct?\n\n\"An organisation may refuse an objection to direct marketing if it can show compelling legitimate grounds.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -1536,7 +1127,7 @@
   "week": 1,
   "topic": "Breach notification",
   "type": "single",
-  "q": "Is the following statement correct? Individuals must be notified directly of a breach where it is likely to result in a high risk to their rights and freedoms.",
+  "q": "Is the following statement correct?\n\n\"Individuals must be notified directly of a breach where it is likely to result in a high risk to their rights and freedoms.\"",
   "options": [
    "Correct",
    "Not correct"

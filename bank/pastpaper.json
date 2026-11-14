@@ -1,0 +1,834 @@
+[
+ {
+  "id": "pp-01",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "Sensitive data needs extra care and higher security.",
+   "Sensitive data shall be processed to protect the vital interests of the data subject, where consent cannot be given or withheld.",
+   "Sensitive data doesn’t need higher security if it is for medical purposes, undertaken by a health professional.",
+   "Sensitive data needs extra care for racial or ethical monitoring."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Under Principle 1, sensitive data needs extra care and higher security in every listed case, medical purposes included.",
+  "source": "Lecture 2 slide 13",
+  "flag": ""
+ },
+ {
+  "id": "pp-02",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Does Data Protection Act 2018 include GDPR, which gives member states limited opportunities on how this applies to individual countries?",
+  "options": [
+   "Yes, DP Act includes.",
+   "No, DP Act doesn’t include."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The DPA 2018 slide says “This includes GDPR”, and that the DPA 2018 takes care of the limited opportunities GDPR gives member states.",
+  "source": "Lecture 2 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "pp-03",
+  "week": 0,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "What are the five key areas of professional issues in computing and society?",
+  "options": [
+   "Data protection, social issues, computer crime, freedom of information, and ethical issues.",
+   "Legal issues, social issues, ethical issues, systems and professional issues.",
+   "Freedom of speech, equality, social impact, computer misuse, and social implications.",
+   "Legal issues, technology trends, digital divide, ethical issues, and professional issues."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The five key areas of the module are Legal, Social, Ethical, Systems and Professional.",
+  "source": "Lecture 1, “5 key areas of this module”",
+  "flag": ""
+ },
+ {
+  "id": "pp-04",
+  "week": 0,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "How many levels of offences are there in Computer Misuse Act 1990 (CMA 1990)?",
+  "options": [
+   "4 levels.",
+   "3 levels.",
+   "5 levels.",
+   "7 levels."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The penalties slide gives three offences with rising penalties. Section 1 carries 2 years, section 2 carries 5 years and section 3 carries 10 years.",
+  "source": "Lecture 4 (CMA) slides 10 and 12",
+  "flag": "The key of 3 comes from the penalties slide. Slide 10 lists five sections, which are 1, 2, 3, 3ZA and 3A, so 5 is arguable. Worth asking the tutor."
+ },
+ {
+  "id": "pp-05",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "Personal data shall be adequate in relation to the purposes for which they are processed.",
+   "Personal data shall be relevant in relation to the purposes for which they are processed.",
+   "Personal data could be excessive in relation to the purposes for which they are processed.",
+   "Personal data shall be kept up to date where necessary."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Principle 3 says personal data shall be adequate, relevant and not excessive. Principle 4 covers accurate and up to date.",
+  "source": "Lecture 2 slides 15-16",
+  "flag": ""
+ },
+ {
+  "id": "pp-06",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct?\n\n\"Personal data shall not be transferred to a country outside the EEA unless that country ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.\"",
+  "options": [
+   "Correct.",
+   "Not correct."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "This is Principle 8, Transfer Abroad, word for word.",
+  "source": "Lecture 2 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "pp-07",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "Personal data shall be processed fairly and lawfully with consent.",
+   "Personal data shall be processed to protect the vital interests of the data subject.",
+   "Personal data shall not be processed to carry out public function under statutory powers.",
+   "Personal data shall be processed under a legal obligation."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Principle #1 lists “carry out public function under statutory powers” as a lawful ground, so “shall not” is wrong.",
+  "source": "Lecture 2 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "pp-08",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "single",
+  "q": "Which party holds the right to access information in the course of their carrying out public functions?",
+  "options": [
+   "The members of the local public.",
+   "Public authorities.",
+   "Data controllers.",
+   "Local police.",
+   "Information Commissioner’s Office."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The FOI Act 2000 gives \"the right to access information held by public authorities, in the course of their carrying out public functions\". The public functions belong to the public authorities.",
+  "source": "Lecture 3 slide 8",
+  "flag": "The question is badly worded. Public authorities hold the information and carry out the public functions. The right to request it belongs to any member of the public. The key is public authorities because of the phrase \"their carrying out public functions\". Worth asking the tutor."
+ },
+ {
+  "id": "pp-09",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Where a data controller wants to offer online information services to a child under 16 on the basis of consent, the data controller cannot do so unless:",
+  "options": [
+   "It has the authorisation of the child’s school headmaster.",
+   "It has the authorisation of their parent or guardian.",
+   "The data subject has given their written consent.",
+   "The content is child friendly."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Under the GDPR, consent for online services offered to a child under 16 needs authorisation from a parent or guardian.",
+  "source": "Week 1 reading: ICO overview of the GDPR",
+  "flag": ""
+ },
+ {
+  "id": "pp-10",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "single",
+  "q": "The DPA 2018 and FOI 2000 are supervised by which government body?",
+  "options": [
+   "Information Commissioner’s Office.",
+   "The parliament.",
+   "The police.",
+   "The local councils."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The ICO enforces the DPA and supervises the FOI Act.",
+  "source": "Lecture 2 slide 9; Lecture 3 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "pp-11",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "single",
+  "q": "Is the following statement correct?\n\n\"If the public interest in disclosure outweighs the public interest of maintaining an exemption to disclosure, the ICO may rule that material has to be disclosed.\"",
+  "options": [
+   "Yes, this statement is correct.",
+   "No, this statement is not correct.",
+   "It is partially correct."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "This is the \"statutory right of access\" slide. It says the information commissioner may rule that material has to be disclosed.",
+  "source": "Lecture 3 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "pp-12",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which of the following is ICO responsible to enforce?",
+  "options": [
+   "U.S. DPA 1974.",
+   "GDPR 2016.",
+   "U.S. COPPA.",
+   "DPA 2018."
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "The ICO is the UK body that enforces the Data Protection Act.",
+  "source": "Lecture 2 slide 9; Lecture 3 slide 18",
+  "flag": "The CMA lecture also says you report a DPA/GDPR breach to the ICO, so GDPR 2016 is defensible. DPA 2018 is the safest single answer."
+ },
+ {
+  "id": "pp-13",
+  "week": 0,
+  "topic": "Law, Ethics and Policy",
+  "type": "single",
+  "q": "Which of the following statement is correct?",
+  "options": [
+   "Law is not drawn from ethics.",
+   "Ethics define socially acceptable behaviours.",
+   "Ethics carry the authority of a governing body.",
+   "Laws come from moral attitudes or customs."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Ethics define socially acceptable behaviours and come from moral attitudes or customs. Laws are drawn from ethics and carry the authority of a governing body.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "pp-14",
+  "week": 0,
+  "topic": "Law, Ethics and Policy",
+  "type": "single",
+  "q": "Which of the following statement about Information Technology is correct?",
+  "options": [
+   "Ignoring a policy is not acceptable.",
+   "Law gives guidelines that describe acceptable and unacceptable behaviour.",
+   "Policy has penalties for non-compliance.",
+   "Law gives the guidelines that describe acceptable and unacceptable behaviour."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "A policy is guidelines that describe acceptable and unacceptable behaviour, with penalties for non-compliance. The slide says ignoring a policy is acceptable and ignoring a law is unacceptable.",
+  "source": "Lecture 4 (CMA) slide 5",
+  "flag": "Two options on the printed paper are the same statement. The slide really does say “ignoring a policy is acceptable”."
+ },
+ {
+  "id": "pp-15",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is correct?",
+  "options": [
+   "Personal data shall be obtained for only one specified purpose.",
+   "Personal data shall be obtained for only one lawful purpose.",
+   "Personal data shall not be further processed in any manner incompatible with the specified purposes.",
+   "Personal data shall not be processed in multiple purposes; and shall not be further processed in any manner incompatible with the specified purpose(s)."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Principle 2 says personal data is obtained only for one or more specified and lawful purposes, and is not further processed in any manner incompatible with them.",
+  "source": "Lecture 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "pp-16",
+  "week": 0,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which of the following statements is correct about NIST?",
+  "options": [
+   "It is a non-regulatory UK agency.",
+   "It reports a DPA/GDPR breach.",
+   "It is an independent non-government organisation.",
+   "It tests and sets standards for technology including security."
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "NIST is a non-regulatory US agency that tests and sets standards for technology including security.",
+  "source": "Lecture 4 (CMA) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "pp-17",
+  "week": 0,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Government Communications Head Quarters has the responsibility to:",
+  "options": [
+   "Defend Government system from cyber threat.",
+   "Protect UK critical services from cyber threat.",
+   "Respond to threats.",
+   "Work with regional police units to prevent cyber threat."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "GCHQ protects the UK and defends Government systems from cyber threat. Protecting critical services is the NCSC's job, and responding to threats is the NCCU's.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "pp-18",
+  "week": 0,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which of the following professional body is to collaborate with Regional Organised Crime Units to reduce cybercrime?",
+  "options": [
+   "National Cyber Security Centre",
+   "Government Communications Head Quarters",
+   "National Cyber Crime Unit",
+   "Information Commissioner’s Office"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The NCCU is part of the NCA, works with ROCUs, and collaborates with partners to reduce cyber crime.",
+  "source": "Lecture 4 (CMA) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "pp-19",
+  "week": 0,
+  "topic": "PCI DSS",
+  "type": "single",
+  "q": "Which of the following does PCI DSS set out ways to do?",
+  "options": [
+   "Use anti-virus software but cannot update regularly.",
+   "Securely transfer card holders’ data.",
+   "Use vendor-supplied defaults for security parameters.",
+   "Protect customer’s network."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "PCI DSS sets out ways to protect card holder data, securely transfer card holder data, and monitor your own network.",
+  "source": "Lecture 4 (CMA) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "pp-20",
+  "week": 0,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which government body’s main responsibility is to protect UK critical services from cyber attacks?",
+  "options": [
+   "Government Communications Head Quarters",
+   "National Cyber Security Centre",
+   "National Cyber Crime Unit",
+   "Information Commissioner’s Office"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The NCSC protects UK critical services from cyber attacks, manages major incidents and improves the security of the UK Internet.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "pp-21",
+  "week": 0,
+  "topic": "PCI DSS",
+  "type": "multi",
+  "q": "PCI DSS was a result of collaboration between credit card companies. This standard sets out ways to:",
+  "options": [
+   "build and maintain a secure network.",
+   "maintain a vulnerability management programme.",
+   "protect cardholder data",
+   "regularly monitor and test networks",
+   "implement strong access control measures."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five are headings of the PCI DSS requirements. The sixth is maintain an information security policy.",
+  "source": "Lecture 4 (CMA) slides 17-18",
+  "flag": ""
+ },
+ {
+  "id": "pp-22",
+  "week": 0,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "What are the main challenges in prosecuting crimes against CMA?",
+  "options": [
+   "proving intent or malicious intent.",
+   "proving the serious damage.",
+   "proving access was unauthorized.",
+   "proving the impairment of the computer/website/systems.",
+   "proof of offence, for example: logs/audit trails"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explain": "The slide lists proving that access was unauthorised for section 1, proving intent for section 2 or malicious intent for section 3, proof of offence such as logs and audit trails, and proof that the defendant was the perpetrator.",
+  "source": "Lecture 4 (CMA) slide 15",
+  "flag": "Serious damage and impairment are not on the slide, so they are keyed as wrong."
+ },
+ {
+  "id": "pp-23",
+  "week": 0,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "“Hacking” may be an offence against which of the following?",
+  "options": [
+   "DPA 1998.",
+   "CMA 1990.",
+   "Contract of employment.",
+   "RIPA 2000."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Slide 11 names the CMA 1990, the DPA 1998, and other legislation or a contract of employment. Slide 8 lists RIPA 2000 next to hacking under cyber-dependent crimes.",
+  "source": "Lecture 4 (CMA) slides 8 and 11",
+  "flag": "RIPA 2000 is not named on slide 11. It is keyed correct through “other legislation” and slide 8. Worth asking the tutor."
+ },
+ {
+  "id": "pp-24",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Personal data shall be processed in relation to the right of data subjects under the Data Protection Act 2018. But there are some exemptions. Please choose which of the following are exemptions:",
+  "options": [
+   "National security.",
+   "Where another statute authorises disclosure.",
+   "Prevention and detection of the crime.",
+   "Journalistic, literature or artistic purposes.",
+   "Personal, domestic and recreational usage."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five are the exemptions on the slide.",
+  "source": "Lecture 2 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "pp-25",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "multi",
+  "q": "Under Freedom of Information Act 2000, what type of information are covered as recorded information?",
+  "options": [
+   "Computer files.",
+   "Letters.",
+   "Emails.",
+   "Video recordings.",
+   "Photographs.",
+   "Printed documents.",
+   "People’s own personal data including their credit reference file."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Recorded information covers printed documents, computer files, letters, emails, photographs, and sound or video recordings. The Act does not give people access to their own personal data such as health records or a credit reference file.",
+  "source": "Lecture 3 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "pp-26",
+  "week": 0,
+  "topic": "PCI DSS",
+  "type": "multi",
+  "q": "Which of the following scenarios does the PCI DSS cover?",
+  "options": [
+   "Securely transfer card holder data.",
+   "Monitor your own network.",
+   "Keep card holder data for security reasons.",
+   "Check and monitor card holder’s credit record.",
+   "Use vendor-supplied defaults for system passwords and other security parameters.",
+   "Use and regularly update anti-virus software.",
+   "Regularly test security systems and processes."
+  ],
+  "answer": [
+   0,
+   1,
+   5,
+   6
+  ],
+  "explain": "PCI DSS says do NOT use vendor-supplied defaults. Keeping card data and checking credit records are not on the slides.",
+  "source": "Lecture 4 (CMA) slides 16-18",
+  "flag": ""
+ },
+ {
+  "id": "pp-27",
+  "week": 0,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which of the following are considered as cyber-enabled crime?",
+  "options": [
+   "IP theft.",
+   "Offensive communication on social media.",
+   "Cyberstalking.",
+   "Illicit intrusion into computer networks or disrupting a service.",
+   "Online marketplaces for illegal items such as drugs."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": "Illicit intrusion or disrupting a service is cyber-dependent crime. The rest are on the cyber-enabled slide.",
+  "source": "Lecture 4 (CMA) slides 8-9",
+  "flag": ""
+ },
+ {
+  "id": "pp-28",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "DPA Principle #1 states that personal data shall be processed fairly and lawfully. Which of the following are included in Principle #1?",
+  "options": [
+   "personal data shall be processed fairly and lawfully to perform a contract with individual.",
+   "personal data shall be processed fairly and lawfully to protect the vital interests of the data subjects.",
+   "personal data shall be processed fairly and lawfully to carry out public functions under statutory powers",
+   "personal data shall be processed fairly and lawfully to be transferred outside the EEA.",
+   "personal data shall be processed fairly and lawfully to be kept for as long as necessary for the purpose(s) it is processed."
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "Transfer outside the EEA is Principle #8 and retention is Principle #5.",
+  "source": "Lecture 2 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "pp-29",
+  "week": 0,
+  "topic": "Privacy and Human Rights",
+  "type": "multi",
+  "q": "What aspects does Human Rights Act 1998 mainly cover?",
+  "options": [
+   "Compels public organisations to treat everyone equally, with fairness, dignity, and respect.",
+   "Allows you to request information from government departments and other public bodies and committees.",
+   "Allows you to defend your rights in UK courts.",
+   "Allows you to request information from the police."
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "explain": "Requesting information from public bodies and the police is the FOI Act 2000.",
+  "source": "Lecture 3 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "pp-30",
+  "week": 0,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which professional bodies are responsible to prevent cyber threat and reduce cybercrime?",
+  "options": [
+   "National Cyber Crime Unit.",
+   "National Crime Agency.",
+   "Information Commissioner Office.",
+   "Government Communications Head Quarters."
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explain": "The NCCU is part of the NCA, responds to threats and reduces cyber crime. GCHQ defends Government systems from cyber threat. The ICO is the data protection authority.",
+  "source": "Lecture 4 (CMA) slides 22-24",
+  "flag": "NCA is keyed correct because the NCCU is part of it. The slide gives the NCA no job description of its own."
+ },
+ {
+  "id": "pp-31",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "multi",
+  "q": "Under Freedom of Information Act 2000, which of the following are public authority’s obligations?",
+  "options": [
+   "Duty to be told whether information held or not.",
+   "Duty to advise and assist requestor in formulating requests.",
+   "All public authorities must publish and update a publication scheme showing what information is already available and where it might be found/accessed.",
+   "Must supply information within 30 working days unless more time needed to consider public interest test possible exemption."
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "The limit is 20 working days, not 30.",
+  "source": "Lecture 3 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "pp-32",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "multi",
+  "q": "Under Freedom of Information Act 2000, which of the following are considered as ABSOLUTE exemptions?",
+  "options": [
+   "Advice to ministers.",
+   "Prevention, detection crime.",
+   "Law enforcement.",
+   "Judicial (at court’s discretion).",
+   "National security.",
+   "Health and safety."
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Law enforcement and health and safety are QUALIFIED exemptions on the slide.",
+  "source": "Lecture 3 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "pp-33",
+  "week": 0,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Personal data shall be processed in relation to the rights of data subjects under the DPA Principle #6. Which of the following does Data subject have the right to?",
+  "options": [
+   "request an assessment if DPA is being complied with.",
+   "prevent processing which causes substantial damage or substantial distress.",
+   "not to receive direct marketing.",
+   "access any data held on data subject.",
+   "know the purposes for which personal data held."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five are rights listed under Principle #6.",
+  "source": "Lecture 2 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "pp-34",
+  "week": 0,
+  "topic": "Freedom of Information",
+  "type": "multi",
+  "q": "Under the Freedom of Information Act 2000, from which parties can you request information?",
+  "options": [
+   "Schools, colleges, and universities.",
+   "Health trusts, hospitals, and doctor’s surgeries.",
+   "Privately owned companies.",
+   "The police.",
+   "Privately funded museum.",
+   "Parliament."
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   5
+  ],
+  "explain": "The slide lists publicly owned companies and publicly funded museums, not private ones.",
+  "source": "Lecture 3 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "pp-35",
+  "week": 0,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which of the following statements are correct?",
+  "options": [
+   "Under CMA 1990, penetration testing could be using hardware or software ‘hacking’ or any mix.",
+   "Under CMA 1990, if a penetration testing will be conducted in a university, it is important to inform the university staff well in advance.",
+   "Under CMA 1990, Penetration testing only allows authorised person to gain access to computer systems and data.",
+   "White hat attackers can break into networks or computer systems without authority’s permission to discover the weakness to improve the security of these systems."
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "explain": "Penetration testing is where an AUTHORISED person attempts access, using hardware/software hacking, social engineering or any mix, with only VERY limited need-to-know within the organisation. Telling staff in advance breaks that.",
+  "source": "Lecture 4 (CMA) slides 13-14",
+  "flag": ""
+ },
+ {
+  "id": "pp-36",
+  "week": 0,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What are the causes of system failures?",
+  "options": [
+   "Faulty hardware.",
+   "Poor fit between system and organisation.",
+   "Incorrect assumptions.",
+   "Poor development practice.",
+   "Poor user interface."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "These are five of the six causes on the slide. The sixth is inadequate user training, or user error.",
+  "source": "Lecture 5 slide 10",
+  "flag": "The printed paper says “Faculty hardware”, a typo for faulty."
+ },
+ {
+  "id": "pp-37",
+  "week": 0,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What actions could reduce or prevent system failures?",
+  "options": [
+   "Rigorous testing.",
+   "Multiple backups using similar systems/hardware/software.",
+   "Graceful degradation on failure of sub-system.",
+   "Rigorous external independent oversight specification and design."
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Safety critical systems use multiple backups with DISSIMILAR systems/hardware/software.",
+  "source": "Lecture 5 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "pp-38",
+  "week": 0,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What would be the main reasons for system failure?",
+  "options": [
+   "People not following procedures.",
+   "Organisational culture, such as unreasonable deadlines.",
+   "Project scale is too large.",
+   "No clear responsibility for dealing with failure."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "The slide's reasons for failure are people, organisational culture, no clear responsibility for dealing with failure, and large projects having a momentum of their own.",
+  "source": "Lecture 5 slide 20",
+  "flag": "“Project scale is too large” is keyed correct from “large projects have a momentum of their own”. The wording differs, so this one is less certain."
+ },
+ {
+  "id": "pp-39",
+  "week": 0,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "What should you do before you make an ethical decision?",
+  "options": [
+   "list the consequences of the actions.",
+   "Identify the stakeholders.",
+   "define the areas of potential conflict.",
+   "clearly identify all the facts.",
+   "List all options."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five steps are on the slide. Their order is facts, conflict, stakeholders, options, consequences.",
+  "source": "Lecture 6 slide 8",
+  "flag": ""
+ },
+ {
+  "id": "pp-40",
+  "week": 0,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "What are the main responsibilities of an ethical consultant in IT?",
+  "options": [
+   "takes assignments only in those fields where they can confidently predict that they can help their clients.",
+   "is professionally qualified in these areas and keeps up their CPD.",
+   "has professional indemnity and public liability insurance as necessary.",
+   "supports their professional body with their time or ‘pro bono’ consulting as appropriate."
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "All four are on the slide, which also lists mentoring junior consultants and subscribing to a professional body with a code of conduct.",
+  "source": "Lecture 6 slide 21",
+  "flag": ""
+ }
+]

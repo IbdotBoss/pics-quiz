@@ -80,7 +80,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? Personal Data shall not be transferred to a country outside the EEA unless that country ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.",
+  "q": "Is the following statement correct?\n\n\"Personal Data shall not be transferred to a country outside the EEA unless that country ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -97,7 +97,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? Personal data shall be adequate, relevant and excessive in relation to the purposes for which they are processed.",
+  "q": "Is the following statement correct?\n\n\"Personal data shall be adequate, relevant and excessive in relation to the purposes for which they are processed.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -114,7 +114,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? Personal data shall be obtained for one or more specified and lawful purposes, and may be further processed in any manner the controller chooses.",
+  "q": "Is the following statement correct?\n\n\"Personal data shall be obtained for one or more specified and lawful purposes, and may be further processed in any manner the controller chooses.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -131,7 +131,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? Putting personal data on the internet counts as a world-wide transfer.",
+  "q": "Is the following statement correct?\n\n\"Putting personal data on the internet counts as a world-wide transfer.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -224,7 +224,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "According to the lecture, in which year was the Data Protection Act first passed?",
+  "q": "In which year was the Data Protection Act first passed?",
   "options": [
    "1994",
    "1998",
@@ -243,7 +243,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "In what year is the General Data Protection Regulation dated in the lecture?",
+  "q": "In what year is the General Data Protection Regulation dated?",
   "options": [
    "1998",
    "2018",
@@ -262,7 +262,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Which Act is dated 1990 in the lecture's list of IT law?",
+  "q": "Which of these Acts dates from 1990?",
   "options": [
    "Data Protection Act",
    "Computer Misuse Act (CMA)",
@@ -281,7 +281,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Which year is given for the Freedom of Information Act in the lecture?",
+  "q": "In which year was the Freedom of Information Act passed?",
   "options": [
    "2018",
    "1990",
@@ -338,7 +338,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Which of the following is NOT an exemption listed in the lecture?",
+  "q": "Which of the following is NOT an exemption under the Data Protection Act?",
   "options": [
    "National security",
    "Journalistic, literature or artistic purposes",
@@ -395,7 +395,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "In the lecture, what does 'compliance' mean?",
+  "q": "In data protection, what does 'compliance' mean?",
   "options": [
    "Registering annually with the ICO",
    "Just enough to comply with the law",
@@ -433,7 +433,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? GDPR has extraterritorial effect, so any UK company doing business with the EU will still need to comply.",
+  "q": "Is the following statement correct?\n\n\"GDPR has extraterritorial effect, so any UK company doing business with the EU will still need to comply.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -450,7 +450,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "Is the following statement correct? After Brexit, UK companies doing business with the EU no longer need to comply with GDPR.",
+  "q": "Is the following statement correct?\n\n\"After Brexit, UK companies doing business with the EU no longer need to comply with GDPR.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -463,30 +463,11 @@
   "flag": ""
  },
  {
-  "id": "w02-026",
-  "week": 2,
-  "topic": "Data Protection",
-  "type": "single",
-  "q": "Where is the Information Commissioner's Office based, according to the lecture?",
-  "options": [
-   "Manchester",
-   "Cambridge",
-   "London",
-   "Wilmslow, Cheshire"
-  ],
-  "answer": [
-   3
-  ],
-  "explain": "The ICO address is Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.",
-  "source": "Lecture 2 slide 25",
-  "flag": ""
- },
- {
   "id": "w02-027",
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "What penalty does the lecture say you face if you are not exempt and don't follow the law?",
+  "q": "What happens if you are not exempt and do not follow data protection law?",
   "options": [
    "You will be penalised (fines/imprisonment)",
    "Temporary suspension from the Register",
@@ -562,7 +543,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "single",
-  "q": "How does the lecture describe the data covered by the DPA 1998?",
+  "q": "Which data does the DPA 1998 cover?",
   "options": [
    "Only manual records",
    "Personal data held or processed in automated form AND some manual records",
@@ -818,7 +799,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "multi",
-  "q": "Which of the following appear in the lecture's list of IT law?",
+  "q": "Which of the following are part of I.T. law?",
   "options": [
    "Data Protection Act",
    "Intellectual Property Law",
@@ -844,7 +825,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "multi",
-  "q": "Which are direct mail opt-out services named in the lecture?",
+  "q": "Which of these are direct mail opt-out services?",
   "options": [
    "Email Preference service",
    "Telephone Preference service",
@@ -862,36 +843,11 @@
   "flag": ""
  },
  {
-  "id": "w02-044",
-  "week": 2,
-  "topic": "Data Protection",
-  "type": "multi",
-  "q": "By the end of the lesson, you should be able to do which of the following?",
-  "options": [
-   "describe the obligations of Data Controllers",
-   "describe the EIGHT data protection principles",
-   "recall data protection definitions",
-   "outline data protection exemptions",
-   "describe the Computer Misuse Act offences",
-   "outline the scope of the Data Protection Act 2018"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3,
-   5
-  ],
-  "explain": "Learning objectives slide.",
-  "source": "Lecture 2 slide 3",
-  "flag": ""
- },
- {
   "id": "w02-045",
   "week": 2,
   "topic": "Data Protection",
   "type": "multi",
-  "q": "According to the lecture, what do the data protection laws outline?",
+  "q": "What do the data protection laws outline?",
   "options": [
    "the rights you have about your data",
    "the 'privacy' you can expect around data storage",
@@ -986,7 +942,7 @@
   "week": 2,
   "topic": "Data Protection",
   "type": "multi",
-  "q": "Which statements about SPAM in the lecture are correct?",
+  "q": "Which statements about SPAM are correct?",
   "options": [
    "SPAM might also fall into the DPA 2018",
    "PECR is regulated by the ICO",
@@ -1026,35 +982,11 @@
   "flag": ""
  },
  {
-  "id": "w02-051",
-  "week": 2,
-  "topic": "Data Protection",
-  "type": "multi",
-  "q": "Why does the lecture say you should be interested in data protection?",
-  "options": [
-   "You need to know where to go for further advice",
-   "You may need to assert your own rights",
-   "It is law",
-   "You may need to apply it to your final project, e.g. software or surveys",
-   "You may need to advise others as to what is legal or illegal"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3,
-   4
-  ],
-  "explain": "Slide 4 lists all five.",
-  "source": "Lecture 2 slide 4",
-  "flag": ""
- },
- {
   "id": "w02-052",
   "week": 2,
   "topic": "Data Protection",
   "type": "multi",
-  "q": "In which years was the Data Protection Act enacted or updated according to the lecture's history of the Act?",
+  "q": "In which years was the Data Protection Act passed or updated?",
   "options": [
    "1998",
    "2016",
@@ -1118,89 +1050,6 @@
   "flag": ""
  },
  {
-  "id": "w02-055",
-  "week": 2,
-  "topic": "Cambridge Analytica seminar",
-  "type": "multi",
-  "q": "The seminar asks for the impacts on 5 categories of issues. Which of these are the categories?",
-  "options": [
-   "Ethical",
-   "Financial",
-   "Environmental",
-   "Social",
-   "Legal",
-   "Professional",
-   "Systems"
-  ],
-  "answer": [
-   0,
-   3,
-   4,
-   5,
-   6
-  ],
-  "explain": "The seminar asks for impacts on 5 categories of issues, which are Ethical, Legal, Social, Professional and Systems.",
-  "source": "Seminar 2 slide 3",
-  "flag": ""
- },
- {
-  "id": "w02-056",
-  "week": 2,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "What weighting does the in-class test carry in the module assessment?",
-  "options": [
-   "10%",
-   "30%",
-   "20%",
-   "50%"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "Element 010 Part 1, the in-class test, is worth 20%, and Part 2, the individual report, is worth 80%.",
-  "source": "Seminar 2 slide 14",
-  "flag": ""
- },
- {
-  "id": "w02-057",
-  "week": 2,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "How long is the individual report and how much is it worth?",
-  "options": [
-   "2000 words, 80%",
-   "2000 words, 50%",
-   "1500 words, 80%",
-   "3000 words, 20%"
-  ],
-  "answer": [
-   0
-  ],
-  "explain": "Element 010 Part 2 is the individual report of 2000 words, worth 80%.",
-  "source": "Seminar 2 slide 14",
-  "flag": ""
- },
- {
-  "id": "w02-058",
-  "week": 2,
-  "topic": "Assessment",
-  "type": "single",
-  "q": "When is the individual report due and how is it submitted?",
-  "options": [
-   "2pm Friday week 12 by post",
-   "2pm Friday week 12 via CANVAS",
-   "5pm Monday week 10 via email",
-   "midnight Sunday week 12 via CANVAS"
-  ],
-  "answer": [
-   1
-  ],
-  "explain": "Submission is via CANVAS at 2pm on Friday of week 12.",
-  "source": "Seminar 2 slide 14",
-  "flag": ""
- },
- {
   "id": "w02-059",
   "week": 2,
   "topic": "Cambridge Analytica seminar",
@@ -1239,34 +1088,11 @@
   "flag": ""
  },
  {
-  "id": "w02-061",
-  "week": 2,
-  "topic": "Assessment",
-  "type": "multi",
-  "q": "Which statements about the module assessment are correct?",
-  "options": [
-   "Part 2 is a 2000-word individual report worth 80%",
-   "Part 1 is an in-class test worth 20%",
-   "The report is submitted via CANVAS",
-   "It is one single graded assessment element (Element 010)",
-   "The report is submitted by email"
-  ],
-  "answer": [
-   0,
-   1,
-   2,
-   3
-  ],
-  "explain": "Slide 14.",
-  "source": "Seminar 2 slide 14",
-  "flag": ""
- },
- {
   "id": "w02-062",
   "week": 2,
   "topic": "Cambridge Analytica",
   "type": "single",
-  "q": "How many Facebook users' personally identifiable information was given to Cambridge Analytica, according to the article?",
+  "q": "How many Facebook users' personally identifiable information was given to Cambridge Analytica?",
   "options": [
    "More than 230 million",
    "More than 87 million",
@@ -1323,7 +1149,7 @@
   "week": 2,
   "topic": "Cambridge Analytica",
   "type": "single",
-  "q": "What does GSR stand for in the article?",
+  "q": "What does GSR stand for in the Cambridge Analytica case?",
   "options": [
    "General Social Research",
    "Global Science Research",
@@ -1362,7 +1188,7 @@
   "week": 2,
   "topic": "Cambridge Analytica",
   "type": "single",
-  "q": "Until when did the Facebook Open API give access to users' friends' data, according to the article?",
+  "q": "Until when did the Facebook Open API give access to users' friends' data?",
   "options": [
    "2011",
    "December 2015",

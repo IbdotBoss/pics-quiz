@@ -23,7 +23,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "In what year was the IET (Institution of Engineering and Technology) founded, according to the slides?",
+  "q": "In what year was the IET (Institution of Engineering and Technology) founded?",
   "options": [
    "1947",
    "1957",
@@ -42,7 +42,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "Approximately how many members does the IET have, according to the slides?",
+  "q": "Approximately how many members does the IET have?",
   "options": [
    "150,000",
    "50,000",
@@ -61,7 +61,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "Approximately how many members does the BCS have, according to the slides?",
+  "q": "Approximately how many members does the BCS have?",
   "options": [
    "75,000",
    "150,000",
@@ -80,7 +80,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "In what year was the IEEE founded, according to the slides?",
+  "q": "In what year was the IEEE founded?",
   "options": [
    "1947",
    "1946",
@@ -99,7 +99,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "In what year was the ACM founded, according to the slides, and about how many members does it have?",
+  "q": "In what year was the ACM founded, and about how many members does it have?",
   "options": [
    "1946, approx. 75,000 members",
    "1947, approx. 150,000 members",
@@ -118,7 +118,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "What does ACM stand for, as written on the slide?",
+  "q": "What does ACM stand for?",
   "options": [
    "American Council of Machinists",
    "Association of Computer Machinery",
@@ -137,7 +137,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "What does IEEE stand for, as written on the slide?",
+  "q": "What does IEEE stand for?",
   "options": [
    "International Electronics and Engineering Experts",
    "Institution of Engineering and Technology",
@@ -149,7 +149,7 @@
   ],
   "explain": "The slide writes IEEE as Institute for Electrical and Electronic Engineers.",
   "source": "Lecture 9 (Professionalism) slide 15",
-  "flag": ""
+  "flag": "The slide writes \"Institute for Electrical and Electronic Engineers\". The body's real name is the Institute of Electrical and Electronics Engineers."
  },
  {
   "id": "w09-009",
@@ -175,7 +175,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "How does the lecture define professionalism?",
+  "q": "What is professionalism?",
   "options": [
    "Having a legal duty to act in an emergency",
    "Holding letters after your name",
@@ -232,7 +232,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "Which of the following is listed by Bott (2014) as a profession?",
+  "q": "Which of the following does Bott (2014) describe as a profession?",
   "options": [
    "Electricians",
    "Plumbers",
@@ -270,7 +270,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "single",
-  "q": "How many main sections does the BCS Code of Conduct have on the slides?",
+  "q": "How many main sections does the BCS Code of Conduct have?",
   "options": [
    "Seven",
    "Five",
@@ -533,25 +533,6 @@
   "flag": ""
  },
  {
-  "id": "w09-029",
-  "week": 9,
-  "topic": "Professionalism",
-  "type": "single",
-  "q": "According to the slides, which is the closing guidance on health and safety?",
-  "options": [
-   "Always follow every rule literally",
-   "Leave it to the Authority",
-   "Common sense should prevail",
-   "Health and safety is optional for IT professionals"
-  ],
-  "answer": [
-   2
-  ],
-  "explain": "The Health and Safety slide ends with \"Common sense should prevail\".",
-  "source": "Lecture 9 (Professionalism) slide 25",
-  "flag": ""
- },
- {
   "id": "w09-030",
   "week": 9,
   "topic": "Professionalism",
@@ -629,7 +610,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which of the following are listed as results of having a profession?",
+  "q": "Which of the following are results of having a profession?",
   "options": [
    "Improved confidence of the public",
    "Safer supply of service to the public",
@@ -905,7 +886,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which are listed under 'Other Professional Bodies for IT'?",
+  "q": "Which of these are professional bodies for IT other than the BCS and the IET?",
   "options": [
    "IEEE",
    "CISCO",
@@ -929,7 +910,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which are listed as UK professional bodies for IT?",
+  "q": "Which are UK professional bodies for IT?",
   "options": [
    "IEEE",
    "IET",
@@ -950,7 +931,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which founding years are correct according to the slides?",
+  "q": "Which founding years are correct?",
   "options": [
    "BCS: 1957",
    "IEEE: 1946",
@@ -972,7 +953,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which founding years are correct according to the slides?",
+  "q": "Which founding years are correct?",
   "options": [
    "BCS: 2006",
    "IEEE: 1957",
@@ -993,7 +974,7 @@
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "How can you protect yourself as a professional, according to the slides?",
+  "q": "How can you protect yourself as a professional?",
   "options": [
    "Professional indemnity insurance",
    "CPD (Continuing Professional Development)",
@@ -1010,32 +991,11 @@
   "flag": ""
  },
  {
-  "id": "w09-049",
-  "week": 9,
-  "topic": "Professionalism",
-  "type": "multi",
-  "q": "When does the lecture say it matters that we are IT professionals?",
-  "options": [
-   "Only when working abroad",
-   "When we are designing safety critical systems",
-   "Only when handling payment card data",
-   "When we give advice",
-   "Only when working for the public sector"
-  ],
-  "answer": [
-   1,
-   3
-  ],
-  "explain": "Does it matter if we are IT professionals? What about when we give advice? What about when we are designing safety critical systems?",
-  "source": "Lecture 9 (Professionalism) slide 10",
-  "flag": ""
- },
- {
   "id": "w09-050",
   "week": 9,
   "topic": "Professionalism",
   "type": "multi",
-  "q": "Which of the following pairings of trade and professional are given in the lecture?",
+  "q": "Which pairings of trade and professional are correct?",
   "options": [
    "Plumbers vs. Mechanical engineers",
    "Electricians vs. Electrical engineers",

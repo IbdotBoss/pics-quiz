@@ -75,10 +75,9 @@ def write(path, qs, ns):
     open(path, "w", encoding="utf8").write(tpl.replace("/*DATA*/", data))
 
 
-# index.html: everything, for local use only (gitignored).
-# docs/index.html: what GitHub Pages serves, without the university's past paper.
+# docs/index.html is what GitHub Pages serves. index.html is the same file for opening locally.
+write(os.path.join(HERE, "docs", "index.html"), questions, notes)
 write(os.path.join(HERE, "index.html"), questions, notes)
-write(os.path.join(HERE, "docs", "index.html"), [q for q in questions if q["week"] != 0], notes)
 
 from collections import Counter
 c = Counter((q["week"], q["type"]) for q in questions)

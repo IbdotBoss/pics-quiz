@@ -241,7 +241,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "single",
-  "q": "Is the following statement correct? 'When disposing of IT equipment, data storage devices can be donated to schools and charities.'",
+  "q": "Is the following statement correct?\n\n\"When disposing of IT equipment, data storage devices can be donated to schools and charities.\"",
   "options": [
    "Not correct",
    "Correct"
@@ -298,7 +298,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "single",
-  "q": "Which of these is given as an example of a low power chip in the lecture?",
+  "q": "Which of these is an example of a low power chip?",
   "options": [
    "CISC",
    "RISC",
@@ -414,7 +414,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "single",
-  "q": "Is the following statement correct? 'ICT uses 10% of global power generation, which is 50% more than aviation.'",
+  "q": "Is the following statement correct?\n\n\"ICT uses 10% of global power generation, which is 50% more than aviation.\"",
   "options": [
    "Correct",
    "Not correct"
@@ -431,7 +431,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which of the following are listed as benefits of IT?",
+  "q": "Which of the following are benefits of IT?",
   "options": [
    "built in obsolescence",
    "entertainment",
@@ -457,7 +457,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which of the following are listed as drawbacks of IT?",
+  "q": "Which of the following are drawbacks of IT?",
   "options": [
    "sweat shops",
    "disposal",
@@ -483,7 +483,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which are possible climate effects named in the lecture?",
+  "q": "Which are possible effects of climate change?",
   "options": [
    "reduced power of storms",
    "falling sea levels",
@@ -624,7 +624,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which materials are listed as being in batteries?",
+  "q": "Which materials are found in batteries?",
   "options": [
    "chromium",
    "nickel",
@@ -745,7 +745,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which are listed as opportunities arising from sustainability in IT?",
+  "q": "Which are opportunities arising from sustainability in IT?",
   "options": [
    "better ways of doing things - redesign software, algorithms, hardware",
    "'Green' collar jobs - green audits / monitoring / consultancy",
@@ -767,7 +767,7 @@
   "week": 4,
   "topic": "Sustainability",
   "type": "multi",
-  "q": "Which are listed as future considerations?",
+  "q": "Which are future considerations for sustainability in IT?",
   "options": [
    "How do we generate energy?",
    "Impacts of device lifecycle?",
@@ -833,27 +833,6 @@
   ],
   "explain": "Charging consumption is 3.5 kWh per year, so 35 is wrong. The other figures are on the slide.",
   "source": "Lecture 11 slide 19",
-  "flag": ""
- },
- {
-  "id": "w04-040",
-  "week": 4,
-  "topic": "Sustainability",
-  "type": "multi",
-  "q": "What are the stated learning objectives of the sustainability lecture?",
-  "options": [
-   "explain the implications of sustainability in computing",
-   "design low power chips",
-   "explain the global impact of computing",
-   "consider the aspects of green computing"
-  ],
-  "answer": [
-   0,
-   2,
-   3
-  ],
-  "explain": "The learning objectives are to explain the global impact, explain the implications of sustainability in computing, and consider aspects of green computing.",
-  "source": "Lecture 11 slide 2",
   "flag": ""
  },
  {

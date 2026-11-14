@@ -7,13 +7,14 @@
 - **The one job.** Get him answering questions fast and show him exactly what he got wrong and which slide settles it.
 - **Material.** 507 written questions, the 2024-25 paper, revision notes, the printed paper's own layout and cover wording.
 - **Absent.** No logo, no photos, no illustrations. None are invented.
+- **Footer.** The home and results pages end with "End of paper", a credit linking to ibrahimuthman.me, and a GitHub mark linking to the repo.
 - This is a product surface used daily, so `product-surfaces.md` applies. It should be quiet and quick, and still look like it belongs to this test.
 
 ## Concept
 
-The quiz is the exam paper. You answer in pen and it comes back marked in red.
+The quiz is the exam paper. You answer in pen and it comes back marked.
 
-Signature: a blue pen X in a square box while answering, then a red tick, cross or ring in the margin once marked.
+Signature: a blue pen X in a square box while answering. Once marked, a green tick sits beside each right answer, and a red cross or ring marks each wrong or missed one. Stage asked for green on correct answers on 2026-11-14, because red on a right answer read as wrong.
 
 ## References
 
@@ -30,7 +31,8 @@ Signature: a blue pen X in a square box while answering, then a red tick, cross 
   --ink-2: #4a4a4a;   /* secondary text, 8.9:1 on paper */
   --hair: #c9c9c4;    /* table and section dividers only */
   --pen: #1b2f8a;     /* the candidate's X, and focus rings */
-  --red: #c4161c;     /* marking only, 5.9:1 on paper */
+  --red: #c4161c;     /* wrong and missed marks, 5.9:1 on paper */
+  --green: #1a7a3c;   /* the tick and the word Correct, 5.4:1 on paper */
   --t-xs: .84rem; --t-s: .94rem; --t-m: 1.0625rem; --t-l: 1.375rem; --t-xl: 1.875rem;
 }
 ```

@@ -4,7 +4,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "How many sections of the Computer Misuse Act 1990 does the lecture list?",
+  "q": "How many sections of the Computer Misuse Act 1990 set out offences?",
   "options": [
    "Six",
    "Three",
@@ -118,7 +118,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "What is the maximum prison term for a Section 1 offence under the slides?",
+  "q": "What is the maximum prison term for a Section 1 offence?",
   "options": [
    "2 years",
    "6 months",
@@ -156,7 +156,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "What is the maximum prison term for a Section 2 offence under the slides?",
+  "q": "What is the maximum prison term for a Section 2 offence?",
   "options": [
    "5 years",
    "2 years",
@@ -175,7 +175,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "What is the maximum prison term for a Section 3 offence under the slides?",
+  "q": "What is the maximum prison term for a Section 3 offence?",
   "options": [
    "5 years",
    "10 years",
@@ -308,7 +308,7 @@
   "week": 7,
   "topic": "Governance and Law",
   "type": "single",
-  "q": "According to the slides, which describes a policy?",
+  "q": "Which of these describes a policy?",
   "options": [
    "Behaviours that are socially acceptable, defined by custom",
    "Guidelines that describe acceptable and unacceptable behaviour, with penalties for non-compliance",
@@ -441,7 +441,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "Which Act, dated 2000, is listed with the Computer Misuse Act 1990 under cyber-dependent crime?",
+  "q": "Which Act of 2000 applies to cyber-dependent crime alongside the Computer Misuse Act 1990?",
   "options": [
    "Sarbanes Oxley Act 2000",
    "Data Protection Act 2000",
@@ -460,7 +460,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "Which Act, dated 1998, is listed with the Computer Misuse Act 1990 under cyber-dependent crime?",
+  "q": "Which Act of 1998 applies to cyber-dependent crime alongside the Computer Misuse Act 1990?",
   "options": [
    "Computer Misuse Act 1998",
    "Fraud Act 2006",
@@ -479,7 +479,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "Which Act does the lecture say may be easier to prove to the criminal standard of proof than the Computer Misuse Act?",
+  "q": "Which Act may be easier to prove to the criminal standard of proof than the Computer Misuse Act?",
   "options": [
    "Regulation of Investigation Powers Act 2000",
    "Sarbanes Oxley",
@@ -498,7 +498,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "single",
-  "q": "What does the Gary McKinnon case illustrate in the lecture?",
+  "q": "What does the Gary McKinnon case illustrate?",
   "options": [
    "Jurisdictional problems, especially cross border",
    "Due care in business law",
@@ -860,7 +860,7 @@
   "week": 7,
   "topic": "Cyber Security Bodies",
   "type": "single",
-  "q": "Which body is a not-for-profit representing the information security industry and linked on the slide to 'CyberEssentials' professional qualifications?",
+  "q": "Which body is a not-for-profit representing the information security industry, linked to 'CyberEssentials' professional qualifications?",
   "options": [
    "NCSC",
    "CREST",
@@ -879,7 +879,7 @@
   "week": 7,
   "topic": "Cyber Security Bodies",
   "type": "single",
-  "q": "Where does the lecture say to report a cybercrime?",
+  "q": "Where do you report a cybercrime?",
   "options": [
    "The PCI Security Council",
    "Action Fraud (www.actionfraud.police.uk)",
@@ -1176,7 +1176,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "multi",
-  "q": "Which of the following are listed as cyber-enabled crime?",
+  "q": "Which of the following are cyber-enabled crimes?",
   "options": [
    "Economic crime - fraud, piracy, IP theft, forgery",
    "Extreme publications - pornography",
@@ -1250,7 +1250,7 @@
   "week": 7,
   "topic": "Cyber Security Bodies",
   "type": "multi",
-  "q": "Which of the following bodies are listed as professional bodies in the cyber security lecture?",
+  "q": "Which of the following are professional bodies in cyber security?",
   "options": [
    "NIST",
    "GCHQ",
@@ -1392,7 +1392,7 @@
   "week": 7,
   "topic": "Cyber Security Bodies",
   "type": "multi",
-  "q": "Which bodies are listed as offering research, pen-testing and education?",
+  "q": "Which bodies offer research, pen-testing and education?",
   "options": [
    "OWASP",
    "NCSC",
@@ -1459,7 +1459,7 @@
   "week": 7,
   "topic": "Computer Misuse",
   "type": "multi",
-  "q": "Which laws are listed against cyber-dependent crimes?",
+  "q": "Which laws apply to cyber-dependent crimes?",
   "options": [
    "PCI DSS",
    "Computer Misuse Act 1990",
@@ -1570,30 +1570,6 @@
   ],
   "explain": "T&Cs protect a company through fair use of the product, protection of copyright or licenses, and outlining user and company expectations. T&Cs are legally binding.",
   "source": "Lecture 4 (CMA) slide 21",
-  "flag": ""
- },
- {
-  "id": "w07-077",
-  "week": 7,
-  "topic": "Governance and Law",
-  "type": "multi",
-  "q": "Why does a software developer need to care about computer law?",
-  "options": [
-   "You may need to advise others as to what is legal (or illegal)",
-   "You may need to incorporate (or omit) features such as 'authorised users only' at login",
-   "Because developers are exempt from the Computer Misuse Act",
-   "Because only lawyers are bound by computer law",
-   "You may need to incorporate appropriate security and audit trails",
-   "You may need to seek further advice (and understand that advice)"
-  ],
-  "answer": [
-   0,
-   1,
-   4,
-   5
-  ],
-  "explain": "Computer law matters because you may need to incorporate or omit features, add security and audit trails, advise others and seek further advice.",
-  "source": "Lecture 4 (CMA) slide 26",
   "flag": ""
  },
  {

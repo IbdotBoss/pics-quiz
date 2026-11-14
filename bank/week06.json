@@ -213,7 +213,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "single",
-  "q": "Which of the following is NOT listed as a source of ethics?",
+  "q": "Which of the following is NOT a source of ethics?",
   "options": [
    "Supernaturalism",
    "Intuitionism",
@@ -290,7 +290,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "single",
-  "q": "How does the lecture sum up a person's morals?",
+  "q": "How can a person's morals be summed up?",
   "options": [
    "The decisions they make under legal pressure",
    "The rules laid down by a governing body",
@@ -500,7 +500,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "single",
-  "q": "According to the lecture summary, ethics and morals are:",
+  "q": "Ethics and morals are:",
   "options": [
    "Both fixed for everyone",
    "Both defined by the law",
@@ -596,7 +596,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following are listed as potential areas of ethical conflict (ethical pressures)?",
+  "q": "Which of the following are potential areas of ethical conflict?",
   "options": [
    "Client",
    "Manager",
@@ -647,7 +647,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following does the lecture give as sources of ethics?",
+  "q": "Where do ethics come from?",
   "options": [
    "Intuitionism",
    "Exemplars",
@@ -720,7 +720,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following are listed as social impacts of IT?",
+  "q": "Which of the following are social impacts of IT?",
   "options": [
    "Digital divide: the haves and have-nots",
    "Employment: unemployment, under employment, deskilling",
@@ -743,7 +743,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following are listed under the privacy issue in IT?",
+  "q": "Which of the following are privacy issues in IT?",
   "options": [
    "Data mining",
    "Web surveillance",
@@ -769,7 +769,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following are listed under intellectual property rights as ethical issues in IT?",
+  "q": "Which of the following are intellectual property issues in IT?",
   "options": [
    "Copyright, ownership, how to reward the authors",
    "Digital divide",
@@ -793,7 +793,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which are listed as personal values in business ethics?",
+  "q": "Which are personal values in business ethics?",
   "options": [
    "Mutual respect",
    "Integrity",
@@ -908,7 +908,7 @@
   "week": 6,
   "topic": "Ethics",
   "type": "multi",
-  "q": "Which of the following are rules or principles for ethical decisions given in the lecture?",
+  "q": "Which of the following are rules or principles for ethical decisions?",
   "options": [
    "Rule of Law",
    "Utilitarianism Principle",
