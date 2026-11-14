@@ -14,7 +14,7 @@
   "answer": [
    0
   ],
-  "explain": "BCS (British computer society) founded 1957; approx. 100,000 members.",
+  "explain": "The BCS, the British Computer Society, was founded in 1957 and has approximately 100,000 members.",
   "source": "Lecture 9 (Professionalism) slide 13",
   "flag": ""
  },
@@ -33,9 +33,9 @@
   "answer": [
    2
   ],
-  "explain": "IET founded in 2006; approx. 150,000 members.",
+  "explain": "The IET was founded in 2006 and has approximately 150,000 members.",
   "source": "Lecture 9 (Professionalism) slide 13",
-  "flag": "In reality the IET took its current name in 2006 from earlier bodies; follow the slide."
+  "flag": "In reality the IET took its current name in 2006 from earlier bodies. Follow the slide."
  },
  {
   "id": "w09-003",
@@ -52,7 +52,7 @@
   "answer": [
    0
   ],
-  "explain": "IET: founded in 2006, approx. 150,000 members.",
+  "explain": "The IET was founded in 2006 and has approximately 150,000 members.",
   "source": "Lecture 9 (Professionalism) slide 13",
   "flag": ""
  },
@@ -71,7 +71,7 @@
   "answer": [
    2
   ],
-  "explain": "BCS: founded 1957; approx. 100,000 members.",
+  "explain": "The BCS was founded in 1957 and has approximately 100,000 members.",
   "source": "Lecture 9 (Professionalism) slide 13",
   "flag": ""
  },
@@ -90,9 +90,9 @@
   "answer": [
    1
   ],
-  "explain": "IEEE: founded in 1946; over 100,000 members.",
+  "explain": "The IEEE was founded in 1946 and has over 100,000 members.",
   "source": "Lecture 9 (Professionalism) slide 15",
-  "flag": "Slide says IEEE founded 1946; real-world founding date differs. Follow the slide."
+  "flag": "The slide says the IEEE was founded in 1946, and the real-world founding date differs. Follow the slide."
  },
  {
   "id": "w09-006",
@@ -109,7 +109,7 @@
   "answer": [
    2
   ],
-  "explain": "ACM founded 1947; approx. 75,000 members.",
+  "explain": "The ACM was founded in 1947 and has approximately 75,000 members.",
   "source": "Lecture 9 (Professionalism) slide 15",
   "flag": ""
  },
@@ -128,9 +128,9 @@
   "answer": [
    1
   ],
-  "explain": "ACM (Association of Computer Machinery).",
+  "explain": "The slide writes ACM as Association of Computer Machinery.",
   "source": "Lecture 9 (Professionalism) slide 15",
-  "flag": "Real name is Association for Computing Machinery; the slide wording is used here."
+  "flag": "The real name is Association for Computing Machinery, and the slide wording is used here."
  },
  {
   "id": "w09-008",
@@ -147,7 +147,7 @@
   "answer": [
    3
   ],
-  "explain": "IEEE (Institute for Electrical and Electronic Engineers).",
+  "explain": "The slide writes IEEE as Institute for Electrical and Electronic Engineers.",
   "source": "Lecture 9 (Professionalism) slide 15",
   "flag": ""
  },
@@ -166,7 +166,7 @@
   "answer": [
    2
   ],
-  "explain": "Slide 16 refers to support for Continuing Professional Development; slide 12 lists CPD as a way to protect yourself as a professional.",
+  "explain": "Slide 16 refers to support for Continuing Professional Development, and slide 12 lists CPD as a way to protect yourself as a professional.",
   "source": "Lecture 9 (Professionalism) slide 12, 16",
   "flag": ""
  },
@@ -185,7 +185,7 @@
   "answer": [
    2
   ],
-  "explain": "Professionalism is maintaining an ethical approach to one's job within the structure of an association (Adams & McCrindle, 2008).",
+  "explain": "Professionalism is maintaining an ethical approach to one's job within the structure of an association, according to Adams and McCrindle in 2008.",
   "source": "Lecture 9 (Professionalism) slide 8",
   "flag": ""
  },
@@ -223,7 +223,7 @@
   "answer": [
    0
   ],
-  "explain": "How do you protect yourself as a professional? Professional indemnity insurance; CPD.",
+  "explain": "To protect yourself as a professional, the slides give professional indemnity insurance and CPD.",
   "source": "Lecture 9 (Professionalism) slide 12",
   "flag": ""
  },
@@ -242,7 +242,7 @@
   "answer": [
    3
   ],
-  "explain": "Bott (2014) describes professions as including doctors, lawyers, accountants, architects, IT professionals. Trades are posed as a question (s4).",
+  "explain": "Bott in 2014 describes professions as including doctors, lawyers, accountants, architects and IT professionals. Trades are posed as a question on slide 4.",
   "source": "Lecture 9 (Professionalism) slide 3-4",
   "flag": ""
  },
@@ -299,7 +299,7 @@
   "answer": [
    2
   ],
-  "explain": "3. Duty to Relevant Authority: ... accept professional responsibility for your work.",
+  "explain": "Section 3, Duty to Relevant Authority, includes accepting professional responsibility for your work.",
   "source": "Lecture 9 (Professionalism) slide 20",
   "flag": ""
  },
@@ -318,7 +318,7 @@
   "answer": [
    1
   ],
-  "explain": "2. Professional Competence and Integrity: ... reject and will not make any offer of bribery or unethical inducement.",
+  "explain": "Section 2, Professional Competence and Integrity, includes rejecting and not making any offer of bribery or unethical inducement.",
   "source": "Lecture 9 (Professionalism) slide 19",
   "flag": ""
  },
@@ -337,7 +337,7 @@
   "answer": [
    0
   ],
-  "explain": "1. Public Interest: promote equal access to the benefits of IT.",
+  "explain": "Section 1, Public Interest, includes promoting equal access to the benefits of IT.",
   "source": "Lecture 9 (Professionalism) slide 18",
   "flag": ""
  },
@@ -356,7 +356,7 @@
   "answer": [
    2
   ],
-  "explain": "4. Duty to the Profession: ... uphold the reputation and good standing of BCS, the Chartered Institute for IT.",
+  "explain": "Section 4, Duty to the Profession, includes upholding the reputation and good standing of BCS, the Chartered Institute for IT.",
   "source": "Lecture 9 (Professionalism) slide 21",
   "flag": ""
  },
@@ -414,7 +414,7 @@
   "answer": [
    1
   ],
-  "explain": "Slide 16 lists the defining features; setting prices is not among them.",
+  "explain": "Slide 16 lists the defining features, and setting prices is not among them.",
   "source": "Lecture 9 (Professionalism) slide 16",
   "flag": ""
  },
@@ -433,7 +433,7 @@
   "answer": [
    1
   ],
-  "explain": "OWASP: not-for-profit charity that promotes web security.",
+  "explain": "OWASP is a not-for-profit charity that promotes web security.",
   "source": "Lecture 9 (Professionalism) slide 24",
   "flag": ""
  },
@@ -452,7 +452,7 @@
   "answer": [
    3
   ],
-  "explain": "CREST: International not-for-profit accreditation and certification body.",
+  "explain": "CREST is an international not-for-profit accreditation and certification body.",
   "source": "Lecture 9 (Professionalism) slide 24",
   "flag": ""
  },
@@ -471,7 +471,7 @@
   "answer": [
    0
   ],
-  "explain": "CISCO: manufacturer and certification body.",
+  "explain": "CISCO is a manufacturer and certification body.",
   "source": "Lecture 9 (Professionalism) slide 24",
   "flag": ""
  },
@@ -490,7 +490,7 @@
   "answer": [
    0
   ],
-  "explain": "ACM professional responsibilities: Access computing and communication resources only when authorized or when compelled by the public good.",
+  "explain": "Under the ACM professional responsibilities, you access computing and communication resources only when authorized or when compelled by the public good.",
   "source": "Lecture 9 (Professionalism) slide 23",
   "flag": ""
  },
@@ -509,7 +509,7 @@
   "answer": [
    1
   ],
-  "explain": "General ethical principles include 'Avoid harm'; the others are professional responsibilities.",
+  "explain": "General ethical principles include \"Avoid harm\". The other options are professional responsibilities.",
   "source": "Lecture 9 (Professionalism) slide 22-23",
   "flag": ""
  },
@@ -547,7 +547,7 @@
   "answer": [
    2
   ],
-  "explain": "Health and Safety: ... Common sense should prevail.",
+  "explain": "The Health and Safety slide ends with \"Common sense should prevail\".",
   "source": "Lecture 9 (Professionalism) slide 25",
   "flag": ""
  },
@@ -620,7 +620,7 @@
    4,
    5
   ],
-  "explain": "Slide 8: self regulation, agreed body of shared knowledge, certifications or examinations.",
+  "explain": "Slide 8 lists self regulation, an agreed body of shared knowledge, and certifications or examinations.",
   "source": "Lecture 9 (Professionalism) slide 8",
   "flag": ""
  },
@@ -644,7 +644,7 @@
    3,
    4
   ],
-  "explain": "Slide 9 lists these (as questions).",
+  "explain": "Slide 9 lists these, posed as questions.",
   "source": "Lecture 9 (Professionalism) slide 9",
   "flag": ""
  },
@@ -717,7 +717,7 @@
    3,
    4
   ],
-  "explain": "BCS (The Chartered Institute for IT) Code of Conduct: slide 17.",
+  "explain": "The BCS Code of Conduct, from The Chartered Institute for IT, is on slide 17.",
   "source": "Lecture 9 (Professionalism) slide 17",
   "flag": ""
  },
@@ -768,7 +768,7 @@
    5,
    6
   ],
-  "explain": "Slide 19; 'uphold the reputation and good standing of BCS' is in Duty to the Profession.",
+  "explain": "This is on slide 19. \"Uphold the reputation and good standing of BCS\" is in Duty to the Profession.",
   "source": "Lecture 9 (Professionalism) slide 19",
   "flag": ""
  },
@@ -896,7 +896,7 @@
    4,
    6
   ],
-  "explain": "Slide 23. The last two are general ethical principles (s22).",
+  "explain": "This is on slide 23. The last two options are general ethical principles on slide 22.",
   "source": "Lecture 9 (Professionalism) slide 22-23",
   "flag": ""
  },
@@ -920,7 +920,7 @@
    3,
    4
   ],
-  "explain": "IEEE and ACM (s15); OWASP, CISCO and CREST (s24).",
+  "explain": "IEEE and ACM are on slide 15, and OWASP, CISCO and CREST are on slide 24.",
   "source": "Lecture 9 (Professionalism) slide 15, 24",
   "flag": ""
  },
@@ -941,7 +941,7 @@
    1,
    4
   ],
-  "explain": "UK Professional Bodies for IT: BCS and IET. IEEE and ACM appear under 'Other Professional Bodies'.",
+  "explain": "The UK professional bodies for IT are BCS and IET. IEEE and ACM appear under \"Other Professional Bodies\".",
   "source": "Lecture 9 (Professionalism) slide 13, 15",
   "flag": ""
  },
@@ -984,7 +984,7 @@
    2,
    4
   ],
-  "explain": "BCS 1957; ACM 1947; IEEE 1946; IET 2006.",
+  "explain": "BCS is 1957, ACM is 1947, IEEE is 1946 and IET is 2006.",
   "source": "Lecture 9 (Professionalism) slide 13, 15",
   "flag": ""
  },
@@ -1005,7 +1005,7 @@
    0,
    1
   ],
-  "explain": "How do you protect yourself as a professional? Professional indemnity insurance; CPD.",
+  "explain": "To protect yourself as a professional, the slides give professional indemnity insurance and CPD.",
   "source": "Lecture 9 (Professionalism) slide 12",
   "flag": ""
  },

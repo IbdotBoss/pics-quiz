@@ -2,3 +2,5 @@
 bank/pastpaper.*
 /index.html
 __pycache__/
+.work/
+comps/

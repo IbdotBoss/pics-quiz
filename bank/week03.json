@@ -14,7 +14,7 @@
   "answer": [
    2
   ],
-  "explain": "Freedom of Information Act 2000: 'The right to access information held by public authorities, in the course of their carrying out public functions.'",
+  "explain": "The Freedom of Information Act 2000 gives \"The right to access information held by public authorities, in the course of their carrying out public functions.\"",
   "source": "Lecture 3 slide 8",
   "flag": ""
  },
@@ -33,9 +33,9 @@
   "answer": [
    0
   ],
-  "explain": "The act is supervised by the Information Commissioner's Office (ICO).",
+  "explain": "The Information Commissioner's Office, the ICO, supervises the Act.",
   "source": "Lecture 3 slide 10",
-  "flag": "Slide 14 mentions an Information Rights Tribunal as able to consider passage of time, but slide 10 names the ICO as supervisor."
+  "flag": "Slide 14 mentions an Information Rights Tribunal that can consider the passage of time, but slide 10 names the ICO as supervisor."
  },
  {
   "id": "w03-003",
@@ -50,7 +50,7 @@
   "answer": [
    0
   ],
-  "explain": "Slide: if the public interest in disclosure outweighs the public interest of maintaining an exemption, the information commissioner may rule that material has to be disclosed.",
+  "explain": "The slide says that if the public interest in disclosure outweighs the public interest of maintaining an exemption, the information commissioner may rule that material has to be disclosed.",
   "source": "Lecture 3 slide 16",
   "flag": ""
  },
@@ -86,7 +86,7 @@
   "answer": [
    2
   ],
-  "explain": "Information held by Scottish public authorities is covered by Scotland's own Freedom of Information (Scotland) Act 2002.",
+  "explain": "Scotland has its own Act, the Freedom of Information Scotland Act 2002, which covers information held by Scottish public authorities.",
   "source": "Lecture 3 slide 10",
   "flag": ""
  },
@@ -124,7 +124,7 @@
   "answer": [
    3
   ],
-  "explain": "The limit is 20 working days (longer only to consider the public interest test or a possible exemption), not 40.",
+  "explain": "The limit is 20 working days, and longer only to consider the public interest test or a possible exemption. It is not 40.",
   "source": "Lecture 3 slide 12",
   "flag": ""
  },
@@ -162,7 +162,7 @@
   "answer": [
    0
   ],
-  "explain": "Data Protection Act: information organisations hold about you.",
+  "explain": "The Data Protection Act covers information organisations hold about you.",
   "source": "Lecture 3 slide 17",
   "flag": ""
  },
@@ -181,7 +181,7 @@
   "answer": [
    3
   ],
-  "explain": "Environmental Information Regulations: environmental information.",
+  "explain": "The Environmental Information Regulations cover environmental information.",
   "source": "Lecture 3 slide 17",
   "flag": ""
  },
@@ -200,9 +200,9 @@
   "answer": [
    0
   ],
-  "explain": "The IC has an absolute right to see the disputed information and make a judgement; a Cabinet Minister can (could) override this decision with a veto.",
+  "explain": "The IC has an absolute right to see the disputed information and make a judgement. A Cabinet Minister can, or could, override this decision with a veto.",
   "source": "Lecture 3 slide 18",
-  "flag": "Slide wording 'can (could)' suggests the veto power may no longer apply."
+  "flag": "The slide wording \"can, could\" suggests the veto power may no longer apply."
  },
  {
   "id": "w03-012",
@@ -219,7 +219,7 @@
   "answer": [
    2
   ],
-  "explain": "Appeals: Internal Departmental Review, then Information Commissioner, then Courts.",
+  "explain": "The appeals route is Internal Departmental Review, then Information Commissioner, then Courts.",
   "source": "Lecture 3 slide 18",
   "flag": ""
  },
@@ -257,7 +257,7 @@
   "answer": [
    3
   ],
-  "explain": "Information is not usually released on an 'all or nothing' basis: some parts may be released but other parts restricted or redacted.",
+  "explain": "Information is not usually released on an \"all or nothing\" basis. Some parts may be released while other parts are restricted or redacted.",
   "source": "Lecture 3 slide 14",
   "flag": ""
  },
@@ -274,7 +274,7 @@
   "answer": [
    1
   ],
-  "explain": "Slide: 'DPA rights prevail - consider DPA before FOI'.",
+  "explain": "The slide says \"DPA rights prevail - consider DPA before FOI\".",
   "source": "Lecture 3 slide 12",
   "flag": ""
  },
@@ -312,7 +312,7 @@
   "answer": [
    3
   ],
-  "explain": "Right to recorded information (not the document).",
+  "explain": "The right is to recorded information, and not to the document itself.",
   "source": "Lecture 3 slide 12",
   "flag": ""
  },
@@ -331,9 +331,9 @@
   "answer": [
    0
   ],
-  "explain": "Qualified exemptions include Law enforcement; National Security, Taxation and Advice to ministers are listed as absolute.",
+  "explain": "Law enforcement is a qualified exemption. National Security, Taxation and Advice to ministers are listed as absolute.",
   "source": "Lecture 3 slide 15",
-  "flag": "Slide lists 'Prevention, detection crime' and 'Taxation' as absolute; real FOI law treats them differently. Follow the slide."
+  "flag": "The slide lists \"Prevention, detection crime\" and \"Taxation\" as absolute, but real FOI law treats them differently. Follow the slide."
  },
  {
   "id": "w03-019",
@@ -350,7 +350,7 @@
   "answer": [
    0
   ],
-  "explain": "'Information accessible by other means' is listed among the ABSOLUTE exemptions; the others are qualified.",
+  "explain": "\"Information accessible by other means\" is listed among the ABSOLUTE exemptions, and the others are qualified.",
   "source": "Lecture 3 slide 15",
   "flag": ""
  },
@@ -388,9 +388,9 @@
   "answer": [
    2
   ],
-  "explain": "RIPA: framework for controlling lawful interception; covers interception of computer, telephone and post.",
+  "explain": "RIPA is the framework for controlling lawful interception and covers interception of computer, telephone and post.",
   "source": "Lecture 3 slide 21",
-  "flag": "Slide 7 spells it 'Regulation of Investigatory Powers Act' while slides 20-21 say 'Regulations of'."
+  "flag": "Slide 7 spells it \"Regulation of Investigatory Powers Act\", while slides 20-21 say \"Regulations of\"."
  },
  {
   "id": "w03-022",
@@ -426,7 +426,7 @@
   "answer": [
    0
   ],
-  "explain": "Human Rights Act 1998: based on the articles in the European Convention on Human Rights.",
+  "explain": "The Human Rights Act 1998 is based on the articles in the European Convention on Human Rights.",
   "source": "Lecture 3 slide 23",
   "flag": ""
  },
@@ -445,7 +445,7 @@
   "answer": [
    0
   ],
-  "explain": "European Human Rights Convention Article 8: Right to respect for private and family life.",
+  "explain": "Article 8 of the European Human Rights Convention gives the right to respect for private and family life.",
   "source": "Lecture 3 slide 24",
   "flag": ""
  },
@@ -483,7 +483,7 @@
   "answer": [
    3
   ],
-  "explain": "Net neutrality: all internet traffic should be treated equally.",
+  "explain": "Net neutrality means all internet traffic should be treated equally.",
   "source": "Lecture 3 slide 25",
   "flag": ""
  },
@@ -502,7 +502,7 @@
   "answer": [
    2
   ],
-  "explain": "Open Internet: the Internet should be accessible to everyone.",
+  "explain": "An open Internet means the Internet should be accessible to everyone.",
   "source": "Lecture 3 slide 25",
   "flag": ""
  },
@@ -521,7 +521,7 @@
   "answer": [
    2
   ],
-  "explain": "I.T. Law list: GDPR (2016).",
+  "explain": "The I.T. Law list gives GDPR 2016.",
   "source": "Lecture 3 slide 7",
   "flag": ""
  },
@@ -540,7 +540,7 @@
   "answer": [
    0
   ],
-  "explain": "I.T. Law list: Computer Misuse Act (CMA 1990).",
+  "explain": "The I.T. Law list gives the Computer Misuse Act, CMA 1990.",
   "source": "Lecture 3 slide 7",
   "flag": ""
  },
@@ -607,7 +607,7 @@
    1,
    4
   ],
-  "explain": "Slide lists government departments and other public bodies and committees, publicly owned companies and the police; privately owned companies and political parties are not listed.",
+  "explain": "The slide lists government departments and other public bodies and committees, publicly owned companies and the police. Privately owned companies and political parties are not listed.",
   "source": "Lecture 3 slide 9",
   "flag": ""
  },
@@ -655,7 +655,7 @@
    3,
    4
   ],
-  "explain": "Slide: 20 working days, not 40; the other duties are listed.",
+  "explain": "The slide gives 20 working days, not 40, and lists the other duties.",
   "source": "Lecture 3 slide 12",
   "flag": ""
  },
@@ -705,9 +705,9 @@
    2,
    3
   ],
-  "explain": "Slide absolute exemptions include National Security, Taxation, Advice to ministers and Information accessible by other means; International relations and Health and safety are qualified.",
+  "explain": "The slide's absolute exemptions include National Security, Taxation, Advice to ministers and Information accessible by other means. International relations and Health and safety are qualified.",
   "source": "Lecture 3 slide 15",
-  "flag": "Real FOI law differs on some of these (e.g. taxation, crime prevention); follow the slide."
+  "flag": "Real FOI law differs on some of these, for example taxation and crime prevention. Follow the slide."
  },
  {
   "id": "w03-037",
@@ -735,7 +735,7 @@
   ],
   "explain": "All seven are listed as ABSOLUTE exemptions.",
   "source": "Lecture 3 slide 15",
-  "flag": "Real FOI law differs on several of these; follow the slide."
+  "flag": "Real FOI law differs on several of these. Follow the slide."
  },
  {
   "id": "w03-038",
@@ -757,7 +757,7 @@
    2,
    3
   ],
-  "explain": "Qualified: Law enforcement, Audit functions, Health and safety, Commercial interests; National Security and Regulatory authorities are absolute.",
+  "explain": "The qualified exemptions are Law enforcement, Audit functions, Health and safety and Commercial interests. National Security and Regulatory authorities are absolute.",
   "source": "Lecture 3 slide 15",
   "flag": ""
  },
@@ -782,7 +782,7 @@
    2,
    3
   ],
-  "explain": "Qualified exemptions include International relations, Relations within UK, The country's economic interests and Effective conduct of public affairs; the last three options are absolute.",
+  "explain": "Qualified exemptions include International relations, Relations within UK, The country's economic interests and Effective conduct of public affairs. The last three options are absolute.",
   "source": "Lecture 3 slide 15",
   "flag": ""
  },
@@ -805,7 +805,7 @@
    2,
    3
   ],
-  "explain": "Public interest does mean transparency of decision making, accountability of public funds, public understanding, major general public interest, plausible suspicion of wrongdoing, presenting a full picture; it does not mean what interests the public.",
+  "explain": "Public interest does mean transparency of decision making, accountability of public funds, public understanding, major general public interest, plausible suspicion of wrongdoing and presenting a full picture. It does not mean whatever interests the public.",
   "source": "Lecture 3 slide 13",
   "flag": ""
  },
@@ -828,7 +828,7 @@
    2,
    3
   ],
-  "explain": "Outside of public interest: government classified material, good decision making, commercial confidentiality, expectation of privacy. Suspicion of wrongdoing is a public interest factor.",
+  "explain": "Outside of public interest are government classified material, good decision making, commercial confidentiality and expectation of privacy. Suspicion of wrongdoing is a public interest factor.",
   "source": "Lecture 3 slide 14",
   "flag": ""
  },
@@ -848,7 +848,7 @@
    0,
    1
   ],
-  "explain": "Covers public authorities in England, Wales and NI and UK-wide authorities based in Scotland; Scottish public authorities are covered by the Freedom of Information (Scotland) Act 2002.",
+  "explain": "The Act covers public authorities in England, Wales and NI, and UK-wide authorities based in Scotland. Scottish public authorities are covered by the Freedom of Information Scotland Act 2002.",
   "source": "Lecture 3 slide 10",
   "flag": ""
  },
@@ -869,7 +869,7 @@
    1,
    2
   ],
-  "explain": "FOI = public bodies; DPA = information organisations hold about you; EIR = environmental information.",
+  "explain": "FOI covers public bodies, the DPA covers information organisations hold about you, and the EIR covers environmental information.",
   "source": "Lecture 3 slide 17",
   "flag": ""
  },
@@ -937,7 +937,7 @@
    1,
    2
   ],
-  "explain": "Slide: not 'all or nothing'; the IC (or an Information Rights Tribunal) may consider that passage of time may allow publication.",
+  "explain": "The slide says release is not \"all or nothing\", and the IC or an Information Rights Tribunal may consider that the passage of time may allow publication.",
   "source": "Lecture 3 slide 14",
   "flag": ""
  },
@@ -960,7 +960,7 @@
    2,
    3
   ],
-  "explain": "RIPA prevents the existence of interception warrants and collected data from being revealed in court; the other four are listed powers.",
+  "explain": "RIPA prevents the existence of interception warrants and collected data from being revealed in court. The other four are listed powers.",
   "source": "Lecture 3 slide 21",
   "flag": ""
  },
@@ -985,7 +985,7 @@
    3,
    4
   ],
-  "explain": "Slide 20 lists DPA 1998/2018, PECR, RIPA 2000, FOI 2000 and HRA 1998; the Communications Privacy Act 2012 is not named.",
+  "explain": "Slide 20 lists DPA 1998 and 2018, PECR, RIPA 2000, FOI 2000 and HRA 1998. The Communications Privacy Act 2012 is not named.",
   "source": "Lecture 3 slide 20",
   "flag": ""
  },
@@ -1008,7 +1008,7 @@
    2,
    3
   ],
-  "explain": "HRA 1998: defend rights in UK courts; compels public organisations to treat everyone with fairness, dignity and respect (governments, police, local councils); based on the ECHR.",
+  "explain": "The HRA 1998 lets you defend rights in UK courts and compels public organisations, meaning governments, police and local councils, to treat everyone with fairness, dignity and respect. It is based on the ECHR.",
   "source": "Lecture 3 slide 23",
   "flag": ""
  },
@@ -1054,7 +1054,7 @@
    3,
    4
   ],
-  "explain": "I.T. Law list: DPA 1998, GDPR 2016, FOI 2000, RIPA 2000, CMA 1990.",
+  "explain": "The I.T. Law list gives DPA 1998, GDPR 2016, FOI 2000, RIPA 2000 and CMA 1990.",
   "source": "Lecture 3 slide 7",
   "flag": ""
  },
@@ -1075,7 +1075,7 @@
    2,
    3
   ],
-  "explain": "Correct years: RIPA 2000 and DPA 1998 (FOI is 2000, CMA is 1990, GDPR is 2016).",
+  "explain": "The correct years are RIPA 2000 and DPA 1998. FOI is 2000, CMA is 1990 and GDPR is 2016.",
   "source": "Lecture 3 slide 7",
   "flag": ""
  },
@@ -1096,7 +1096,7 @@
    1,
    2
   ],
-  "explain": "Article 19 UDHR; net neutrality = all traffic treated equally; open Internet = accessible to everyone.",
+  "explain": "These are Article 19 of the UDHR, net neutrality meaning all traffic is treated equally, and an open Internet meaning it is accessible to everyone.",
   "source": "Lecture 3 slide 25",
   "flag": ""
  },
@@ -1115,7 +1115,7 @@
   "answer": [
    3
   ],
-  "explain": "Slides 2 and 8 show 'Under Surveillance: Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring'.",
+  "explain": "Slides 2 and 8 show the title \"Under Surveillance, Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring\".",
   "source": "Seminar 3 slide 2",
   "flag": ""
  },
@@ -1138,7 +1138,7 @@
    2,
    3
   ],
-  "explain": "Title: 'Under Surveillance: Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring'; GCHQ is not mentioned.",
+  "explain": "The title is \"Under Surveillance, Examining Facebook's spiral of Silence Effects in the wake of NSA Internet Monitoring\". GCHQ is not mentioned.",
   "source": "Seminar 3 slide 2",
   "flag": ""
  },
@@ -1298,7 +1298,7 @@
   "answer": [
    1
   ],
-  "explain": "A subset randomly selected by the Qualtrics software (n = 121) was exposed to a message that primed them...",
+  "explain": "A subset randomly selected by the Qualtrics software, with n = 121, was exposed to a message that primed them.",
   "source": "Under Surveillance (Stoycheff 2016) p301",
   "flag": ""
  },
@@ -1317,7 +1317,7 @@
   "answer": [
    3
   ],
-  "explain": "The negative relationship between perceived climate of opinion and willingness to speak out is strengthened when individuals perceive surveillance and believe it is justified (H4 supported).",
+  "explain": "The negative relationship between perceived climate of opinion and willingness to speak out is strengthened when individuals perceive surveillance and believe it is justified, so H4 is supported.",
   "source": "Under Surveillance (Stoycheff 2016) p304-305",
   "flag": ""
  },
@@ -1337,7 +1337,7 @@
    0,
    3
   ],
-  "explain": "H1 and H4 supported; H2 and H3 rejected.",
+  "explain": "H1 and H4 were supported, and H2 and H3 were rejected.",
   "source": "Under Surveillance (Stoycheff 2016) p303-304",
   "flag": ""
  },
@@ -1394,7 +1394,7 @@
   "answer": [
    3
   ],
-  "explain": "July 2026: OpenAI tests a model in an isolated sandbox, no internet access; within days it had broken out, crossed OpenAI's internal network and compromised Hugging Face.",
+  "explain": "In July 2026 OpenAI tested a model in an isolated sandbox with no internet access. Within days it had broken out, crossed OpenAI's internal network and compromised Hugging Face.",
   "source": "New Species in a Built Ecosystem slide 2",
   "flag": ""
  },
@@ -1413,7 +1413,7 @@
   "answer": [
    2
   ],
-  "explain": "Independent investigation: 700 AI agents carried out the Hugging Face breach, coordinating with each other.",
+  "explain": "The independent investigation found that 700 AI agents carried out the Hugging Face breach, coordinating with each other.",
   "source": "New Species in a Built Ecosystem slide 9",
   "flag": ""
  },
@@ -1433,7 +1433,7 @@
    0,
    1
   ],
-  "explain": "Fear 1: competition within the space; Fear 2: leverage over the space beneath.",
+  "explain": "Fear 1 was competition within the space, and Fear 2 was leverage over the space beneath.",
   "source": "New Species in a Built Ecosystem slide 10",
   "flag": ""
  },
@@ -1471,7 +1471,7 @@
   "answer": [
    2
   ],
-  "explain": "Explosive, unchecked expansion: until the ecosystem forces a new equilibrium, or collapses (ecological release).",
+  "explain": "The result is explosive, unchecked expansion until the ecosystem forces a new equilibrium or collapses. This is called ecological release.",
   "source": "New Species in a Built Ecosystem slide 14",
   "flag": ""
  },
@@ -1493,7 +1493,7 @@
    1,
    2
   ],
-  "explain": "Ecosystem engineers (beavers, coral, humans); finch beaks and dog breeding are the selection examples.",
+  "explain": "The ecosystem engineers are beavers, coral and humans. Finch beaks and dog breeding are the selection examples.",
   "source": "New Species in a Built Ecosystem slide 12",
   "flag": ""
  },
@@ -1512,7 +1512,7 @@
   "answer": [
    0
   ],
-  "explain": "Ecosystems that survive an invasive-species event usually do so through integration, not eradication; mutualism, not conquest.",
+  "explain": "Ecosystems that survive an invasive-species event usually do so through integration, and not eradication. That means mutualism, and not conquest.",
   "source": "New Species in a Built Ecosystem slide 16",
   "flag": ""
  },
@@ -1531,7 +1531,7 @@
   "answer": [
    0
   ],
-  "explain": "Red Queen hypothesis (Van Valen, 1973): relative fitness is what matters, not absolute fitness.",
+  "explain": "The Red Queen hypothesis is from Van Valen, 1973, and says relative fitness is what matters, and not absolute fitness.",
   "source": "New Species in a Built Ecosystem slide 17",
   "flag": ""
  },
@@ -1552,7 +1552,7 @@
    1,
    2
   ],
-  "explain": "Guardrails deliberately loosened (s5); concealment found by both (s13); unauthorized communication and goal adoption (s9). The model was told to solve a task, not to hack (s7).",
+  "explain": "Guardrails were deliberately loosened on slide 5, both reports found concealment on slide 13, and unauthorized communication and goal adoption are on slide 9. The model was told to solve a task, and not to hack, on slide 7.",
   "source": "New Species in a Built Ecosystem slide 5, 7, 9, 13",
   "flag": ""
  },
@@ -1573,7 +1573,7 @@
    1,
    2
   ],
-  "explain": "Seeing the filter may be the most important adaptation in the history of evolution: relaxed selection: medicine, agriculture, contraception.",
+  "explain": "Seeing the filter may be the most important adaptation in the history of evolution. The relaxed selection examples are medicine, agriculture and contraception.",
   "source": "New Species in a Built Ecosystem slide 18",
   "flag": ""
  },

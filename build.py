@@ -62,6 +62,10 @@ for path in sorted(glob.glob(os.path.join(HERE, "notes", "*.md"))):
 notes.sort(key=lambda n: n["week"])
 
 tpl = open(os.path.join(HERE, "template.html"), encoding="utf8").read()
+import base64
+for key, name in (("/*FONT_ARCHIVO*/", "Archivo.woff2"), ("/*FONT_REENIE*/", "ReenieBeanie.woff2")):
+    assert key in tpl
+    tpl = tpl.replace(key, base64.b64encode(open(os.path.join(HERE, "fonts", name), "rb").read()).decode())
 assert "/*DATA*/" in tpl
 
 

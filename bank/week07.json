@@ -14,9 +14,9 @@
   "answer": [
    3
   ],
-  "explain": "Slide lists Section 1, Section 2, Section 3, Section 3ZA and Section 3A.",
+  "explain": "The slide lists Section 1, Section 2, Section 3, Section 3ZA and Section 3A.",
   "source": "Lecture 4 (CMA) slide 10",
-  "flag": "A past-test style question asks about 'levels of offences'. The slide gives five sections, but penalties are given for only three (S1, S2, S3). Check which count the question means."
+  "flag": "A past-test style question asks about \"levels of offences\". The slide gives five sections, but penalties are given for only three, S1, S2 and S3. Check which count the question means."
  },
  {
   "id": "w07-002",
@@ -33,7 +33,7 @@
   "answer": [
    1
   ],
-  "explain": "Section 1: UNAUTHORISED access to computer material.",
+  "explain": "Section 1 covers UNAUTHORISED access to computer material.",
   "source": "Lecture 4 (CMA) slide 10",
   "flag": ""
  },
@@ -52,7 +52,7 @@
   "answer": [
    2
   ],
-  "explain": "Section 2: UNAUTHORISED access with intent to commit or facilitate commission of further offences.",
+  "explain": "Section 2 covers UNAUTHORISED access with intent to commit or facilitate commission of further offences.",
   "source": "Lecture 4 (CMA) slide 10",
   "flag": ""
  },
@@ -71,7 +71,7 @@
   "answer": [
    2
   ],
-  "explain": "Section 3: UNAUTHORISED acts with intent to impair, or with recklessness as to impairing, operation of computer.",
+  "explain": "Section 3 covers UNAUTHORISED acts with intent to impair, or with recklessness as to impairing, operation of computer.",
   "source": "Lecture 4 (CMA) slide 10",
   "flag": ""
  },
@@ -90,7 +90,7 @@
   "answer": [
    1
   ],
-  "explain": "Section 3ZA: UNAUTHORISED acts causing, or creating risk of, serious damage.",
+  "explain": "Section 3ZA covers UNAUTHORISED acts causing, or creating risk of, serious damage.",
   "source": "Lecture 4 (CMA) slide 10",
   "flag": ""
  },
@@ -109,7 +109,7 @@
   "answer": [
    0
   ],
-  "explain": "Section 3A: Making, supplying or obtaining articles for use in offence under section 1, 2, 3 or 3ZA.",
+  "explain": "Section 3A covers making, supplying or obtaining articles for use in an offence under section 1, 2, 3 or 3ZA.",
   "source": "Lecture 4 (CMA) slide 10",
   "flag": ""
  },
@@ -128,9 +128,9 @@
   "answer": [
    0
   ],
-  "explain": "S1 offence: fine and/or 2 years prison [prev. 6 months].",
+  "explain": "A Section 1 offence carries a fine or 2 years in prison, or both. The previous limit was 6 months.",
   "source": "Lecture 4 (CMA) slide 12",
-  "flag": "Slide gives no penalty for 3ZA or 3A. In real law S1 is up to 2 years on indictment, 6 months on summary conviction."
+  "flag": "The slide gives no penalty for 3ZA or 3A. In real law S1 is up to 2 years on indictment and 6 months on summary conviction."
  },
  {
   "id": "w07-008",
@@ -147,7 +147,7 @@
   "answer": [
    2
   ],
-  "explain": "S1 offence: fine and/or 2 years prison [prev. 6 months].",
+  "explain": "A Section 1 offence carries a fine or 2 years in prison, or both. The previous limit was 6 months.",
   "source": "Lecture 4 (CMA) slide 12",
   "flag": ""
  },
@@ -166,7 +166,7 @@
   "answer": [
    0
   ],
-  "explain": "S2 offence: fine and/or 5 years prison.",
+  "explain": "A Section 2 offence carries a fine or 5 years in prison, or both.",
   "source": "Lecture 4 (CMA) slide 12",
   "flag": ""
  },
@@ -185,7 +185,7 @@
   "answer": [
    1
   ],
-  "explain": "S3 offence: fine and/or 10 years prison.",
+  "explain": "A Section 3 offence carries a fine or 10 years in prison, or both.",
   "source": "Lecture 4 (CMA) slide 12",
   "flag": ""
  },
@@ -223,7 +223,7 @@
   "answer": [
    3
   ],
-  "explain": "Ethics define socially acceptable behaviours; laws are drawn from ethics and carry the authority of a governing body; ethics come from moral attitudes or customs.",
+  "explain": "Ethics define socially acceptable behaviours. Laws are drawn from ethics and carry the authority of a governing body, and ethics come from moral attitudes or customs.",
   "source": "Lecture 4 (CMA) slide 4",
   "flag": ""
  },
@@ -242,7 +242,7 @@
   "answer": [
    1
   ],
-  "explain": "Main differences: laws carry the authority of a governing body; ethics come from moral attitudes or customs.",
+  "explain": "The main differences are that laws carry the authority of a governing body and ethics come from moral attitudes or customs.",
   "source": "Lecture 4 (CMA) slide 4",
   "flag": ""
  },
@@ -280,7 +280,7 @@
   "answer": [
    0
   ],
-  "explain": "Laws: rules that mandate or prohibit certain behaviour; drawn from ethics. Policy is guidelines.",
+  "explain": "Laws are rules that mandate or prohibit certain behaviour and are drawn from ethics. Policy is guidelines.",
   "source": "Lecture 4 (CMA) slide 4-5",
   "flag": ""
  },
@@ -299,9 +299,9 @@
   "answer": [
    3
   ],
-  "explain": "Main differences: ignoring a policy is acceptable; ignoring a law is unacceptable.",
+  "explain": "The main differences are that ignoring a policy is acceptable and ignoring a law is unacceptable.",
   "source": "Lecture 4 (CMA) slide 5",
-  "flag": "The slide says policy 'has penalties for non-compliance' yet also 'ignoring a policy is acceptable'; these sit awkwardly together. Follow the slide wording."
+  "flag": "The slide says policy \"has penalties for non-compliance\" yet also \"ignoring a policy is acceptable\", and these sit awkwardly together. Follow the slide wording."
  },
  {
   "id": "w07-017",
@@ -318,7 +318,7 @@
   "answer": [
    1
   ],
-  "explain": "Policy: guidelines that describe acceptable and unacceptable behaviour; has penalties for non-compliance.",
+  "explain": "A policy is guidelines that describe acceptable and unacceptable behaviour, and it has penalties for non-compliance.",
   "source": "Lecture 4 (CMA) slide 5",
   "flag": ""
  },
@@ -337,7 +337,7 @@
   "answer": [
    1
   ],
-  "explain": "Due care: organisation makes sure employees know what is acceptable or unacceptable.",
+  "explain": "Due care is when the organisation makes sure employees know what is acceptable or unacceptable.",
   "source": "Lecture 4 (CMA) slide 6",
   "flag": ""
  },
@@ -356,7 +356,7 @@
   "answer": [
    1
   ],
-  "explain": "Due diligence: organisation makes valid effort to protect employees, customers etc.",
+  "explain": "Due diligence is when the organisation makes a valid effort to protect employees, customers etc.",
   "source": "Lecture 4 (CMA) slide 6",
   "flag": ""
  },
@@ -394,7 +394,7 @@
   "answer": [
    1
   ],
-  "explain": "Cyber-enabled crimes: traditional crimes which can be increased in scale or reach by the use of computers, computer networks or other forms of ICT.",
+  "explain": "Cyber-enabled crimes are traditional crimes which can be increased in scale or reach by the use of computers, computer networks or other forms of ICT.",
   "source": "Lecture 4 (CMA) slide 7",
   "flag": ""
  },
@@ -413,7 +413,7 @@
   "answer": [
    3
   ],
-  "explain": "Cyber-dependent: illicit intrusion into networks or disrupting a service, e.g. hacking, defacing a website, DoS, malware. Cyberstalking, grooming and piracy are cyber-enabled.",
+  "explain": "Cyber-dependent crime is illicit intrusion into networks or disrupting a service, for example hacking, defacing a website, DoS and malware. Cyberstalking, grooming and piracy are cyber-enabled.",
   "source": "Lecture 4 (CMA) slide 8-9",
   "flag": ""
  },
@@ -451,9 +451,9 @@
   "answer": [
    3
   ],
-  "explain": "Cyber-dependent crimes slide lists Computer Misuse Act 1990, Regulation of Investigation Powers Act 2000 and Data Protection Act 1998.",
+  "explain": "The cyber-dependent crimes slide lists the Computer Misuse Act 1990, the Regulation of Investigation Powers Act 2000 and the Data Protection Act 1998.",
   "source": "Lecture 4 (CMA) slide 8",
-  "flag": "Slide spells it 'Regulation of Investigation Powers Act' (real title: Regulation of Investigatory Powers Act 2000)."
+  "flag": "The slide spells it \"Regulation of Investigation Powers Act\", and the real title is Regulation of Investigatory Powers Act 2000."
  },
  {
   "id": "w07-025",
@@ -470,7 +470,7 @@
   "answer": [
    3
   ],
-  "explain": "Slide lists Data Protection Act 1998 (some civil + some criminal offences).",
+  "explain": "The slide lists the Data Protection Act 1998, which has some civil and some criminal offences.",
   "source": "Lecture 4 (CMA) slide 8, 11",
   "flag": ""
  },
@@ -489,7 +489,7 @@
   "answer": [
    2
   ],
-  "explain": "Other Acts (e.g. Fraud Act 2006) may be easier to prove to criminal standard of proof.",
+  "explain": "Other Acts, for example the Fraud Act 2006, may be easier to prove to the criminal standard of proof.",
   "source": "Lecture 4 (CMA) slide 15",
   "flag": ""
  },
@@ -508,7 +508,7 @@
   "answer": [
    0
   ],
-  "explain": "NB: Often jurisdictional problems, especially cross border e.g. see long running saga of Gary McKinnon.",
+  "explain": "There are often jurisdictional problems, especially cross border, for example the long running saga of Gary McKinnon.",
   "source": "Lecture 4 (CMA) slide 11",
   "flag": ""
  },
@@ -527,7 +527,7 @@
   "answer": [
    0
   ],
-  "explain": "Easy to get arrested - needs authorisation letter from genuine high level manager who has the authority to give it (e.g. IT Director) AND present to verify.",
+  "explain": "It is easy to get arrested, so the tester needs an authorisation letter from a genuine high level manager who has the authority to give it, for example an IT Director, and that person must be present to verify it.",
   "source": "Lecture 4 (CMA) slide 14",
   "flag": ""
  },
@@ -603,7 +603,7 @@
   "answer": [
    3
   ],
-  "explain": "PCI DSS (Payment Card Industry Data Security Standard).",
+  "explain": "PCI DSS stands for Payment Card Industry Data Security Standard.",
   "source": "Lecture 4 (CMA) slide 16",
   "flag": ""
  },
@@ -622,7 +622,7 @@
   "answer": [
    3
   ],
-  "explain": "PCI DSS was a result of collaboration between credit card companies (American Express, MasterCard, VISA, etc.).",
+  "explain": "PCI DSS resulted from collaboration between credit card companies such as American Express, MasterCard and VISA.",
   "source": "Lecture 4 (CMA) slide 16",
   "flag": ""
  },
@@ -660,7 +660,7 @@
   "answer": [
    2
   ],
-  "explain": "Sarbanes Oxley (SOX): US public companies must establish procedures ('hotlines'). EuroSOX is the EU equivalent.",
+  "explain": "Under Sarbanes Oxley, known as SOX, US public companies must establish procedures called \"hotlines\". EuroSOX is the EU equivalent.",
   "source": "Lecture 4 (CMA) slide 20",
   "flag": ""
  },
@@ -698,7 +698,7 @@
   "answer": [
    3
   ],
-  "explain": "T&Cs are legally binding. How do you enforce them when no one reads them? Herod's clause (Guardian, 2014).",
+  "explain": "Terms and conditions are legally binding, so how do you enforce them when no one reads them? Herod's clause illustrates this, citing the Guardian in 2014.",
   "source": "Lecture 4 (CMA) slide 21",
   "flag": ""
  },
@@ -717,7 +717,7 @@
   "answer": [
    1
   ],
-  "explain": "National Cyber Crime Unit: they are the police; part of the National Crime Agency (NCA).",
+  "explain": "The National Cyber Crime Unit is the police and is part of the National Crime Agency, the NCA.",
   "source": "Lecture 4 (CMA) slide 22",
   "flag": ""
  },
@@ -736,7 +736,7 @@
   "answer": [
    3
   ],
-  "explain": "NCCU works with Regional Organised Crime Units (ROCUs); job: respond to threats, collaborate with partners to reduce cyber crime.",
+  "explain": "The NCCU works with Regional Organised Crime Units, the ROCUs. Its job is to respond to threats and collaborate with partners to reduce cyber crime.",
   "source": "Lecture 4 (CMA) slide 22",
   "flag": ""
  },
@@ -756,7 +756,7 @@
   "answer": [
    0
   ],
-  "explain": "NCSC job: protect UK critical services from cyber attacks; manage major incidents; improve the security of the UK Internet.",
+  "explain": "The NCSC's job is to protect UK critical services from cyber attacks, manage major incidents and improve the security of the UK Internet.",
   "source": "Lecture 4 (CMA) slide 23",
   "flag": ""
  },
@@ -775,7 +775,7 @@
   "answer": [
    2
   ],
-  "explain": "GCHQ: protect the UK (with law enforcement and other intelligence agencies); defend Government systems from cyber threat.",
+  "explain": "GCHQ protects the UK, with law enforcement and other intelligence agencies, and defends Government systems from cyber threat.",
   "source": "Lecture 4 (CMA) slide 23",
   "flag": ""
  },
@@ -794,7 +794,7 @@
   "answer": [
    1
   ],
-  "explain": "National Cyber Security Centre (NCSC).",
+  "explain": "NCSC stands for National Cyber Security Centre.",
   "source": "Lecture 4 (CMA) slide 23",
   "flag": ""
  },
@@ -813,7 +813,7 @@
   "answer": [
    0
   ],
-  "explain": "ICO: independent authority; report a DPA/GDPR breach.",
+  "explain": "The ICO is an independent authority, and it is where you report a DPA or GDPR breach.",
   "source": "Lecture 4 (CMA) slide 24",
   "flag": ""
  },
@@ -832,7 +832,7 @@
   "answer": [
    2
   ],
-  "explain": "NIST (National Institute for Standards and Technology): non-regulatory US agency; test and set standards for technology including security.",
+  "explain": "NIST, the National Institute for Standards and Technology, is a non-regulatory US agency that tests and sets standards for technology including security.",
   "source": "Lecture 4 (CMA) slide 24",
   "flag": ""
  },
@@ -851,7 +851,7 @@
   "answer": [
    3
   ],
-  "explain": "OWASP: global not-for-profit that supports application security; research, pen-testing; education.",
+  "explain": "OWASP is a global not-for-profit that supports application security through research, pen-testing and education.",
   "source": "Lecture 4 (CMA) slide 25",
   "flag": ""
  },
@@ -870,7 +870,7 @@
   "answer": [
    1
   ],
-  "explain": "CREST: non-for-profit organisation, representing the information security industry; research, pen-testing; education: 'CyberEssentials' - professional qualifications.",
+  "explain": "CREST is a not-for-profit organisation representing the information security industry, with research, pen-testing and education. The slide links it to \"CyberEssentials\" professional qualifications.",
   "source": "Lecture 4 (CMA) slide 25",
   "flag": ""
  },
@@ -889,7 +889,7 @@
   "answer": [
    1
   ],
-  "explain": "Report a cybercrime: www.actionfraud.police.uk.",
+  "explain": "Report a cybercrime at www.actionfraud.police.uk.",
   "source": "Lecture 4 (CMA) slide 22",
   "flag": ""
  },
@@ -908,7 +908,7 @@
   "answer": [
    1
   ],
-  "explain": "3) Maintain a Vulnerability Management Program: use and regularly update anti-virus software; develop and maintain secure systems and applications.",
+  "explain": "Goal 3 is Maintain a Vulnerability Management Program, which covers using and regularly updating anti-virus software and developing and maintaining secure systems and applications.",
   "source": "Lecture 4 (CMA) slide 17",
   "flag": ""
  },
@@ -927,7 +927,7 @@
   "answer": [
    0
   ],
-  "explain": "4) Implement Strong Access Control Measures: restrict access to data by business need-to-know; assign a unique ID to each person with computer access; restrict physical access to cardholder data.",
+  "explain": "Goal 4 is Implement Strong Access Control Measures. It covers restricting access to data by business need-to-know, assigning a unique ID to each person with computer access, and restricting physical access to cardholder data.",
   "source": "Lecture 4 (CMA) slide 18",
   "flag": ""
  },
@@ -947,7 +947,7 @@
   "answer": [
    0
   ],
-  "explain": "The six goals: secure network; protect cardholder data; vulnerability management programme; strong access control; regularly monitor and test networks; information security policy.",
+  "explain": "The six goals are a secure network, protecting cardholder data, a vulnerability management programme, strong access control, regularly monitoring and testing networks, and an information security policy.",
   "source": "Lecture 4 (CMA) slide 17-18",
   "flag": ""
  },
@@ -996,7 +996,7 @@
    3,
    5
   ],
-  "explain": "Problems in prosecuting: proving unauthorised access, intent, offence/logs, the perpetrator, and technical detail baffling judge or jury.",
+  "explain": "The problems in prosecuting are proving unauthorised access, intent, the offence and logs, the perpetrator, and technical detail baffling a judge or jury.",
   "source": "Lecture 4 (CMA) slide 15",
   "flag": ""
  },
@@ -1019,7 +1019,7 @@
    4,
    5
   ],
-  "explain": "PCI DSS sets out ways to: protect card holder data; securely transfer card holder data; monitor your own network.",
+  "explain": "PCI DSS sets out ways to protect card holder data, securely transfer card holder data and monitor your own network.",
   "source": "Lecture 4 (CMA) slide 16",
   "flag": ""
  },
@@ -1070,7 +1070,7 @@
    2,
    6
   ],
-  "explain": "Six goals: secure network; protect cardholder data; vulnerability management programme; strong access control; regularly monitor and test; information security policy.",
+  "explain": "The six goals are a secure network, protecting cardholder data, a vulnerability management programme, strong access control, regularly monitoring and testing, and an information security policy.",
   "source": "Lecture 4 (CMA) slide 17-18",
   "flag": ""
  },
@@ -1093,7 +1093,7 @@
    1,
    2
   ],
-  "explain": "4) Implement Strong Access Control Measures: need-to-know; unique ID; restrict physical access.",
+  "explain": "Goal 4, Implement Strong Access Control Measures, covers need-to-know access, a unique ID, and restricting physical access.",
   "source": "Lecture 4 (CMA) slide 18",
   "flag": ""
  },
@@ -1142,7 +1142,7 @@
    5,
    6
   ],
-  "explain": "Cyber-enabled: economic crime (fraud, piracy, IP theft, forgery), cyberstalking, child sexual offences (illicit images, online grooming). DoS, defacing and malware are cyber-dependent.",
+  "explain": "Cyber-enabled crime covers economic crime such as fraud, piracy, IP theft and forgery, cyberstalking, and child sexual offences such as illicit images and online grooming. DoS, defacing and malware are cyber-dependent.",
   "source": "Lecture 4 (CMA) slide 8-9",
   "flag": ""
  },
@@ -1167,7 +1167,7 @@
    3,
    6
   ],
-  "explain": "Cyber-dependent: hacking, defacing a website, DoS, malware.",
+  "explain": "Cyber-dependent crimes are hacking, defacing a website, DoS and malware.",
   "source": "Lecture 4 (CMA) slide 8",
   "flag": ""
  },
@@ -1218,7 +1218,7 @@
    3,
    4
   ],
-  "explain": "Pen testing: authorised person; cannot 'PROVE' safe; hardware/software/social engineering; very limited need-to-know; authorisation letter; use reputable organisation.",
+  "explain": "Pen testing uses an authorised person and cannot \"PROVE\" a system safe. It can use hardware, software or social engineering, only a very limited number of people need to know, it needs an authorisation letter, and you should use a reputable organisation.",
   "source": "Lecture 4 (CMA) slide 14",
   "flag": ""
  },
@@ -1241,7 +1241,7 @@
    2,
    3
   ],
-  "explain": "Authorisation letter from genuine high level manager AND present to verify; use reputable organisation; cannot 'PROVE' safe.",
+  "explain": "The authorisation letter comes from a genuine high level manager, and the tester must be present to verify it. Use a reputable organisation, and remember a test cannot \"PROVE\" a system safe.",
   "source": "Lecture 4 (CMA) slide 14",
   "flag": ""
  },
@@ -1292,7 +1292,7 @@
    1,
    4
   ],
-  "explain": "NCCU: respond to threats, reduce cyber crime. GCHQ: protect UK, defend Government systems. NCSC: protect UK critical services. NIST is a US agency; OWASP supports application security.",
+  "explain": "The NCCU responds to threats and reduces cyber crime. GCHQ protects the UK and defends Government systems. The NCSC protects UK critical services. NIST is a US agency, and OWASP supports application security.",
   "source": "Lecture 4 (CMA) slide 22-25",
   "flag": ""
  },
@@ -1315,7 +1315,7 @@
    1,
    2
   ],
-  "explain": "NCSC: protect UK critical services from cyber attacks; manage major incidents; improve the security of the UK Internet.",
+  "explain": "The NCSC's job is to protect UK critical services from cyber attacks, manage major incidents and improve the security of the UK Internet.",
   "source": "Lecture 4 (CMA) slide 23",
   "flag": ""
  },
@@ -1337,7 +1337,7 @@
    2,
    4
   ],
-  "explain": "GCHQ: protect the UK; defend Government systems from cyber threat. Other items belong to NCSC and NCCU.",
+  "explain": "GCHQ protects the UK and defends Government systems from cyber threat. The other items belong to NCSC and NCCU.",
   "source": "Lecture 4 (CMA) slide 23",
   "flag": ""
  },
@@ -1361,7 +1361,7 @@
    3,
    5
   ],
-  "explain": "National Cyber Crime Unit: they are the police; part of NCA; work with ROCUs; respond to threats; collaborate with partners.",
+  "explain": "The National Cyber Crime Unit is the police, is part of the NCA, works with ROCUs, responds to threats and collaborates with partners.",
   "source": "Lecture 4 (CMA) slide 22",
   "flag": ""
  },
@@ -1383,7 +1383,7 @@
    2,
    3
   ],
-  "explain": "NIST: non-regulatory US agency; test and set standards for technology including security.",
+  "explain": "NIST is a non-regulatory US agency that tests and sets standards for technology including security.",
   "source": "Lecture 4 (CMA) slide 24",
   "flag": ""
  },
@@ -1405,7 +1405,7 @@
    0,
    2
   ],
-  "explain": "OWASP: research, pen-testing, education. CREST: research, pen-testing, education ('CyberEssentials').",
+  "explain": "OWASP does research, pen-testing and education. CREST does research, pen-testing and education, with \"CyberEssentials\".",
   "source": "Lecture 4 (CMA) slide 25",
   "flag": ""
  },
@@ -1497,7 +1497,7 @@
    4,
    5
   ],
-  "explain": "Slide 12 penalties: S1 2 years [prev. 6 months]; S2 5 years; S3 10 years.",
+  "explain": "Slide 12 gives penalties of 2 years for S1, previously 6 months, 5 years for S2 and 10 years for S3.",
   "source": "Lecture 4 (CMA) slide 12",
   "flag": ""
  },
@@ -1544,7 +1544,7 @@
    2,
    3
   ],
-  "explain": "Laws drawn from ethics; laws carry authority of a governing body; ethics from moral attitudes or customs.",
+  "explain": "Laws are drawn from ethics and carry the authority of a governing body, and ethics come from moral attitudes or customs.",
   "source": "Lecture 4 (CMA) slide 4",
   "flag": ""
  },
@@ -1568,7 +1568,7 @@
    3,
    4
   ],
-  "explain": "T&Cs protect a company: fair use of the product; protect copyright or licenses; outline user and company expectations. T&Cs are legally binding.",
+  "explain": "T&Cs protect a company through fair use of the product, protection of copyright or licenses, and outlining user and company expectations. T&Cs are legally binding.",
   "source": "Lecture 4 (CMA) slide 21",
   "flag": ""
  },
@@ -1592,7 +1592,7 @@
    4,
    5
   ],
-  "explain": "Computer law: incorporate or omit features, security, audit trails, advise others, seek further advice.",
+  "explain": "Computer law matters because you may need to incorporate or omit features, add security and audit trails, advise others and seek further advice.",
   "source": "Lecture 4 (CMA) slide 26",
   "flag": ""
  },
@@ -1614,7 +1614,7 @@
    1,
    2
   ],
-  "explain": "SOX: hotlines; directors must give correct information to auditors; EuroSOX - EU equivalent.",
+  "explain": "SOX requires hotlines and requires directors to give correct information to auditors. EuroSOX is the EU equivalent.",
   "source": "Lecture 4 (CMA) slide 20",
   "flag": ""
  },
@@ -1706,7 +1706,7 @@
    1,
    3
   ],
-  "explain": "Cybercrime = cyber-dependent + cyber-enabled (UK Government, 2016).",
+  "explain": "Cybercrime is cyber-dependent crime plus cyber-enabled crime, according to the UK Government in 2016.",
   "source": "Lecture 4 (CMA) slide 7",
   "flag": ""
  }

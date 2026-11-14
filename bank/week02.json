@@ -33,7 +33,7 @@
   "answer": [
    3
   ],
-  "explain": "Personal data is data about a living person who can be identified from the data; human beings.",
+  "explain": "Personal data is data about a living person who can be identified from the data. These are human beings.",
   "source": "Lecture 2 slide 7",
   "flag": ""
  },
@@ -71,7 +71,7 @@
   "answer": [
    2
   ],
-  "explain": "The DPA is enforced by the Information Commissioner (ICO) in the UK.",
+  "explain": "The Information Commissioner, the ICO, enforces the DPA in the UK.",
   "source": "Lecture 2 slide 9",
   "flag": ""
  },
@@ -88,7 +88,7 @@
   "answer": [
    0
   ],
-  "explain": "This is Principle #8 (Transfer Abroad), quoted from the slide.",
+  "explain": "This is Principle 8, Transfer Abroad, quoted from the slide.",
   "source": "Lecture 2 slide 19",
   "flag": ""
  },
@@ -122,7 +122,7 @@
   "answer": [
    1
   ],
-  "explain": "Principle #2: it shall not be further processed in any manner incompatible with that purpose or those purposes.",
+  "explain": "Principle 2 says the data shall not be further processed in any manner incompatible with that purpose or those purposes.",
   "source": "Lecture 2 slide 14",
   "flag": ""
  },
@@ -139,7 +139,7 @@
   "answer": [
    0
   ],
-  "explain": "Principle #8 slide: 'putting on the internet = world-wide transfer'.",
+  "explain": "The Principle 8 slide says \"putting on the internet = world-wide transfer\".",
   "source": "Lecture 2 slide 19",
   "flag": ""
  },
@@ -158,7 +158,7 @@
   "answer": [
    1
   ],
-  "explain": "Principle #8 (Transfer Abroad). Principle 7 is security; Principle 6 is the rights of a data subject; Principle 5 is retention.",
+  "explain": "Principle 8 covers Transfer Abroad. Principle 7 is security, Principle 6 is the rights of a data subject and Principle 5 is retention.",
   "source": "Lecture 2 slide 19",
   "flag": ""
  },
@@ -177,7 +177,7 @@
   "answer": [
    2
   ],
-  "explain": "Principle #6 (Rights of a data subject). Principles 1-5, 7 and 8 are obligations on Data Controllers.",
+  "explain": "Principle 6 covers the rights of a data subject. Principles 1-5, 7 and 8 are obligations on Data Controllers.",
   "source": "Lecture 2 slide 20",
   "flag": ""
  },
@@ -196,7 +196,7 @@
   "answer": [
    3
   ],
-  "explain": "Obligations on Data Controllers are Principles 1-5, 7, 8; the rights of Data Subjects are Principle 6.",
+  "explain": "Principles 1-5, 7 and 8 are the obligations on Data Controllers. The rights of Data Subjects are Principle 6.",
   "source": "Lecture 2 slide 11",
   "flag": ""
  },
@@ -215,9 +215,9 @@
   "answer": [
    1
   ],
-  "explain": "Right to 'access any data held on you (normally within 40 days, and fee up to £10)'.",
+  "explain": "The slide says you can \"access any data held on you, normally within 40 days, and fee up to £10\".",
   "source": "Lecture 2 slide 20",
-  "flag": "Slide figures differ from current law (GDPR: one month, normally free). Follow the slide."
+  "flag": "The slide figures differ from current law, where the GDPR gives one month and is normally free. Follow the slide."
  },
  {
   "id": "w02-013",
@@ -234,9 +234,9 @@
   "answer": [
    2
   ],
-  "explain": "'Data Protection Act 1984. Updated in 1998, 2018.'",
+  "explain": "The slide says \"Data Protection Act 1984. Updated in 1998, 2018.\"",
   "source": "Lecture 2 slide 6",
-  "flag": "Slide 5 lists the DPA as '1994, 1998, 2018' while slide 6 says 1984. Slide 6 is the explicit history; slide 5 may be a typo."
+  "flag": "Slide 5 lists the DPA as 1994, 1998 and 2018, while slide 6 says 1984. Slide 6 is the explicit history, so slide 5 may be a typo."
  },
  {
   "id": "w02-014",
@@ -253,7 +253,7 @@
   "answer": [
    3
   ],
-  "explain": "The IT law list and the DP overview give 'GDPR (2016)' and 'General Data Protection Regulation 2016'.",
+  "explain": "The IT law list and the DP overview give \"GDPR 2016\" and \"General Data Protection Regulation 2016\".",
   "source": "Lecture 2 slide 5, 6",
   "flag": ""
  },
@@ -272,9 +272,9 @@
   "answer": [
    1
   ],
-  "explain": "CMA 1990; FOI 2000; RIPA 2018; DPA 1994, 1998, 2018.",
+  "explain": "The slide dates are CMA 1990, FOI 2000, RIPA 2018, and DPA 1994, 1998 and 2018.",
   "source": "Lecture 2 slide 5",
-  "flag": "Slide dates RIPA as 2018, which differs from real law (RIPA 2000). Follow the slide."
+  "flag": "The slide dates RIPA as 2018, which differs from real law where it is 2000. Follow the slide."
  },
  {
   "id": "w02-016",
@@ -291,7 +291,7 @@
   "answer": [
    3
   ],
-  "explain": "'Freedom of Information (FOI 2000)'.",
+  "explain": "The slide says \"Freedom of Information, FOI 2000\".",
   "source": "Lecture 2 slide 5",
   "flag": ""
  },
@@ -310,7 +310,7 @@
   "answer": [
    2
   ],
-  "explain": "Data Controller: the person(s) (or organisation) who holds the data or controls the processing. The second option is the Data Processor; the first is the Data Subject.",
+  "explain": "The Data Controller is the person or organisation who holds the data or controls the processing. The second option describes the Data Processor and the first describes the Data Subject.",
   "source": "Lecture 2 slide 8",
   "flag": ""
  },
@@ -329,7 +329,7 @@
   "answer": [
    2
   ],
-  "explain": "Data Processor: anyone in (an organisation) contracted to do some data processing under data controller's instructions.",
+  "explain": "The Data Processor is anyone in an organisation contracted to do some data processing under the data controller's instructions.",
   "source": "Lecture 2 slide 8",
   "flag": ""
  },
@@ -348,7 +348,7 @@
   "answer": [
    3
   ],
-  "explain": "Listed exemptions: National Security; Personal, Domestic and Recreational usage; Prevention and detection of crime; Journalistic, literature or artistic purposes; Where another statute authorises disclosure.",
+  "explain": "The listed exemptions are National Security, Personal, Domestic and Recreational usage, Prevention and detection of crime, Journalistic, literature or artistic purposes, and where another statute authorises disclosure.",
   "source": "Lecture 2 slide 21",
   "flag": ""
  },
@@ -386,7 +386,7 @@
   "answer": [
    0
   ],
-  "explain": "SPAM to individual consumers (not businesses) is an offence against PECR, regulated by the ICO.",
+  "explain": "SPAM to individual consumers, and not to businesses, is an offence against PECR, which the ICO regulates.",
   "source": "Lecture 2 slide 26",
   "flag": ""
  },
@@ -405,7 +405,7 @@
   "answer": [
    1
   ],
-  "explain": "'compliance' is just enough to comply with the law; 'best practice' is good understanding within the law.",
+  "explain": "\"Compliance\" means just enough to comply with the law. \"Best practice\" means a good understanding within the law.",
   "source": "Lecture 2 slide 11",
   "flag": ""
  },
@@ -424,7 +424,7 @@
   "answer": [
    1
   ],
-  "explain": "GDPR brings accountability principles and a higher standard for consent: opt-in, with evidence kept.",
+  "explain": "GDPR brings accountability principles and a higher standard for consent, which is opt-in with evidence kept.",
   "source": "Lecture 2 slide 23",
   "flag": ""
  },
@@ -441,7 +441,7 @@
   "answer": [
    0
   ],
-  "explain": "Post-Brexit slide: GDPR has extraterritorial effect, so non-EU countries are also affected.",
+  "explain": "The post-Brexit slide says GDPR has extraterritorial effect, so non-EU countries are also affected.",
   "source": "Lecture 2 slide 24",
   "flag": ""
  },
@@ -477,7 +477,7 @@
   "answer": [
    3
   ],
-  "explain": "ICO: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.",
+  "explain": "The ICO address is Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.",
   "source": "Lecture 2 slide 25",
   "flag": ""
  },
@@ -496,7 +496,7 @@
   "answer": [
    0
   ],
-  "explain": "Summary: if you are not exempt and don't follow the law, you will be penalised (fines/imprisonment).",
+  "explain": "The summary says that if you are not exempt and don't follow the law, you will be penalised with fines or imprisonment.",
   "source": "Lecture 2 slide 27",
   "flag": ""
  },
@@ -572,7 +572,7 @@
   "answer": [
    1
   ],
-  "explain": "DPA 1998: personal data held or processed in automated form AND some manual records.",
+  "explain": "The DPA 1998 covers personal data held or processed in automated form AND some manual records.",
   "source": "Lecture 2 slide 9",
   "flag": ""
  },
@@ -591,7 +591,7 @@
   "answer": [
    3
   ],
-  "explain": "The ICO page lists 'The Data Protection Register (for data controllers)'; the DPA 1998 slide says controllers notify the Information Commissioner and are published on a public Register.",
+  "explain": "The ICO page lists \"The Data Protection Register\" for data controllers. The DPA 1998 slide says controllers notify the Information Commissioner and are published on a public Register.",
   "source": "Lecture 2 slide 10, 25",
   "flag": ""
  },
@@ -618,7 +618,7 @@
    5,
    6
   ],
-  "explain": "Slide 12 lists consent, contract, legal obligation, vital interests, public function under statutory powers and legitimate interests of the controller (unless prejudicial).",
+  "explain": "Slide 12 lists consent, contract, legal obligation, vital interests, public function under statutory powers, and legitimate interests of the controller unless prejudicial.",
   "source": "Lecture 2 slide 12",
   "flag": ""
  },
@@ -644,7 +644,7 @@
    4,
    6
   ],
-  "explain": "Sensitive data needs extra care and higher security: explicit consent, employment legal obligation, made public by data subject, medical purposes by a health professional, racial or ethnic monitoring, among others.",
+  "explain": "Sensitive data needs extra care and higher security. The conditions include explicit consent, employment legal obligation, made public by the data subject, medical purposes by a health professional, and racial or ethnic monitoring, among others.",
   "source": "Lecture 2 slide 13",
   "flag": ""
  },
@@ -671,7 +671,7 @@
    5,
    6
   ],
-  "explain": "Slide 20 lists these rights; there is no right to payment for holding data.",
+  "explain": "Slide 20 lists these rights. There is no right to payment for holding data.",
   "source": "Lecture 2 slide 20",
   "flag": ""
  },
@@ -719,7 +719,7 @@
    3,
    5
   ],
-  "explain": "Exemptions: National Security; Personal, Domestic and Recreational usage; Prevention and detection of crime; Journalistic, literature or artistic purposes; Where another statute authorises disclosure.",
+  "explain": "The exemptions are National Security, Personal, Domestic and Recreational usage, Prevention and detection of crime, Journalistic, literature or artistic purposes, and where another statute authorises disclosure.",
   "source": "Lecture 2 slide 21",
   "flag": ""
  },
@@ -764,7 +764,7 @@
    1,
    2
   ],
-  "explain": "Principle #7: against unauthorised or unlawful processing, and against accidental loss, or destruction of, or damage to, personal data.",
+  "explain": "Principle 7 requires measures against unauthorised or unlawful processing, and against accidental loss of, destruction of, or damage to personal data.",
   "source": "Lecture 2 slide 18",
   "flag": ""
  },
@@ -809,7 +809,7 @@
    2,
    3
   ],
-  "explain": "Notification covers what TYPES of information held for what PURPOSES; obtained from WHO; disclosed to WHO.",
+  "explain": "Notification covers what TYPES of information are held, for what PURPOSES, who it is obtained from and who it is disclosed to.",
   "source": "Lecture 2 slide 10",
   "flag": ""
  },
@@ -857,7 +857,7 @@
    2,
    4
   ],
-  "explain": "Direct mail opt-out services: Mailing, Fax and Telephone Preference services.",
+  "explain": "The direct mail opt-out services are the Mailing, Fax and Telephone Preference services.",
   "source": "Lecture 2 slide 26",
   "flag": ""
  },
@@ -903,7 +903,7 @@
    1,
    3
   ],
-  "explain": "Slide 6: rights you have about YOUR data; responsibilities others have to look after it carefully; 'privacy' you can expect around data storage.",
+  "explain": "Slide 6 says data protection laws outline the rights you have about YOUR data, the responsibilities others have to look after it carefully, and the \"privacy\" you can expect around data storage.",
   "source": "Lecture 2 slide 6",
   "flag": ""
  },
@@ -926,7 +926,7 @@
    3,
    4
   ],
-  "explain": "Accountability principles and a higher standard for consent: opt-in, and evidence must be kept.",
+  "explain": "The main improvements are accountability principles and a higher standard for consent, which is opt-in with evidence kept.",
   "source": "Lecture 2 slide 23",
   "flag": ""
  },
@@ -950,7 +950,7 @@
    3,
    4
   ],
-  "explain": "Processing is anything you do with personal data: hold, store, gather, delete, modify.",
+  "explain": "Processing is anything you do with personal data, such as hold, store, gather, delete and modify.",
   "source": "Lecture 2 slide 7",
   "flag": ""
  },
@@ -977,7 +977,7 @@
    5,
    6
   ],
-  "explain": "Sensitive personal data: racial or ethnical origins, religious believes, political opinions, physical/mental health, sexual preferences, criminal records.",
+  "explain": "Sensitive personal data covers racial or ethnical origins, religious believes, political opinions, physical or mental health, sexual preferences and criminal records.",
   "source": "Lecture 2 slide 7",
   "flag": ""
  },
@@ -998,7 +998,7 @@
    1,
    2
   ],
-  "explain": "SPAM to individual consumers (not businesses) is an offence against PECR, regulated by the ICO; it might also fall into the DPA 2018.",
+  "explain": "SPAM to individual consumers, and not to businesses, is an offence against PECR, which the ICO regulates. It might also fall into the DPA 2018.",
   "source": "Lecture 2 slide 26",
   "flag": ""
  },
@@ -1067,9 +1067,9 @@
    3,
    4
   ],
-  "explain": "Data Protection Act 1984, updated in 1998 and 2018.",
+  "explain": "The Data Protection Act came in 1984 and was updated in 1998 and 2018.",
   "source": "Lecture 2 slide 6",
-  "flag": "Slide 5 lists DPA as 1994, 1998, 2018; slide 6 gives 1984, 1998, 2018. Follow slide 6."
+  "flag": "Slide 5 lists the DPA as 1994, 1998 and 2018, while slide 6 gives 1984, 1998 and 2018. Follow slide 6."
  },
  {
   "id": "w02-053",
@@ -1088,7 +1088,7 @@
    2,
    3
   ],
-  "explain": "Principle #3: adequate, relevant and not excessive in relation to the purposes for which they are processed.",
+  "explain": "Principle 3 says data must be adequate, relevant and not excessive in relation to the purposes for which they are processed.",
   "source": "Lecture 2 slide 15",
   "flag": ""
  },
@@ -1113,7 +1113,7 @@
    4,
    5
   ],
-  "explain": "OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.",
+  "explain": "OCEAN stands for Openness, Conscientiousness, Extraversion, Agreeableness and Neuroticism.",
   "source": "Seminar 2 slide 5",
   "flag": ""
  },
@@ -1139,7 +1139,7 @@
    5,
    6
   ],
-  "explain": "Impacts on 5 categories of issues (Ethical, Legal, Social, Professional and Systems).",
+  "explain": "The seminar asks for impacts on 5 categories of issues, which are Ethical, Legal, Social, Professional and Systems.",
   "source": "Seminar 2 slide 3",
   "flag": ""
  },
@@ -1158,7 +1158,7 @@
   "answer": [
    2
   ],
-  "explain": "Element 010 Part 1: in-class test 20%; Part 2: individual report 80%.",
+  "explain": "Element 010 Part 1, the in-class test, is worth 20%, and Part 2, the individual report, is worth 80%.",
   "source": "Seminar 2 slide 14",
   "flag": ""
  },
@@ -1177,7 +1177,7 @@
   "answer": [
    0
   ],
-  "explain": "Element 010 Part 2: individual report (2000 words) 80%.",
+  "explain": "Element 010 Part 2 is the individual report of 2000 words, worth 80%.",
   "source": "Seminar 2 slide 14",
   "flag": ""
  },
@@ -1196,7 +1196,7 @@
   "answer": [
    1
   ],
-  "explain": "Submission via CANVAS: 2pm Friday week 12.",
+  "explain": "Submission is via CANVAS at 2pm on Friday of week 12.",
   "source": "Seminar 2 slide 14",
   "flag": ""
  },
@@ -1215,7 +1215,7 @@
   "answer": [
    2
   ],
-  "explain": "Neuroticism (sensitive/nervous vs. secure/confident).",
+  "explain": "Neuroticism is described as sensitive and nervous versus secure and confident.",
   "source": "Seminar 2 slide 5",
   "flag": ""
  },
@@ -1234,7 +1234,7 @@
   "answer": [
    1
   ],
-  "explain": "Extraversion is outgoing/energetic vs. solitary/reserved; friendly/compassionate vs. challenging/detached is Agreeableness.",
+  "explain": "Extraversion is outgoing and energetic versus solitary and reserved. Friendly and compassionate versus challenging and detached describes Agreeableness.",
   "source": "Seminar 2 slide 5",
   "flag": ""
  },
@@ -1314,7 +1314,7 @@
   "answer": [
    0
   ],
-  "explain": "The research drew in 350,000 US participants. (3.5 million is Kosinski's later sample base.)",
+  "explain": "The research drew in 350,000 US participants. The figure of 3.5 million is Kosinski's later sample base.",
   "source": "Reading (Isaak and Hanna 2018) page 57",
   "flag": ""
  },
@@ -1333,7 +1333,7 @@
   "answer": [
    1
   ],
-  "explain": "A second research project was reportedly initiated by Global Science Research (GSR) in cooperation with Cambridge Analytica.",
+  "explain": "A second research project was reportedly started by Global Science Research, GSR, in cooperation with Cambridge Analytica.",
   "source": "Reading (Isaak and Hanna 2018) page 57",
   "flag": ""
  },
@@ -1429,7 +1429,7 @@
   "answer": [
    3
   ],
-  "explain": "Facebook is being investigated by the Federal Trade Commission (FTC) for violating a 2011 consent decree.",
+  "explain": "Facebook is being investigated by the Federal Trade Commission, the FTC, for violating a 2011 consent decree.",
   "source": "Reading (Isaak and Hanna 2018) page 57",
   "flag": ""
  },
@@ -1448,7 +1448,7 @@
   "answer": [
    2
   ],
-  "explain": "The CONSENT Act (S.2639) comes from Senators Richard Blumenthal (D-CT) and Ed Markey (D-MA).",
+  "explain": "The CONSENT Act, S.2639, comes from Senators Richard Blumenthal of Connecticut and Ed Markey of Massachusetts, both Democrats.",
   "source": "Reading (Isaak and Hanna 2018) page 59",
   "flag": ""
  },
@@ -1467,7 +1467,7 @@
   "answer": [
    0
   ],
-  "explain": "S.2728 introduced by Senator Amy Klobuchar (D-MN).",
+  "explain": "S.2728 was introduced by Senator Amy Klobuchar, a Democrat from Minnesota.",
   "source": "Reading (Isaak and Hanna 2018) page 59",
   "flag": ""
  },
@@ -1510,7 +1510,7 @@
    4,
    5
   ],
-  "explain": "Headings: Public transparency; Disclosure for users; Control; Notification.",
+  "explain": "The headings are Public transparency, Disclosure for users, Control and Notification.",
   "source": "Reading (Isaak and Hanna 2018) page 58-59",
   "flag": ""
  },

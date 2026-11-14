@@ -33,7 +33,7 @@
   "answer": [
    1
   ],
-  "explain": "Process failure: an information system project cannot be developed within an allocated budget and/or time schedule.",
+  "explain": "Process failure is when an information system project cannot be developed within an allocated budget, the time schedule, or both.",
   "source": "Lecture 5 slide 6",
   "flag": ""
  },
@@ -53,7 +53,7 @@
   "answer": [
    1
   ],
-  "explain": "Correspondence failure: when the objectives/goals of the systems design are not met.",
+  "explain": "Correspondence failure is when the objectives or goals of the systems design are not met.",
   "source": "Lecture 5 slide 6",
   "flag": ""
  },
@@ -73,7 +73,7 @@
   "answer": [
    3
   ],
-  "explain": "Interaction failure: attributed to the level of end-user usage or adoption or acceptance of the implemented information system.",
+  "explain": "Interaction failure is attributed to the level of end-user usage, adoption or acceptance of the implemented information system.",
   "source": "Lecture 5 slide 6",
   "flag": ""
  },
@@ -93,7 +93,7 @@
   "answer": [
    0
   ],
-  "explain": "Expectation failure: inability of a system to meet its stakeholders' requirement, expectations or values.",
+  "explain": "Expectation failure is the inability of a system to meet its stakeholders' requirements, expectations or values.",
   "source": "Lecture 5 slide 6",
   "flag": ""
  },
@@ -171,7 +171,7 @@
   "answer": [
    3
   ],
-  "explain": "\"Normal Accident\": complexity + tight interaction = catastrophic potential.",
+  "explain": "In the \"Normal Accident\" idea, complexity plus tight interaction gives catastrophic potential.",
   "source": "Lecture 5 slide 9",
   "flag": ""
  },
@@ -190,7 +190,7 @@
   "answer": [
    1
   ],
-  "explain": "Tightly Coupled - interacting elements with no 'buffer' or delay possible. Linear is one thing then another; complex has multiple routes.",
+  "explain": "Tightly coupled means interacting elements with no \"buffer\" or delay possible. Linear means one thing then another, and complex means multiple routes.",
   "source": "Lecture 5 slide 9",
   "flag": ""
  },
@@ -210,7 +210,7 @@
   "answer": [
    2
   ],
-  "explain": "Learning objective: recall the six primary reasons for system failures.",
+  "explain": "The learning objective is to recall the six primary reasons for system failures.",
   "source": "Lecture 5 slide 3",
   "flag": ""
  },
@@ -230,7 +230,7 @@
   "answer": [
    4
   ],
-  "explain": "Types of system failures: Partial, Total, Catastrophic.",
+  "explain": "The types of system failure are Partial, Total and Catastrophic.",
   "source": "Lecture 5 slide 7",
   "flag": ""
  },
@@ -309,7 +309,7 @@
   "answer": [
    2
   ],
-  "explain": "British Midland Airways flight BD092 (Boeing 737-400).",
+  "explain": "British Midland Airways flight BD092 was a Boeing 737-400.",
   "source": "Lecture 5 slide 22",
   "flag": ""
  },
@@ -328,7 +328,7 @@
   "answer": [
    3
   ],
-  "explain": "Unbeknown to the crew, a fan blade in engine #1 had fractured; the first officer wrongly replied engine #2, which was throttled back.",
+  "explain": "Unbeknown to the crew, a fan blade in engine #1 had fractured. The first officer wrongly replied engine #2, which was throttled back.",
   "source": "Lecture 5 slide 22",
   "flag": ""
  },
@@ -368,9 +368,9 @@
   "answer": [
    3
   ],
-  "explain": "Slide: 'resulting in loss of 47 of the 126 passengers on board'.",
+  "explain": "The slide says the crash resulted in the loss of 47 of the 126 passengers on board.",
   "source": "Lecture 5 slide 22",
-  "flag": "Slide says 47 of the 126 'passengers on board'; it does not mention crew."
+  "flag": "The slide says 47 of the 126 \"passengers on board\" and does not mention crew."
  },
  {
   "id": "w05-020",
@@ -465,7 +465,7 @@
   "answer": [
    3
   ],
-  "explain": "A software \"race condition\" caused the mechanical interlock (which applies the x-ray filter) to fail.",
+  "explain": "A software \"race condition\" made the mechanical interlock fail. That interlock applies the x-ray filter.",
   "source": "Lecture 5 slide 24",
   "flag": ""
  },
@@ -485,9 +485,9 @@
   "answer": [
    0
   ],
-  "explain": "The process was repeated 4 times, each time it showed \"NO DOSE.\"",
+  "explain": "The process was repeated 4 times, and each time it showed \"NO DOSE\".",
   "source": "Lecture 5 slide 24",
-  "flag": "Slide text is 'This process was repeated 4 times'; whether the first press counts is not stated."
+  "flag": "The slide text is \"This process was repeated 4 times\". It does not say whether the first press counts."
  },
  {
   "id": "w05-026",
@@ -522,7 +522,7 @@
   "answer": [
    4
   ],
-  "explain": "Faulty Hardware slide: difficult to guard against faulty hardware; no excuse for faulty code.",
+  "explain": "The Faulty Hardware slide says it is difficult to guard against faulty hardware and there is no excuse for faulty code.",
   "source": "Lecture 5 slide 13-15",
   "flag": ""
  },
@@ -561,7 +561,7 @@
   "answer": [
    3
   ],
-  "explain": "Poor Fit Between System and Organisation: often driven by cost, poor specification.",
+  "explain": "A poor fit between system and organisation is often driven by cost and poor specification.",
   "source": "Lecture 5 slide 16",
   "flag": ""
  },
@@ -580,7 +580,7 @@
   "answer": [
    1
   ],
-  "explain": "Incorrect Assumptions: development team guess, or don't check.",
+  "explain": "Under Incorrect Assumptions, the development team guess or don't check.",
   "source": "Lecture 5 slide 12",
   "flag": ""
  },
@@ -604,7 +604,7 @@
    3,
    4
   ],
-  "explain": "The six causes: poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, poor fit between system and organisation. All five options are on the list.",
+  "explain": "The six causes are poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, and poor fit between system and organisation. All five options are on the list.",
   "source": "Lecture 5 slide 10 and 17",
   "flag": ""
  },
@@ -626,7 +626,7 @@
    2,
    3
   ],
-  "explain": "Causes listed: poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, poor fit between system and organisation.",
+  "explain": "The listed causes are poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, and poor fit between system and organisation.",
   "source": "Lecture 5 slide 10",
   "flag": ""
  },
@@ -700,7 +700,7 @@
    3,
    4
   ],
-  "explain": "Reasons for failure: people (poor training, not following procedures, stress), organisational culture (unreasonable deadlines), no clear responsibility, large projects have a momentum of their own. Dissimilar backups are a prevention.",
+  "explain": "The reasons for failure are people, meaning poor training, not following procedures and stress, organisational culture such as unreasonable deadlines, no clear responsibility, and large projects having a momentum of their own. Dissimilar backups are a prevention.",
   "source": "Lecture 5 slide 20",
   "flag": ""
  },
@@ -745,7 +745,7 @@
    2,
    4
   ],
-  "explain": "People: poor training; not following procedures before/during/after; stress/pressure before/during/after.",
+  "explain": "Under People, the slide lists poor training, not following procedures before, during and after, and stress and pressure before, during and after.",
   "source": "Lecture 5 slide 20",
   "flag": ""
  },
@@ -791,7 +791,7 @@
    3,
    5
   ],
-  "explain": "Classification: process, correspondence, interaction, expectation. Partial, total and catastrophic are the types.",
+  "explain": "The classifications are process, correspondence, interaction and expectation failure. Partial, total and catastrophic are the types.",
   "source": "Lecture 5 slide 6-7",
   "flag": ""
  },
@@ -814,7 +814,7 @@
    2,
    4
   ],
-  "explain": "Types: Partial, Total, Catastrophic. The other options are classifications.",
+  "explain": "The types are Partial, Total and Catastrophic. The other options are classifications.",
   "source": "Lecture 5 slide 6-7",
   "flag": ""
  },
@@ -858,7 +858,7 @@
    2,
    4
   ],
-  "explain": "Failure is costly: loss of money; loss of reputation (or job); loss of life?",
+  "explain": "Failure is costly through loss of money, loss of reputation or job, and possibly loss of life.",
   "source": "Lecture 5 slide 21",
   "flag": ""
  },
@@ -880,7 +880,7 @@
    3,
    4
   ],
-  "explain": "Poor Development Practices: complexity of projects means poor specification, poor design, poor testing.",
+  "explain": "Under Poor Development Practices, complexity of projects means poor specification, poor design and poor testing.",
   "source": "Lecture 5 slide 11",
   "flag": ""
  },
@@ -904,7 +904,7 @@
    2,
    3
   ],
-  "explain": "Slide: flight BD092 (Boeing 737-400), fan blade in engine #1 fractured, crashed into the M1.",
+  "explain": "The slide says flight BD092 was a Boeing 737-400, a fan blade in engine #1 fractured, and the plane crashed into the M1.",
   "source": "Lecture 5 slide 22",
   "flag": ""
  },
@@ -930,7 +930,7 @@
    5,
    6
   ],
-  "explain": "Slide: the captain followed procedure, first officer replied engine #2 after hesitation, #2 throttled back, cleared for East Midlands, crashed into M1.",
+  "explain": "The slide says the captain followed procedure, the first officer replied engine #2 after hesitation, engine #2 was throttled back, the plane was cleared for East Midlands, and it crashed into the M1.",
   "source": "Lecture 5 slide 22",
   "flag": ""
  },
@@ -953,7 +953,7 @@
    3,
    4
   ],
-  "explain": "Slide: the main-feed water pump stopped, auxiliary feeds shut for maintenance, relief valve stuck open, indicator showed command not state. The race condition is Therac-25.",
+  "explain": "The slide says the main-feed water pump stopped, the auxiliary feeds were shut for maintenance, the relief valve stuck open, and the indicator showed the command, not the state. The race condition belongs to Therac-25.",
   "source": "Lecture 5 slide 23",
   "flag": ""
  },
@@ -977,7 +977,7 @@
    4,
    5
   ],
-  "explain": "Slide: morning of 28th March 1979, secondary non-nuclear part, partial nuclear meltdown, operator triggered the valve to relieve pressure.",
+  "explain": "The slide gives the morning of 28th March 1979, the secondary non-nuclear part, a partial nuclear meltdown, and an operator triggering the valve to relieve pressure.",
   "source": "Lecture 5 slide 23",
   "flag": ""
  },
@@ -1001,7 +1001,7 @@
    4,
    5
   ],
-  "explain": "Slide: radiation therapy machine, race condition, interlock applies the x-ray filter, 6 people; the dose would not be recorded.",
+  "explain": "The slide says it is a radiation therapy machine, a race condition was involved, the interlock applies the x-ray filter, the number of people is 6, and the dose would not be recorded.",
   "source": "Lecture 5 slide 24",
   "flag": ""
  },
@@ -1027,7 +1027,7 @@
    5,
    6
   ],
-  "explain": "Slide: paused with HTILT, NO DOSE shown, operator pressed proceed, burning sensation in hip, died a month later.",
+  "explain": "The slide says the machine paused with HTILT, NO DOSE was shown, the operator pressed proceed, the patient felt a burning sensation in her hip, and she died a month later.",
   "source": "Lecture 5 slide 24",
   "flag": ""
  },
@@ -1049,7 +1049,7 @@
    2,
    3
   ],
-  "explain": "Slide: lack of knowledge increases serious errors; bad training = loss of data integrity; such failures are mistakes by management.",
+  "explain": "The slide says lack of knowledge increases serious errors, bad training means loss of data integrity, and such failures are mistakes by management.",
   "source": "Lecture 5 slide 15",
   "flag": ""
  },
@@ -1093,7 +1093,7 @@
    2,
    3
   ],
-  "explain": "Kegworth: engine #2 throttled back; Three Mile Island: valve stayed open and the main-feed water pump failed; Therac-25: race condition.",
+  "explain": "In Kegworth, engine #2 was throttled back. At Three Mile Island, the valve stayed open and the main-feed water pump failed. In Therac-25, the cause was a race condition.",
   "source": "Lecture 5 slide 22-24",
   "flag": ""
  },
@@ -1113,7 +1113,7 @@
    1,
    2
   ],
-  "explain": "System - regularly interacting or interdependent group of items forming a unified whole; Failure - the state or condition of not meeting a desirable or intended objective.",
+  "explain": "A system is a regularly interacting or interdependent group of items forming a unified whole. A failure is the state or condition of not meeting a desirable or intended objective.",
   "source": "Lecture 5 slide 4",
   "flag": ""
  },
@@ -1180,7 +1180,7 @@
    3,
    4
   ],
-  "explain": "Slide 21 lists those three points; failure costs money, reputation (or job) and possibly life.",
+  "explain": "Slide 21 lists those three points. Failure costs money, reputation or job, and possibly life.",
   "source": "Lecture 5 slide 21",
   "flag": ""
  },
@@ -1202,7 +1202,7 @@
    3,
    4
   ],
-  "explain": "Slides 13-14: poorly designed interface introduces user errors; difficult to guard against faulty hardware; no excuse for faulty code.",
+  "explain": "Slides 13 to 14 say a poorly designed interface introduces user errors, it is difficult to guard against faulty hardware, and there is no excuse for faulty code.",
   "source": "Lecture 5 slide 13-14",
   "flag": ""
  }

@@ -71,7 +71,7 @@
   "answer": [
    0
   ],
-  "explain": "The list begins: clearly identify all the facts, define the areas of potential conflict, identify the stakeholders, list all options, list the consequences, now make the decision.",
+  "explain": "The list begins with clearly identifying all the facts. Then come defining the areas of potential conflict, identifying the stakeholders, listing all options, listing the consequences, and finally making the decision.",
   "source": "Lecture 6 (Ethics) slide 8",
   "flag": ""
  },
@@ -90,7 +90,7 @@
   "answer": [
    3
   ],
-  "explain": "Order on the slide: facts, areas of potential conflict, stakeholders, options, consequences, decision.",
+  "explain": "The order on the slide is facts, areas of potential conflict, stakeholders, options, consequences, then decision.",
   "source": "Lecture 6 (Ethics) slide 8",
   "flag": ""
  },
@@ -128,7 +128,7 @@
   "answer": [
    3
   ],
-  "explain": "Utilitarianism Principle: take the decision for the greatest good of everyone.",
+  "explain": "The Utilitarianism Principle says to take the decision for the greatest good of everyone.",
   "source": "Lecture 6 (Ethics) slide 9",
   "flag": ""
  },
@@ -147,7 +147,7 @@
   "answer": [
    2
   ],
-  "explain": "Risk Aversion Principle: take the decision that causes least harm.",
+  "explain": "The Risk Aversion Principle says to take the decision that causes least harm.",
   "source": "Lecture 6 (Ethics) slide 9",
   "flag": ""
  },
@@ -166,7 +166,7 @@
   "answer": [
    2
   ],
-  "explain": "Rule of Universality (Kant, 1724-1804).",
+  "explain": "The Rule of Universality is attributed to Kant, 1724-1804.",
   "source": "Lecture 6 (Ethics) slide 9",
   "flag": ""
  },
@@ -185,9 +185,9 @@
   "answer": [
    0
   ],
-  "explain": "Rule of Change: if an action cannot be taken repeatedly, then it is not right to take it at all (Descartes, 1596-1650).",
+  "explain": "The Rule of Change says that if an action cannot be taken repeatedly, then it is not right to take it at all. The slide credits Descartes, 1596-1650.",
   "source": "Lecture 6 (Ethics) slide 9",
-  "flag": "Slide attributes the Rule of Change to Descartes (1596-1650); follow the slide."
+  "flag": "The slide attributes the Rule of Change to Descartes, 1596-1650. Follow the slide."
  },
  {
   "id": "w06-011",
@@ -204,7 +204,7 @@
   "answer": [
    0
   ],
-  "explain": "Rule of Change ... (Descartes, 1596-1650); Rule of Universality is Kant, 1724-1804.",
+  "explain": "The Rule of Change is named with Descartes, 1596-1650. The Rule of Universality is Kant, 1724-1804.",
   "source": "Lecture 6 (Ethics) slide 9",
   "flag": ""
  },
@@ -357,7 +357,7 @@
   "answer": [
    0
   ],
-  "explain": "If A and B both remain silent, both of them will only serve one year in prison (on the lesser charge).",
+  "explain": "If A and B both remain silent, both of them will only serve one year in prison, on the lesser charge.",
   "source": "Lecture 6 (Ethics) slide 15",
   "flag": ""
  },
@@ -434,7 +434,7 @@
   "answer": [
    2
   ],
-  "explain": "Digital divide: the haves and have-nots.",
+  "explain": "The digital divide means the haves and have-nots.",
   "source": "Lecture 6 (Ethics) slide 22",
   "flag": ""
  },
@@ -453,7 +453,7 @@
   "answer": [
    1
   ],
-  "explain": "deception - withholding information; consent - informing participants.",
+  "explain": "Deception means withholding information, and consent means informing participants.",
   "source": "Lecture 6 (Ethics) slide 24",
   "flag": ""
  },
@@ -612,7 +612,7 @@
    2,
    3
   ],
-  "explain": "Potential areas for conflict: self, manager, client, organization, family, peer group.",
+  "explain": "The potential areas for conflict are self, manager, client, organization, family and peer group.",
   "source": "Lecture 6 (Ethics) slide 10",
   "flag": ""
  },
@@ -734,7 +734,7 @@
    1,
    5
   ],
-  "explain": "Social impacts: Quality, Employment, Digital divide. Software theft is under IPR; the others under Privacy.",
+  "explain": "The social impacts are quality, employment and the digital divide. Software theft sits under IPR, and the other options sit under privacy.",
   "source": "Lecture 6 (Ethics) slide 22",
   "flag": ""
  },
@@ -760,7 +760,7 @@
    4,
    6
   ],
-  "explain": "Privacy: Big Brother (data mining, web surveillance, facial recognition, customer profiling); Your boss is watching (monitoring access).",
+  "explain": "Under privacy, Big Brother covers data mining, web surveillance, facial recognition and customer profiling. \"Your boss is watching\" covers monitoring access.",
   "source": "Lecture 6 (Ethics) slide 22",
   "flag": ""
  },
@@ -784,7 +784,7 @@
    3,
    4
   ],
-  "explain": "Intellectual Property Rights: copyright, ownership, how to reward the authors; software theft, illicit copying, spurious backups.",
+  "explain": "Intellectual Property Rights covers copyright, ownership, how to reward the authors, software theft, illicit copying and spurious backups.",
   "source": "Lecture 6 (Ethics) slide 22",
   "flag": ""
  },
@@ -853,7 +853,7 @@
    0,
    2
   ],
-  "explain": "Subjectivism = 'I disapprove of murder'; Prescriptivism = 'don't murder'; Emotivism = 'down with murder'; moral realism = 'it is wrong to murder'.",
+  "explain": "Subjectivism is \"I disapprove of murder\", prescriptivism is \"don't murder\", emotivism is \"down with murder\", and moral realism is \"it is wrong to murder\".",
   "source": "Lecture 6 (Ethics) slide 11",
   "flag": ""
  },
@@ -899,7 +899,7 @@
    2,
    4
   ],
-  "explain": "Detainees are in solitary confinement and the decision will not affect their reputation; rational people (looking out for #1) betray.",
+  "explain": "The detainees are in solitary confinement and the decision will not affect their reputation. Rational people looking out for #1 betray the other.",
   "source": "Lecture 6 (Ethics) slide 14-19",
   "flag": ""
  },

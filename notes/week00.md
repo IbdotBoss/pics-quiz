@@ -1,6 +1,6 @@
-# Cheat sheet: what the test keeps asking
+# Cheat sheet
 
-Built from the lecture slides and the 2024-25 paper. The slides are the marking authority, so where they differ from current law the slide version is given and marked *(slide)*.
+This sheet comes from the lecture slides and the 2024-25 paper. The test is marked against the slides, so where a slide differs from current law the sheet gives the slide's version and marks it *slide*.
 
 ## Where the 2024-25 paper's 40 questions came from
 
@@ -14,14 +14,14 @@ Built from the lecture slides and the 2024-25 paper. The slides are the marking 
 | Introduction (week 1) | 1 |
 | Set reading (ICO overview of the GDPR) | 1 |
 
-Nothing came from Sustainability or Professionalism that year. That is one paper, not a promise.
+No question came from Sustainability or Professionalism that year. One paper cannot tell you what this year's will cover.
 
 ## Acts and years
 
 | Law | Year | One-line hook |
 |---|---|---|
 | Data Protection Act | 1984, updated 1998 and 2018 | 8 principles; enforced by the ICO |
-| GDPR | 2016 | Included in the DPA 2018 *(slide)*; consent is opt-in |
+| GDPR | 2016 | Included in the DPA 2018 *slide*; consent is opt-in |
 | Computer Misuse Act | 1990 | Sections 1, 2, 3, 3ZA, 3A |
 | Freedom of Information Act | 2000 | Right to information held by public authorities |
 | Freedom of Information (Scotland) Act | 2002 | Scottish public authorities |
@@ -30,7 +30,7 @@ Nothing came from Sustainability or Professionalism that year. That is one paper
 | Fraud Act | 2006 | May be easier to prove than the CMA |
 | PECR | no year given | Spam to individual consumers is an offence; regulated by the ICO |
 
-The Data Protection lecture's law list gives RIPA as 2018 and the DPA as "1994, 1998, 2018". Every other slide says RIPA 2000 and DPA 1984.
+The Data Protection lecture's list of laws gives RIPA as 2018 and the DPA as "1994, 1998, 2018". Every other slide says RIPA 2000 and DPA 1984.
 
 ## Acronyms
 
@@ -58,9 +58,9 @@ The Data Protection lecture's law list gives RIPA as 2018 and the DPA as "1994, 
 | BCS | British Computer Society (The Chartered Institute for IT) |
 | IET | Institution of Engineering and Technology |
 | IEEE | Institute for Electrical and Electronic Engineers |
-| ACM | Association of Computer Machinery *(slide wording)* |
+| ACM | Association of Computer Machinery *slide wording* |
 | CPD | Continuing Professional Development |
-| IPCC | International Panel on Climate Change *(slide wording)* |
+| IPCC | International Panel on Climate Change *slide wording* |
 | PUE | Power Usage Effectiveness = total facility power / IT equipment power |
 
 ## Numbers
@@ -68,7 +68,7 @@ The Data Protection lecture's law list gives RIPA as 2018 and the DPA as "1994, 
 | Number | What it is |
 |---|---|
 | 8 | Data protection principles |
-| 40 days, up to £10 | Subject access under Principle 6 *(slide)* |
+| 40 days, up to £10 | Subject access under Principle 6 *slide* |
 | 16 | Under this age, online services on consent need a parent or guardian's authorisation |
 | 20 working days | FOI deadline (the paper's wrong option said 30) |
 | 5 | Sections of the CMA listed: 1, 2, 3, 3ZA, 3A |
@@ -101,56 +101,216 @@ The Data Protection lecture's law list gives RIPA as 2018 and the DPA as "1994, 
 
 ## Lists to know word for word
 
-**Eight data protection principles.** 1 processed fairly and lawfully. 2 obtained only for one or more specified and lawful purposes, not further processed incompatibly. 3 adequate, relevant and not excessive. 4 accurate and where necessary kept up to date. 5 not kept longer than necessary. 6 processed in line with the rights of data subjects. 7 security: technical and operational measures. 8 not transferred outside the EEA without adequate protection. Principles 1-5, 7 and 8 are obligations on data controllers; 6 is the rights of data subjects.
+### Eight data protection principles
 
-**Principle 1 grounds.** Consent; perform a contract with the individual; legal obligation; protect the vital interests of the data subject; public function under statutory powers; legitimate interests of the data controller unless prejudicial to the data subject.
+1. Processed fairly and lawfully.
+2. Obtained only for one or more specified and lawful purposes, and not further processed in a way incompatible with them.
+3. Adequate, relevant and not excessive.
+4. Accurate and where necessary kept up to date.
+5. Not kept longer than necessary.
+6. Processed in line with the rights of data subjects.
+7. Kept secure with technical and operational measures.
+8. Not transferred outside the EEA without adequate protection.
 
-**Principle 6 rights.** Access (40 days, up to £10); know the purposes; have incorrect information corrected or erased; have a dispute recorded; explanation of the logic of automated decisions; request an assessment of compliance; compensation; prevent processing causing substantial damage or distress; not to receive direct marketing.
+Principles 1 to 5, 7 and 8 are obligations on data controllers. Principle 6 is the rights of data subjects.
 
-**DPA exemptions.** National security; personal, domestic and recreational usage; prevention and detection of crime; journalistic, literature or artistic purposes; where another statute authorises disclosure.
+### Principle 1 grounds
 
-**FOI: who you can ask.** Parliament; government departments and other public bodies and committees; local councils; schools, colleges and universities; health trusts, hospitals and doctors' surgeries; publicly owned companies; publicly funded museums; the police. Private companies and privately funded museums are the usual wrong options.
+- Consent
+- Perform a contract with the individual
+- Legal obligation
+- Protect the vital interests of the data subject
+- Public function under statutory powers
+- Legitimate interests of the data controller unless prejudicial to the data subject
 
-**FOI absolute exemptions.** National security; prevention, detection of crime; taxation; judicial (at court's discretion); regulatory authorities; advice to ministers; information accessible by other means.
+### Principle 6 rights
 
-**FOI qualified exemptions.** International relations; relations within the UK; the country's economic interests; law enforcement; audit functions; effective conduct of public affairs; health and safety; commercial interests.
+- Access, normally within 40 days for a fee of up to £10
+- Know the purposes
+- Have incorrect information corrected or erased
+- Have a dispute recorded
+- Explanation of the logic of automated decisions
+- Request an assessment of compliance
+- Compensation
+- Prevent processing causing substantial damage or distress
+- Not to receive direct marketing
 
-**FOI obligations.** Communicate all information unless exempted; DPA rights prevail; duty to say whether information is held; right is to recorded information, not the document; advise and assist; publication scheme; can refuse vexatious or repeated requests; 20 working days.
+### DPA exemptions
 
-**CMA sections.** 1 unauthorised access to computer material. 2 unauthorised access with intent to commit or facilitate further offences. 3 unauthorised acts with intent to impair, or recklessness as to impairing, the operation of a computer. 3ZA unauthorised acts causing, or creating risk of, serious damage. 3A making, supplying or obtaining articles for use in an offence.
+- National security
+- Personal, domestic and recreational usage
+- Prevention and detection of crime
+- Journalistic, literature or artistic purposes
+- Where another statute authorises disclosure
 
-**Problems prosecuting under the CMA.** Proving access was unauthorised (S1); proving intent (S2) or malicious intent (S3); proof of offence (logs, audit trails) and that the computer was working properly; proof the defendant was the perpetrator; technical detail baffling judge or jury; other Acts may be easier to prove.
+### Who you can ask under FOI
 
-**Cyber-dependent crime.** Only possible through ICT; the device is both tool and target. Hacking, defacing a website, DoS, malware.
+- Parliament
+- Government departments and other public bodies and committees
+- Local councils
+- Schools, colleges and universities
+- Health trusts, hospitals and doctors' surgeries
+- Publicly owned companies
+- Publicly funded museums
+- The police
 
-**Cyber-enabled crime.** Traditional crime scaled up by ICT. Economic crime (fraud, piracy, IP theft, forgery); online marketplaces for illegal items; offensive communication (cyberbullying, social media); cyberstalking; child sexual offences; extreme publications.
+Private companies and privately funded museums are the usual wrong options.
 
-**PCI DSS goals.** Build and maintain a secure network; protect cardholder data; maintain a vulnerability management program; implement strong access control measures; regularly monitor and test networks; maintain an information security policy. In short, it sets out ways to protect card holder data, securely transfer it, and monitor your own network. Do NOT use vendor-supplied defaults.
+### FOI absolute exemptions
 
-**Law, ethics, policy.** Ethics define socially acceptable behaviours and come from moral attitudes or customs; they can be universal. Laws are rules that mandate or prohibit behaviour, are drawn from ethics, carry the authority of a governing body, and tend to be local. Policy is guidelines describing acceptable and unacceptable behaviour, with penalties for non-compliance. Ignoring a policy is acceptable; ignoring a law is unacceptable *(slide)*.
+- National security
+- Prevention, detection of crime
+- Taxation
+- Judicial, at the court's discretion
+- Regulatory authorities
+- Advice to ministers
+- Information accessible by other means
 
-**Causes of system failure.** Poor development practices; incorrect assumptions; poor user interface; faulty hardware; inadequate user training (or user error); poor fit between system and organisation.
+### FOI qualified exemptions
 
-**Safety critical systems.** Fail-safe failure modes; graceful degradation on failure of a sub-system; multiple backups using DISSIMILAR systems, hardware and software; rigorous testing; rigorous external independent oversight.
+- International relations
+- Relations within the UK
+- The country's economic interests
+- Law enforcement
+- Audit functions
+- Effective conduct of public affairs
+- Health and safety
+- Commercial interests
 
-**Reasons for failure.** People (poor training, not following procedures, stress); organisational culture (blame, unreasonable deadlines, too expensive to contemplate, top management kept in the dark); no clear responsibility for dealing with failure; large projects have a momentum of their own; failures of regulators.
+### FOI obligations
 
-**Before an ethical decision.** Clearly identify all the facts; define the areas of potential conflict; identify the stakeholders; list all options; list the consequences of the actions. Then decide.
+- Communicate all information unless exempted
+- DPA rights prevail
+- Duty to say whether information is held
+- Right is to recorded information, not the document
+- Advise and assist
+- Publication scheme
+- Can refuse vexatious or repeated requests
+- 20 working days
 
-**Ethical principles.** Utilitarianism: greatest good of everyone. Risk aversion: least harm. Rule of Universality (Kant, 1724-1804): not right for everyone, not right for anyone. Rule of Change (Descartes, 1596-1650): if it cannot be done repeatedly it is not right to do at all.
+### CMA sections
 
-**Ethical consultant in IT.** Takes assignments only where they can confidently predict they can help; professionally qualified and keeps up CPD; guides or mentors junior consultants; has professional indemnity and public liability insurance; subscribes to a professional body with a code of conduct; supports that body with time or pro bono consulting.
+| Section | Offence |
+|---|---|
+| 1 | Unauthorised access to computer material |
+| 2 | Unauthorised access with intent to commit or facilitate further offences |
+| 3 | Unauthorised acts with intent to impair, or recklessness as to impairing, the operation of a computer |
+| 3ZA | Unauthorised acts causing, or creating risk of, serious damage |
+| 3A | Making, supplying or obtaining articles for use in an offence |
 
-**BCS Code of Conduct.** 1 Public Interest. 2 Professional Competence and Integrity. 3 Duty to Relevant Authority. 4 Duty to the Profession.
+### Problems prosecuting under the CMA
+
+- Proving access was unauthorised, for section 1
+- Proving intent for section 2, or malicious intent for section 3
+- Proof of offence, such as logs and audit trails, and that the computer was working properly
+- Proof the defendant was the perpetrator
+- Technical detail baffling judge or jury
+- Other Acts may be easier to prove
+
+### Cyber-dependent crime
+
+These crimes are only possible through ICT. The device is both the tool and the target. The slide's examples are hacking, defacing a website, DoS and malware.
+
+### Cyber-enabled crime
+
+Traditional crime scaled up by ICT.
+
+- Economic crime, such as fraud, piracy, IP theft and forgery
+- Online marketplaces for illegal items
+- Offensive communication, such as cyberbullying and social media
+- Cyberstalking
+- Child sexual offences
+- Extreme publications
+
+### PCI DSS goals
+
+- Build and maintain a secure network
+- Protect cardholder data
+- Maintain a vulnerability management program
+- Implement strong access control measures
+- Regularly monitor and test networks
+- Maintain an information security policy
+
+The standard sets out ways to protect card holder data, securely transfer it, and monitor your own network. It says do NOT use vendor-supplied defaults.
+
+### Law, ethics, policy
+
+Ethics define socially acceptable behaviours and come from moral attitudes or customs. They can be universal.
+
+Laws are rules that mandate or prohibit behaviour. They are drawn from ethics, carry the authority of a governing body, and tend to be local.
+
+Policy is guidelines describing acceptable and unacceptable behaviour, with penalties for non-compliance.
+
+The slide says ignoring a policy is acceptable and ignoring a law is unacceptable.
+
+### Causes of system failure
+
+- Poor development practices
+- Incorrect assumptions
+- Poor user interface
+- Faulty hardware
+- Inadequate user training, or user error
+- Poor fit between system and organisation
+
+### Safety critical systems
+
+- Fail-safe failure modes
+- Graceful degradation on failure of a sub-system
+- Multiple backups using DISSIMILAR systems, hardware and software
+- Rigorous testing
+- Rigorous external independent oversight
+
+### Reasons for failure
+
+- People, through poor training, not following procedures, and stress
+- Organisational culture, meaning blame, unreasonable deadlines, failure being too expensive to contemplate, and top management kept in the dark
+- No clear responsibility for dealing with failure
+- Large projects have a momentum of their own
+- Failures of regulators
+
+### Before an ethical decision
+
+- Clearly identify all the facts
+- Define the areas of potential conflict
+- Identify the stakeholders
+- List all options
+- List the consequences of the actions
+
+Then decide.
+
+### Ethical principles
+
+| Principle | What it says | Attributed to |
+|---|---|---|
+| Utilitarianism | Take the decision for the greatest good of everyone | |
+| Risk aversion | Take the decision that causes least harm | |
+| Rule of Universality | If the action is not right for everyone, it is not right for anyone | Kant, 1724-1804 |
+| Rule of Change | If an action cannot be taken repeatedly, it is not right to take it at all | Descartes, 1596-1650 |
+
+### Ethical consultant in IT
+
+- Takes assignments only where they can confidently predict they can help
+- Professionally qualified and keeps up CPD
+- Guides or mentors junior consultants
+- Has professional indemnity and public liability insurance
+- Subscribes to a professional body with a code of conduct
+- Supports that body with time or pro bono consulting
+
+### BCS Code of Conduct
+
+1. Public Interest
+2. Professional Competence and Integrity
+3. Duty to Relevant Authority
+4. Duty to the Profession
 
 ## Questions worth asking the tutor
 
-These are the places where the 2024-25 paper and the slides do not settle the answer.
+The 2024-25 paper and the slides leave these seven points unsettled.
 
-1. **CMA "levels of offences"** (Q4). The slides list five sections but give penalties for three. Is the expected answer 3 or 5?
-2. **FOI: who "holds the right to access information"** (Q8). The paper's wording could mean the public authorities or the members of the public.
-3. **Hacking as an offence under other laws** (Q23). Does RIPA 2000 count? The hacking slide does not name it.
-4. **What the ICO enforces** (Q12). DPA 2018 only, or GDPR 2016 as well?
-5. **Bodies that "prevent cyber threat and reduce cybercrime"** (Q30). Does the NCA count alongside the NCCU and GCHQ?
-6. **"Project scale is too large"** as a reason for system failure (Q38). The slide says "large projects have a momentum of their own".
-7. **How choose-all questions are marked.** All-or-nothing, or part marks, and is there a penalty for a wrong tick?
+1. **Levels of offence in the CMA.** The slides list five sections and give penalties for three. Is the expected answer 3 or 5?
+2. **Who holds the right to access information under FOI.** The paper's wording could mean the public authorities or the members of the public.
+3. **Hacking as an offence under other laws.** Does RIPA 2000 count? The hacking slide does not name it.
+4. **What the ICO enforces.** Is it the DPA 2018 only, or GDPR 2016 as well?
+5. **Bodies that prevent cyber threat and reduce cybercrime.** Does the NCA count alongside the NCCU and GCHQ?
+6. **Project scale as a reason for system failure.** The slide says "large projects have a momentum of their own". Does "project scale is too large" count as the same point?
+7. **How choose-all questions are marked.** Is it all or nothing, are there part marks, and does a wrong tick lose marks?

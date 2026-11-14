@@ -4,68 +4,115 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<meta name="description" content="Practice questions and revision notes for the MOD002647 Professional Issues: Computing and Society in-class test.">
-<meta name="theme-color" content="#1f4e8c">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e8c'/%3E%3Cpath d='M9 17l5 5 9-11' fill='none' stroke='%23fff' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<meta name="color-scheme" content="light">
+<meta name="description" content="Practice questions and revision notes for the MOD002647 Professional Issues, Computing and Society in-class test.">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='3' width='26' height='26' fill='%23fff' stroke='%23141414' stroke-width='2.5'/%3E%3Cpath d='M9 9 23 23M23 9 9 23' stroke='%231b2f8a' stroke-width='3.2' stroke-linecap='round'/%3E%3C/svg%3E">
 <title>PICS Test Practice</title>
 <style>
-:root{--bg:#f6f4ef;--card:#fffdf8;--ink:#1d1b16;--mute:#6b665b;--line:#ddd7c9;--edge:#857f70;--acc:#1f4e8c;--acc-ink:#fff;--ok:#1f6b3a;--ok-bg:#e2f1e5;--bad:#a32a22;--bad-bg:#f8e3e0;--warn:#7a5200;--warn-bg:#fbefcf}
-@media (prefers-color-scheme:dark){:root{--bg:#15161a;--card:#1e2026;--ink:#ecebe6;--mute:#a09d94;--line:#34363e;--edge:#777a86;--acc:#8db8f2;--acc-ink:#10151d;--ok:#8fd6a3;--ok-bg:#1c3324;--bad:#f0a59e;--bad-bg:#3b1f1d;--warn:#f0cf80;--warn-bg:#3a3017}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:780px;margin:0 auto;padding:20px 16px 80px}
-h1,h2,h3,legend{text-wrap:balance}p{text-wrap:pretty}
-h1{font-size:1.5rem;margin:.2em 0}h1:focus,legend:focus,.fb:focus{outline:none}h2{font-size:1.15rem;margin:1.4em 0 .5em}h3{font-size:1rem;margin:1.2em 0 .4em}
-p{margin:.5em 0}.mute{color:var(--mute);font-size:.9rem}
-a{color:var(--acc)}html{overflow-x:clip}
-button{font:inherit;color:inherit;cursor:pointer;border:1px solid var(--edge);background:var(--card);border-radius:8px;padding:10px 16px;min-height:44px}
-button.pri{background:var(--acc);color:var(--acc-ink);border-color:var(--acc);font-weight:600}
-button:disabled{opacity:.45;cursor:default}
-button:focus-visible,label.opt:focus-within,a:focus-visible,summary:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin:12px 0}
-.modes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
-.modes button{text-align:left;padding:14px 16px;height:100%}
-.modes b{display:block;margin-bottom:2px}
-.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.sp{justify-content:space-between}
-.chips{display:flex;flex-wrap:wrap;gap:8px}
-.chips label{border:1px solid var(--edge);border-radius:999px;padding:7px 13px;background:var(--card);cursor:pointer;font-size:.92rem}
-.chips input{position:absolute;opacity:0}
-.chips label:has(input:checked){background:var(--acc);color:var(--acc-ink);border-color:var(--acc)}
-.chips label:has(input:focus-visible){outline:3px solid var(--acc);outline-offset:2px}
-.q{font-size:1.08rem;font-weight:600;margin:.3em 0 .8em;white-space:pre-wrap}
-label.opt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--edge);border-radius:10px;padding:12px 14px;margin:8px 0;background:var(--card);cursor:pointer}
-label.opt input{margin-top:.3em;width:18px;height:18px;flex:none;accent-color:var(--acc)}
-label.opt.sel{border-color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
-label.opt.right{border-color:var(--ok);background:var(--ok-bg)}
-label.opt.wrong{border-color:var(--bad);background:var(--bad-bg)}
-label.opt .tag{margin-left:auto;font-size:.8rem;font-weight:600;white-space:nowrap;padding-left:8px}
-.right .tag{color:var(--ok)}.wrong .tag{color:var(--bad)}
-.fb{border-left:4px solid var(--line);padding:8px 12px;margin:12px 0}
-.fb.ok{border-color:var(--ok)}.fb.no{border-color:var(--bad)}
-.flag{background:var(--warn-bg);color:var(--warn);border-radius:8px;padding:8px 12px;margin:10px 0;font-size:.92rem}
-.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:8px 0}
-.bar i{display:block;height:100%;background:var(--acc)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px;margin:10px 0}
-.grid button{padding:0;min-height:40px;font-size:.85rem}
-.grid .done{background:var(--acc);color:var(--acc-ink);border-color:var(--acc);font-weight:700;text-decoration:underline}
-.grid .cur{outline:3px solid var(--acc);outline-offset:1px}
-.grid .gok{background:var(--ok-bg);border-color:var(--ok)}.grid .gno{background:var(--bad-bg);border-color:var(--bad)}
-.timer{font-variant-numeric:tabular-nums;font-weight:600}.timer.low{color:var(--bad)}
-table{border-collapse:collapse;width:100%;font-size:.93rem}td,th{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
-.notes{overflow-wrap:break-word}.notes table{display:block;overflow-x:auto}.notes h1{font-size:1.3rem}.notes h2{border-top:1px solid var(--line);padding-top:.8em}
+@font-face{font-family:Archivo;src:url(data:font/woff2;base64,/*FONT_ARCHIVO*/) format("woff2");font-weight:400 800;font-stretch:62% 125%;font-display:swap}
+@font-face{font-family:"Reenie Beanie";src:url(data:font/woff2;base64,/*FONT_REENIE*/) format("woff2");font-display:swap}
+:root{
+  --paper:#fff;--desk:#e4e4e0;--ink:#141414;--ink-2:#4a4a4a;--hair:#c9c9c4;--pen:#1b2f8a;--red:#c4161c;
+  --t-xs:.84rem;--t-s:.94rem;--t-m:1.0625rem;--t-l:1.375rem;--t-xl:1.875rem;
+}
+*{box-sizing:border-box;border-radius:0}
+html{overflow-x:clip}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 var(--t-m)/1.45 Archivo,Arial,Helvetica,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px 20px 72px;background:var(--paper);min-height:100dvh}
+@media (min-width:800px){body{background:var(--desk)}main{padding:48px 60px 96px}}
+h1,h2,h3,legend,.cond{font-stretch:75%;font-weight:700}h1,h2,h3,.stem{text-wrap:balance}
+h1{font-size:var(--t-xl);line-height:1.1;margin:0 0 6px}
+h2{font-size:var(--t-l);margin:32px 0 8px}
+h3{font-size:var(--t-m);font-stretch:100%;margin:20px 0 4px}
+h1:focus,legend:focus,.note:focus{outline:none}
+p{margin:8px 0;text-wrap:pretty}
+.s{font-size:var(--t-s);color:var(--ink-2)}
+a{color:var(--ink)}
+svg{display:block}
+.pen{stroke:var(--pen);stroke-width:2.6;fill:none;stroke-linecap:round}
+.red{stroke:var(--red);stroke-width:2.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+
+button{font:600 1rem/1.2 Archivo,Arial,sans-serif;color:var(--ink);background:var(--paper);border:1.5px solid var(--ink);padding:11px 20px;min-height:44px;cursor:pointer}
+button.p{background:var(--ink);color:var(--paper)}
+button.l{border:0;padding:11px 0;text-decoration:underline;font-weight:400;font-size:var(--t-s)}
+button:disabled{color:#767676;border-color:#767676;cursor:default}
+button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--pen);outline-offset:3px}
+
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;border-bottom:2px solid var(--ink);font-size:var(--t-s)}
+.top b{font-stretch:75%;font-size:var(--t-m)}
+.timer{font-variant-numeric:tabular-nums;font-weight:600}
+.timer.low{color:var(--red);font-weight:800}
+
+/* cover page */
+.cover{border-bottom:2px solid var(--ink);padding-bottom:14px}
+.rules{margin:8px 0;padding-left:20px}.rules li{margin:4px 0}
+.papers{border-top:2px solid var(--ink);margin-top:8px}
+.papers button{display:grid;grid-template-columns:1fr auto;gap:2px 16px;width:100%;text-align:left;border:0;border-bottom:1px solid var(--ink);padding:14px 0;font-weight:400}
+.papers button b{font-stretch:75%;font-size:var(--t-l);font-weight:700}
+.papers button span{grid-column:1;color:var(--ink-2);font-size:var(--t-s)}
+.papers button i{grid-row:1/3;grid-column:2;align-self:center;font-style:normal;font-size:var(--t-s);font-variant-numeric:tabular-nums;white-space:nowrap}
+.papers button:hover:not(:disabled) b{text-decoration:underline}
+.papers button:disabled b{color:#767676}
+
+/* the answer box, used for answers and for filters */
+fieldset{border:0;margin:0;padding:0;min-width:0}legend{padding:0}
+.qn{display:flex;justify-content:space-between;align-items:baseline;margin:22px 0 2px}
+.qn .cond{font-size:var(--t-l)}
+.stem{font-size:var(--t-m);font-weight:600;font-stretch:100%;margin:6px 0 10px;white-space:pre-wrap}
+.o{display:grid;grid-template-columns:24px 1fr 28px;gap:0 12px;align-items:start;padding:10px 0;position:relative;cursor:pointer}
+.o input{position:absolute;left:0;top:10px;width:24px;height:24px;margin:0;opacity:0;cursor:pointer}
+.box{width:24px;height:24px;border:1.5px solid var(--ink);position:relative;margin-top:1px;background:var(--paper)}
+.box .x{position:absolute;inset:-5px;width:32px;height:32px;display:none}
+.o input:checked + .box .x{display:block}
+.o input:focus-visible + .box{outline:3px solid var(--pen);outline-offset:3px}
+.o input:disabled{cursor:default}
+.box .ring{position:absolute;inset:-10px;width:42px;height:42px}
+.o small{display:block;color:var(--red);font-weight:600;font-size:var(--t-xs)}
+.o .mk{width:26px;height:28px}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:0 24px}
+.cols .o{grid-template-columns:24px 1fr}
+
+.note{border-left:2.5px solid var(--red);padding:2px 0 2px 12px;margin:14px 0 0 36px;font-size:var(--t-s)}
+.note .s{display:block;margin-top:4px;font-size:var(--t-xs)}
+.flag{border:1.5px solid var(--ink);padding:8px 12px;margin:12px 0 0 36px;font-size:var(--t-s)}
+.nav{display:flex;justify-content:space-between;gap:12px;margin-top:24px}
+
+details{margin-top:28px;border-top:1px solid var(--hair)}
+summary{cursor:pointer;padding:12px 0;font-size:var(--t-s)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px;margin:4px 0 16px}
+.grid button{padding:0;min-height:40px;font-size:var(--t-s);font-weight:400;font-variant-numeric:tabular-nums}
+.grid .done{background:var(--ink);color:var(--paper);font-weight:700}
+.grid .cur{outline:3px solid var(--pen);outline-offset:2px}
+
+.score{display:flex;align-items:center;gap:16px;margin:16px 0 8px}
+.score .n{font:400 5rem/1 "Reenie Beanie","Segoe Print",cursive;color:var(--red);position:relative;padding:4px 22px 0}
+.score .n svg{position:absolute;inset:-4px 0;width:100%;height:calc(100% + 8px)}
+table{border-collapse:collapse;width:100%;font-size:var(--t-s)}
+td,th{border-bottom:1px solid var(--hair);padding:7px 10px 7px 0;text-align:left;vertical-align:top}
+th{border-bottom:1.5px solid var(--ink);font-weight:700}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;padding-right:0;white-space:nowrap}
+.rev{border-top:2px solid var(--ink);margin-top:24px}
+
+.tabs{display:flex;flex-wrap:wrap;gap:0 18px;border-bottom:2px solid var(--ink);margin-top:12px}
+.tabs label{padding:10px 0 8px;cursor:pointer;border-bottom:4px solid transparent;font-size:var(--t-s);position:relative}
+.tabs input{position:absolute;opacity:0}
+.tabs label:has(input:checked){border-bottom-color:var(--ink);font-weight:700}
+.tabs label:has(input:focus-visible){outline:3px solid var(--pen);outline-offset:2px}
+.notes{overflow-wrap:break-word}
+.notes h1{font-size:var(--t-xl);margin-top:24px}
+.notes h2{border-top:1px solid var(--ink);padding-top:14px}
+.notes table{display:block;overflow-x:auto;margin:10px 0}
+.notes li{margin:3px 0}
 .notes code{font-size:.9em}
-.big{font-size:2.2rem;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}
-button.link{border:0;background:none;padding:10px 0;color:var(--acc);text-decoration:underline;min-height:44px}
-details{margin:8px 0}summary{cursor:pointer;padding:6px 0}
 </style>
 </head>
 <body>
 <main id="app"></main>
-<noscript><p style="padding:16px">This practice app needs JavaScript switched on.</p></noscript>
+<noscript><p style="padding:20px">This practice paper needs JavaScript switched on.</p></noscript>
 <script>
 const DATA = /*DATA*/;
-const WEEKS = {0:"Past paper 2024-25",1:"Week 1: Introduction and GDPR overview",2:"Week 2: Data Protection",3:"Week 3: Freedom of Information and Privacy",4:"Week 4: Sustainability",5:"Week 5: System Failures",6:"Week 6: Ethics",7:"Weeks 7-8: Computer Misuse Act and cyber bodies",9:"Week 9: Professionalism"};
+const WEEKS = {0:"2024-25 paper",1:"Week 1, Introduction and GDPR overview",2:"Week 2, Data Protection",3:"Week 3, Freedom of Information and Privacy",4:"Week 4, Sustainability",5:"Week 5, System Failures",6:"Week 6, Ethics",7:"Weeks 7 and 8, Computer Misuse Act and cyber bodies",9:"Week 9, Professionalism"};
 const Q = DATA.questions, BYID = Object.fromEntries(Q.map(q => [q.id, q]));
 const LS = "pics-quiz-v1";
 let st = {wrong:{}, seen:{}, run:null, hist:[], prefs:{weeks:null, kinds:["lecture","seminar","reading"], n:20}};
@@ -78,10 +125,29 @@ const marks = q => q.type === "multi" ? 3 : 2;
 const same = (a, b) => a.length === b.length && a.every(x => b.includes(x));
 const bank = Q.filter(q => q.week !== 0);
 const weeksPresent = [...new Set(bank.map(q => q.week))].sort((a, b) => a - b);
-let tick = null, first = true;
 const HASPAST = Q.some(q => q.week === 0);
+let tick = null, first = true;
 // After each re-render, put keyboard and screen-reader focus on the new view.
 const focusOn = sel => { const e = app.querySelector(sel); if (e) { e.tabIndex = -1; e.focus({preventScroll:true}); } };
+const on = (id, f) => { const e = document.getElementById(id); if (e) e.onclick = f; };
+
+// Pen and red-pen marks. A few hand-drawn variants so a column of them does not look stamped.
+const XS = ["M7 8C12 13 19 20 26 25M25 6C19 13 13 19 6 27", "M6 7C13 14 20 19 27 26M26 7C20 12 12 20 7 26", "M8 6C13 12 20 20 25 27M26 8C19 13 12 21 7 25"];
+const xMark = i => `<svg class="x" viewBox="0 0 32 32" aria-hidden="true"><path class="pen" d="${XS[i % 3]}"/></svg>`;
+const TICK = `<svg class="mk" viewBox="0 0 24 26" aria-hidden="true"><path class="red" d="M3 14C6 17 8 20 9 23C12 15 16 8 22 3"/></svg>`;
+const CROSS = `<svg class="mk" viewBox="0 0 24 26" aria-hidden="true"><path class="red" d="M4 5C9 10 15 17 20 22M20 4C14 10 9 16 4 22"/></svg>`;
+const RING = `<svg class="ring" viewBox="0 0 42 42" aria-hidden="true"><path class="red" d="M21 4C33 3 39 12 38 22C37 33 28 39 19 38C9 37 3 29 4 19C5 10 12 5 23 5"/></svg>`;
+
+// One answer row. state is "", "right", "missed" or "wrong" once the question has been marked.
+function row(q, k, i, sel, type, state, locked) {
+  const label = {right:"Correct", missed:"Missed", wrong:"Wrong"}[state] || "";
+  return `<label class="o"><input type="${type}" name="o" value="${k}" ${sel ? "checked" : ""} ${locked ? "disabled" : ""}>
+    <span class="box">${xMark(i)}${state === "missed" ? RING : ""}</span>
+    <span>${esc(q.options[k])}${label ? `<small>${label}</small>` : ""}</span>
+    ${state === "right" ? TICK : state === "wrong" ? CROSS : "<span></span>"}</label>`;
+}
+const stateOf = (q, k, picked) => q.answer.includes(k) ? (picked.includes(k) ? "right" : "missed") : (picked.includes(k) ? "wrong" : "");
+const feedback = q => `<div class="note"><span>${esc(q.explain)}</span><span class="s">${esc(q.source)}</span></div>${q.flag ? `<div class="flag"><b>Note.</b> ${esc(q.flag)}</div>` : ""}`;
 
 function home() {
   clearInterval(tick);
@@ -89,25 +155,36 @@ function home() {
   const resume = st.run && !st.run.done;
   const last = st.hist.slice(-5).reverse();
   app.innerHTML = `
-  <h1>PICS Test Practice</h1>
-  <p class="mute">MOD002647 Professional Issues: Computing and Society. ${bank.length} questions written from the weekly slides and readings${HASPAST ? ", plus the 2024-25 paper" : ""}. The real test: 40 questions, 50 minutes, 20 single-answer (2 marks) and 20 choose-all (3 marks).</p>
-  ${resume ? `<div class="card row sp"><span>You have an unfinished ${esc(st.run.title)}.</span><button class="pri" id="resume">Resume</button></div>` : ""}
-  <div class="modes">
-    <button id="m-mock"><b>Mock test</b><span class="mute">40 fresh questions in test format, 50 minutes, marked at the end.</span></button>
-    ${HASPAST ? `<button id="m-past"><b>2024-25 past paper</b><span class="mute">The real 40 questions, in order, 50 minutes.</span></button>` : ""}
-    <button id="m-prac"><b>Practice by week</b><span class="mute">Answer, then see the explanation and the slide it came from.</span></button>
-    <button id="m-wrong" ${wrongN ? "" : "disabled"}><b>My wrong answers (${wrongN})</b><span class="mute">Drill what you have missed until you get it right.</span></button>
-    <button id="m-notes"><b>Revision notes</b><span class="mute">Acts, years, acronyms, lists and numbers, week by week.</span></button>
+  <header class="cover">
+    <p class="s">MOD002647 Professional Issues, Computing and Society</p>
+    <h1>In-class test practice</h1>
+    <p>Weighting 20%. Time allowed 50 minutes.</p>
+  </header>
+  <h2>Guidelines for candidates</h2>
+  <ul class="rules">
+    <li>Answer ALL questions. Put a clear X in the box next to the answer you choose.</li>
+    <li>Questions 1 to 20 have one correct answer and carry 2 marks each.</li>
+    <li>Questions 21 to 40 have more than one correct answer and carry 3 marks each. Choose all of them.</li>
+    <li>No books or other materials are allowed in the real test, so try the mock without your notes.</li>
+  </ul>
+  <h2>Papers</h2>
+  <div class="papers">
+    ${resume ? `<button id="resume"><b>Resume ${esc(st.run.title.toLowerCase())}</b><span>You stopped at question ${st.run.i + 1}.</span><i>${st.run.ids.length} questions</i></button>` : ""}
+    <button id="m-mock"><b>Mock test</b><span>A fresh paper each time, marked at the end.</span><i>40 questions, 50 min</i></button>
+    ${HASPAST ? `<button id="m-past"><b>2024-25 past paper</b><span>The real paper, in its original order.</span><i>40 questions, 50 min</i></button>` : ""}
+    <button id="m-prac"><b>Practice by week</b><span>Each answer is marked straight away, with the slide it came from.</span><i>${bank.length} questions</i></button>
+    <button id="m-wrong" ${wrongN ? "" : "disabled"}><b>Corrections</b><span>${wrongN ? "The questions you have got wrong so far." : "Nothing here until you get a question wrong."}</span><i>${wrongN} to redo</i></button>
+    <button id="m-notes"><b>Revision notes</b><span>Acts and years, acronyms, numbers and the lists to know by heart.</span><i>${DATA.notes.length} sheets</i></button>
   </div>
-  ${last.length ? `<h2>Recent results</h2><table><tr><th scope="col">Session</th><th scope="col">Marks</th><th scope="col">Date</th></tr>${last.map(h => `<tr><td>${esc(h.title)}</td><td>${h.score}/${h.total} (${Math.round(100 * h.score / h.total)}%)</td><td class="mute">${new Date(h.at).toLocaleDateString()}</td></tr>`).join("")}</table>` : ""}
-  <p class="mute">Answers follow the lecture slides, because that is what the test is marked against. Where a slide is unclear or disagrees with current law the question carries a note. Choose-all questions are marked all-or-nothing here; the real marking scheme is not published. Progress is kept in this browser only.</p>`;
-  const on = (id, f) => { const e = document.getElementById(id); if (e) e.onclick = f; };
+  ${last.length ? `<h2>Recent marks</h2><table><tr><th scope="col">Paper</th><th scope="col">Date</th><th scope="col" class="num">Mark</th></tr>${last.map(h => `<tr><td>${esc(h.title)}</td><td>${new Date(h.at).toLocaleDateString()}</td><td class="num">${h.score} of ${h.total}</td></tr>`).join("")}</table>` : ""}
+  <h2>How it is marked</h2>
+  <p class="s">Answers follow the lecture slides, because the test is marked against them. Where a slide is unclear or disagrees with current law, the question carries a note. A choose-all question scores 3 only when every box is right, since the real marking scheme is not published. Your marks are kept in this browser and nowhere else.</p>`;
   if (!first) focusOn("h1"); first = false;
   on("resume", () => show());
   on("m-mock", startMock);
   on("m-past", () => start({title:"2024-25 past paper", ids:Q.filter(q => q.week === 0).map(q => q.id), exam:true, keepOrder:true, limit:50 * 60}));
   on("m-prac", setup);
-  on("m-wrong", () => start({title:"Wrong answers drill", ids:shuffle(Object.keys(st.wrong).filter(id => BYID[id])), exam:false}));
+  on("m-wrong", () => start({title:"Corrections", ids:shuffle(Object.keys(st.wrong).filter(id => BYID[id])), exam:false}));
   on("m-notes", () => notes(DATA.notes[0] && DATA.notes[0].week));
 }
 
@@ -131,25 +208,28 @@ function startMock() {
 function setup() {
   const p = st.prefs; if (!p.weeks) p.weeks = weeksPresent.slice();
   const count = () => bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind)).length;
-  app.innerHTML = `<p><button class="link" id="back">Back</button></p><h1>Practice by week</h1>
-  <h2>Weeks</h2><div class="chips" id="wk">${weeksPresent.map(w => `<label><input type="checkbox" value="${w}" ${p.weeks.includes(w) ? "checked" : ""}>${esc(WEEKS[w] || "Week " + w)} <span>(${bank.filter(q => q.week === w).length})</span></label>`).join("")}</div>
-  <h2>Drawn from</h2><div class="chips" id="kd">${[["lecture","Lecture slides"],["seminar","Seminar slides"],["reading","Set readings"]].map(([k, t]) => `<label><input type="checkbox" value="${k}" ${p.kinds.includes(k) ? "checked" : ""}>${t}</label>`).join("")}</div>
-  <h2>How many</h2><div class="chips" id="nn">${[10, 20, 40, 0].map(n => `<label><input type="radio" name="n" value="${n}" ${p.n === n ? "checked" : ""}>${n || "All"}</label>`).join("")}</div>
-  <p class="mute" id="cnt" aria-live="polite"></p><button class="pri" id="go">Start</button>`;
+  const tickBox = (group, type, v, text, checked, i) => `<label class="o"><input type="${type}" name="${group}" value="${v}" ${checked ? "checked" : ""}><span class="box">${xMark(i)}</span><span>${text}</span></label>`;
+  app.innerHTML = `<div class="top"><button class="l" id="back">Back to papers</button></div>
+  <h1 style="margin-top:20px">Practice by week</h1>
+  <fieldset id="wk"><legend><h2>Weeks</h2></legend><div class="cols">${weeksPresent.map((w, i) => tickBox("wk", "checkbox", w, `${esc(WEEKS[w] || "Week " + w)} <span class="s">${bank.filter(q => q.week === w).length}</span>`, p.weeks.includes(w), i)).join("")}</div></fieldset>
+  <fieldset id="kd"><legend><h2>Taken from</h2></legend><div class="cols">${[["lecture","Lecture slides"],["seminar","Seminar slides"],["reading","Set readings"]].map(([k, t], i) => tickBox("kd", "checkbox", k, t, p.kinds.includes(k), i)).join("")}</div></fieldset>
+  <fieldset id="nn"><legend><h2>Number of questions</h2></legend><div class="cols">${[10, 20, 40, 0].map((n, i) => tickBox("n", "radio", n, n || "All of them", p.n === n, i)).join("")}</div></fieldset>
+  <p class="s" id="cnt" aria-live="polite"></p><div class="nav"><span></span><button class="p" id="go">Start</button></div>`;
   const upd = () => {
     p.weeks = [...document.querySelectorAll("#wk input:checked")].map(e => +e.value);
     p.kinds = [...document.querySelectorAll("#kd input:checked")].map(e => e.value);
     p.n = +document.querySelector("#nn input:checked").value; save();
-    document.getElementById("cnt").textContent = count() + " questions match. Ones you have seen least come first.";
-    document.getElementById("go").disabled = !count();
+    const c = count();
+    document.getElementById("cnt").textContent = c ? c + " questions match. The ones you have seen least come first." : "No questions match. Tick at least one week and one source.";
+    document.getElementById("go").disabled = !c;
   };
   app.querySelectorAll("input").forEach(e => e.onchange = upd); upd(); focusOn("h1");
-  document.getElementById("back").onclick = () => home();
-  document.getElementById("go").onclick = () => {
+  on("back", () => home());
+  on("go", () => {
     let pool = shuffle(bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind))).sort((a, b) => (st.seen[a.id] || 0) - (st.seen[b.id] || 0));
     if (p.n) pool = pool.slice(0, p.n);
     start({title:"Practice", ids:shuffle(pool).map(q => q.id), exam:false});
-  };
+  });
 }
 
 function start(o) {
@@ -160,51 +240,48 @@ function start(o) {
 }
 
 function show() { const r = st.run; if (!r) return home(); r.done ? results() : question(); }
-
 function timeLeft() { const r = st.run; return Math.max(0, r.limit - Math.floor((Date.now() - r.t0) / 1000)); }
 const fmt = s => Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
 
 function question() {
   clearInterval(tick);
   const r = st.run, q = BYID[r.ids[r.i]], picked = r.ans[q.id] || [], checked = !r.exam && r.checked[q.id];
-  const multi = q.type === "multi", n = r.ids.length;
-  const opts = r.order[q.id].map(k => {
-    const isAns = q.answer.includes(k), sel = picked.includes(k);
-    let cls = sel ? "sel" : "", tag = "";
-    if (checked) { if (isAns) { cls = "right"; tag = sel ? "Correct" : "Missed"; } else if (sel) { cls = "wrong"; tag = "Wrong"; } }
-    return `<label class="opt ${cls}"><input type="${multi ? "checkbox" : "radio"}" name="o" value="${k}" ${sel ? "checked" : ""} ${checked ? "disabled" : ""}><span>${esc(q.options[k])}</span>${tag ? `<span class="tag">${tag}</span>` : ""}</label>`;
-  }).join("");
-  const good = same(picked, q.answer);
+  const multi = q.type === "multi", n = r.ids.length, good = same(picked, q.answer);
+  const opts = r.order[q.id].map((k, i) => row(q, k, i, picked.includes(k), multi ? "checkbox" : "radio", checked ? stateOf(q, k, picked) : "", checked)).join("");
+  const answered = Object.values(r.ans).filter(a => a.length).length;
   app.innerHTML = `
-  <div class="row sp"><button class="link" id="quit">${r.exam ? "Save and exit" : "Exit"}</button><span class="mute">${esc(r.title)}</span>${r.limit ? `<span class="timer" id="tm" role="timer"></span>` : ""}</div>
-  <div class="bar"><i style="width:${100 * (r.i + 1) / n}%"></i></div>
-  <p class="mute">Question ${r.i + 1} of ${n} · ${multi ? "choose ALL correct answers" : "choose ONE answer"} · ${marks(q)} marks${r.exam ? "" : " · " + esc(WEEKS[q.week] || "")}</p>
-  <fieldset style="border:0;padding:0;margin:0"><legend class="q">${esc(q.q)}</legend>${opts}</fieldset>
-  ${checked ? `<div class="fb ${good ? "ok" : "no"}" role="status"><b>${good ? "Correct." : "Not quite."}</b> ${esc(q.explain)}<br><span class="mute">Source: ${esc(q.source)}</span></div>${q.flag ? `<div class="flag"><b>Note:</b> ${esc(q.flag)}</div>` : ""}` : ""}
-  <div class="row sp" style="margin-top:14px">
+  <div class="top"><button class="l" id="quit">${r.exam ? "Save and leave" : "Leave"}</button><b>${esc(r.title)}</b>${r.limit ? `<span class="timer" id="tm" role="timer" aria-label="Time left"></span>` : `<span class="s">${r.i + 1} of ${n}</span>`}</div>
+  <fieldset>
+    <legend>
+      <span class="qn"><span class="cond">Question ${r.i + 1}${r.limit ? ` <span class="s" style="font-stretch:100%;font-weight:400">of ${n}</span>` : ""}</span><span>${checked ? `${good ? marks(q) : 0} of ${marks(q)}` : `(${marks(q)} marks)`}</span></span>
+      <span class="s" style="display:block;font-stretch:100%;font-weight:400">${multi ? "More than one answer is correct. Choose ALL of them." : "Choose ONE answer."}</span>
+      <span class="stem" style="display:block">${esc(q.q)}</span>
+    </legend>
+    ${opts}
+  </fieldset>
+  ${checked ? `<div role="status">${feedback(q)}</div>` : ""}
+  <div class="nav">
     <button id="prev" ${r.i ? "" : "disabled"}>Previous</button>
-    ${r.exam ? (r.i < n - 1 ? `<button class="pri" id="next">Next</button>` : `<button class="pri" id="fin">Finish and mark</button>`)
-      : (checked ? `<button class="pri" id="next">${r.i < n - 1 ? "Next" : "See results"}</button>` : `<button class="pri" id="chk" ${picked.length ? "" : "disabled"}>Check answer</button>`)}
+    ${r.exam ? (r.i < n - 1 ? `<button class="p" id="next">Next</button>` : `<button class="p" id="fin">Hand in</button>`)
+      : (checked ? `<button class="p" id="next">${r.i < n - 1 ? "Next" : "See marks"}</button>` : `<button class="p" id="chk" ${picked.length ? "" : "disabled"}>Mark it</button>`)}
   </div>
-  ${r.exam ? `<details ${n > 40 ? "" : "open"}><summary class="mute">Jump to a question (${Object.values(r.ans).filter(a => a.length).length} of ${n} answered)</summary><div class="grid">${r.ids.map((id, i) => `<button data-i="${i}" class="${(r.ans[id] || []).length ? "done" : ""} ${i === r.i ? "cur" : ""}" aria-label="Question ${i + 1}, ${(r.ans[id] || []).length ? "answered" : "not answered"}"${i === r.i ? " aria-current=\"true\"" : ""}>${i + 1}</button>`).join("")}</div><button id="fin2">Finish and mark</button></details>` : ""}`;
+  ${r.exam ? `<details ${n > 40 ? "" : "open"}><summary>Go to a question. ${answered} of ${n} answered.</summary><div class="grid">${r.ids.map((id, i) => `<button data-i="${i}" class="${(r.ans[id] || []).length ? "done" : ""} ${i === r.i ? "cur" : ""}" aria-label="Question ${i + 1}, ${(r.ans[id] || []).length ? "answered" : "not answered"}"${i === r.i ? ' aria-current="true"' : ""}>${i + 1}</button>`).join("")}</div><button id="fin2">Hand in</button></details>` : ""}`;
   app.querySelectorAll("input[name=o]").forEach(e => e.onchange = () => {
     r.ans[q.id] = [...app.querySelectorAll("input[name=o]:checked")].map(x => +x.value); save();
-    app.querySelectorAll("label.opt").forEach(l => l.classList.toggle("sel", l.querySelector("input").checked));
     const c = document.getElementById("chk"); if (c) c.disabled = !r.ans[q.id].length;
   });
-  const on = (id, f) => { const e = document.getElementById(id); if (e) e.onclick = f; };
-  focusOn(checked ? ".fb" : "legend");
+  focusOn(checked ? ".note" : "legend");
   const go = i => { r.i = i; save(); question(); window.scrollTo(0, 0); };
   on("quit", () => { if (!r.exam) { r.done = true; st.run = null; save(); } home(); });
   on("prev", () => go(r.i - 1));
   on("next", () => r.i < n - 1 ? go(r.i + 1) : finish());
   on("chk", () => { r.checked[q.id] = true; record(q, same(r.ans[q.id] || [], q.answer)); save(); question(); });
-  const fin = () => { const left = r.ids.filter(id => !(r.ans[id] || []).length).length; if (!left || confirm(left + " question(s) unanswered. Finish anyway?")) finish(); };
+  const fin = () => { const left = r.ids.filter(id => !(r.ans[id] || []).length).length; if (!left || confirm(left + (left === 1 ? " question is" : " questions are") + " not answered. Hand in anyway? You cannot change answers afterwards.")) finish(); };
   on("fin", fin); on("fin2", fin);
   app.querySelectorAll(".grid button").forEach(b => b.onclick = () => go(+b.dataset.i));
   if (r.limit) {
     const tm = document.getElementById("tm");
-    const upd = () => { const s = timeLeft(); tm.textContent = fmt(s); tm.classList.toggle("low", s < 300); if (!s) { clearInterval(tick); finish(); } };
+    const upd = () => { const s = timeLeft(); tm.textContent = fmt(s) + " left"; tm.classList.toggle("low", s < 300); if (!s) { clearInterval(tick); finish(); } };
     upd(); tick = setInterval(upd, 1000);
   }
 }
@@ -224,35 +301,37 @@ function finish() {
 }
 
 function results() {
-  const r = st.run, by = {};
+  const r = st.run, by = {}, past = r.ids.some(id => BYID[id].week === 0);
   r.ids.forEach(id => { const q = BYID[id], k = q.week === 0 ? q.topic : (WEEKS[q.week] || q.week), ok = same(r.ans[id] || [], q.answer); by[k] = by[k] || [0, 0]; by[k][1]++; if (ok) by[k][0]++; });
-  const pct = Math.round(100 * r.score / r.total);
-  app.innerHTML = `<p><button class="link" id="back">Home</button></p><h1>${esc(r.title)}: result</h1>
-  <div class="card"><div class="big">${r.score} / ${r.total}</div><p>${pct}% · ${r.ids.filter(id => same(r.ans[id] || [], BYID[id].answer)).length} of ${r.ids.length} questions right · ${fmt(r.took)} taken${r.limit && r.took >= r.limit ? " (time ran out)" : ""}</p></div>
-  <h2>By ${r.ids.some(id => BYID[id].week === 0) ? "topic" : "week"}</h2>
-  <table><tr><th scope="col">Area</th><th scope="col">Right</th></tr>${Object.entries(by).sort((a, b) => a[1][0] / a[1][1] - b[1][0] / b[1][1]).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${v[0]}/${v[1]}</td></tr>`).join("")}</table>
-  <h2>Review</h2><div class="row"><button id="only">Show wrong only</button></div><div id="rev"></div>`;
+  const right = r.ids.filter(id => same(r.ans[id] || [], BYID[id].answer)).length;
+  const areas = Object.entries(by).sort((a, b) => a[1][0] / a[1][1] - b[1][0] / b[1][1]);
+  app.innerHTML = `<div class="top"><button class="l" id="back">Back to papers</button><b>${esc(r.title)}</b><span></span></div>
+  <h1 style="margin-top:20px">Your mark</h1>
+  <div class="score"><span class="n" aria-hidden="true">${r.score}<svg viewBox="0 0 120 90" preserveAspectRatio="none"><path class="red" style="stroke-width:2.2" vector-effect="non-scaling-stroke" d="M62 6C96 3 116 22 114 46C112 72 84 86 54 84C24 82 4 66 6 42C8 20 34 6 70 8"/></svg></span>
+  <p><b>${r.score} out of ${r.total}.</b> ${right} of ${r.ids.length} questions right in ${fmt(r.took)}${r.limit && r.took >= r.limit ? ". Time ran out" : ""}.</p></div>
+  <h2>By ${past ? "topic" : "week"}</h2>
+  <table><tr><th scope="col">${past ? "Topic" : "Week"}</th><th scope="col" class="num">Right</th></tr>${areas.map(([k, v]) => `<tr><td>${esc(k)}</td><td class="num">${v[0]} of ${v[1]}</td></tr>`).join("")}</table>
+  <h2>Marked paper</h2><button id="only">Show wrong answers only</button><div id="rev"></div>`;
   const draw = wrongOnly => {
     document.getElementById("rev").innerHTML = r.ids.map((id, i) => {
       const q = BYID[id], pk = r.ans[id] || [], ok = same(pk, q.answer);
       if (wrongOnly && ok) return "";
-      return `<div class="card"><p class="mute">Q${i + 1} · ${q.type === "multi" ? "choose all" : "single"} · ${ok ? "right" : (pk.length ? "wrong" : "not answered")}</p><p class="q">${esc(q.q)}</p>
-      ${r.order[id].map(k => { const a = q.answer.includes(k), s = pk.includes(k); return `<label class="opt ${a ? "right" : (s ? "wrong" : "")}"><input type="checkbox" disabled ${s ? "checked" : ""}><span>${esc(q.options[k])}</span>${a ? `<span class="tag">${s ? "Correct" : "Missed"}</span>` : (s ? `<span class="tag">Wrong</span>` : "")}</label>`; }).join("")}
-      <div class="fb ${ok ? "ok" : "no"}">${esc(q.explain)}<br><span class="mute">Source: ${esc(q.source)}</span></div>${q.flag ? `<div class="flag"><b>Note:</b> ${esc(q.flag)}</div>` : ""}</div>`;
-    }).join("") || "<p>Nothing wrong in this set.</p>";
+      return `<div class="rev"><div class="qn"><span class="cond">Question ${i + 1}</span><span>${ok ? marks(q) : 0} of ${marks(q)}${pk.length ? "" : ", not answered"}</span></div><p class="stem">${esc(q.q)}</p>
+      ${r.order[id].map((k, j) => row(q, k, j, pk.includes(k), "checkbox", stateOf(q, k, pk), true)).join("")}${feedback(q)}</div>`;
+    }).join("") || "<p>No wrong answers in this paper.</p>";
   };
   let wo = false; draw(wo); focusOn("h1");
-  document.getElementById("only").onclick = e => { wo = !wo; e.target.textContent = wo ? "Show all" : "Show wrong only"; draw(wo); };
-  document.getElementById("back").onclick = () => { st.run = null; save(); home(); };
+  on("only", e => { wo = !wo; e.target.textContent = wo ? "Show every question" : "Show wrong answers only"; draw(wo); });
+  on("back", () => { st.run = null; save(); home(); });
 }
 
 function notes(week) {
   const n = DATA.notes.find(x => x.week === week) || DATA.notes[0];
-  app.innerHTML = `<p><button class="link" id="back">Home</button></p><h1>Revision notes</h1>
-  <div class="chips">${DATA.notes.map(x => `<label><input type="radio" name="w" value="${x.week}" ${x === n ? "checked" : ""}>${x.week === 0 ? "Cheat sheet" : (x.week === 7 ? "Weeks 7-8" : "Week " + x.week)}</label>`).join("")}</div>
-  <div class="notes card">${n ? n.html : "<p>No notes yet.</p>"}</div>`;
+  app.innerHTML = `<div class="top"><button class="l" id="back">Back to papers</button><b>Revision notes</b><span></span></div>
+  <div class="tabs">${DATA.notes.map(x => `<label><input type="radio" name="w" value="${x.week}" ${x === n ? "checked" : ""}>${x.week === 0 ? "Cheat sheet" : (x.week === 7 ? "Weeks 7 and 8" : "Week " + x.week)}</label>`).join("")}</div>
+  <div class="notes">${n ? n.html : "<p>No notes yet.</p>"}</div>`;
   app.querySelectorAll("input[name=w]").forEach(e => e.onchange = () => { notes(+e.value); app.querySelector("input[name=w]:checked").focus(); });
-  document.getElementById("back").onclick = () => home();
+  on("back", () => home());
 }
 
 if (st.run && !st.run.ids.every(id => BYID[id])) st.run = null;

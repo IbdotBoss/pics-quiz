@@ -14,7 +14,7 @@
   "answer": [
    2
   ],
-  "explain": "IPCC predict 1.1 - 2.9 oC (lowest CO2 emission scenario).",
+  "explain": "The IPCC predicts 1.1 - 2.9 oC for the lowest CO2 emission scenario.",
   "source": "Lecture 11 slide 6",
   "flag": ""
  },
@@ -33,7 +33,7 @@
   "answer": [
    0
   ],
-  "explain": "IPCC predict 2.4 - 6.4 oC (highest CO2 emission scenario).",
+  "explain": "The IPCC predicts 2.4 - 6.4 oC for the highest CO2 emission scenario.",
   "source": "Lecture 11 slide 6",
   "flag": ""
  },
@@ -73,7 +73,7 @@
   "answer": [
    2
   ],
-  "explain": "The International Panel on Climate Change (IPCC) makes the predictions on the slide. Environment Agency, UK is only the source of an image.",
+  "explain": "The International Panel on Climate Change, the IPCC, makes the predictions on the slide. The Environment Agency, UK is only the source of an image.",
   "source": "Lecture 11 slide 6",
   "flag": ""
  },
@@ -112,7 +112,7 @@
   "answer": [
    1
   ],
-  "explain": "ICT will use 20% of global power by 2025 (The Guardian, 2017).",
+  "explain": "ICT will use 20% of global power by 2025, according to The Guardian, 2017.",
   "source": "Lecture 11 slide 16",
   "flag": ""
  },
@@ -132,7 +132,7 @@
   "answer": [
    3
   ],
-  "explain": "IoT will produce 14% of global emissions by 2040 (The Guardian, 2017).",
+  "explain": "IoT will produce 14% of global emissions by 2040, according to The Guardian, 2017.",
   "source": "Lecture 11 slide 16",
   "flag": ""
  },
@@ -192,9 +192,9 @@
   "answer": [
    4
   ],
-  "explain": "Mobile Industry estimated 1GB requires 19 kW.",
+  "explain": "The mobile industry estimated that 1GB requires 19 kW.",
   "source": "Lecture 11 slide 19",
-  "flag": "Slide gives the unit as kW (not kWh) although results are in kWh per year."
+  "flag": "The slide gives the unit as kW and not kWh, although the results are in kWh per year."
  },
  {
   "id": "w04-011",
@@ -232,7 +232,7 @@
   "answer": [
    3
   ],
-  "explain": "CRTs contain significant lead; it is LCD that contains mercury.",
+  "explain": "CRTs contain significant lead. It is LCD that contains mercury.",
   "source": "Lecture 11 slide 20",
   "flag": ""
  },
@@ -249,7 +249,7 @@
   "answer": [
    0
   ],
-  "explain": "Donate - schools, charity, etc. (but not data storage devices), because of data leakage.",
+  "explain": "You can donate to schools, charities and so on, but not data storage devices, because of data leakage.",
   "source": "Lecture 11 slide 21",
   "flag": ""
  },
@@ -269,7 +269,7 @@
   "answer": [
    2
   ],
-  "explain": "1 million recycled mobile phones: 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, 33 pounds of palladium.",
+  "explain": "1 million recycled mobile phones give 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold and 33 pounds of palladium.",
   "source": "Lecture 11 slide 20",
   "flag": ""
  },
@@ -309,7 +309,7 @@
   "answer": [
    1
   ],
-  "explain": "Computing can be made more energy efficient: low power chips (RISC).",
+  "explain": "Computing can be made more energy efficient with low power chips such as RISC.",
   "source": "Lecture 11 slide 9",
   "flag": ""
  },
@@ -328,7 +328,7 @@
   "answer": [
    2
   ],
-  "explain": "Embedded CO2: How much energy did it take to make an item?",
+  "explain": "Embedded CO2 asks how much energy it took to make an item.",
   "source": "Lecture 11 slide 10",
   "flag": ""
  },
@@ -347,7 +347,7 @@
   "answer": [
    0
   ],
-  "explain": "Green cloud: resources are concentrated in more efficient data centres. The other options are under 'Not so Green cloud'.",
+  "explain": "A green cloud concentrates resources in more efficient data centres. The other options are under \"Not so Green cloud\".",
   "source": "Lecture 11 slide 14",
   "flag": ""
  },
@@ -367,7 +367,7 @@
   "answer": [
    2
   ],
-  "explain": "Mobile device batteries double in efficiency over a 7 year cycle; processing power doubles over a 2 year cycle.",
+  "explain": "Mobile device batteries double in efficiency over a 7 year cycle, and processing power doubles over a 2 year cycle.",
   "source": "Lecture 11 slide 22",
   "flag": ""
  },
@@ -405,7 +405,7 @@
   "answer": [
    2
   ],
-  "explain": "Green IT disposal: licensed waste centre, Duty of Care/Waste Transfer notices, Certificate of Data Destruction.",
+  "explain": "Green IT disposal uses a licensed waste centre, Duty of Care or Waste Transfer notices, and a Certificate of Data Destruction.",
   "source": "Lecture 11 slide 21",
   "flag": ""
  },
@@ -422,9 +422,9 @@
   "answer": [
    0
   ],
-  "explain": "Statistics slide: ICT uses 10% of global power generation - 50% more than aviation (Digital Power Group, 2013).",
+  "explain": "The statistics slide says ICT uses 10% of global power generation, which is 50% more than aviation, citing the Digital Power Group in 2013.",
   "source": "Lecture 11 slide 16",
-  "flag": "Slide wording is ambiguous (could be read as ICT growing 50%); follow the slide as written."
+  "flag": "The slide wording is ambiguous and could be read as ICT growing by 50%. Follow the slide as written."
  },
  {
   "id": "w04-023",
@@ -448,7 +448,7 @@
    5,
    6
   ],
-  "explain": "Benefits: creates new jobs, advances knowledge, makes lives easier, improves communications, entertainment, infrastructure efficiency, liberating. Obsolescence and dependency are drawbacks.",
+  "explain": "The listed benefits are creating new jobs, advancing knowledge, making lives easier, improving communications, entertainment, infrastructure efficiency and being liberating. Obsolescence and dependency are drawbacks.",
   "source": "Lecture 11 slide 3",
   "flag": ""
  },
@@ -496,7 +496,7 @@
    3,
    4
   ],
-  "explain": "Possible effects: rising sea levels, increased power of storms (habitation / migration), changing rain distribution (food).",
+  "explain": "Possible effects are rising sea levels, increased power of storms, which affects habitation and migration, and changing rain distribution, which affects food.",
   "source": "Lecture 11 slide 6",
   "flag": ""
  },
@@ -518,7 +518,7 @@
    3,
    4
   ],
-  "explain": "Aspect 1: intelligent heating/lighting controls and sensors, management of Energy networks, reducing travel. The others are aspect 2 (making computing more energy efficient).",
+  "explain": "Aspect 1 covers intelligent heating and lighting controls and sensors, management of Energy networks, and reducing travel. The other options belong to aspect 2, which is making computing more energy efficient.",
   "source": "Lecture 11 slide 8",
   "flag": ""
  },
@@ -544,7 +544,7 @@
    4,
    5
   ],
-  "explain": "Aspect 2 lists all six: low power chips (RISC), solid state devices, low energy screens, better system power management, load balancing, lower power air conditioning.",
+  "explain": "Aspect 2 lists all six, which are low power chips known as RISC, solid state devices, low energy screens, better system power management, load balancing, and lower power air conditioning.",
   "source": "Lecture 11 slide 9",
   "flag": ""
  },
@@ -592,7 +592,7 @@
    4,
    5
   ],
-  "explain": "Energy Calculations: replacement benefits, device energy efficiency over lifetime, where is the energy coming from (energy source, transmission costs, societal effects). Raw materials belong to Embedded CO2.",
+  "explain": "Energy Calculations covers replacement benefits, device energy efficiency over lifetime, and where the energy is coming from, meaning energy source, transmission costs and societal effects. Raw materials belong to Embedded CO2.",
   "source": "Lecture 11 slide 10-11",
   "flag": ""
  },
@@ -615,7 +615,7 @@
    2,
    3
   ],
-  "explain": "The last option is the 'Green cloud' point; the other four are listed under Not so Green cloud (Greenpeace, 2012).",
+  "explain": "The last option is a point about the Green cloud. The other four are listed under Not so Green cloud, citing Greenpeace in 2012.",
   "source": "Lecture 11 slide 14",
   "flag": ""
  },
@@ -641,7 +641,7 @@
    5,
    6
   ],
-  "explain": "Batteries - lead, nickel, cadmium, silver, lithium. Mercury is in LCD; chromium is in circuits.",
+  "explain": "Batteries contain lead, nickel, cadmium, silver and lithium. Mercury is in LCD, and chromium is in circuits.",
   "source": "Lecture 11 slide 20",
   "flag": ""
  },
@@ -688,7 +688,7 @@
    3,
    5
   ],
-  "explain": "Slide lists licensed waste centre, Duty of Care/Waste Transfer notices, Certificate of Data Destruction, parts stripped for recycling, donation (but not data storage devices).",
+  "explain": "The slide lists a licensed waste centre, Duty of Care or Waste Transfer notices, a Certificate of Data Destruction, parts stripped for recycling, and donation, but not of data storage devices.",
   "source": "Lecture 11 slide 21",
   "flag": ""
  },
@@ -710,7 +710,7 @@
    1,
    4
   ],
-  "explain": "Parts stripped for recycling: ferrous/non-ferrous materials, monitors (LCD, plasma, CRT), plastics (mice, keyboards, chassis).",
+  "explain": "Parts stripped for recycling are ferrous and non-ferrous materials, monitors such as LCD, plasma and CRT, and plastics such as mice, keyboards and chassis.",
   "source": "Lecture 11 slide 21",
   "flag": ""
  },
@@ -758,7 +758,7 @@
    1,
    2
   ],
-  "explain": "Opportunities: better ways of doing things, green collar jobs, special interest groups in IEEE, ACM etc.",
+  "explain": "The opportunities are better ways of doing things, green collar jobs, and special interest groups in IEEE, ACM and similar bodies.",
   "source": "Lecture 11 slide 22",
   "flag": ""
  },
@@ -806,7 +806,7 @@
    4,
    5
   ],
-  "explain": "Statistics slide: 10% of global power generation, 20% by 2025, IoT 14% of emissions by 2040, more traffic per hour than per year in 2000.",
+  "explain": "The statistics slide gives 10% of global power generation, 20% by 2025, IoT at 14% of emissions by 2040, and more traffic per hour than per year in 2000.",
   "source": "Lecture 11 slide 16",
   "flag": ""
  },
@@ -831,7 +831,7 @@
    4,
    5
   ],
-  "explain": "Charging consumption is 3.5 kWh per year, not 35; the rest are on the slide.",
+  "explain": "Charging consumption is 3.5 kWh per year, so 35 is wrong. The other figures are on the slide.",
   "source": "Lecture 11 slide 19",
   "flag": ""
  },
@@ -852,7 +852,7 @@
    2,
    3
   ],
-  "explain": "Learning objectives: explain global impact, explain implications of sustainability in computing, consider aspects of green computing.",
+  "explain": "The learning objectives are to explain the global impact, explain the implications of sustainability in computing, and consider aspects of green computing.",
   "source": "Lecture 11 slide 2",
   "flag": ""
  },

@@ -15,9 +15,9 @@
   "answer": [
    1
   ],
-  "explain": "The slide '5 key areas of this module' lists Legal, Social, Ethical, Systems, Professional.",
+  "explain": "The slide \"5 key areas of this module\" lists Legal, Social, Ethical, Systems and Professional.",
   "source": "Lecture 1 slide 8",
-  "flag": "Slide 8 says 'Systems' and 'Professional'; the later headings are 'System Failures' and 'Professionalism'."
+  "flag": "Slide 8 says \"Systems\" and \"Professional\", while the later headings are \"System Failures\" and \"Professionalism\"."
  },
  {
   "id": "w01-002",
@@ -60,7 +60,7 @@
   "answer": [
    2
   ],
-  "explain": "The slides are headed MOD002647 PiSoC: Module Introduction.",
+  "explain": "The slides are headed MOD002647 PiSoC, Module Introduction.",
   "source": "Lecture 1 slide 2",
   "flag": ""
  },
@@ -80,7 +80,7 @@
   "answer": [
    2
   ],
-  "explain": "Aim: '...as a result of the computerization of wide areas of human activity.'",
+  "explain": "The aim reads \"as a result of the computerization of wide areas of human activity.\"",
   "source": "Lecture 1 slide 2",
   "flag": ""
  },
@@ -100,7 +100,7 @@
   "answer": [
    4
   ],
-  "explain": "Legal issues: data protection, freedom of information, computer misuse, computer crime. Whistle blowing is listed under Ethical issues.",
+  "explain": "The legal issues are data protection, freedom of information, computer misuse and computer crime. Whistle blowing is listed under ethical issues.",
   "source": "Lecture 1 slide 10",
   "flag": ""
  },
@@ -124,7 +124,7 @@
    3,
    5
   ],
-  "explain": "Legal issues slide: Data protection, Freedom of information, Computer misuse, Computer crime.",
+  "explain": "The legal issues slide lists data protection, freedom of information, computer misuse and computer crime.",
   "source": "Lecture 1 slide 10",
   "flag": ""
  },
@@ -150,7 +150,7 @@
    5,
    6
   ],
-  "explain": "Social issues slide: Technology trends, Social implications, Digital divide, Social access, Workplace / home.",
+  "explain": "The social issues slide lists technology trends, social implications, digital divide, social access, and workplace and home.",
   "source": "Lecture 1 slide 11",
   "flag": ""
  },
@@ -174,7 +174,7 @@
    3,
    4
   ],
-  "explain": "Ethical issues slide: Privacy / surveillance, Censorship, Freedom of speech, Whistle blowing, Equality of opportunity.",
+  "explain": "The ethical issues slide lists privacy and surveillance, censorship, freedom of speech, whistle blowing and equality of opportunity.",
   "source": "Lecture 1 slide 12",
   "flag": ""
  },
@@ -200,7 +200,7 @@
    4,
    6
   ],
-  "explain": "System Failures slide: Complexity, Organizational, Management, Impact, System design and life cycle.",
+  "explain": "The System Failures slide lists complexity, organizational, management, impact, and system design and life cycle.",
   "source": "Lecture 1 slide 13",
   "flag": ""
  },
@@ -223,7 +223,7 @@
    4,
    5
   ],
-  "explain": "Professionalism slide: Codes of conduct, Professional bodies, Why it matters.",
+  "explain": "The professionalism slide lists codes of conduct, professional bodies and why it matters.",
   "source": "Lecture 1 slide 14",
   "flag": ""
  },
@@ -263,7 +263,7 @@
   "answer": [
    0
   ],
-  "explain": "Social issues: Technology trends, Social implications, Digital divide, Social access, Workplace / home.",
+  "explain": "Social issues covers technology trends, social implications, digital divide, social access, and workplace and home.",
   "source": "Lecture 1 slide 11",
   "flag": ""
  },
@@ -317,7 +317,7 @@
   "answer": [
    0
   ],
-  "explain": "System Failures slide: Complexity, Organizational, Management, Impact, System design and life cycle.",
+  "explain": "The System Failures slide lists complexity, organizational, management, impact, and system design and life cycle.",
   "source": "Lecture 1 slide 13",
   "flag": ""
  },
@@ -395,7 +395,7 @@
   "answer": [
    0
   ],
-  "explain": "Source line: Adapted from Adams and McCrindle (2008), Pandora's Box, p7.",
+  "explain": "The source line reads \"Adapted from Adams and McCrindle, 2008, Pandora's Box, p7.\"",
   "source": "Lecture 1 slide 4",
   "flag": ""
  },
@@ -438,7 +438,7 @@
    3,
    5
   ],
-  "explain": "Lesson outcomes: 1. Explain the module learning outcomes; 2. Explain the five key themes; 3. Understand where to go for more information on canvas; 4. Start to understand the requirements for assessment.",
+  "explain": "The lesson outcomes are 1, explain the module learning outcomes, 2, explain the five key themes, 3, understand where to go for more information on canvas, and 4, start to understand the requirements for assessment.",
   "source": "Lecture 1 slide 5",
   "flag": ""
  },
@@ -482,7 +482,7 @@
   "answer": [
    0
   ],
-  "explain": "Skills outcomes include: 'Give a professional presentation and stimulate discussion, comparing and contrasting key issues' and 'Critically appraise and evaluate own and other's work'.",
+  "explain": "The skills outcomes include \"Give a professional presentation and stimulate discussion, comparing and contrasting key issues\" and \"Critically appraise and evaluate own and other's work\".",
   "source": "Lecture 1 slide 7",
   "flag": ""
  },
@@ -523,7 +523,7 @@
    2,
    4
   ],
-  "explain": "'Why should I care?': you may need to advise others as to what is legal (or illegal); assert your own rights; know where to go for further advice.",
+  "explain": "Under \"Why should I care?\", you may need to advise others as to what is legal or illegal, assert your own rights, and know where to go for further advice.",
   "source": "Lecture 1 slide 9",
   "flag": ""
  },
@@ -550,7 +550,7 @@
    4,
    6
   ],
-  "explain": "Computer Scientist viewpoint: research, evidence, critical evaluation, modeling, prediction; compliance and best practice.",
+  "explain": "The Computer Scientist viewpoint covers research, evidence, critical evaluation, modeling, prediction, and compliance and best practice.",
   "source": "Lecture 1 slide 15",
   "flag": ""
  },
@@ -590,9 +590,9 @@
   "answer": [
    3
   ],
-  "explain": "Component 1: One hour in class test 20% (in week 10 lecture).",
+  "explain": "Component 1 is a one hour in class test worth 20%, held in the week 10 lecture.",
   "source": "Seminar 1 slide 10",
-  "flag": "Slide says the in-class test is one hour in the week 10 lecture; the real test is described as 50 minutes."
+  "flag": "The slide says the in-class test is one hour in the week 10 lecture, but the real test is described as 50 minutes."
  },
  {
   "id": "w01-029",
@@ -610,9 +610,9 @@
   "answer": [
    3
   ],
-  "explain": "Component 1 is the in-class test (20%); Component 2 is the Individual Report (2000 words) at 80%, plus 400-500 word appendix, submitted via Canvas.",
+  "explain": "Component 1 is the in-class test at 20%. Component 2 is the Individual Report of 2000 words at 80%, plus a 400-500 word appendix, submitted via Canvas.",
   "source": "Seminar 1 slide 10",
-  "flag": "Slide says the in-class test is one hour in the week 10 lecture; the real test is described as 50 minutes."
+  "flag": "The slide says the in-class test is one hour in the week 10 lecture, but the real test is described as 50 minutes."
  },
  {
   "id": "w01-030",
@@ -630,7 +630,7 @@
   "answer": [
    2
   ],
-  "explain": "Component 2: Individual Report (2000 words) [+400-500 words appendix].",
+  "explain": "Component 2 is the Individual Report of 2000 words plus a 400-500 word appendix.",
   "source": "Seminar 1 slide 10",
   "flag": ""
  },
@@ -650,7 +650,7 @@
   "answer": [
    1
   ],
-  "explain": "Content/breadth of topic, analysis and depth of argument is 30%; the other elements are 15% or less.",
+  "explain": "Content, breadth of topic, analysis and depth of argument is worth 30%, and the other elements are worth 15% or less.",
   "source": "Seminar 1 slide 11",
   "flag": ""
  },
@@ -676,7 +676,7 @@
    5,
    6
   ],
-  "explain": "Slide: Overview/Introduction 15%; THREE issues 3 x 5%; Content/breadth 30%; Research and evidence 15%; Presentation 15%; Conclusion 10%.",
+  "explain": "The slide gives Overview and Introduction 15%, THREE issues at 3 x 5%, Content and breadth 30%, Research and evidence 15%, Presentation 15% and Conclusion 10%.",
   "source": "Seminar 1 slide 11",
   "flag": ""
  },
@@ -728,7 +728,7 @@
    4,
    6
   ],
-  "explain": "Recommended: LinkedIn/ResearchGate profile, GitHub profile, Latex instead of MS Word, Unix based OS, open source software.",
+  "explain": "The recommended activities are a LinkedIn or ResearchGate profile, a GitHub profile, Latex instead of MS Word, a Unix based OS and open source software.",
   "source": "Seminar 1 slide 14",
   "flag": ""
  },
@@ -745,7 +745,7 @@
   "answer": [
    0
   ],
-  "explain": "Slide: '2000 word report on the topic of your choice.'",
+  "explain": "The slide says \"2000 word report on the topic of your choice.\"",
   "source": "Seminar 1 slide 11",
   "flag": ""
  },
@@ -772,7 +772,7 @@
    5,
    6
   ],
-  "explain": "Article 5 (a) to (f) lists these six; explicit consent is not a principle (it is one lawful basis).",
+  "explain": "Article 5, points a to f, lists these six principles. Explicit consent is not a principle, because it is only one lawful basis.",
   "source": "ICO overview p5",
   "flag": ""
  },
@@ -828,7 +828,7 @@
   "answer": [
    1
   ],
-  "explain": "It is the controller that says how and why; the processor acts on the controller's behalf.",
+  "explain": "The controller says how and why personal data is processed. The processor acts on the controller's behalf.",
   "source": "ICO overview p3",
   "flag": ""
  },
@@ -850,7 +850,7 @@
    2,
    3
   ],
-  "explain": "Excluded: Law Enforcement Directive processing, national security, purely personal/household activities. Non-EU organisations offering goods or services to EU citizens are covered.",
+  "explain": "The GDPR excludes processing under the Law Enforcement Directive, national security processing, and purely personal or household activities. Non-EU organisations offering goods or services to EU citizens are covered.",
   "source": "ICO overview p3",
   "flag": ""
  },
@@ -888,7 +888,7 @@
   "answer": [
    0
   ],
-  "explain": "Criminal convictions and offences data are not included, but similar extra safeguards apply (Article 10).",
+  "explain": "Criminal convictions and offences data are not in the special categories, but similar extra safeguards apply under Article 10.",
   "source": "ICO overview p4",
   "flag": ""
  },
@@ -915,7 +915,7 @@
    5,
    6
   ],
-  "explain": "Article 6(1)(a) to (f) lists consent, contract, legal obligation, vital interests, public task and legitimate interests.",
+  "explain": "Article 6, paragraph 1, points a to f, lists consent, contract, legal obligation, vital interests, public task and legitimate interests.",
   "source": "ICO overview p7",
   "flag": ""
  },
@@ -956,7 +956,7 @@
    4,
    5
   ],
-  "explain": "Silence, pre-ticked boxes or inactivity do not constitute consent; consent must be verifiable and can be withdrawn at any time.",
+  "explain": "Silence, pre-ticked boxes and inactivity do not count as consent. Consent must be verifiable and can be withdrawn at any time.",
   "source": "ICO overview p8-9",
   "flag": ""
  },
@@ -975,9 +975,9 @@
   "answer": [
    3
   ],
-  "explain": "Member states may provide for a lower age in law, 'as long as it is not below 13'.",
+  "explain": "Member states may set a lower age in law \"as long as it is not below 13\".",
   "source": "ICO overview p9",
-  "flag": "Real GDPR Article 8 says 'below 16' (so 16 is adult); the ICO text says 'aged 16 and under'. Follow the ICO wording."
+  "flag": "Real GDPR Article 8 says \"below 16\", so 16 counts as adult, while the ICO text says \"aged 16 and under\". Follow the ICO wording."
  },
  {
   "id": "w01-047",
@@ -1039,7 +1039,7 @@
    5,
    6
   ],
-  "explain": "Listed rights: informed, access, rectification, erasure, restrict processing, data portability, object, automated decision making and profiling.",
+  "explain": "The listed rights are to be informed, access, rectification, erasure, restrict processing, data portability, object, and rights on automated decision making and profiling.",
   "source": "ICO overview p11",
   "flag": ""
  },
@@ -1097,9 +1097,9 @@
   "answer": [
    0
   ],
-  "explain": "'The removal of the 10 pound subject access fee is a significant change from the existing rules under the DPA.'",
+  "explain": "The text says \"The removal of the 10 pound subject access fee is a significant change from the existing rules under the DPA.\"",
   "source": "ICO overview p12",
-  "flag": "The pound sign is garbled in the extract; read as 10 pounds from context."
+  "flag": "The pound sign is garbled in the extract, so it is read as 10 pounds from context."
  },
  {
   "id": "w01-053",
@@ -1117,7 +1117,7 @@
    1,
    2
   ],
-  "explain": "You can charge a reasonable fee or refuse to respond; if refusing you must explain why and inform of the right to complain.",
+  "explain": "You can charge a reasonable fee or refuse to respond. If you refuse, you must explain why and tell the person about the right to complain.",
   "source": "ICO overview p12-13",
   "flag": ""
  },
@@ -1139,7 +1139,7 @@
    3,
    4
   ],
-  "explain": "Information must be concise, transparent, intelligible, easily accessible; clear plain language; free of charge.",
+  "explain": "The information must be concise, transparent, intelligible and easily accessible. It must also be in clear plain language and free of charge.",
   "source": "ICO overview p14",
   "flag": ""
  },
@@ -1158,7 +1158,7 @@
   "answer": [
    1
   ],
-  "explain": "Data not obtained directly: within a reasonable period of having obtained the data (within one month).",
+  "explain": "When data is not obtained directly, the privacy information is due within a reasonable period of having obtained the data, and within one month.",
   "source": "ICO overview p15",
   "flag": ""
  },
@@ -1202,7 +1202,7 @@
    5,
    6
   ],
-  "explain": "These six circumstances are listed; freedom of expression is a ground to refuse erasure.",
+  "explain": "These six circumstances are listed. Freedom of expression is a ground to refuse erasure.",
   "source": "ICO overview p18",
   "flag": ""
  },
@@ -1228,7 +1228,7 @@
    4,
    5
   ],
-  "explain": "Refusal grounds: freedom of expression, legal obligation/public interest task, public health, archiving/research/statistics, legal claims.",
+  "explain": "The refusal grounds are freedom of expression, legal obligation or public interest task, public health, archiving, research and statistics, and legal claims.",
   "source": "ICO overview p18",
   "flag": ""
  },
@@ -1305,7 +1305,7 @@
   "answer": [
    1
   ],
-  "explain": "For direct marketing you must stop as soon as you receive an objection; there are no exemptions or grounds to refuse.",
+  "explain": "For direct marketing you must stop as soon as you receive an objection. There are no exemptions or grounds to refuse.",
   "source": "ICO overview p23",
   "flag": ""
  },
@@ -1354,7 +1354,7 @@
    5,
    6
   ],
-  "explain": "Listed: performance at work, economic situation, health, personal preferences, reliability, behaviour, location, movements.",
+  "explain": "The listed aspects are performance at work, economic situation, health, personal preferences, reliability, behaviour, location and movements.",
   "source": "ICO overview p25-26",
   "flag": ""
  },
@@ -1374,9 +1374,9 @@
   "answer": [
    0
   ],
-  "explain": "'if your organisation has more than 250 employees, you must maintain additional internal records of your processing activities.'",
+  "explain": "The text says \"if your organisation has more than 250 employees, you must maintain additional internal records of your processing activities.\"",
   "source": "ICO overview p28",
-  "flag": "ICO text says 'more than 250' and 'less than 250' (leaves exactly 250 unaddressed)."
+  "flag": "The ICO text says \"more than 250\" and \"less than 250\", which leaves exactly 250 unaddressed."
  },
  {
   "id": "w01-066",
@@ -1483,7 +1483,7 @@
    2,
    4
   ],
-  "explain": "Article 39 tasks: inform and advise; monitor compliance (incl. training, audits, DPIA advice); first point of contact.",
+  "explain": "The Article 39 tasks are to inform and advise, monitor compliance including training, audits and DPIA advice, and be the first point of contact.",
   "source": "ICO overview p30-31",
   "flag": ""
  },
@@ -1563,9 +1563,9 @@
   "answer": [
    1
   ],
-  "explain": "Failing to notify a breach: 'a significant fine up to 10 million Euros or 2 per cent of your global turnover'.",
+  "explain": "For failing to notify a breach, the text gives \"a significant fine up to 10 million Euros or 2 per cent of your global turnover\".",
   "source": "ICO overview p36",
-  "flag": "Real GDPR has a higher tier (20 million Euros / 4 per cent) for other infringements; the ICO overview only gives 10 million / 2 per cent here."
+  "flag": "Real GDPR has a higher tier of 20 million Euros or 4 per cent for other infringements, but the ICO overview only gives 10 million and 2 per cent here."
  },
  {
   "id": "w01-075",
@@ -1601,7 +1601,7 @@
   "answer": [
    3
   ],
-  "explain": "Codes must be approved by the supervisory authority and, where processing is cross-border, the European Data Protection Board (the EDPB).",
+  "explain": "Codes must be approved by the supervisory authority and, where processing is cross-border, by the European Data Protection Board, the EDPB.",
   "source": "ICO overview p32",
   "flag": ""
  },
@@ -1627,7 +1627,7 @@
    3,
    4
   ],
-  "explain": "Article 46 safeguards include these; the GDPR limits transfers based only on your own assessment of adequacy.",
+  "explain": "Article 46 safeguards include these. The GDPR limits transfers based only on your own assessment of adequacy.",
   "source": "ICO overview p37-38",
   "flag": ""
  }
