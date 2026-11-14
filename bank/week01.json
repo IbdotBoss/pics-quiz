@@ -1,0 +1,1634 @@
+[
+ {
+  "id": "w01-001",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "What are the five key areas of professional issues in computing and society covered in this module?",
+  "options": [
+   "Political, Social, Ethical, Systems, Professional",
+   "Legal, Social, Ethical, Systems, Professional",
+   "Legal, Social, Environmental, Systems, Professional",
+   "Legal, Social, Ethical, Technical, Commercial",
+   "Legal, Economic, Ethical, Systems, Professional"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The slide '5 key areas of this module' lists Legal, Social, Ethical, Systems, Professional.",
+  "source": "Lecture 1 slide 8",
+  "flag": "Slide 8 says 'Systems' and 'Professional'; the later headings are 'System Failures' and 'Professionalism'."
+ },
+ {
+  "id": "w01-002",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "Which of the following are key areas of this module?",
+  "options": [
+   "Social",
+   "Financial",
+   "Systems",
+   "Ethical",
+   "Technical",
+   "Professional",
+   "Legal"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "The 5 key areas are Legal, Social, Ethical, Systems and Professional.",
+  "source": "Lecture 1 slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w01-003",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "What is the module code of Professional Issues: Computing and Society?",
+  "options": [
+   "MOD006247",
+   "MOD002674",
+   "MOD002647",
+   "MOD002467"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The slides are headed MOD002647 PiSoC: Module Introduction.",
+  "source": "Lecture 1 slide 2",
+  "flag": ""
+ },
+ {
+  "id": "w01-004",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "The module aim is to provide an understanding of the issues, opportunities and problems which have arisen as a result of the ______ of wide areas of human activity. Which word completes it?",
+  "options": [
+   "globalisation",
+   "automation",
+   "computerization",
+   "regulation",
+   "digitisation"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Aim: '...as a result of the computerization of wide areas of human activity.'",
+  "source": "Lecture 1 slide 2",
+  "flag": ""
+ },
+ {
+  "id": "w01-005",
+  "week": 1,
+  "topic": "Legal issues",
+  "type": "single",
+  "q": "Which of the following is NOT listed as a legal issue in the module introduction?",
+  "options": [
+   "Data protection",
+   "Freedom of information",
+   "Computer crime",
+   "Computer misuse",
+   "Whistle blowing"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "Legal issues: data protection, freedom of information, computer misuse, computer crime. Whistle blowing is listed under Ethical issues.",
+  "source": "Lecture 1 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w01-006",
+  "week": 1,
+  "topic": "Legal issues",
+  "type": "multi",
+  "q": "Which of the following are listed as legal issues?",
+  "options": [
+   "Computer crime",
+   "Digital divide",
+   "Computer misuse",
+   "Data protection",
+   "Censorship",
+   "Freedom of information"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   5
+  ],
+  "explain": "Legal issues slide: Data protection, Freedom of information, Computer misuse, Computer crime.",
+  "source": "Lecture 1 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w01-007",
+  "week": 1,
+  "topic": "Social issues",
+  "type": "multi",
+  "q": "Which of the following are listed as social issues?",
+  "options": [
+   "Workplace / home",
+   "Digital divide",
+   "Social access",
+   "Codes of conduct",
+   "Complexity",
+   "Social implications",
+   "Technology trends"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   5,
+   6
+  ],
+  "explain": "Social issues slide: Technology trends, Social implications, Digital divide, Social access, Workplace / home.",
+  "source": "Lecture 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-008",
+  "week": 1,
+  "topic": "Ethical issues",
+  "type": "multi",
+  "q": "Which of the following are listed as ethical issues?",
+  "options": [
+   "Whistle blowing",
+   "Equality of opportunity",
+   "Freedom of speech",
+   "Privacy / surveillance",
+   "Censorship"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Ethical issues slide: Privacy / surveillance, Censorship, Freedom of speech, Whistle blowing, Equality of opportunity.",
+  "source": "Lecture 1 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w01-009",
+  "week": 1,
+  "topic": "System failures",
+  "type": "multi",
+  "q": "Which of the following are listed under system failures?",
+  "options": [
+   "Codes of conduct",
+   "Impact",
+   "Management",
+   "Complexity",
+   "Organizational",
+   "Digital divide",
+   "System design and life cycle"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "explain": "System Failures slide: Complexity, Organizational, Management, Impact, System design and life cycle.",
+  "source": "Lecture 1 slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w01-010",
+  "week": 1,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following are listed under professionalism?",
+  "options": [
+   "Professional bodies",
+   "Whistle blowing",
+   "Digital divide",
+   "Computer misuse",
+   "Codes of conduct",
+   "Why it matters"
+  ],
+  "answer": [
+   0,
+   4,
+   5
+  ],
+  "explain": "Professionalism slide: Codes of conduct, Professional bodies, Why it matters.",
+  "source": "Lecture 1 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w01-011",
+  "week": 1,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Under which area of the module are 'Codes of conduct' and 'Professional bodies' listed?",
+  "options": [
+   "Professionalism",
+   "Social issues",
+   "Ethical issues",
+   "Legal issues",
+   "System failures"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The Professionalism slide lists Codes of conduct, Professional bodies and Why it matters.",
+  "source": "Lecture 1 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w01-012",
+  "week": 1,
+  "topic": "Social issues",
+  "type": "single",
+  "q": "Under which area of the module is 'Digital divide' listed?",
+  "options": [
+   "Social issues",
+   "Legal issues",
+   "Professionalism",
+   "System failures",
+   "Ethical issues"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Social issues: Technology trends, Social implications, Digital divide, Social access, Workplace / home.",
+  "source": "Lecture 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-013",
+  "week": 1,
+  "topic": "Ethical issues",
+  "type": "single",
+  "q": "Under which area of the module is 'Whistle blowing' listed?",
+  "options": [
+   "Legal issues",
+   "System failures",
+   "Ethical issues",
+   "Professionalism",
+   "Social issues"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Ethical issues include Privacy / surveillance, Censorship, Freedom of speech, Whistle blowing, Equality of opportunity.",
+  "source": "Lecture 1 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w01-014",
+  "week": 1,
+  "topic": "Legal issues",
+  "type": "single",
+  "q": "Is the following statement correct? Computer crime is listed as an ethical issue.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Computer crime is listed under Legal issues, not Ethical issues.",
+  "source": "Lecture 1 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w01-015",
+  "week": 1,
+  "topic": "System failures",
+  "type": "single",
+  "q": "Is the following statement correct? Complexity is listed under system failures.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "System Failures slide: Complexity, Organizational, Management, Impact, System design and life cycle.",
+  "source": "Lecture 1 slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w01-016",
+  "week": 1,
+  "topic": "Social issues",
+  "type": "single",
+  "q": "Is the following statement correct? 'Workplace / home' is listed under social issues.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Social issues slide lists Workplace / home.",
+  "source": "Lecture 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-017",
+  "week": 1,
+  "topic": "Ethical issues",
+  "type": "single",
+  "q": "Is the following statement correct? Equality of opportunity is listed as a legal issue.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Equality of opportunity is listed under Ethical issues.",
+  "source": "Lecture 1 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w01-018",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "In the diagram 'Professional issues impact society', which of the following surround the individual?",
+  "options": [
+   "Social Norms",
+   "Religion",
+   "Markets",
+   "Technology",
+   "Laws",
+   "Politics"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": "The diagram places the INDIVIDUAL within SOCIETY surrounded by Laws, Technology, Markets and Social Norms.",
+  "source": "Lecture 1 slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w01-019",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "The diagram showing how professional issues impact society was adapted from which source?",
+  "options": [
+   "Adams and McCrindle (2008), Pandora's Box",
+   "Adams and McCrindle (2008), Digital Society",
+   "Adams and McCrindle (2012), Pandora's Box",
+   "Adams and Crindle (2018), Pandora's Box",
+   "Adams and McCrindle (2003), Ethics in IT"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Source line: Adapted from Adams and McCrindle (2008), Pandora's Box, p7.",
+  "source": "Lecture 1 slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w01-020",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "How many lesson outcomes are listed for Lecture 1?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The Lesson Outcomes slide lists four numbered outcomes.",
+  "source": "Lecture 1 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w01-021",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "Which of the following are lesson outcomes for Lecture 1?",
+  "options": [
+   "Understand where to go for more information on canvas",
+   "Explain the five key themes of the module",
+   "Complete the individual report",
+   "Start to understand the requirements for assessment",
+   "Explain the principles of the GDPR",
+   "Explain the module learning outcomes"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   5
+  ],
+  "explain": "Lesson outcomes: 1. Explain the module learning outcomes; 2. Explain the five key themes; 3. Understand where to go for more information on canvas; 4. Start to understand the requirements for assessment.",
+  "source": "Lecture 1 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w01-022",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "The Knowledge and Understanding learning outcomes refer to which aspects of computing and IT?",
+  "options": [
+   "Environmental",
+   "Technical",
+   "Legal",
+   "Social",
+   "Economic",
+   "Ethical",
+   "Professional"
+  ],
+  "answer": [
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "Learning outcomes refer to 'social, professional, legal or ethical aspects of computing and IT'.",
+  "source": "Lecture 1 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w01-023",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "Which learning outcome is listed under 'Intellectual, practical, affective and transferrable skills'?",
+  "options": [
+   "Give a professional presentation and stimulate discussion, comparing and contrasting key issues",
+   "Explain the five key themes of the module",
+   "Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT",
+   "Appreciate complexities of, criticise and contribute to discussions lead by others"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Skills outcomes include: 'Give a professional presentation and stimulate discussion, comparing and contrasting key issues' and 'Critically appraise and evaluate own and other's work'.",
+  "source": "Lecture 1 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w01-024",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "Which learning outcome is listed under 'Knowledge and understanding'?",
+  "options": [
+   "Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT",
+   "Critically appraise and evaluate own and other's work",
+   "Give a professional presentation and stimulate discussion, comparing and contrasting key issues",
+   "Understand where to go for more information on canvas"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Knowledge and Understanding outcome 1 is 'Explain and lead discussion on an approved topic on social, professional, legal or ethical aspects of computing and IT.'",
+  "source": "Lecture 1 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w01-025",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "Why should I care about professional issues? Which of the following does the module give as reasons?",
+  "options": [
+   "You may need to design systems that avoid regulation",
+   "You need to know where to go for further advice",
+   "You may need to assert your own rights",
+   "You will be personally liable for every system failure",
+   "You may need to advise others as to what is legal (or illegal)"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explain": "'Why should I care?': you may need to advise others as to what is legal (or illegal); assert your own rights; know where to go for further advice.",
+  "source": "Lecture 1 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w01-026",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "multi",
+  "q": "The module takes a 'Computer Scientist viewpoint throughout'. Which of the following does the slide list under this viewpoint?",
+  "options": [
+   "Modeling",
+   "Evidence",
+   "Critical evaluation",
+   "Prediction",
+   "Research",
+   "Marketing",
+   "Compliance and best practice"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "explain": "Computer Scientist viewpoint: research, evidence, critical evaluation, modeling, prediction; compliance and best practice.",
+  "source": "Lecture 1 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w01-027",
+  "week": 1,
+  "topic": "Introduction",
+  "type": "single",
+  "q": "Which statement below is NOT correct about how you are going to work on this module?",
+  "options": [
+   "Students work individually without using resources on Canvas",
+   "Collaborative working includes discussion and presentations with fellow students",
+   "A Computer Scientist viewpoint is used throughout",
+   "Compliance and best practice are part of the viewpoint",
+   "Collaborative working includes using resources on Canvas, reading etc."
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Collaborative working means using resources on Canvas, reading etc. and working with fellow students through discussion and presentations.",
+  "source": "Lecture 1 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w01-028",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "What percentage of the module mark is the in-class test (Component 1)?",
+  "options": [
+   "40%",
+   "80%",
+   "10%",
+   "20%",
+   "30%"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Component 1: One hour in class test 20% (in week 10 lecture).",
+  "source": "Seminar 1 slide 10",
+  "flag": "Slide says the in-class test is one hour in the week 10 lecture; the real test is described as 50 minutes."
+ },
+ {
+  "id": "w01-029",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "Which statement below is NOT correct about the module assessment?",
+  "options": [
+   "The individual report carries an appendix of 400-500 words",
+   "The report is submitted via Canvas",
+   "The in-class test is in the week 10 lecture",
+   "The individual report is worth 20% and the in-class test 80%",
+   "The individual report is 2000 words"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Component 1 is the in-class test (20%); Component 2 is the Individual Report (2000 words) at 80%, plus 400-500 word appendix, submitted via Canvas.",
+  "source": "Seminar 1 slide 10",
+  "flag": "Slide says the in-class test is one hour in the week 10 lecture; the real test is described as 50 minutes."
+ },
+ {
+  "id": "w01-030",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "How long is the appendix that accompanies the 2000 word individual report?",
+  "options": [
+   "1000 words",
+   "500-1000 words",
+   "400-500 words",
+   "200-300 words",
+   "100-200 words"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Component 2: Individual Report (2000 words) [+400-500 words appendix].",
+  "source": "Seminar 1 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w01-031",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "Which element of the individual report carries the largest share of the marks (before weighting)?",
+  "options": [
+   "Research and evidence presented (15%)",
+   "Content/breadth of topic, analysis and depth of argument (30%)",
+   "Overview/Introduction (15%)",
+   "Conclusion (10%)",
+   "Presentation (structure and flow) (15%)"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Content/breadth of topic, analysis and depth of argument is 30%; the other elements are 15% or less.",
+  "source": "Seminar 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-032",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "multi",
+  "q": "Which of the following mark allocations for the individual report (before weighting) are correct?",
+  "options": [
+   "Conclusion 10%",
+   "Research and evidence presented 30%",
+   "Overview/Introduction 15%",
+   "Research and evidence presented 15%",
+   "Conclusion 15%",
+   "Presentation (structure and flow) 15%",
+   "Three issues, 3 x 5%"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "Slide: Overview/Introduction 15%; THREE issues 3 x 5%; Content/breadth 30%; Research and evidence 15%; Presentation 15%; Conclusion 10%.",
+  "source": "Seminar 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-033",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "multi",
+  "q": "Which of the following were listed as some of last year's report topics?",
+  "options": [
+   "Wikileaks and the freedom of Information",
+   "Should social media be banned for children?",
+   "Should cryptocurrencies be regulated?",
+   "Internet Free Speech",
+   "Effects of Linking Accounts",
+   "Autonomous Vehicles: Friend or Foe?",
+   "Open source versus commercial software"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide lists these five among last year's topics.",
+  "source": "Seminar 1 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w01-034",
+  "week": 1,
+  "topic": "Professional learning",
+  "type": "multi",
+  "q": "Which of the following are recommended professional learning and activities?",
+  "options": [
+   "Use open source software instead of commercial software",
+   "Use Latex (e.g. Overleaf) instead of MS Word for reports",
+   "Use a Unix based OS instead of Windows (SysAdmins, Programmers)",
+   "Use MS Word instead of Latex",
+   "Create a LinkedIn profile",
+   "Avoid sharing source code publicly",
+   "Create a GitHub profile and share your source code"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   6
+  ],
+  "explain": "Recommended: LinkedIn/ResearchGate profile, GitHub profile, Latex instead of MS Word, Unix based OS, open source software.",
+  "source": "Seminar 1 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w01-035",
+  "week": 1,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "Is the following statement correct? The individual report is a 2000 word report on the topic of your choice.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Slide: '2000 word report on the topic of your choice.'",
+  "source": "Seminar 1 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w01-036",
+  "week": 1,
+  "topic": "GDPR principles",
+  "type": "multi",
+  "q": "Under Article 5 of the GDPR, personal data shall be:",
+  "options": [
+   "processed only with the explicit consent of the individual",
+   "kept in an identifiable form for no longer than is necessary",
+   "adequate, relevant and limited to what is necessary",
+   "accurate and, where necessary, kept up to date",
+   "processed lawfully, fairly and in a transparent manner in relation to individuals",
+   "collected for specified, explicit and legitimate purposes",
+   "processed in a manner that ensures appropriate security"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Article 5 (a) to (f) lists these six; explicit consent is not a principle (it is one lawful basis).",
+  "source": "ICO overview p5",
+  "flag": ""
+ },
+ {
+  "id": "w01-037",
+  "week": 1,
+  "topic": "GDPR principles",
+  "type": "single",
+  "q": "What is the most significant addition to the principles under the GDPR compared with the DPA?",
+  "options": [
+   "The data portability principle",
+   "The accountability principle",
+   "The data minimisation principle",
+   "The right to be forgotten"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "'The most significant addition is the accountability principle.'",
+  "source": "ICO overview p5",
+  "flag": ""
+ },
+ {
+  "id": "w01-038",
+  "week": 1,
+  "topic": "GDPR principles",
+  "type": "single",
+  "q": "Article 5(2) says that who shall be responsible for, and be able to demonstrate, compliance with the principles?",
+  "options": [
+   "The controller",
+   "The data subject",
+   "The data protection officer",
+   "The ICO",
+   "The processor"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'the controller shall be responsible for, and be able to demonstrate, compliance with the principles.'",
+  "source": "ICO overview p5",
+  "flag": ""
+ },
+ {
+  "id": "w01-039",
+  "week": 1,
+  "topic": "GDPR scope",
+  "type": "single",
+  "q": "Is the following statement correct? Under the GDPR, the processor says how and why personal data is processed, and the controller acts on the processor's behalf.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "It is the controller that says how and why; the processor acts on the controller's behalf.",
+  "source": "ICO overview p3",
+  "flag": ""
+ },
+ {
+  "id": "w01-040",
+  "week": 1,
+  "topic": "GDPR scope",
+  "type": "multi",
+  "q": "The GDPR does not apply to which of the following?",
+  "options": [
+   "Processing for national security purposes",
+   "Organisations outside the EU that offer goods or services to EU citizens",
+   "Processing covered by the Law Enforcement Directive",
+   "Processing carried out by individuals purely for personal/household activities",
+   "Processors acting on behalf of a controller"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Excluded: Law Enforcement Directive processing, national security, purely personal/household activities. Non-EU organisations offering goods or services to EU citizens are covered.",
+  "source": "ICO overview p3",
+  "flag": ""
+ },
+ {
+  "id": "w01-041",
+  "week": 1,
+  "topic": "GDPR scope",
+  "type": "single",
+  "q": "Which of the following is given as an example of an online identifier that can be personal data under the GDPR?",
+  "options": [
+   "An IP address",
+   "A postcode",
+   "A job title",
+   "A company name"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'information such as an online identifier - eg an IP address - can be personal data.'",
+  "source": "ICO overview p4",
+  "flag": ""
+ },
+ {
+  "id": "w01-042",
+  "week": 1,
+  "topic": "GDPR scope",
+  "type": "single",
+  "q": "Which statement below is NOT correct about special categories of personal data?",
+  "options": [
+   "Personal data relating to criminal convictions and offences are included in the special categories",
+   "They specifically include genetic and biometric data where processed to uniquely identify an individual",
+   "Sensitive personal data is referred to as special categories of personal data (Article 9)",
+   "Criminal convictions data attract similar extra safeguards under Article 10"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Criminal convictions and offences data are not included, but similar extra safeguards apply (Article 10).",
+  "source": "ICO overview p4",
+  "flag": ""
+ },
+ {
+  "id": "w01-043",
+  "week": 1,
+  "topic": "Lawful basis",
+  "type": "multi",
+  "q": "Which of the following are legal bases for processing personal data under Article 6(1)?",
+  "options": [
+   "Performance of a contract with the data subject",
+   "Compliance with a legal obligation",
+   "Performance of a task carried out in the public interest",
+   "Commercial advantage of the controller",
+   "Legitimate interests pursued by the controller or a third party",
+   "Protecting the vital interests of a data subject or another person",
+   "Consent of the data subject"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   6
+  ],
+  "explain": "Article 6(1)(a) to (f) lists consent, contract, legal obligation, vital interests, public task and legitimate interests.",
+  "source": "ICO overview p7",
+  "flag": ""
+ },
+ {
+  "id": "w01-044",
+  "week": 1,
+  "topic": "Lawful basis",
+  "type": "single",
+  "q": "Is the following statement correct? The legitimate interests condition is available to processing carried out by public authorities in the performance of their tasks.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The note says this condition is not available to processing carried out by public authorities in the performance of their tasks.",
+  "source": "ICO overview p7",
+  "flag": ""
+ },
+ {
+  "id": "w01-045",
+  "week": 1,
+  "topic": "Consent",
+  "type": "multi",
+  "q": "Which of the following are requirements for consent under the GDPR?",
+  "options": [
+   "It must be verifiable, with a record of how and when it was given",
+   "Silence can constitute consent",
+   "It must be freely given, specific, informed and an unambiguous indication of wishes",
+   "Pre-ticked boxes are sufficient",
+   "Individuals can withdraw it at any time",
+   "It requires some form of clear affirmative action"
+  ],
+  "answer": [
+   0,
+   2,
+   4,
+   5
+  ],
+  "explain": "Silence, pre-ticked boxes or inactivity do not constitute consent; consent must be verifiable and can be withdrawn at any time.",
+  "source": "ICO overview p8-9",
+  "flag": ""
+ },
+ {
+  "id": "w01-046",
+  "week": 1,
+  "topic": "Children",
+  "type": "single",
+  "q": "Under the GDPR, parental/guardian consent for access to online services is required for children aged 16 and under. What is the lowest age a member state may set in law?",
+  "options": [
+   "12",
+   "14",
+   "15",
+   "13"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Member states may provide for a lower age in law, 'as long as it is not below 13'.",
+  "source": "ICO overview p9",
+  "flag": "Real GDPR Article 8 says 'below 16' (so 16 is adult); the ICO text says 'aged 16 and under'. Follow the ICO wording."
+ },
+ {
+  "id": "w01-047",
+  "week": 1,
+  "topic": "Children",
+  "type": "single",
+  "q": "Is the following statement correct? Parental/guardian consent is not required where the processing is related to preventative or counselling services offered directly to a child.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'Parental/guardian consent is not required where the processing is related to preventative or counselling services offered directly to a child.'",
+  "source": "ICO overview p9",
+  "flag": ""
+ },
+ {
+  "id": "w01-048",
+  "week": 1,
+  "topic": "Individual rights",
+  "type": "single",
+  "q": "How many rights for individuals does the GDPR list in its overview?",
+  "options": [
+   "Seven",
+   "Eight",
+   "Six",
+   "Five",
+   "Ten"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The list runs from 1. be informed to 8. rights in relation to automated decision making and profiling.",
+  "source": "ICO overview p11",
+  "flag": ""
+ },
+ {
+  "id": "w01-049",
+  "week": 1,
+  "topic": "Individual rights",
+  "type": "multi",
+  "q": "Which of the following are rights provided to individuals by the GDPR?",
+  "options": [
+   "The right to financial compensation for every breach",
+   "The right of access",
+   "The right to erasure",
+   "The right to data portability",
+   "The right to be informed",
+   "The right to restrict processing",
+   "The right to rectification"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Listed rights: informed, access, rectification, erasure, restrict processing, data portability, object, automated decision making and profiling.",
+  "source": "ICO overview p11",
+  "flag": ""
+ },
+ {
+  "id": "w01-050",
+  "week": 1,
+  "topic": "Right of access",
+  "type": "single",
+  "q": "Under the GDPR, within what time must a subject access request be answered?",
+  "options": [
+   "Without delay and at the latest within one month of receipt",
+   "Within 30 working days",
+   "Within three months",
+   "Within 40 days",
+   "Within 20 working days"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'Information must be provided without delay and at the latest within one month of receipt.'",
+  "source": "ICO overview p12",
+  "flag": ""
+ },
+ {
+  "id": "w01-051",
+  "week": 1,
+  "topic": "Right of access",
+  "type": "single",
+  "q": "By how long can the period for complying with a complex or numerous subject access request be extended?",
+  "options": [
+   "A further one month",
+   "A further 20 working days",
+   "A further two months",
+   "A further three months"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'You will be able to extend the period of compliance by a further two months where requests are complex or numerous.'",
+  "source": "ICO overview p12",
+  "flag": ""
+ },
+ {
+  "id": "w01-052",
+  "week": 1,
+  "topic": "Right of access",
+  "type": "single",
+  "q": "Which fee for dealing with a subject access request was removed by the GDPR?",
+  "options": [
+   "The 10 pound fee",
+   "The 25 pound fee",
+   "The 5 pound fee",
+   "The 50 pound fee"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'The removal of the 10 pound subject access fee is a significant change from the existing rules under the DPA.'",
+  "source": "ICO overview p12",
+  "flag": "The pound sign is garbled in the extract; read as 10 pounds from context."
+ },
+ {
+  "id": "w01-053",
+  "week": 1,
+  "topic": "Right of access",
+  "type": "multi",
+  "q": "Where a subject access request is manifestly unfounded or excessive, in particular because it is repetitive, an organisation can:",
+  "options": [
+   "ignore the request without telling the individual",
+   "charge a reasonable fee taking into account the administrative costs",
+   "refuse to respond",
+   "extend the deadline by six months"
+  ],
+  "answer": [
+   1,
+   2
+  ],
+  "explain": "You can charge a reasonable fee or refuse to respond; if refusing you must explain why and inform of the right to complain.",
+  "source": "ICO overview p12-13",
+  "flag": ""
+ },
+ {
+  "id": "w01-054",
+  "week": 1,
+  "topic": "Right to be informed",
+  "type": "multi",
+  "q": "The information supplied about the processing of personal data must be:",
+  "options": [
+   "supplied only on request",
+   "limited to the controller's name",
+   "free of charge",
+   "concise, transparent, intelligible and easily accessible",
+   "written in clear and plain language, particularly if addressed to a child"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Information must be concise, transparent, intelligible, easily accessible; clear plain language; free of charge.",
+  "source": "ICO overview p14",
+  "flag": ""
+ },
+ {
+  "id": "w01-055",
+  "week": 1,
+  "topic": "Right to be informed",
+  "type": "single",
+  "q": "When data is not obtained directly from the data subject, when must the privacy information be provided at the latest (absent other triggers)?",
+  "options": [
+   "Within three months",
+   "Within a reasonable period of having obtained the data (within one month)",
+   "At the time the data are obtained",
+   "Within 72 hours"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Data not obtained directly: within a reasonable period of having obtained the data (within one month).",
+  "source": "ICO overview p15",
+  "flag": ""
+ },
+ {
+  "id": "w01-056",
+  "week": 1,
+  "topic": "Right to erasure",
+  "type": "single",
+  "q": "Is the following statement correct? The right to erasure is an absolute right to be forgotten.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "'The right to erasure does not provide an absolute right to be forgotten.'",
+  "source": "ICO overview p18",
+  "flag": ""
+ },
+ {
+  "id": "w01-057",
+  "week": 1,
+  "topic": "Right to erasure",
+  "type": "multi",
+  "q": "In which of the following situations does the right to erasure apply?",
+  "options": [
+   "The data is processed to exercise freedom of expression and information",
+   "The data was unlawfully processed",
+   "The data is processed in relation to information society services offered to a child",
+   "The individual objects and there is no overriding legitimate interest",
+   "The individual withdraws consent",
+   "The data is no longer necessary for the purpose it was collected",
+   "The data must be erased to comply with a legal obligation"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "These six circumstances are listed; freedom of expression is a ground to refuse erasure.",
+  "source": "ICO overview p18",
+  "flag": ""
+ },
+ {
+  "id": "w01-058",
+  "week": 1,
+  "topic": "Right to erasure",
+  "type": "multi",
+  "q": "An organisation can refuse to comply with a request for erasure where the data is processed for which of the following reasons?",
+  "options": [
+   "For archiving, scientific research, historical research or statistical purposes",
+   "To comply with a legal obligation for a public interest task or official authority",
+   "The individual has withdrawn consent",
+   "To exercise the right of freedom of expression and information",
+   "For public health purposes in the public interest",
+   "For the exercise or defence of legal claims",
+   "The data is no longer necessary for its original purpose"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4,
+   5
+  ],
+  "explain": "Refusal grounds: freedom of expression, legal obligation/public interest task, public health, archiving/research/statistics, legal claims.",
+  "source": "ICO overview p18",
+  "flag": ""
+ },
+ {
+  "id": "w01-059",
+  "week": 1,
+  "topic": "Right to restrict",
+  "type": "single",
+  "q": "When processing is restricted under the GDPR, what is the organisation permitted to do with the personal data?",
+  "options": [
+   "Transfer it freely to third countries",
+   "Delete it immediately",
+   "Store it but not further process it",
+   "Process it for any purpose after one month"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'When processing is restricted, you are permitted to store the personal data, but not further process it.'",
+  "source": "ICO overview p20",
+  "flag": ""
+ },
+ {
+  "id": "w01-060",
+  "week": 1,
+  "topic": "Data portability",
+  "type": "multi",
+  "q": "The right to data portability only applies:",
+  "options": [
+   "to manual paper records",
+   "to personal data an individual has provided to a controller",
+   "where processing is based on legitimate interests",
+   "when processing is carried out by automated means",
+   "where processing is based on the individual's consent or for the performance of a contract"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explain": "Portability applies to data provided to a controller, based on consent or contract, by automated means.",
+  "source": "ICO overview p21",
+  "flag": ""
+ },
+ {
+  "id": "w01-061",
+  "week": 1,
+  "topic": "Data portability",
+  "type": "single",
+  "q": "Which of the following is given as an example of an open format for data portability?",
+  "options": [
+   "JPEG images",
+   "Word documents",
+   "CSV files",
+   "PDF files"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'You must provide the personal data in a structured, commonly used and machine readable form. Open formats include CSV files.'",
+  "source": "ICO overview p21",
+  "flag": ""
+ },
+ {
+  "id": "w01-062",
+  "week": 1,
+  "topic": "Right to object",
+  "type": "single",
+  "q": "Is the following statement correct? An organisation may refuse an objection to direct marketing if it can show compelling legitimate grounds.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "For direct marketing you must stop as soon as you receive an objection; there are no exemptions or grounds to refuse.",
+  "source": "ICO overview p23",
+  "flag": ""
+ },
+ {
+  "id": "w01-063",
+  "week": 1,
+  "topic": "Automated decisions",
+  "type": "multi",
+  "q": "Where a decision is based on automated processing and has a legal or similarly significant effect, individuals must be able to:",
+  "options": [
+   "obtain human intervention",
+   "demand the decision-maker's source code",
+   "obtain an explanation of the decision and challenge it",
+   "have the decision automatically reversed",
+   "express their point of view"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explain": "The GDPR requires the ability to obtain human intervention, express a view, and obtain an explanation and challenge the decision.",
+  "source": "ICO overview p25",
+  "flag": ""
+ },
+ {
+  "id": "w01-064",
+  "week": 1,
+  "topic": "Automated decisions",
+  "type": "multi",
+  "q": "The GDPR defines profiling as automated processing to evaluate personal aspects of an individual, in particular to analyse or predict their:",
+  "options": [
+   "reliability",
+   "religious beliefs",
+   "economic situation",
+   "location",
+   "performance at work",
+   "movements",
+   "health"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Listed: performance at work, economic situation, health, personal preferences, reliability, behaviour, location, movements.",
+  "source": "ICO overview p25-26",
+  "flag": ""
+ },
+ {
+  "id": "w01-065",
+  "week": 1,
+  "topic": "Accountability",
+  "type": "single",
+  "q": "Above what number of employees must an organisation maintain additional internal records of its processing activities?",
+  "options": [
+   "250",
+   "500",
+   "1000",
+   "50",
+   "100"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'if your organisation has more than 250 employees, you must maintain additional internal records of your processing activities.'",
+  "source": "ICO overview p28",
+  "flag": "ICO text says 'more than 250' and 'less than 250' (leaves exactly 250 unaddressed)."
+ },
+ {
+  "id": "w01-066",
+  "week": 1,
+  "topic": "Accountability",
+  "type": "multi",
+  "q": "Which of the following are measures listed for data protection by design and by default?",
+  "options": [
+   "Creating and improving security features on an ongoing basis",
+   "Data minimisation",
+   "Pseudonymisation",
+   "Transparency",
+   "Allowing individuals to monitor processing"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Measures could include these five.",
+  "source": "ICO overview p27-28",
+  "flag": ""
+ },
+ {
+  "id": "w01-067",
+  "week": 1,
+  "topic": "DPIA",
+  "type": "multi",
+  "q": "Which of the following are processing likely to result in a high risk, so a DPIA is needed?",
+  "options": [
+   "Large scale, systematic monitoring of public areas (CCTV)",
+   "Processing that uses no new technology and carries low risk",
+   "Keeping a small staff telephone list",
+   "Systematic and extensive processing activities, including profiling, with legal or similarly significant effects",
+   "Large scale processing of special categories of data or criminal convictions data"
+  ],
+  "answer": [
+   0,
+   3,
+   4
+  ],
+  "explain": "High risk includes systematic and extensive profiling, large scale special category data, and large scale CCTV monitoring.",
+  "source": "ICO overview p29",
+  "flag": ""
+ },
+ {
+  "id": "w01-068",
+  "week": 1,
+  "topic": "DPO",
+  "type": "multi",
+  "q": "Under the GDPR, an organisation must appoint a data protection officer (DPO) if it:",
+  "options": [
+   "has more than 250 employees",
+   "processes any children's data",
+   "is a public authority (except courts acting in their judicial capacity)",
+   "carries out large scale processing of special categories of data or data about criminal convictions",
+   "carries out large scale systematic monitoring of individuals"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "A DPO is required for public authorities, large scale systematic monitoring, and large scale special category/criminal data.",
+  "source": "ICO overview p30",
+  "flag": ""
+ },
+ {
+  "id": "w01-069",
+  "week": 1,
+  "topic": "DPO",
+  "type": "single",
+  "q": "To which level of the organisation must the data protection officer report?",
+  "options": [
+   "The supervisory authority",
+   "The head of HR",
+   "The IT manager",
+   "The highest management level (board level)"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "'The DPO reports to the highest management level of your organisation - ie board level.'",
+  "source": "ICO overview p31",
+  "flag": ""
+ },
+ {
+  "id": "w01-070",
+  "week": 1,
+  "topic": "DPO",
+  "type": "multi",
+  "q": "Which of the following are minimum tasks of the DPO defined in Article 39?",
+  "options": [
+   "Be the first point of contact for supervisory authorities and for individuals",
+   "Approve every marketing campaign",
+   "Monitor compliance, including training staff and conducting internal audits",
+   "Act as the processor for the organisation",
+   "Inform and advise the organisation and employees about their obligations"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explain": "Article 39 tasks: inform and advise; monitor compliance (incl. training, audits, DPIA advice); first point of contact.",
+  "source": "ICO overview p30-31",
+  "flag": ""
+ },
+ {
+  "id": "w01-071",
+  "week": 1,
+  "topic": "Breach notification",
+  "type": "single",
+  "q": "Within how many hours of becoming aware of a notifiable personal data breach must it be reported to the supervisory authority?",
+  "options": [
+   "48 hours",
+   "24 hours",
+   "72 hours",
+   "7 days"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'A notifiable breach has to be reported to the relevant supervisory authority within 72 hours of the organisation becoming aware of it.'",
+  "source": "ICO overview p36",
+  "flag": ""
+ },
+ {
+  "id": "w01-072",
+  "week": 1,
+  "topic": "Breach notification",
+  "type": "multi",
+  "q": "A personal data breach means a breach of security leading to the:",
+  "options": [
+   "unauthorised disclosure of personal data",
+   "loss of personal data",
+   "unauthorised access to personal data",
+   "destruction of personal data",
+   "alteration of personal data",
+   "publication of a privacy notice"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "'destruction, loss, alteration, unauthorised disclosure of, or access to, personal data'.",
+  "source": "ICO overview p35",
+  "flag": ""
+ },
+ {
+  "id": "w01-073",
+  "week": 1,
+  "topic": "Breach notification",
+  "type": "single",
+  "q": "Is the following statement correct? Individuals must be notified directly of a breach where it is likely to result in a high risk to their rights and freedoms.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "'Where a breach is likely to result in a high risk ... you must notify those concerned directly.'",
+  "source": "ICO overview p35",
+  "flag": ""
+ },
+ {
+  "id": "w01-074",
+  "week": 1,
+  "topic": "Fines",
+  "type": "single",
+  "q": "What is the maximum fine given for failing to notify a breach when required to do so?",
+  "options": [
+   "Up to 5 million Euros or 1 per cent of global turnover",
+   "Up to 10 million Euros or 2 per cent of global turnover",
+   "Up to 20 million Euros or 4 per cent of global turnover",
+   "Up to 1 million Euros or 2 per cent of global turnover"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Failing to notify a breach: 'a significant fine up to 10 million Euros or 2 per cent of your global turnover'.",
+  "source": "ICO overview p36",
+  "flag": "Real GDPR has a higher tier (20 million Euros / 4 per cent) for other infringements; the ICO overview only gives 10 million / 2 per cent here."
+ },
+ {
+  "id": "w01-075",
+  "week": 1,
+  "topic": "Codes of conduct",
+  "type": "single",
+  "q": "How long is a certification under an approved GDPR certification mechanism valid for at most?",
+  "options": [
+   "Five years",
+   "Two years",
+   "Three years",
+   "One year"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'Any certification will be valid for a maximum of three years.'",
+  "source": "ICO overview p33",
+  "flag": ""
+ },
+ {
+  "id": "w01-076",
+  "week": 1,
+  "topic": "Codes of conduct",
+  "type": "single",
+  "q": "What does EDPB stand for, the body that must approve cross-border codes of conduct?",
+  "options": [
+   "European Digital Protection Board",
+   "European Data Privacy Bureau",
+   "Economic Data Protection Body",
+   "European Data Protection Board"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Codes must be approved by the supervisory authority and, where processing is cross-border, the European Data Protection Board (the EDPB).",
+  "source": "ICO overview p32",
+  "flag": ""
+ },
+ {
+  "id": "w01-077",
+  "week": 1,
+  "topic": "Data transfers",
+  "type": "multi",
+  "q": "Which of the following can provide adequate safeguards for transferring personal data outside the EU?",
+  "options": [
+   "Binding corporate rules",
+   "A legally binding agreement between public authorities or bodies",
+   "Compliance with an approved code of conduct",
+   "Certification under an approved certification mechanism",
+   "Standard data protection clauses adopted by the Commission",
+   "The organisation's own assessment of adequacy",
+   "A verbal assurance from the recipient"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Article 46 safeguards include these; the GDPR limits transfers based only on your own assessment of adequacy.",
+  "source": "ICO overview p37-38",
+  "flag": ""
+ }
+]

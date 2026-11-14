@@ -1,0 +1,1059 @@
+[
+ {
+  "id": "w09-001",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "In what year was the BCS (British Computer Society) founded?",
+  "options": [
+   "1957",
+   "2006",
+   "1947",
+   "1946"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "BCS (British computer society) founded 1957; approx. 100,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w09-002",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "In what year was the IET (Institution of Engineering and Technology) founded, according to the slides?",
+  "options": [
+   "1947",
+   "1957",
+   "2006",
+   "1946"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "IET founded in 2006; approx. 150,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 13",
+  "flag": "In reality the IET took its current name in 2006 from earlier bodies; follow the slide."
+ },
+ {
+  "id": "w09-003",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Approximately how many members does the IET have, according to the slides?",
+  "options": [
+   "150,000",
+   "50,000",
+   "100,000",
+   "75,000"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "IET: founded in 2006, approx. 150,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w09-004",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Approximately how many members does the BCS have, according to the slides?",
+  "options": [
+   "75,000",
+   "150,000",
+   "100,000",
+   "200,000"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "BCS: founded 1957; approx. 100,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w09-005",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "In what year was the IEEE founded, according to the slides?",
+  "options": [
+   "1947",
+   "1946",
+   "1957",
+   "2006"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "IEEE: founded in 1946; over 100,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 15",
+  "flag": "Slide says IEEE founded 1946; real-world founding date differs. Follow the slide."
+ },
+ {
+  "id": "w09-006",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "In what year was the ACM founded, according to the slides, and about how many members does it have?",
+  "options": [
+   "1946, approx. 75,000 members",
+   "1947, approx. 150,000 members",
+   "1947, approx. 75,000 members",
+   "1957, over 100,000 members"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "ACM founded 1947; approx. 75,000 members.",
+  "source": "Lecture 9 (Professionalism) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w09-007",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "What does ACM stand for, as written on the slide?",
+  "options": [
+   "American Council of Machinists",
+   "Association of Computer Machinery",
+   "Association of Computing Managers",
+   "Academy of Computing Methods"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "ACM (Association of Computer Machinery).",
+  "source": "Lecture 9 (Professionalism) slide 15",
+  "flag": "Real name is Association for Computing Machinery; the slide wording is used here."
+ },
+ {
+  "id": "w09-008",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "What does IEEE stand for, as written on the slide?",
+  "options": [
+   "International Electronics and Engineering Experts",
+   "Institution of Engineering and Technology",
+   "Institute for Embedded and Electronic Engineering",
+   "Institute for Electrical and Electronic Engineers"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "IEEE (Institute for Electrical and Electronic Engineers).",
+  "source": "Lecture 9 (Professionalism) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w09-009",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "What does CPD stand for in the context of protecting yourself as a professional?",
+  "options": [
+   "Core Practice Documentation",
+   "Continuous Public Duty",
+   "Continuing Professional Development",
+   "Certified Professional Diploma"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Slide 16 refers to support for Continuing Professional Development; slide 12 lists CPD as a way to protect yourself as a professional.",
+  "source": "Lecture 9 (Professionalism) slide 12, 16",
+  "flag": ""
+ },
+ {
+  "id": "w09-010",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "How does the lecture define professionalism?",
+  "options": [
+   "Having a legal duty to act in an emergency",
+   "Holding letters after your name",
+   "Maintaining an ethical approach to one's job within the structure of an association",
+   "Charging more for specialist skills"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Professionalism is maintaining an ethical approach to one's job within the structure of an association (Adams & McCrindle, 2008).",
+  "source": "Lecture 9 (Professionalism) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w09-011",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Who said: 'The public are entitled to expect that the same professional disciplines apply in IT as in other professions such as medicine and law'?",
+  "options": [
+   "Adams and McCrindle",
+   "The ACM President",
+   "Roger Johnson, BCS President",
+   "Bott"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Quote attributed to Roger Johnson, BCS President.",
+  "source": "Lecture 9 (Professionalism) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w09-012",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which of the following is named as a way to protect yourself as a professional?",
+  "options": [
+   "Professional indemnity insurance",
+   "A signed code of ethics",
+   "Membership of a trade union",
+   "Public liability insurance only"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "How do you protect yourself as a professional? Professional indemnity insurance; CPD.",
+  "source": "Lecture 9 (Professionalism) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w09-013",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which of the following is listed by Bott (2014) as a profession?",
+  "options": [
+   "Electricians",
+   "Plumbers",
+   "Builders",
+   "Architects"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Bott (2014) describes professions as including doctors, lawyers, accountants, architects, IT professionals. Trades are posed as a question (s4).",
+  "source": "Lecture 9 (Professionalism) slide 3-4",
+  "flag": ""
+ },
+ {
+  "id": "w09-014",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "According to Bott's common features of professions, who decides the nature of training and controls entry to the profession?",
+  "options": [
+   "Universities",
+   "The professional bodies themselves",
+   "Employers",
+   "The government"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The professional bodies themselves decide the nature of training and control entry to the profession.",
+  "source": "Lecture 9 (Professionalism) slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w09-015",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "How many main sections does the BCS Code of Conduct have on the slides?",
+  "options": [
+   "Seven",
+   "Five",
+   "Four",
+   "Three"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "1 Public Interest, 2 Professional Competence and Integrity, 3 Duty to Relevant Authority, 4 Duty to the Profession.",
+  "source": "Lecture 9 (Professionalism) slide 18-21",
+  "flag": ""
+ },
+ {
+  "id": "w09-016",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which BCS Code of Conduct section covers 'accept professional responsibility for your work'?",
+  "options": [
+   "Duty to the Profession",
+   "Public Interest",
+   "Duty to Relevant Authority",
+   "Professional Competence and Integrity"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "3. Duty to Relevant Authority: ... accept professional responsibility for your work.",
+  "source": "Lecture 9 (Professionalism) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w09-017",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which BCS Code of Conduct section covers 'reject and will not make any offer of bribery or unethical inducement'?",
+  "options": [
+   "Duty to Relevant Authority",
+   "Professional Competence and Integrity",
+   "Public Interest",
+   "Duty to the Profession"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "2. Professional Competence and Integrity: ... reject and will not make any offer of bribery or unethical inducement.",
+  "source": "Lecture 9 (Professionalism) slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w09-018",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which BCS Code of Conduct section covers 'promote equal access to the benefits of IT'?",
+  "options": [
+   "Public Interest",
+   "Professional Competence and Integrity",
+   "Duty to the Profession",
+   "Duty to Relevant Authority"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "1. Public Interest: promote equal access to the benefits of IT.",
+  "source": "Lecture 9 (Professionalism) slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w09-019",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which BCS Code of Conduct section covers 'uphold the reputation and good standing of BCS'?",
+  "options": [
+   "Professional Competence and Integrity",
+   "Public Interest",
+   "Duty to the Profession",
+   "Duty to Relevant Authority"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "4. Duty to the Profession: ... uphold the reputation and good standing of BCS, the Chartered Institute for IT.",
+  "source": "Lecture 9 (Professionalism) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w09-020",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "To whom does the BCS Code of Conduct apply?",
+  "options": [
+   "All members, irrespective of their membership grade",
+   "Only members working in the UK",
+   "Chartered members only",
+   "Graduate members only"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Applies to all members, irrespective of their membership grade.",
+  "source": "Lecture 9 (Professionalism) slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w09-021",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Under the BCS Code of Conduct, when may you disclose confidential information?",
+  "options": [
+   "Whenever it brings personal gain",
+   "Whenever it helps a colleague",
+   "With the permission of your Authority, or as required by Legislation",
+   "Whenever the public asks for it"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "You shall NOT disclose, or use for personal gain, confidential information except with the permission of your Authority, or as required by Legislation.",
+  "source": "Lecture 9 (Professionalism) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w09-022",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which of the following is NOT something that defines a professional body?",
+  "options": [
+   "Issuing a Code of Conduct, or ethics",
+   "Setting the price of its members' services",
+   "Professional examinations",
+   "Dealing with complaints against professionals",
+   "Advising governments and regulatory bodies"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Slide 16 lists the defining features; setting prices is not among them.",
+  "source": "Lecture 9 (Professionalism) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w09-023",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which body is described as a 'not-for-profit charity that promotes web security'?",
+  "options": [
+   "IEEE",
+   "OWASP",
+   "CISCO",
+   "CREST"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "OWASP: not-for-profit charity that promotes web security.",
+  "source": "Lecture 9 (Professionalism) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w09-024",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which body is described as an 'International not-for-profit accreditation and certification body'?",
+  "options": [
+   "OWASP",
+   "CISCO",
+   "ACM",
+   "CREST"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "CREST: International not-for-profit accreditation and certification body.",
+  "source": "Lecture 9 (Professionalism) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w09-025",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which body is described as a 'manufacturer and certification body'?",
+  "options": [
+   "CISCO",
+   "CREST",
+   "OWASP",
+   "BCS"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "CISCO: manufacturer and certification body.",
+  "source": "Lecture 9 (Professionalism) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w09-026",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which ACM Code of Ethics item says to 'access computing and communication resources only when authorized or when compelled by the public good'?",
+  "options": [
+   "Professional responsibilities",
+   "BCS Duty to the Profession",
+   "BCS Public Interest",
+   "General ethical principles"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "ACM professional responsibilities: Access computing and communication resources only when authorized or when compelled by the public good.",
+  "source": "Lecture 9 (Professionalism) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w09-027",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Which ACM Code of Ethics item is a general ethical principle (rather than a professional responsibility)?",
+  "options": [
+   "Accept and provide appropriate professional review",
+   "Avoid harm",
+   "Design and implement systems that are robustly and usably secure",
+   "Perform work only in areas of competence"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "General ethical principles include 'Avoid harm'; the others are professional responsibilities.",
+  "source": "Lecture 9 (Professionalism) slide 22-23",
+  "flag": ""
+ },
+ {
+  "id": "w09-028",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "Under the BCS Code of Conduct, you shall NOT:",
+  "options": [
+   "Seek, accept and offer honest criticisms of work",
+   "Claim any level of competence that you do not possess",
+   "Develop your knowledge on a continuing basis",
+   "Comply with Legislation relevant to your work"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "NOT claim any level of competence that you do not possess.",
+  "source": "Lecture 9 (Professionalism) slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w09-029",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "single",
+  "q": "According to the slides, which is the closing guidance on health and safety?",
+  "options": [
+   "Always follow every rule literally",
+   "Leave it to the Authority",
+   "Common sense should prevail",
+   "Health and safety is optional for IT professionals"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Health and Safety: ... Common sense should prevail.",
+  "source": "Lecture 9 (Professionalism) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w09-030",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "According to Bott (2014), what do professions have in common?",
+  "options": [
+   "Government decides who may enter the profession",
+   "The profession is organised into one or more professional bodies",
+   "Members are paid above the national average",
+   "Members are expected to conduct activities in accordance with codes of conduct laid out by the professional bodies",
+   "The professional bodies decide the nature of training and control entry to the profession",
+   "Substantial education and training in order to practise"
+  ],
+  "answer": [
+   1,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 3 lists the four things in common.",
+  "source": "Lecture 9 (Professionalism) slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w09-031",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following make a job a profession?",
+  "options": [
+   "Job related certifications or examinations",
+   "Skills are 'important' to society",
+   "Agreed body of shared knowledge",
+   "Membership of an overseeing body to be able to practice",
+   "Skills are in short supply, or difficult to obtain",
+   "Self regulation"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 8 lists these six.",
+  "source": "Lecture 9 (Professionalism) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w09-032",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following make a job a profession?",
+  "options": [
+   "A degree in computer science",
+   "A high salary",
+   "Job related certifications or examinations",
+   "Working for a large company",
+   "Agreed body of shared knowledge",
+   "Self regulation"
+  ],
+  "answer": [
+   2,
+   4,
+   5
+  ],
+  "explain": "Slide 8: self regulation, agreed body of shared knowledge, certifications or examinations.",
+  "source": "Lecture 9 (Professionalism) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w09-033",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following are listed as results of having a profession?",
+  "options": [
+   "Improved confidence of the public",
+   "Safer supply of service to the public",
+   "Guaranteed employment",
+   "Title (e.g. 'Dr' or letters after name)",
+   "Can charge more",
+   "Exemption from legal duties"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 9 lists these (as questions).",
+  "source": "Lecture 9 (Professionalism) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w09-034",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "What defines a professional body?",
+  "options": [
+   "Writing legislation",
+   "Setting national salaries",
+   "Support for Continuing Professional Development",
+   "Professional examinations",
+   "Dealing with complaints against professionals and implementing disciplinary procedures",
+   "Advising governments and regulatory bodies",
+   "Issuing a Code of Conduct, or ethics, to guide professional behaviour"
+  ],
+  "answer": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slide 16.",
+  "source": "Lecture 9 (Professionalism) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w09-035",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "What defines a professional body?",
+  "options": [
+   "Publish professional journals or magazines",
+   "Provide professional networks to meet and discuss their field",
+   "Run the courts",
+   "Enable fairer access to the professions",
+   "Lobby for lower taxes",
+   "Fix prices for services",
+   "Provide careers support and opportunities for students, graduates and people already working"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   6
+  ],
+  "explain": "Slide 16.",
+  "source": "Lecture 9 (Professionalism) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w09-036",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which statements about the BCS Code of Conduct are correct?",
+  "options": [
+   "It governs the conduct of employers",
+   "It sets the professional standards required as a condition of membership",
+   "It applies only to chartered members",
+   "It applies to all members, irrespective of their membership grade",
+   "It governs the conduct of the individual"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explain": "BCS (The Chartered Institute for IT) Code of Conduct: slide 17.",
+  "source": "Lecture 9 (Professionalism) slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w09-037",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Under 'Public Interest', what shall a BCS member do?",
+  "options": [
+   "Have due regard for public health, privacy, security and wellbeing of others and the environment",
+   "Promote equal access to the benefits of IT",
+   "Only undertake work within professional competence",
+   "Seek to avoid conflict of interest with their Authority",
+   "Have due regard for the legitimate rights of Third Parties",
+   "Conduct professional activities without discrimination"
+  ],
+  "answer": [
+   0,
+   1,
+   4,
+   5
+  ],
+  "explain": "Slide 18. The last two belong to other sections.",
+  "source": "Lecture 9 (Professionalism) slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w09-038",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Under 'Professional Competence and Integrity', what shall a BCS member do?",
+  "options": [
+   "Uphold the reputation and good standing of BCS",
+   "Only undertake work that is within their professional competence",
+   "Develop their professional knowledge, skills and competence on a continuing basis",
+   "Avoid injuring others, their property, reputation, or employment by false or malicious or negligent action or inaction",
+   "Reject and not make any offer of bribery or unethical inducement",
+   "Ensure they have knowledge and understanding of Legislation and comply with it",
+   "Respect and value alternative viewpoints and seek, accept and offer honest criticisms of work"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slide 19; 'uphold the reputation and good standing of BCS' is in Duty to the Profession.",
+  "source": "Lecture 9 (Professionalism) slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w09-039",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Under 'Duty to Relevant Authority', what shall a BCS member do?",
+  "options": [
+   "Seek to improve professional standards through participation in their development",
+   "Promote the inclusion of all sectors in society",
+   "Not misrepresent or withhold information on the performance of products, systems or services",
+   "Carry out professional responsibilities with due care and diligence",
+   "Accept professional responsibility for their work",
+   "Seek to avoid any situation that may give rise to a conflict of interest with their Authority"
+  ],
+  "answer": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 20. The last two belong to Duty to the Profession and Public Interest.",
+  "source": "Lecture 9 (Professionalism) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w09-040",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Under 'Duty to the Profession', what shall a BCS member do?",
+  "options": [
+   "Accept professional responsibility for their work",
+   "Accept their personal duty to uphold the reputation of the profession",
+   "Uphold the reputation and good standing of BCS",
+   "Reject any offer of bribery",
+   "Act with integrity and respect in professional relationships with all members of BCS and members of other professions",
+   "Seek to improve professional standards through participation in their development, use and enforcement"
+  ],
+  "answer": [
+   1,
+   2,
+   4,
+   5
+  ],
+  "explain": "Slide 21. The last two belong to Duty to Relevant Authority and Professional Competence and Integrity.",
+  "source": "Lecture 9 (Professionalism) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w09-041",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "On which grounds does the BCS Code of Conduct say you must not discriminate?",
+  "options": [
+   "Political party",
+   "Sexual orientation",
+   "Marital status",
+   "Nationality",
+   "Level of income",
+   "Age or disability",
+   "Religion"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "Without discrimination on the grounds of sex, sexual orientation, marital status, nationality, colour, race, ethnic origin, religion, age or disability, or of any other condition or requirement.",
+  "source": "Lecture 9 (Professionalism) slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w09-042",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following are ACM Code of Ethics general ethical principles?",
+  "options": [
+   "Honour confidentiality",
+   "Contribute to society and to human well-being, acknowledging that all people are stakeholders in computing",
+   "Respect privacy",
+   "Be honest and trustworthy",
+   "Be fair and take action not to discriminate",
+   "Respect the work required to produce new ideas, inventions, creative works, and computing artefacts",
+   "Avoid harm"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slide 22 lists these seven.",
+  "source": "Lecture 9 (Professionalism) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w09-043",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following are ACM professional responsibilities?",
+  "options": [
+   "Design and implement systems that are robustly and usably secure",
+   "Be fair and take action not to discriminate",
+   "Accept and provide appropriate professional review",
+   "Know and respect existing rules pertaining to professional work",
+   "Strive to achieve high quality in both the processes and products of professional work",
+   "Honour confidentiality",
+   "Perform work only in areas of competence"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   6
+  ],
+  "explain": "Slide 23. The last two are general ethical principles (s22).",
+  "source": "Lecture 9 (Professionalism) slide 22-23",
+  "flag": ""
+ },
+ {
+  "id": "w09-044",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which are listed under 'Other Professional Bodies for IT'?",
+  "options": [
+   "IEEE",
+   "CISCO",
+   "OWASP",
+   "CREST",
+   "ACM"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "IEEE and ACM (s15); OWASP, CISCO and CREST (s24).",
+  "source": "Lecture 9 (Professionalism) slide 15, 24",
+  "flag": ""
+ },
+ {
+  "id": "w09-045",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which are listed as UK professional bodies for IT?",
+  "options": [
+   "IEEE",
+   "IET",
+   "ACM",
+   "OWASP",
+   "BCS"
+  ],
+  "answer": [
+   1,
+   4
+  ],
+  "explain": "UK Professional Bodies for IT: BCS and IET. IEEE and ACM appear under 'Other Professional Bodies'.",
+  "source": "Lecture 9 (Professionalism) slide 13, 15",
+  "flag": ""
+ },
+ {
+  "id": "w09-046",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which founding years are correct according to the slides?",
+  "options": [
+   "BCS: 1957",
+   "IEEE: 1946",
+   "ACM: 1947",
+   "IET: 2006"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Slides 13 and 15.",
+  "source": "Lecture 9 (Professionalism) slide 13, 15",
+  "flag": ""
+ },
+ {
+  "id": "w09-047",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which founding years are correct according to the slides?",
+  "options": [
+   "BCS: 2006",
+   "IEEE: 1957",
+   "ACM: 1947",
+   "IET: 1946",
+   "BCS: 1957"
+  ],
+  "answer": [
+   2,
+   4
+  ],
+  "explain": "BCS 1957; ACM 1947; IEEE 1946; IET 2006.",
+  "source": "Lecture 9 (Professionalism) slide 13, 15",
+  "flag": ""
+ },
+ {
+  "id": "w09-048",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "How can you protect yourself as a professional, according to the slides?",
+  "options": [
+   "Professional indemnity insurance",
+   "CPD (Continuing Professional Development)",
+   "Work only on safety critical systems",
+   "Avoid giving advice",
+   "Rely on common sense alone"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explain": "How do you protect yourself as a professional? Professional indemnity insurance; CPD.",
+  "source": "Lecture 9 (Professionalism) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w09-049",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "When does the lecture say it matters that we are IT professionals?",
+  "options": [
+   "Only when working abroad",
+   "When we are designing safety critical systems",
+   "Only when handling payment card data",
+   "When we give advice",
+   "Only when working for the public sector"
+  ],
+  "answer": [
+   1,
+   3
+  ],
+  "explain": "Does it matter if we are IT professionals? What about when we give advice? What about when we are designing safety critical systems?",
+  "source": "Lecture 9 (Professionalism) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w09-050",
+  "week": 9,
+  "topic": "Professionalism",
+  "type": "multi",
+  "q": "Which of the following pairings of trade and professional are given in the lecture?",
+  "options": [
+   "Plumbers vs. Mechanical engineers",
+   "Electricians vs. Electrical engineers",
+   "Computer programmer vs. Software Engineer",
+   "Electricians vs. Civil engineers",
+   "Builders vs. Civil engineers",
+   "Cisco hardware installer vs. Cisco Certified Engineer",
+   "Plumbers vs. Software Engineer"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   5
+  ],
+  "explain": "Slides 5 and 7.",
+  "source": "Lecture 9 (Professionalism) slide 5, 7",
+  "flag": ""
+ }
+]

@@ -1,0 +1,4 @@
+# The 2024-25 paper is ARU's; it stays out of the public repo.
+bank/pastpaper.*
+/index.html
+__pycache__/

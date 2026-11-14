@@ -1,0 +1,1559 @@
+[
+ {
+  "id": "w02-001",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "Sensitive personal data includes political opinions and sexual preferences.",
+   "Sensitive personal data includes racial or ethnical origins and religious believes.",
+   "Sensitive personal data means any raw facts gathered about someone or something.",
+   "Sensitive personal data includes physical or mental health and criminal records."
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Raw facts gathered about someone or something is the definition of data. Sensitive personal data is personal data related to racial or ethnical origins, religious believes, political opinions, physical/mental health, sexual preferences, criminal records.",
+  "source": "Lecture 2 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w02-002",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "Personal data is data about a living person who can be identified from the data.",
+   "Personal data is data about human beings.",
+   "Processing is anything you do with personal data, such as hold, store, gather, delete or modify.",
+   "Personal data is data about a person who has died and cannot be identified from the data."
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Personal data is data about a living person who can be identified from the data; human beings.",
+  "source": "Lecture 2 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w02-003",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Does the Data Protection Act 2018 include GDPR?",
+  "options": [
+   "No, the two are completely unrelated",
+   "Yes, it includes GDPR",
+   "Only for data held in manual records",
+   "No, GDPR replaced the DPA 2018 entirely"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The slide states that the Data Protection Act 2018 'includes GDPR', and that you should read the DPA 2018 alongside GDPR.",
+  "source": "Lecture 2 slide 22",
+  "flag": "Slide says DPA 2018 'includes' GDPR. In real law the DPA 2018 supplements and tailors the GDPR rather than containing it. Follow the slide."
+ },
+ {
+  "id": "w02-004",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which body enforces the Data Protection Act in the UK?",
+  "options": [
+   "The Mailing Preference Service",
+   "The Data Protection Register",
+   "The Information Commissioner (ICO)",
+   "The Federal Trade Commission (FTC)"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The DPA is enforced by the Information Commissioner (ICO) in the UK.",
+  "source": "Lecture 2 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w02-005",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? Personal Data shall not be transferred to a country outside the EEA unless that country ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "This is Principle #8 (Transfer Abroad), quoted from the slide.",
+  "source": "Lecture 2 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w02-006",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? Personal data shall be adequate, relevant and excessive in relation to the purposes for which they are processed.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Principle #3 says adequate, relevant and NOT excessive.",
+  "source": "Lecture 2 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w02-007",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? Personal data shall be obtained for one or more specified and lawful purposes, and may be further processed in any manner the controller chooses.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Principle #2: it shall not be further processed in any manner incompatible with that purpose or those purposes.",
+  "source": "Lecture 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w02-008",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? Putting personal data on the internet counts as a world-wide transfer.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Principle #8 slide: 'putting on the internet = world-wide transfer'.",
+  "source": "Lecture 2 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w02-009",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which principle number covers the transfer of personal data abroad?",
+  "options": [
+   "Principle 6",
+   "Principle 8",
+   "Principle 5",
+   "Principle 7"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Principle #8 (Transfer Abroad). Principle 7 is security; Principle 6 is the rights of a data subject; Principle 5 is retention.",
+  "source": "Lecture 2 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w02-010",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which principle covers the rights of a data subject?",
+  "options": [
+   "Principle 4",
+   "Principle 8",
+   "Principle 6",
+   "Principle 2"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Principle #6 (Rights of a data subject). Principles 1-5, 7 and 8 are obligations on Data Controllers.",
+  "source": "Lecture 2 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w02-011",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Under the DPA principles, which set of principles places obligations on Data Controllers?",
+  "options": [
+   "Principles 1-4 and 6-8",
+   "Principle 6 only",
+   "Principles 1-6 only",
+   "Principles 1-5, 7 and 8"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Obligations on Data Controllers are Principles 1-5, 7, 8; the rights of Data Subjects are Principle 6.",
+  "source": "Lecture 2 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w02-012",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Under Principle 6, a data subject can normally access data held on them within how many days, and with a fee of up to what?",
+  "options": [
+   "14 days, no fee",
+   "40 days, fee up to £10",
+   "28 days, fee up to £50",
+   "30 days, fee up to £5"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Right to 'access any data held on you (normally within 40 days, and fee up to £10)'.",
+  "source": "Lecture 2 slide 20",
+  "flag": "Slide figures differ from current law (GDPR: one month, normally free). Follow the slide."
+ },
+ {
+  "id": "w02-013",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "According to the lecture, in which year was the Data Protection Act first passed?",
+  "options": [
+   "1994",
+   "1998",
+   "1984",
+   "2018"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'Data Protection Act 1984. Updated in 1998, 2018.'",
+  "source": "Lecture 2 slide 6",
+  "flag": "Slide 5 lists the DPA as '1994, 1998, 2018' while slide 6 says 1984. Slide 6 is the explicit history; slide 5 may be a typo."
+ },
+ {
+  "id": "w02-014",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "In what year is the General Data Protection Regulation dated in the lecture?",
+  "options": [
+   "1998",
+   "2018",
+   "2000",
+   "2016"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "The IT law list and the DP overview give 'GDPR (2016)' and 'General Data Protection Regulation 2016'.",
+  "source": "Lecture 2 slide 5, 6",
+  "flag": ""
+ },
+ {
+  "id": "w02-015",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which Act is dated 1990 in the lecture's list of IT law?",
+  "options": [
+   "Data Protection Act",
+   "Computer Misuse Act (CMA)",
+   "Freedom of Information Act (FOI)",
+   "Regulation of Investigatory Powers Act (RIPA)"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "CMA 1990; FOI 2000; RIPA 2018; DPA 1994, 1998, 2018.",
+  "source": "Lecture 2 slide 5",
+  "flag": "Slide dates RIPA as 2018, which differs from real law (RIPA 2000). Follow the slide."
+ },
+ {
+  "id": "w02-016",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which year is given for the Freedom of Information Act in the lecture?",
+  "options": [
+   "2018",
+   "1990",
+   "1998",
+   "2000"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "'Freedom of Information (FOI 2000)'.",
+  "source": "Lecture 2 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w02-017",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Who is a Data Controller?",
+  "options": [
+   "The body that enforces the Act in the UK",
+   "Anyone contracted to do some data processing under another's instructions",
+   "The person(s) or organisation who holds the data or controls the processing",
+   "The individual who is the subject of personal data"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Data Controller: the person(s) (or organisation) who holds the data or controls the processing. The second option is the Data Processor; the first is the Data Subject.",
+  "source": "Lecture 2 slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w02-018",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Who is a Data Processor?",
+  "options": [
+   "The individual who is the subject of personal data",
+   "The person who runs the public Register",
+   "Anyone in an organisation contracted to do some data processing under the data controller's instructions",
+   "The person or organisation who controls the processing"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Data Processor: anyone in (an organisation) contracted to do some data processing under data controller's instructions.",
+  "source": "Lecture 2 slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w02-019",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which of the following is NOT an exemption listed in the lecture?",
+  "options": [
+   "National security",
+   "Journalistic, literature or artistic purposes",
+   "Prevention and detection of crime",
+   "Direct marketing by the data controller"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Listed exemptions: National Security; Personal, Domestic and Recreational usage; Prevention and detection of crime; Journalistic, literature or artistic purposes; Where another statute authorises disclosure.",
+  "source": "Lecture 2 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w02-020",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which of the following is NOT something a Data Controller must notify the Information Commissioner about under the DPA 1998?",
+  "options": [
+   "The salaries of the staff who process the data",
+   "What types of information are held for what purposes",
+   "Who the information is obtained from",
+   "Who the information is disclosed to"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Notification covers types of information held for what purposes, obtained from WHO, disclosed to WHO.",
+  "source": "Lecture 2 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w02-021",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Sending unsolicited emails to individual consumers is an offence against which regulations?",
+  "options": [
+   "Privacy and Electronic Communications Regulations (PECR)",
+   "Regulation of Investigatory Powers Act",
+   "Computer Misuse Act 1990",
+   "Freedom of Information Act 2000"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "SPAM to individual consumers (not businesses) is an offence against PECR, regulated by the ICO.",
+  "source": "Lecture 2 slide 26",
+  "flag": ""
+ },
+ {
+  "id": "w02-022",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "In the lecture, what does 'compliance' mean?",
+  "options": [
+   "Registering annually with the ICO",
+   "Just enough to comply with the law",
+   "Good understanding within the law",
+   "Going beyond the law to protect all data"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "'compliance' is just enough to comply with the law; 'best practice' is good understanding within the law.",
+  "source": "Lecture 2 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w02-023",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement about the main improvements in GDPR is NOT correct?",
+  "options": [
+   "Consent is now opt-in, and evidence must be kept.",
+   "Consent is now opt-out and may be implied.",
+   "The data controller must be able to demonstrate compliance.",
+   "The data controller is clearly responsible for compliance."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "GDPR brings accountability principles and a higher standard for consent: opt-in, with evidence kept.",
+  "source": "Lecture 2 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w02-024",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? GDPR has extraterritorial effect, so any UK company doing business with the EU will still need to comply.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Post-Brexit slide: GDPR has extraterritorial effect, so non-EU countries are also affected.",
+  "source": "Lecture 2 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w02-025",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Is the following statement correct? After Brexit, UK companies doing business with the EU no longer need to comply with GDPR.",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Any UK company doing business with the EU will still need to comply.",
+  "source": "Lecture 2 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w02-026",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Where is the Information Commissioner's Office based, according to the lecture?",
+  "options": [
+   "Manchester",
+   "Cambridge",
+   "London",
+   "Wilmslow, Cheshire"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "ICO: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.",
+  "source": "Lecture 2 slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w02-027",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "What penalty does the lecture say you face if you are not exempt and don't follow the law?",
+  "options": [
+   "You will be penalised (fines/imprisonment)",
+   "Temporary suspension from the Register",
+   "A written warning only",
+   "Loss of the right to hold personal data for one year"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Summary: if you are not exempt and don't follow the law, you will be penalised (fines/imprisonment).",
+  "source": "Lecture 2 slide 27",
+  "flag": ""
+ },
+ {
+  "id": "w02-028",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement about Principle #7 (Security) is NOT correct?",
+  "options": [
+   "Appropriate technical and operational measures shall be taken.",
+   "It applies only to data held on paper.",
+   "Measures are taken against accidental loss, or destruction of, or damage to, personal data.",
+   "Measures are taken against unauthorised or unlawful processing of personal data."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Principle #7 requires appropriate technical and operational measures against unauthorised or unlawful processing and against accidental loss, destruction or damage.",
+  "source": "Lecture 2 slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w02-029",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which statement about Principle #5 is correct?",
+  "options": [
+   "Personal data shall be kept indefinitely if it is secure.",
+   "Personal data shall be kept for at least five years.",
+   "Personal data shall be accurate and where necessary kept up to date.",
+   "Personal data shall not be kept any longer than is necessary for the purpose(s) it is processed."
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Principle #5 is retention. 'Accurate and kept up to date' is Principle #4.",
+  "source": "Lecture 2 slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w02-030",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Which principle states that personal data shall be accurate and where necessary kept up to date?",
+  "options": [
+   "Principle 3",
+   "Principle 4",
+   "Principle 5",
+   "Principle 1"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Principle #4.",
+  "source": "Lecture 2 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w02-031",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "How does the lecture describe the data covered by the DPA 1998?",
+  "options": [
+   "Only manual records",
+   "Personal data held or processed in automated form AND some manual records",
+   "Only data held in automated form",
+   "Only data about businesses"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "DPA 1998: personal data held or processed in automated form AND some manual records.",
+  "source": "Lecture 2 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w02-032",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "single",
+  "q": "Who maintains the register that data controllers appear on?",
+  "options": [
+   "The data processor",
+   "The Mailing Preference Service",
+   "The Federal Trade Commission",
+   "The Information Commissioner's Office (ICO)"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "The ICO page lists 'The Data Protection Register (for data controllers)'; the DPA 1998 slide says controllers notify the Information Commissioner and are published on a public Register.",
+  "source": "Lecture 2 slide 10, 25",
+  "flag": ""
+ },
+ {
+  "id": "w02-033",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "DPA Principle #1 states personal data shall be processed fairly and lawfully. Which of the following are included in Principle #1 as conditions for processing personal data?",
+  "options": [
+   "with consent",
+   "to perform a contract with the individual",
+   "carry out a public function under statutory powers",
+   "to protect the vital interests of the data subject",
+   "to maximise the controller's commercial profit",
+   "pursue legitimate interests of the data controller unless prejudicial to the interests of the data subject",
+   "under a legal obligation"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "Slide 12 lists consent, contract, legal obligation, vital interests, public function under statutory powers and legitimate interests of the controller (unless prejudicial).",
+  "source": "Lecture 2 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w02-034",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are conditions for processing SENSITIVE data under Principle #1?",
+  "options": [
+   "necessary under a legal obligation in the context of employment",
+   "pursue the legitimate commercial interests of the data controller",
+   "for racial or ethnic monitoring",
+   "necessary for medical purposes, undertaken by a health professional",
+   "where the information has been deliberately made public by the data subject",
+   "with implied consent",
+   "with explicit consent"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   6
+  ],
+  "explain": "Sensitive data needs extra care and higher security: explicit consent, employment legal obligation, made public by data subject, medical purposes by a health professional, racial or ethnic monitoring, among others.",
+  "source": "Lecture 2 slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w02-035",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Under Principle #6, which rights does the data subject have?",
+  "options": [
+   "to be paid a fee by the controller for holding their data",
+   "to compensation for damage or damage and distress in (mis)use of personal data",
+   "to know the purpose(s) for which personal data is held",
+   "to request an assessment of whether the DPA is being complied with",
+   "to have incorrect information corrected",
+   "not to receive direct marketing",
+   "to access any data held on them"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slide 20 lists these rights; there is no right to payment for holding data.",
+  "source": "Lecture 2 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w02-036",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Under Principle #6, which rights does the data subject have?",
+  "options": [
+   "to have incorrect information erased if the data controller won't correct it",
+   "to appoint the data processor for the data controller",
+   "to prevent processing which causes substantial damage or substantial distress",
+   "an explanation behind the logic of automated decisions",
+   "to have any dispute over correctness recorded and visible with the record",
+   "to set the annual fee for the Register"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": "All of the first four appear on slide 20.",
+  "source": "Lecture 2 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w02-037",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are exemptions under the DPA?",
+  "options": [
+   "Prevention and detection of crime",
+   "Where another statute authorises disclosure",
+   "Commercial research for profit",
+   "National Security",
+   "Direct marketing",
+   "Personal, Domestic and Recreational usage"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   5
+  ],
+  "explain": "Exemptions: National Security; Personal, Domestic and Recreational usage; Prevention and detection of crime; Journalistic, literature or artistic purposes; Where another statute authorises disclosure.",
+  "source": "Lecture 2 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w02-038",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are exemptions under the DPA?",
+  "options": [
+   "Where another statute authorises disclosure",
+   "Journalistic, literature or artistic purposes",
+   "National Security",
+   "Prevention and detection of crime",
+   "Personal, Domestic and Recreational usage"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five are listed on the exemptions slide.",
+  "source": "Lecture 2 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w02-039",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Principle #7 (Security) requires appropriate technical and operational measures against which of the following?",
+  "options": [
+   "unauthorised or unlawful processing of personal data",
+   "destruction of or damage to personal data",
+   "accidental loss of personal data",
+   "lawful disclosure to the data subject"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "Principle #7: against unauthorised or unlawful processing, and against accidental loss, or destruction of, or damage to, personal data.",
+  "source": "Lecture 2 slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w02-040",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Under the DPA 1998, which of the following was a Data Controller obligated to do?",
+  "options": [
+   "appoint the Information Commissioner",
+   "follow the 8 Data Protection Principles",
+   "pay an annual fee",
+   "be published on the public Register",
+   "notify the Information Commissioner"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide 10 lists notify the Information Commissioner, public Register, follow 8 principles, annual fee.",
+  "source": "Lecture 2 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w02-041",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "What must a Data Controller notify the Information Commissioner about?",
+  "options": [
+   "who it is disclosed to",
+   "for what purposes it is held",
+   "what types of information are held",
+   "who it is obtained from"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Notification covers what TYPES of information held for what PURPOSES; obtained from WHO; disclosed to WHO.",
+  "source": "Lecture 2 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w02-042",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following appear in the lecture's list of IT law?",
+  "options": [
+   "Data Protection Act",
+   "Intellectual Property Law",
+   "GDPR",
+   "Freedom of Information",
+   "Regulation of Investigatory Powers Act",
+   "Computer Misuse Act"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "All six are on the I.T. Law slide.",
+  "source": "Lecture 2 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w02-043",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which are direct mail opt-out services named in the lecture?",
+  "options": [
+   "Email Preference service",
+   "Telephone Preference service",
+   "Mailing Preference service",
+   "Doorstep Preference service",
+   "Fax Preference service"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explain": "Direct mail opt-out services: Mailing, Fax and Telephone Preference services.",
+  "source": "Lecture 2 slide 26",
+  "flag": ""
+ },
+ {
+  "id": "w02-044",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "By the end of the lesson, you should be able to do which of the following?",
+  "options": [
+   "describe the obligations of Data Controllers",
+   "describe the EIGHT data protection principles",
+   "recall data protection definitions",
+   "outline data protection exemptions",
+   "describe the Computer Misuse Act offences",
+   "outline the scope of the Data Protection Act 2018"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   5
+  ],
+  "explain": "Learning objectives slide.",
+  "source": "Lecture 2 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w02-045",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "According to the lecture, what do the data protection laws outline?",
+  "options": [
+   "the rights you have about your data",
+   "the 'privacy' you can expect around data storage",
+   "the price organisations may charge for storing data",
+   "the responsibilities others have to look after it carefully"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explain": "Slide 6: rights you have about YOUR data; responsibilities others have to look after it carefully; 'privacy' you can expect around data storage.",
+  "source": "Lecture 2 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w02-046",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are main improvements in GDPR?",
+  "options": [
+   "consent may be implied from silence",
+   "consent is now opt-in",
+   "evidence of consent must be kept",
+   "the data controller must be able to demonstrate compliance",
+   "the data controller is clearly responsible for compliance"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Accountability principles and a higher standard for consent: opt-in, and evidence must be kept.",
+  "source": "Lecture 2 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w02-047",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are examples of 'processing' personal data?",
+  "options": [
+   "store",
+   "delete",
+   "hold",
+   "gather",
+   "modify"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Processing is anything you do with personal data: hold, store, gather, delete, modify.",
+  "source": "Lecture 2 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w02-048",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which of the following are categories of sensitive personal data?",
+  "options": [
+   "racial or ethnical origins",
+   "political opinions",
+   "religious believes",
+   "home address",
+   "sexual preferences",
+   "criminal records",
+   "physical or mental health"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   6
+  ],
+  "explain": "Sensitive personal data: racial or ethnical origins, religious believes, political opinions, physical/mental health, sexual preferences, criminal records.",
+  "source": "Lecture 2 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w02-049",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which statements about SPAM in the lecture are correct?",
+  "options": [
+   "SPAM might also fall into the DPA 2018",
+   "PECR is regulated by the ICO",
+   "Sending unsolicited emails to individual consumers is an offence against PECR",
+   "The offence applies to emails sent to businesses"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "SPAM to individual consumers (not businesses) is an offence against PECR, regulated by the ICO; it might also fall into the DPA 2018.",
+  "source": "Lecture 2 slide 26",
+  "flag": ""
+ },
+ {
+  "id": "w02-050",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Which statements about GDPR after Brexit are correct?",
+  "options": [
+   "UK organisations need to comply with GDPR",
+   "GDPR has extraterritorial effect",
+   "Non-EU countries are not affected by GDPR",
+   "GDPR applies to all EU countries and citizens",
+   "A UK company doing business with the EU still needs to comply"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 24.",
+  "source": "Lecture 2 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w02-051",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Why does the lecture say you should be interested in data protection?",
+  "options": [
+   "You need to know where to go for further advice",
+   "You may need to assert your own rights",
+   "It is law",
+   "You may need to apply it to your final project, e.g. software or surveys",
+   "You may need to advise others as to what is legal or illegal"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide 4 lists all five.",
+  "source": "Lecture 2 slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w02-052",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "In which years was the Data Protection Act enacted or updated according to the lecture's history of the Act?",
+  "options": [
+   "1998",
+   "2016",
+   "2000",
+   "1984",
+   "2018"
+  ],
+  "answer": [
+   0,
+   3,
+   4
+  ],
+  "explain": "Data Protection Act 1984, updated in 1998 and 2018.",
+  "source": "Lecture 2 slide 6",
+  "flag": "Slide 5 lists DPA as 1994, 1998, 2018; slide 6 gives 1984, 1998, 2018. Follow slide 6."
+ },
+ {
+  "id": "w02-053",
+  "week": 2,
+  "topic": "Data Protection",
+  "type": "multi",
+  "q": "Principle #3 states personal data shall be adequate, relevant and not excessive. Which of the following are required by Principle #3?",
+  "options": [
+   "encrypted",
+   "adequate",
+   "not excessive in relation to the purposes for which they are processed",
+   "relevant"
+  ],
+  "answer": [
+   1,
+   2,
+   3
+  ],
+  "explain": "Principle #3: adequate, relevant and not excessive in relation to the purposes for which they are processed.",
+  "source": "Lecture 2 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w02-054",
+  "week": 2,
+  "topic": "Cambridge Analytica seminar",
+  "type": "multi",
+  "q": "Which of the following are the five Big Five (OCEAN) personality traits?",
+  "options": [
+   "Conscientiousness",
+   "Intelligence",
+   "Agreeableness",
+   "Openness to experience",
+   "Neuroticism",
+   "Extraversion"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "OCEAN: Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism.",
+  "source": "Seminar 2 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w02-055",
+  "week": 2,
+  "topic": "Cambridge Analytica seminar",
+  "type": "multi",
+  "q": "The seminar asks for the impacts on 5 categories of issues. Which of these are the categories?",
+  "options": [
+   "Ethical",
+   "Financial",
+   "Environmental",
+   "Social",
+   "Legal",
+   "Professional",
+   "Systems"
+  ],
+  "answer": [
+   0,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Impacts on 5 categories of issues (Ethical, Legal, Social, Professional and Systems).",
+  "source": "Seminar 2 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w02-056",
+  "week": 2,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "What weighting does the in-class test carry in the module assessment?",
+  "options": [
+   "10%",
+   "30%",
+   "20%",
+   "50%"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Element 010 Part 1: in-class test 20%; Part 2: individual report 80%.",
+  "source": "Seminar 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w02-057",
+  "week": 2,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "How long is the individual report and how much is it worth?",
+  "options": [
+   "2000 words, 80%",
+   "2000 words, 50%",
+   "1500 words, 80%",
+   "3000 words, 20%"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Element 010 Part 2: individual report (2000 words) 80%.",
+  "source": "Seminar 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w02-058",
+  "week": 2,
+  "topic": "Assessment",
+  "type": "single",
+  "q": "When is the individual report due and how is it submitted?",
+  "options": [
+   "2pm Friday week 12 by post",
+   "2pm Friday week 12 via CANVAS",
+   "5pm Monday week 10 via email",
+   "midnight Sunday week 12 via CANVAS"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Submission via CANVAS: 2pm Friday week 12.",
+  "source": "Seminar 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w02-059",
+  "week": 2,
+  "topic": "Cambridge Analytica seminar",
+  "type": "single",
+  "q": "Which pair describes the Neuroticism trait?",
+  "options": [
+   "friendly/compassionate vs. challenging/detached",
+   "efficient/organized vs. easy-going/careless",
+   "sensitive/nervous vs. secure/confident",
+   "outgoing/energetic vs. solitary/reserved"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Neuroticism (sensitive/nervous vs. secure/confident).",
+  "source": "Seminar 2 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w02-060",
+  "week": 2,
+  "topic": "Cambridge Analytica seminar",
+  "type": "single",
+  "q": "Which statement about the Big Five traits is NOT correct?",
+  "options": [
+   "Agreeableness is described as friendly/compassionate vs. challenging/detached.",
+   "Extraversion is described as friendly/compassionate vs. challenging/detached.",
+   "Openness to experience is described as inventive/curious vs. consistent/cautious.",
+   "Conscientiousness is described as efficient/organized vs. easy-going/careless."
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Extraversion is outgoing/energetic vs. solitary/reserved; friendly/compassionate vs. challenging/detached is Agreeableness.",
+  "source": "Seminar 2 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w02-061",
+  "week": 2,
+  "topic": "Assessment",
+  "type": "multi",
+  "q": "Which statements about the module assessment are correct?",
+  "options": [
+   "Part 2 is a 2000-word individual report worth 80%",
+   "Part 1 is an in-class test worth 20%",
+   "The report is submitted via CANVAS",
+   "It is one single graded assessment element (Element 010)",
+   "The report is submitted by email"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Slide 14.",
+  "source": "Seminar 2 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w02-062",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "How many Facebook users' personally identifiable information was given to Cambridge Analytica, according to the article?",
+  "options": [
+   "More than 230 million",
+   "More than 87 million",
+   "More than 50 million",
+   "More than 8.7 million"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Facebook gave access to PII of more than 87 million users to Cambridge Analytica.",
+  "source": "Reading (Isaak and Hanna 2018) page 56",
+  "flag": ""
+ },
+ {
+  "id": "w02-063",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "In 2013, researchers at which institution analysed volunteers' Facebook personality tests?",
+  "options": [
+   "Stanford University",
+   "University of Cambridge's Psychometrics Centre",
+   "Synopsys",
+   "Global Science Research"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "In 2013 researchers at the University of Cambridge's Psychometrics Centre analysed the results of volunteers who took a personality test on Facebook.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-064",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "How many US participants did the 2013 Cambridge research draw in?",
+  "options": [
+   "350,000",
+   "35,000",
+   "87 million",
+   "3.5 million"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The research drew in 350,000 US participants. (3.5 million is Kosinski's later sample base.)",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-065",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "What does GSR stand for in the article?",
+  "options": [
+   "General Social Research",
+   "Global Science Research",
+   "Global Security Reporting",
+   "Government Survey Registry"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "A second research project was reportedly initiated by Global Science Research (GSR) in cooperation with Cambridge Analytica.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-066",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "multi",
+  "q": "Which platforms did GSR use for its personality quiz?",
+  "options": [
+   "Qualtrics",
+   "Amazon's Mechanical Turk",
+   "SurveyMonkey",
+   "Google Forms"
+  ],
+  "answer": [
+   0,
+   1
+  ],
+  "explain": "The quiz ran on Amazon's Mechanical Turk platform and Qualtrics, a survey platform.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-067",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "Until when did the Facebook Open API give access to users' friends' data, according to the article?",
+  "options": [
+   "2011",
+   "December 2015",
+   "May 2015",
+   "April 2018"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Access to friends' data was available through the Facebook Open API until May 2015.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-068",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "How many data points on how many US adults did Cambridge Analytica build?",
+  "options": [
+   "5,000+ data points on 350,000 US adults",
+   "50,000 data points on 2.3 million US adults",
+   "5,000+ data points on 230 million US adults",
+   "500 data points on 87 million US adults"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "'5,000+ data points on 230 million US adults'.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-069",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "What was 'Project Alamo'?",
+  "options": [
+   "A Facebook privacy law proposed by Senator Klobuchar",
+   "A targeted-messaging campaign paired with OCEAN analysis, used for the election campaign of President Trump",
+   "The FTC investigation of Facebook",
+   "The GSR quiz run on Mechanical Turk"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The OCEAN analysis was paired with targeted messages in 'Project Alamo', employed for the election campaign of President Trump.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-070",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "Facebook was being investigated by the FTC for violating what?",
+  "options": [
+   "The GDPR",
+   "A 2013 privacy bill",
+   "The CONSENT Act",
+   "A 2011 consent decree"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Facebook is being investigated by the Federal Trade Commission (FTC) for violating a 2011 consent decree.",
+  "source": "Reading (Isaak and Hanna 2018) page 57",
+  "flag": ""
+ },
+ {
+  "id": "w02-071",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "Which senators put forward the CONSENT Act (S.2639)?",
+  "options": [
+   "Richard Blumenthal and Amy Klobuchar",
+   "Amy Klobuchar and Ted Cruz",
+   "Richard Blumenthal and Ed Markey",
+   "Mark Zuckerberg and Amy Klobuchar"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The CONSENT Act (S.2639) comes from Senators Richard Blumenthal (D-CT) and Ed Markey (D-MA).",
+  "source": "Reading (Isaak and Hanna 2018) page 59",
+  "flag": ""
+ },
+ {
+  "id": "w02-072",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "Which bill was introduced by Senator Amy Klobuchar?",
+  "options": [
+   "Social Media Privacy Protection and Consumer Rights Act of 2018 (S.2728)",
+   "CONSENT Act (S.2639)",
+   "Data Protection Act 2018",
+   "California privacy bill"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "S.2728 introduced by Senator Amy Klobuchar (D-MN).",
+  "source": "Reading (Isaak and Hanna 2018) page 59",
+  "flag": ""
+ },
+ {
+  "id": "w02-073",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "The California privacy bill adds limits on selling data on users younger than what age?",
+  "options": [
+   "13",
+   "21",
+   "16",
+   "18"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The bill adds limits to selling data on users younger than 16 years of age.",
+  "source": "Reading (Isaak and Hanna 2018) page 59",
+  "flag": ""
+ },
+ {
+  "id": "w02-074",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "multi",
+  "q": "Which of the following are the four headings of the core principles of privacy and data protection in the article?",
+  "options": [
+   "Control",
+   "Encryption",
+   "Retention",
+   "Notification",
+   "Disclosure for users",
+   "Public transparency"
+  ],
+  "answer": [
+   0,
+   3,
+   4,
+   5
+  ],
+  "explain": "Headings: Public transparency; Disclosure for users; Control; Notification.",
+  "source": "Reading (Isaak and Hanna 2018) page 58-59",
+  "flag": ""
+ },
+ {
+  "id": "w02-075",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "multi",
+  "q": "Which of the following does the CONSENT Act require or do?",
+  "options": [
+   "bans all sale of user data",
+   "explicit opt-in consent before platforms use, share or sell PII",
+   "new reporting requirements in case of a data breach",
+   "requires the FTC to establish privacy protections for customers of online edge providers",
+   "explicit notification any time data is gathered, shared or sold to a third party"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "The bill requires explicit opt-in consent and notification, adds breach reporting, and requires the FTC to establish privacy protections.",
+  "source": "Reading (Isaak and Hanna 2018) page 59",
+  "flag": ""
+ },
+ {
+  "id": "w02-076",
+  "week": 2,
+  "topic": "Cambridge Analytica",
+  "type": "single",
+  "q": "As few as how many voters in a few states are said to be enough to tip election results with individualised messages?",
+  "options": [
+   "100,000",
+   "3.5 million",
+   "350,000",
+   "87 million"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Tipping the scale in a few states with as few as 100,000 voters is sufficient to impact election results.",
+  "source": "Reading (Isaak and Hanna 2018) page 58",
+  "flag": ""
+ }
+]

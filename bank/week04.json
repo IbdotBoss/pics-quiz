@@ -1,0 +1,882 @@
+[
+ {
+  "id": "w04-001",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "What range of global temperature rise does the IPCC predict under the lowest CO2 emission scenario?",
+  "options": [
+   "2.4 - 6.4 oC",
+   "1.4 - 2.9 oC",
+   "1.1 - 2.9 oC",
+   "1.1 - 6.4 oC"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "IPCC predict 1.1 - 2.9 oC (lowest CO2 emission scenario).",
+  "source": "Lecture 11 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w04-002",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "What range of global temperature rise does the IPCC predict under the highest CO2 emission scenario?",
+  "options": [
+   "2.4 - 6.4 oC",
+   "1.1 - 2.9 oC",
+   "2.4 - 4.6 oC",
+   "1.4 - 6.4 oC"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "IPCC predict 2.4 - 6.4 oC (highest CO2 emission scenario).",
+  "source": "Lecture 11 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w04-003",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Since 1880, by how much has the average global temperature risen?",
+  "options": [
+   "1.4 oC",
+   "0.4 oC",
+   "1.1 oC",
+   "2.4 oC",
+   "6.4 oC"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Since 1880, the average global temp has risen by 1.4 oC.",
+  "source": "Lecture 11 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w04-004",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Which body predicts a global temperature rise of 1.1 - 2.9 oC in the lowest CO2 emission scenario?",
+  "options": [
+   "Environment Agency, UK",
+   "Greenpeace",
+   "International Panel on Climate Change (IPCC)",
+   "Digital Power Group",
+   "Enerdata"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "The International Panel on Climate Change (IPCC) makes the predictions on the slide. Environment Agency, UK is only the source of an image.",
+  "source": "Lecture 11 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w04-005",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "In data centres, Power Usage Effectiveness is calculated as:",
+  "options": [
+   "IT equipment power / total facility power",
+   "total facility power x IT equipment power",
+   "total facility power / IT equipment power",
+   "total facility power - IT equipment power"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Power Usage Effectiveness = total facility power / IT equipment power.",
+  "source": "Lecture 11 slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w04-006",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "What percentage of global power is ICT predicted to use by 2025?",
+  "options": [
+   "10%",
+   "20%",
+   "14%",
+   "50%",
+   "5%"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "ICT will use 20% of global power by 2025 (The Guardian, 2017).",
+  "source": "Lecture 11 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w04-007",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "By 2040, what percentage of global emissions will the Internet of Things (IoT) produce?",
+  "options": [
+   "10%",
+   "20%",
+   "50%",
+   "14%",
+   "4.1%"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "IoT will produce 14% of global emissions by 2040 (The Guardian, 2017).",
+  "source": "Lecture 11 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w04-008",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "The average mobile phone customer uses 4.1 GB of data a month. How much is that per year?",
+  "options": [
+   "49.2 GB",
+   "41 GB",
+   "4.92 GB",
+   "934.8 GB",
+   "19 GB"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "4.1 GB a month is 49.2 GBs per year.",
+  "source": "Lecture 11 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w04-009",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "What is the total yearly energy figure given for the average mobile phone customer (annual use plus connection plus charging)?",
+  "options": [
+   "934.8 kWh per year",
+   "23.4 kWh per year",
+   "961.7 kWh per year",
+   "1,000 kWh per year",
+   "958.2 kWh per year"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Annual use 934.8 + connection 23.4 + charging 3.5 = TOTAL 961.7 kWh per year.",
+  "source": "Lecture 11 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w04-010",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "In the 'hidden consumption' example, how much energy does the mobile industry estimate 1GB requires?",
+  "options": [
+   "4.1 kW",
+   "49.2 kW",
+   "23.4 kW",
+   "3.5 kW",
+   "19 kW"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "Mobile Industry estimated 1GB requires 19 kW.",
+  "source": "Lecture 11 slide 19",
+  "flag": "Slide gives the unit as kW (not kWh) although results are in kWh per year."
+ },
+ {
+  "id": "w04-011",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "In the 'hidden consumption' example, what is the yearly charging consumption?",
+  "options": [
+   "23.4 kWh per year",
+   "3.5 kWh per year",
+   "934.8 kWh per year",
+   "961.7 kWh per year",
+   "35 kWh per year"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Charging consumption = 3.5 kWh per year.",
+  "source": "Lecture 11 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w04-012",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "CRTs contain a significant amount of lead",
+   "LCD contains mercury",
+   "Circuits contain chromium, copper and lead",
+   "CRTs contain mercury",
+   "Batteries contain lead, nickel, cadmium, silver and lithium"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "CRTs contain significant lead; it is LCD that contains mercury.",
+  "source": "Lecture 11 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w04-013",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Is the following statement correct? 'When disposing of IT equipment, data storage devices can be donated to schools and charities.'",
+  "options": [
+   "Not correct",
+   "Correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Donate - schools, charity, etc. (but not data storage devices), because of data leakage.",
+  "source": "Lecture 11 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w04-014",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "How much gold could be recovered from 1 million recycled mobile phones?",
+  "options": [
+   "33 pounds",
+   "772 pounds",
+   "75 pounds",
+   "35,274 pounds",
+   "7,500 pounds"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "1 million recycled mobile phones: 35,274 pounds of copper, 772 pounds of silver, 75 pounds of gold, 33 pounds of palladium.",
+  "source": "Lecture 11 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w04-015",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "How much silver could be recovered from 1 million recycled mobile phones?",
+  "options": [
+   "75 pounds",
+   "33 pounds",
+   "35,274 pounds",
+   "7,720 pounds",
+   "772 pounds"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "772 pounds of silver from 1 million recycled mobile phones.",
+  "source": "Lecture 11 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w04-016",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Which of these is given as an example of a low power chip in the lecture?",
+  "options": [
+   "CISC",
+   "RISC",
+   "GPU",
+   "SSD",
+   "UPS"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Computing can be made more energy efficient: low power chips (RISC).",
+  "source": "Lecture 11 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w04-017",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "What question does 'embedded CO2' ask?",
+  "options": [
+   "How much energy does an item use over its lifetime?",
+   "How much CO2 is stored in a data centre?",
+   "How much energy did it take to make an item?",
+   "How much CO2 does an item save by reducing travel?"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Embedded CO2: How much energy did it take to make an item?",
+  "source": "Lecture 11 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w04-018",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Which description fits a 'green cloud'?",
+  "options": [
+   "resources are concentrated in more efficient data centres",
+   "exponential growth far outstrips energy savings",
+   "large UPS systems take a lot of energy",
+   "approx 50% of costs are power related"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Green cloud: resources are concentrated in more efficient data centres. The other options are under 'Not so Green cloud'.",
+  "source": "Lecture 11 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w04-019",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Over what cycle do mobile device batteries double in efficiency?",
+  "options": [
+   "2 years",
+   "5 years",
+   "7 years",
+   "10 years",
+   "1 year"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Mobile device batteries double in efficiency over a 7 year cycle; processing power doubles over a 2 year cycle.",
+  "source": "Lecture 11 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w04-020",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Over what cycle does processing power double?",
+  "options": [
+   "2 years",
+   "7 years",
+   "18 months",
+   "5 years"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Processing power doubles over a 2 year cycle.",
+  "source": "Lecture 11 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w04-021",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Which of these is a document used in Green IT disposal?",
+  "options": [
+   "Certificate of Carbon Neutrality",
+   "Energy Performance Certificate",
+   "Certificate of Data Destruction",
+   "Certificate of Origin"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Green IT disposal: licensed waste centre, Duty of Care/Waste Transfer notices, Certificate of Data Destruction.",
+  "source": "Lecture 11 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w04-022",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "single",
+  "q": "Is the following statement correct? 'ICT uses 10% of global power generation, which is 50% more than aviation.'",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Statistics slide: ICT uses 10% of global power generation - 50% more than aviation (Digital Power Group, 2013).",
+  "source": "Lecture 11 slide 16",
+  "flag": "Slide wording is ambiguous (could be read as ICT growing 50%); follow the slide as written."
+ },
+ {
+  "id": "w04-023",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which of the following are listed as benefits of IT?",
+  "options": [
+   "built in obsolescence",
+   "entertainment",
+   "dependency",
+   "liberating",
+   "creates new jobs",
+   "infrastructure efficiency",
+   "improves communications"
+  ],
+  "answer": [
+   1,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Benefits: creates new jobs, advances knowledge, makes lives easier, improves communications, entertainment, infrastructure efficiency, liberating. Obsolescence and dependency are drawbacks.",
+  "source": "Lecture 11 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w04-024",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which of the following are listed as drawbacks of IT?",
+  "options": [
+   "sweat shops",
+   "disposal",
+   "built in obsolescence",
+   "rare earth materials",
+   "creates new jobs",
+   "improves communications",
+   "energy consumption"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   6
+  ],
+  "explain": "Drawbacks include reduces menial jobs, online bullying, dark nets, energy consumption, disposal, built in obsolescence, rare earth materials, sweat shops, dependency, knowledge is power.",
+  "source": "Lecture 11 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w04-025",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which are possible climate effects named in the lecture?",
+  "options": [
+   "reduced power of storms",
+   "falling sea levels",
+   "changing rain distribution",
+   "increased power of storms",
+   "rising sea levels"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Possible effects: rising sea levels, increased power of storms (habitation / migration), changing rain distribution (food).",
+  "source": "Lecture 11 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w04-026",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "In what ways can computing create efficiencies in the way we live?",
+  "options": [
+   "solid state devices",
+   "low power chips (RISC)",
+   "intelligent heating/lighting controls and sensors",
+   "management of Energy networks",
+   "reducing travel"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Aspect 1: intelligent heating/lighting controls and sensors, management of Energy networks, reducing travel. The others are aspect 2 (making computing more energy efficient).",
+  "source": "Lecture 11 slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w04-027",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "How can computing itself be made more energy efficient?",
+  "options": [
+   "better system power management",
+   "load balancing",
+   "lower power air conditioning",
+   "low energy screens",
+   "low power chips (RISC)",
+   "solid state devices"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Aspect 2 lists all six: low power chips (RISC), solid state devices, low energy screens, better system power management, load balancing, lower power air conditioning.",
+  "source": "Lecture 11 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w04-028",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which stages are counted when working out the embedded CO2 of an item?",
+  "options": [
+   "raw materials",
+   "disposal of waste created by manufacturing and final disposal of item",
+   "device energy efficiency over lifetime",
+   "construction / assembly",
+   "transportation of materials and parts"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Embedded CO2 lists raw materials, transport of materials and parts, construction/assembly, transport/marketing/retail of finished goods, and disposal. Device efficiency over lifetime is under Energy Calculations.",
+  "source": "Lecture 11 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w04-029",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which items appear under 'Energy Calculations'?",
+  "options": [
+   "raw materials",
+   "device energy efficiency over lifetime",
+   "energy transmission costs",
+   "energy source",
+   "societal effects",
+   "replacement benefits"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Energy Calculations: replacement benefits, device energy efficiency over lifetime, where is the energy coming from (energy source, transmission costs, societal effects). Raw materials belong to Embedded CO2.",
+  "source": "Lecture 11 slide 10-11",
+  "flag": ""
+ },
+ {
+  "id": "w04-030",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which points are made about the 'Not so Green cloud'?",
+  "options": [
+   "approx 50% of costs are power related",
+   "the sort of energy used is important, not just total energy",
+   "exponential growth far outstrips energy savings that can be obtained improving IT energy efficiency",
+   "large UPS systems take a lot of energy",
+   "resources are concentrated in more efficient data centres"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "The last option is the 'Green cloud' point; the other four are listed under Not so Green cloud (Greenpeace, 2012).",
+  "source": "Lecture 11 slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w04-031",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which materials are listed as being in batteries?",
+  "options": [
+   "chromium",
+   "nickel",
+   "lithium",
+   "mercury",
+   "lead",
+   "cadmium",
+   "silver"
+  ],
+  "answer": [
+   1,
+   2,
+   4,
+   5,
+   6
+  ],
+  "explain": "Batteries - lead, nickel, cadmium, silver, lithium. Mercury is in LCD; chromium is in circuits.",
+  "source": "Lecture 11 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w04-032",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which statements about recovery from 1 million recycled mobile phones are correct?",
+  "options": [
+   "772 pounds of silver",
+   "35,274 pounds of copper",
+   "33 pounds of palladium",
+   "75 pounds of gold"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "All four figures are on the slide.",
+  "source": "Lecture 11 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w04-033",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which of the following are part of Green IT disposal?",
+  "options": [
+   "Licensed waste centre",
+   "Donate to schools or charity (but not data storage devices)",
+   "Duty of Care/Waste Transfer notices",
+   "Certificate of Data Destruction",
+   "Store unwanted devices unwiped for later reuse",
+   "Parts stripped for recycling"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   5
+  ],
+  "explain": "Slide lists licensed waste centre, Duty of Care/Waste Transfer notices, Certificate of Data Destruction, parts stripped for recycling, donation (but not data storage devices).",
+  "source": "Lecture 11 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w04-034",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which parts are stripped for recycling in Green IT disposal?",
+  "options": [
+   "ferrous/non-ferrous materials",
+   "plastics (mice, keyboards, chassis)",
+   "data storage devices for donation",
+   "software licences",
+   "monitors (LCD, plasma, CRT)"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explain": "Parts stripped for recycling: ferrous/non-ferrous materials, monitors (LCD, plasma, CRT), plastics (mice, keyboards, chassis).",
+  "source": "Lecture 11 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w04-035",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which are suggested ways to save energy?",
+  "options": [
+   "clean up unnecessary widgets and applications",
+   "re-new components rather than whole system",
+   "use laptops rather than desktops",
+   "minimise printing (2 sided)",
+   "leave devices in sleep because it uses no power",
+   "use device power management",
+   "replace the whole system every upgrade cycle"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   5
+  ],
+  "explain": "Save energy list includes those first five. Sleep or off still uses power.",
+  "source": "Lecture 11 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w04-036",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which are listed as opportunities arising from sustainability in IT?",
+  "options": [
+   "better ways of doing things - redesign software, algorithms, hardware",
+   "'Green' collar jobs - green audits / monitoring / consultancy",
+   "Special interest groups in IEEE, ACM, etc.",
+   "relaxed regulation of data centres",
+   "less demand for energy"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "Opportunities: better ways of doing things, green collar jobs, special interest groups in IEEE, ACM etc.",
+  "source": "Lecture 11 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w04-037",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which are listed as future considerations?",
+  "options": [
+   "How do we generate energy?",
+   "Impacts of device lifecycle?",
+   "Traditional less advanced countries are modernising",
+   "Social impact of more technology?",
+   "Global demand for energy is increasing"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All five bullets appear under Future Considerations.",
+  "source": "Lecture 11 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w04-038",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which statistics are given about ICT energy use?",
+  "options": [
+   "ICT will use 50% of global power by 2025",
+   "IoT will produce 20% of global emissions by 2040",
+   "ICT will use 20% of global power by 2025",
+   "ICT uses 10% of global power generation",
+   "There is more internet traffic per hour than per year in 2000",
+   "IoT will produce 14% of global emissions by 2040"
+  ],
+  "answer": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Statistics slide: 10% of global power generation, 20% by 2025, IoT 14% of emissions by 2040, more traffic per hour than per year in 2000.",
+  "source": "Lecture 11 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w04-039",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which figures are in the 'hidden consumption' calculation for the average mobile phone customer?",
+  "options": [
+   "49.2 GBs per year",
+   "4.1 GB of data a month",
+   "charging consumption of 35 kWh per year",
+   "annual use of 934.8 kWh per year",
+   "total of 961.7 kWh per year",
+   "connection costs of about 23.4 kWh per year"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4,
+   5
+  ],
+  "explain": "Charging consumption is 3.5 kWh per year, not 35; the rest are on the slide.",
+  "source": "Lecture 11 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w04-040",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "What are the stated learning objectives of the sustainability lecture?",
+  "options": [
+   "explain the implications of sustainability in computing",
+   "design low power chips",
+   "explain the global impact of computing",
+   "consider the aspects of green computing"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Learning objectives: explain global impact, explain implications of sustainability in computing, consider aspects of green computing.",
+  "source": "Lecture 11 slide 2",
+  "flag": ""
+ },
+ {
+  "id": "w04-041",
+  "week": 4,
+  "topic": "Sustainability",
+  "type": "multi",
+  "q": "Which statements about cloud computing and data centre power are correct?",
+  "options": [
+   "Exponential growth is outweighed by IT energy efficiency savings",
+   "Power Usage Effectiveness = total facility power / IT equipment power",
+   "Large UPS systems take a lot of energy",
+   "Selecting low carbon energy sources matters",
+   "Locating data centres near green power matters"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide says exponential growth far outstrips the energy savings from improving IT efficiency.",
+  "source": "Lecture 11 slide 13-14",
+  "flag": ""
+ }
+]

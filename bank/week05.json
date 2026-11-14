@@ -1,0 +1,1209 @@
+[
+ {
+  "id": "w05-001",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which of the following is the lecture's definition of 'failure'?",
+  "options": [
+   "a regularly interacting or interdependent group of items forming a unified whole",
+   "the inability of a system to meet its stakeholders' requirements",
+   "the end of a project within budget and time",
+   "the state or condition of not meeting a desirable or intended objective"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Failure - the state or condition of not meeting a desirable or intended objective. The second option defines 'system'.",
+  "source": "Lecture 5 slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w05-002",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of failure is when an information system project cannot be developed within an allocated budget and/or time schedule?",
+  "options": [
+   "Correspondence failure",
+   "Process failure",
+   "Interaction failure",
+   "Expectation failure"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Process failure: an information system project cannot be developed within an allocated budget and/or time schedule.",
+  "source": "Lecture 5 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w05-003",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of failure is when the objectives/goals of the systems design are not met?",
+  "options": [
+   "Process failure",
+   "Correspondence failure",
+   "Interaction failure",
+   "Expectation failure",
+   "Catastrophic failure"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Correspondence failure: when the objectives/goals of the systems design are not met.",
+  "source": "Lecture 5 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w05-004",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of failure is attributed to the level of end-user usage, adoption or acceptance of the implemented information system?",
+  "options": [
+   "Process failure",
+   "Correspondence failure",
+   "Expectation failure",
+   "Interaction failure",
+   "Partial failure"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Interaction failure: attributed to the level of end-user usage or adoption or acceptance of the implemented information system.",
+  "source": "Lecture 5 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w05-005",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of failure is the inability of a system to meet its stakeholders' requirements, expectations or values?",
+  "options": [
+   "Expectation failure",
+   "Interaction failure",
+   "Process failure",
+   "Correspondence failure",
+   "Total failure"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Expectation failure: inability of a system to meet its stakeholders' requirement, expectations or values.",
+  "source": "Lecture 5 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w05-006",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of system failure is the failure of one or more components that renders the system irrecoverable?",
+  "options": [
+   "Partial",
+   "Total",
+   "Catastrophic",
+   "Process",
+   "Correspondence"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Catastrophic - failure of one or more components that renders the system irrecoverable.",
+  "source": "Lecture 5 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w05-007",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of system failure is the failure of one or more components that impedes the operation of a system?",
+  "options": [
+   "Total",
+   "Catastrophic",
+   "Interaction",
+   "Partial"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Partial - failure of one or more components to impede the operation of a system.",
+  "source": "Lecture 5 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w05-008",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which type of system failure causes a system to stop working temporarily or permanently?",
+  "options": [
+   "Partial",
+   "Total",
+   "Catastrophic",
+   "Expectation"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Total - failure of one or more components that causes a system to stop working temporarily or permanently.",
+  "source": "Lecture 5 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w05-009",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "In the 'Normal Accident' idea, what does complexity plus tight interaction give?",
+  "options": [
+   "graceful degradation",
+   "partial failure only",
+   "inadequate user training",
+   "catastrophic potential",
+   "process failure"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "\"Normal Accident\": complexity + tight interaction = catastrophic potential.",
+  "source": "Lecture 5 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w05-010",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "What does 'tightly coupled' mean?",
+  "options": [
+   "one thing happens then another",
+   "interacting elements with no 'buffer' or delay possible",
+   "there are multiple routes between elements",
+   "elements are backed up with dissimilar systems"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Tightly Coupled - interacting elements with no 'buffer' or delay possible. Linear is one thing then another; complex has multiple routes.",
+  "source": "Lecture 5 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w05-011",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "How many primary reasons for system failures does the lecture ask you to recall?",
+  "options": [
+   "Three",
+   "Four",
+   "Six",
+   "Five",
+   "Seven"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Learning objective: recall the six primary reasons for system failures.",
+  "source": "Lecture 5 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w05-012",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "How many types of system failure does the lecture give?",
+  "options": [
+   "Two",
+   "Four",
+   "Five",
+   "Six",
+   "Three"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "Types of system failures: Partial, Total, Catastrophic.",
+  "source": "Lecture 5 slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w05-013",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "How many classifications of system failure does the lecture give?",
+  "options": [
+   "Three",
+   "Five",
+   "Six",
+   "Four"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Classification of system failures lists process, correspondence, interaction and expectation failure.",
+  "source": "Lecture 5 slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w05-014",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which statement below is NOT correct for safety critical systems?",
+  "options": [
+   "fail-safe failure mode(s)",
+   "graceful degradation on failure of sub-system",
+   "rigorous testing",
+   "multiple backups using similar systems/hardware/software",
+   "rigorous external independent oversight of specification, design, testing, approval, implementation, operation processes and maintenance"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Safety critical systems need multiple backups using dissimilar systems/hardware/software, not similar.",
+  "source": "Lecture 5 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w05-015",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "On what date did the Kegworth air crash flight take off from Heathrow?",
+  "options": [
+   "8th January 1989",
+   "28th March 1979",
+   "8th January 1979",
+   "28th March 1989",
+   "18th January 1989"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "On the evening of 8th January 1989, British Midland Airways flight BD092 took off from Heathrow.",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-016",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which aircraft was involved in the Kegworth air crash?",
+  "options": [
+   "Boeing 747-400",
+   "Airbus A320",
+   "Boeing 737-400",
+   "Boeing 737-800",
+   "Boeing 727-400"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "British Midland Airways flight BD092 (Boeing 737-400).",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-017",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "In the Kegworth air crash, in which engine had a fan blade fractured?",
+  "options": [
+   "Engine #2",
+   "Engine #3",
+   "Engine #4",
+   "Engine #1"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Unbeknown to the crew, a fan blade in engine #1 had fractured; the first officer wrongly replied engine #2, which was throttled back.",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-018",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Where did the Kegworth flight crash?",
+  "options": [
+   "into the M25 motorway",
+   "into the M1 motorway",
+   "onto the runway at East Midlands Airport",
+   "into the A1",
+   "onto Heathrow's runway"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The plane was cleared for an emergency landing at East Midlands Airport but crashed into the M1 motorway.",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-019",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "According to the lecture, how many of the passengers on board were lost in the Kegworth crash?",
+  "options": [
+   "126 of the 47",
+   "47 of the 146",
+   "74 of the 126",
+   "47 of the 126",
+   "6 of the 126"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Slide: 'resulting in loss of 47 of the 126 passengers on board'.",
+  "source": "Lecture 5 slide 22",
+  "flag": "Slide says 47 of the 126 'passengers on board'; it does not mention crew."
+ },
+ {
+  "id": "w05-020",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "On what date did the Three Mile Island failure occur?",
+  "options": [
+   "28th March 1979",
+   "8th January 1989",
+   "28th January 1979",
+   "8th March 1979",
+   "28th March 1989"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "On the morning of 28th March 1979 the secondary, non-nuclear part of Three Mile Island experienced a mechanical failure.",
+  "source": "Lecture 5 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w05-021",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "What was the first failure in the chain of events at Three Mile Island?",
+  "options": [
+   "a fractured fan blade",
+   "a software race condition",
+   "a mechanical failure causing the main-feed water pump to stop running",
+   "a power cut at the control room",
+   "the relief valve being closed by mistake"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "A mechanical failure caused the main-feed water pump to stop running, firing a chain of events ending in partial nuclear meltdown.",
+  "source": "Lecture 5 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w05-022",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Is the following statement correct? 'At Three Mile Island, the light indicating the relief valve position reflected the actual state of the valve.'",
+  "options": [
+   "Correct",
+   "Not correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The light only reflected the command sent, not the valve state.",
+  "source": "Lecture 5 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w05-023",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "How many people suffered massive radiation overdoses because of the Therac-25 software bug?",
+  "options": [
+   "4",
+   "6",
+   "3",
+   "47",
+   "126"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Therac-25 ... massive radiation overdoses being administered to 6 people.",
+  "source": "Lecture 5 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w05-024",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "What software problem caused the Therac-25 mechanical interlock to fail?",
+  "options": [
+   "a buffer overflow",
+   "a unit conversion error",
+   "a memory leak",
+   "a race condition",
+   "an unpatched operating system"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "A software \"race condition\" caused the mechanical interlock (which applies the x-ray filter) to fail.",
+  "source": "Lecture 5 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w05-025",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "In the Therac-25 session described, how many times was the process repeated with 'NO DOSE' showing?",
+  "options": [
+   "4",
+   "2",
+   "3",
+   "6",
+   "10"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The process was repeated 4 times, each time it showed \"NO DOSE.\"",
+  "source": "Lecture 5 slide 24",
+  "flag": "Slide text is 'This process was repeated 4 times'; whether the first press counts is not stated."
+ },
+ {
+  "id": "w05-026",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Is the following statement correct? 'Failures due to a lack of training are not errors, they are mistakes by management.'",
+  "options": [
+   "Not correct",
+   "Correct"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Slide on inadequate user training states exactly that.",
+  "source": "Lecture 5 slide 15",
+  "flag": "Same slide also says incorrect data input from a bad interface 'can be considered errors'."
+ },
+ {
+  "id": "w05-027",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which statement below is NOT correct?",
+  "options": [
+   "It is difficult to guard against faulty hardware",
+   "There is no excuse for faulty code",
+   "If the interface is poorly designed, user errors get introduced",
+   "Bad training = loss of data integrity",
+   "It is easy to guard against faulty hardware"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "Faulty Hardware slide: difficult to guard against faulty hardware; no excuse for faulty code.",
+  "source": "Lecture 5 slide 13-15",
+  "flag": ""
+ },
+ {
+  "id": "w05-028",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "Which of these is NOT given as a reason for information system implementation?",
+  "options": [
+   "to increase productivity in order to maintain competitive advantage",
+   "to reduce the number of stakeholders",
+   "to re-engineer a process for efficiency",
+   "adapt to a change in existing process",
+   "introduce a new process"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "The four reasons are increase productivity, re-engineer a process, adapt to a change in existing process, introduce a new process.",
+  "source": "Lecture 5 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w05-029",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "According to the lecture, what is a poor fit between system and organisation often driven by?",
+  "options": [
+   "faulty hardware and poor testing",
+   "inadequate training and stress",
+   "incorrect assumptions and bad interfaces",
+   "cost and poor specification"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Poor Fit Between System and Organisation: often driven by cost, poor specification.",
+  "source": "Lecture 5 slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w05-030",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "single",
+  "q": "What does the lecture say about the 'Incorrect Assumptions' cause?",
+  "options": [
+   "the interface is poorly designed",
+   "development team guess, or don't check",
+   "users are improperly trained",
+   "the system is too costly"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Incorrect Assumptions: development team guess, or don't check.",
+  "source": "Lecture 5 slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w05-031",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What are the causes of system failures?",
+  "options": [
+   "faulty hardware",
+   "poor fit between system and organisation",
+   "poor development practices",
+   "incorrect assumptions",
+   "poor user interface"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "The six causes: poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, poor fit between system and organisation. All five options are on the list.",
+  "source": "Lecture 5 slide 10 and 17",
+  "flag": ""
+ },
+ {
+  "id": "w05-032",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which of the following are causes of system failures?",
+  "options": [
+   "faulty hardware",
+   "too much documentation",
+   "incorrect assumptions",
+   "inadequate user training",
+   "excessive user testing"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Causes listed: poor development practices, incorrect assumptions, poor user interface, faulty hardware, inadequate user training, poor fit between system and organisation.",
+  "source": "Lecture 5 slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w05-033",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What actions could reduce or prevent system failures?",
+  "options": [
+   "rigorous external independent oversight of specification and design",
+   "fail-safe failure mode(s)",
+   "multiple backups using similar systems/hardware/software",
+   "graceful degradation on failure of sub-system",
+   "rigorous testing"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Backups should use dissimilar systems/hardware/software. The other four are on the safety critical systems slide.",
+  "source": "Lecture 5 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w05-034",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Safety critical systems should have rigorous external independent oversight of which of the following?",
+  "options": [
+   "operation processes",
+   "implementation",
+   "testing",
+   "specification",
+   "maintenance (especially any changes to above)",
+   "design",
+   "approval"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "All seven are listed under rigorous external independent oversight.",
+  "source": "Lecture 5 slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w05-035",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What would be the main reasons for system failure?",
+  "options": [
+   "use of dissimilar backup hardware",
+   "no clear responsibility for dealing with failure",
+   "large projects have a momentum of their own",
+   "organisational culture such as unreasonable deadlines",
+   "people not following procedures"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Reasons for failure: people (poor training, not following procedures, stress), organisational culture (unreasonable deadlines), no clear responsibility, large projects have a momentum of their own. Dissimilar backups are a prevention.",
+  "source": "Lecture 5 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w05-036",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which are listed under organisational culture as reasons for failure?",
+  "options": [
+   "insufficient hardware capacity",
+   "too expensive to contemplate (failure scenario / remedy)",
+   "blame / aggressive leadership who can't be queried",
+   "top management kept in dark",
+   "pressure / unreasonable deadlines / political deadlines"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Organisational culture lists blame/aggressive leadership, pressure/unreasonable/political deadlines, too expensive to contemplate, top management kept in dark.",
+  "source": "Lecture 5 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w05-037",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which are listed under 'People' as reasons for failure?",
+  "options": [
+   "poor user interface",
+   "stress / pressure before / during / after",
+   "poor training",
+   "faulty hardware",
+   "not following procedures before / during / after"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explain": "People: poor training; not following procedures before/during/after; stress/pressure before/during/after.",
+  "source": "Lecture 5 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w05-038",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Under 'no clear responsibility for dealing with failure', which points are given?",
+  "options": [
+   "who pays ...?",
+   "unwillingness to take legal responsibility",
+   "stress / pressure before / during / after",
+   "blame / aggressive leadership who can't be queried",
+   "different agendas/skills/perspectives/reasons for 'cover-up'"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explain": "The three bullets under no clear responsibility are different agendas/cover-up, who pays, unwillingness to take legal responsibility.",
+  "source": "Lecture 5 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w05-039",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which of the following are classifications of system failure?",
+  "options": [
+   "Expectation failure",
+   "Process failure",
+   "Partial failure",
+   "Interaction failure",
+   "Catastrophic failure",
+   "Correspondence failure"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   5
+  ],
+  "explain": "Classification: process, correspondence, interaction, expectation. Partial, total and catastrophic are the types.",
+  "source": "Lecture 5 slide 6-7",
+  "flag": ""
+ },
+ {
+  "id": "w05-040",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which of the following are types of system failure?",
+  "options": [
+   "Process",
+   "Partial",
+   "Catastrophic",
+   "Expectation",
+   "Total",
+   "Interaction"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explain": "Types: Partial, Total, Catastrophic. The other options are classifications.",
+  "source": "Lecture 5 slide 6-7",
+  "flag": ""
+ },
+ {
+  "id": "w05-041",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What are the stated reasons for information system implementation?",
+  "options": [
+   "adapt to a change in existing process",
+   "to increase productivity in order to maintain competitive advantage",
+   "to re-engineer a process for efficiency",
+   "introduce a new process"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "All four appear on the slide.",
+  "source": "Lecture 5 slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w05-042",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "According to the lecture, failure is costly in which ways?",
+  "options": [
+   "loss of reputation (or job)",
+   "loss of hardware warranty",
+   "loss of money",
+   "loss of software licences",
+   "loss of life"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explain": "Failure is costly: loss of money; loss of reputation (or job); loss of life?",
+  "source": "Lecture 5 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w05-043",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Complexity of projects means which of the following under poor development practices?",
+  "options": [
+   "poor user training",
+   "faulty hardware",
+   "poor design",
+   "poor specification",
+   "poor testing"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Poor Development Practices: complexity of projects means poor specification, poor design, poor testing.",
+  "source": "Lecture 5 slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w05-044",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about the Kegworth air crash are correct?",
+  "options": [
+   "The plane crashed into the M1 motorway",
+   "The aircraft was a Boeing 737-400",
+   "A fan blade in engine #1 had fractured",
+   "The flight was British Midland Airways BD092",
+   "The plane crashed into the M25",
+   "A fan blade in engine #2 had fractured"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Slide: flight BD092 (Boeing 737-400), fan blade in engine #1 fractured, crashed into the M1.",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-045",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which actions occurred in the Kegworth air crash?",
+  "options": [
+   "the plane landed safely at Heathrow",
+   "engine #2 was throttled back",
+   "the captain asked the first officer which engine was causing the problem",
+   "the plane was cleared for an emergency landing at East Midlands Airport",
+   "the crew restarted engine #1",
+   "the first officer replied engine #2 after some hesitation",
+   "the captain took the plane off autopilot"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   5,
+   6
+  ],
+  "explain": "Slide: the captain followed procedure, first officer replied engine #2 after hesitation, #2 throttled back, cleared for East Midlands, crashed into M1.",
+  "source": "Lecture 5 slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w05-046",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about the Three Mile Island failure are correct?",
+  "options": [
+   "The pilot-operated relief valve remained open",
+   "The main-feed water pump stopped running",
+   "The failure was caused by a software race condition",
+   "The indicator light only reflected the command sent to the valve",
+   "The auxiliary water feeds were shut for maintenance"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide: the main-feed water pump stopped, auxiliary feeds shut for maintenance, relief valve stuck open, indicator showed command not state. The race condition is Therac-25.",
+  "source": "Lecture 5 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w05-047",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about Three Mile Island are correct?",
+  "options": [
+   "An operator triggered the pilot-operated relief valve to relieve system pressure",
+   "It ended in partial nuclear meltdown",
+   "It happened in 1989",
+   "It killed 47 passengers",
+   "The failure began in the secondary, non-nuclear part",
+   "It happened on the morning of 28th March 1979"
+  ],
+  "answer": [
+   0,
+   1,
+   4,
+   5
+  ],
+  "explain": "Slide: morning of 28th March 1979, secondary non-nuclear part, partial nuclear meltdown, operator triggered the valve to relieve pressure.",
+  "source": "Lecture 5 slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w05-048",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about Therac-25 are correct?",
+  "options": [
+   "It was caused by a faulty hardware sensor",
+   "The mechanical interlock applies the x-ray filter",
+   "A software race condition caused the mechanical interlock to fail",
+   "The overdoses were recorded correctly each time",
+   "It is a radiation therapy machine",
+   "Massive radiation overdoses were administered to 6 people"
+  ],
+  "answer": [
+   1,
+   2,
+   4,
+   5
+  ],
+  "explain": "Slide: radiation therapy machine, race condition, interlock applies the x-ray filter, 6 people; the dose would not be recorded.",
+  "source": "Lecture 5 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w05-049",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which details are given about the Therac-25 therapy session?",
+  "options": [
+   "the display showed \"NO DOSE\"",
+   "the patient made a full recovery",
+   "the operator pressed the \"proceed\" key",
+   "the operator pressed the \"abort\" key",
+   "the patient complained of a burning sensation in her hip",
+   "the machine paused displaying \"HTILT\"",
+   "the patient died a month later of the cancer"
+  ],
+  "answer": [
+   0,
+   2,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slide: paused with HTILT, NO DOSE shown, operator pressed proceed, burning sensation in hip, died a month later.",
+  "source": "Lecture 5 slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w05-050",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about inadequate user training are correct?",
+  "options": [
+   "Failures due to lack of training are user errors, not management's fault",
+   "Failures due to lack of training are mistakes by management",
+   "Improper training increases the likelihood of serious errors",
+   "Bad training = loss of data integrity",
+   "Training has no effect on data integrity"
+  ],
+  "answer": [
+   1,
+   2,
+   3
+  ],
+  "explain": "Slide: lack of knowledge increases serious errors; bad training = loss of data integrity; such failures are mistakes by management.",
+  "source": "Lecture 5 slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w05-051",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about the 'Normal Accident' idea are correct?",
+  "options": [
+   "complexity + tight interaction = catastrophic potential",
+   "complex has multiple routes",
+   "linear is simple, one thing then another",
+   "tightly coupled means no 'buffer' or delay possible"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "All four are on the Normal Accident slide.",
+  "source": "Lecture 5 slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w05-052",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which cause-case study pairings match the lecture?",
+  "options": [
+   "Kegworth - main-feed water pump failure",
+   "Kegworth - the wrong engine was throttled back",
+   "Three Mile Island - relief valve stuck open",
+   "Therac-25 - software race condition",
+   "Three Mile Island - software race condition"
+  ],
+  "answer": [
+   1,
+   2,
+   3
+  ],
+  "explain": "Kegworth: engine #2 throttled back; Three Mile Island: valve stayed open and the main-feed water pump failed; Therac-25: race condition.",
+  "source": "Lecture 5 slide 22-24",
+  "flag": ""
+ },
+ {
+  "id": "w05-053",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about the lecture's definitions are correct?",
+  "options": [
+   "A failure is a group of items forming a unified whole",
+   "A system is a regularly interacting or interdependent group of items forming a unified whole",
+   "A failure is the state or condition of not meeting a desirable or intended objective",
+   "A system is the state or condition of not meeting an intended objective"
+  ],
+  "answer": [
+   1,
+   2
+  ],
+  "explain": "System - regularly interacting or interdependent group of items forming a unified whole; Failure - the state or condition of not meeting a desirable or intended objective.",
+  "source": "Lecture 5 slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w05-054",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which of the following are listed among the reasons for failure?",
+  "options": [
+   "top management kept in dark",
+   "failures/bureaucracy of internal/external 'independent' regulators",
+   "rigorous testing",
+   "large projects have a momentum of their own",
+   "stress / pressure before / during / after"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 20 lists these reasons. Rigorous testing is a prevention on slide 19.",
+  "source": "Lecture 5 slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w05-055",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "What are the stated learning objectives of the system failures lecture?",
+  "options": [
+   "recall the six primary reasons for system failures",
+   "explain reasons for system failures",
+   "define the term system failures",
+   "classify types of system failures"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "All four objectives are on the slide.",
+  "source": "Lecture 5 slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w05-056",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which of these are listed on the Why do I care? slide?",
+  "options": [
+   "Most projects succeed on time",
+   "Failure only costs money",
+   "Some of you will manage projects - beware of why they fail",
+   "You will all be involved in delivery projects - many will fail",
+   "Failure is costly"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide 21 lists those three points; failure costs money, reputation (or job) and possibly life.",
+  "source": "Lecture 5 slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w05-057",
+  "week": 5,
+  "topic": "System Failures",
+  "type": "multi",
+  "q": "Which statements about the system failure causes 'poor user interface' and 'faulty hardware' are correct?",
+  "options": [
+   "Faulty hardware is easy to guard against",
+   "A poor interface never affects data input",
+   "If the interface is poorly designed, user errors get introduced",
+   "It is difficult to guard against faulty hardware",
+   "There is no excuse for faulty code"
+  ],
+  "answer": [
+   2,
+   3,
+   4
+  ],
+  "explain": "Slides 13-14: poorly designed interface introduces user errors; difficult to guard against faulty hardware; no excuse for faulty code.",
+  "source": "Lecture 5 slide 13-14",
+  "flag": ""
+ }
+]

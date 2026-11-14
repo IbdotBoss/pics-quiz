@@ -1,0 +1,1713 @@
+[
+ {
+  "id": "w07-001",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "How many sections of the Computer Misuse Act 1990 does the lecture list?",
+  "options": [
+   "Six",
+   "Three",
+   "Four",
+   "Five"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Slide lists Section 1, Section 2, Section 3, Section 3ZA and Section 3A.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": "A past-test style question asks about 'levels of offences'. The slide gives five sections, but penalties are given for only three (S1, S2, S3). Check which count the question means."
+ },
+ {
+  "id": "w07-002",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which section of the Computer Misuse Act 1990 covers unauthorised access to computer material?",
+  "options": [
+   "Section 2",
+   "Section 1",
+   "Section 3",
+   "Section 3A"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Section 1: UNAUTHORISED access to computer material.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-003",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which section of the Computer Misuse Act 1990 covers unauthorised access with intent to commit or facilitate commission of further offences?",
+  "options": [
+   "Section 3ZA",
+   "Section 1",
+   "Section 2",
+   "Section 3"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Section 2: UNAUTHORISED access with intent to commit or facilitate commission of further offences.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-004",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which section of the Computer Misuse Act 1990 covers unauthorised acts with intent to impair, or with recklessness as to impairing, operation of a computer?",
+  "options": [
+   "Section 1",
+   "Section 2",
+   "Section 3",
+   "Section 3A"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Section 3: UNAUTHORISED acts with intent to impair, or with recklessness as to impairing, operation of computer.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-005",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which section of the Computer Misuse Act 1990 covers unauthorised acts causing, or creating risk of, serious damage?",
+  "options": [
+   "Section 2",
+   "Section 3ZA",
+   "Section 3",
+   "Section 3A"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Section 3ZA: UNAUTHORISED acts causing, or creating risk of, serious damage.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-006",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which section of the Computer Misuse Act 1990 covers making, supplying or obtaining articles for use in an offence under section 1, 2, 3 or 3ZA?",
+  "options": [
+   "Section 3A",
+   "Section 3ZA",
+   "Section 1",
+   "Section 3"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Section 3A: Making, supplying or obtaining articles for use in offence under section 1, 2, 3 or 3ZA.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-007",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What is the maximum prison term for a Section 1 offence under the slides?",
+  "options": [
+   "2 years",
+   "6 months",
+   "10 years",
+   "5 years"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "S1 offence: fine and/or 2 years prison [prev. 6 months].",
+  "source": "Lecture 4 (CMA) slide 12",
+  "flag": "Slide gives no penalty for 3ZA or 3A. In real law S1 is up to 2 years on indictment, 6 months on summary conviction."
+ },
+ {
+  "id": "w07-008",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What was the previous maximum prison term for a Section 1 offence before it was raised to 2 years?",
+  "options": [
+   "5 years",
+   "1 year",
+   "6 months",
+   "10 years"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "S1 offence: fine and/or 2 years prison [prev. 6 months].",
+  "source": "Lecture 4 (CMA) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w07-009",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What is the maximum prison term for a Section 2 offence under the slides?",
+  "options": [
+   "5 years",
+   "2 years",
+   "10 years",
+   "6 months"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "S2 offence: fine and/or 5 years prison.",
+  "source": "Lecture 4 (CMA) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w07-010",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What is the maximum prison term for a Section 3 offence under the slides?",
+  "options": [
+   "5 years",
+   "10 years",
+   "2 years",
+   "14 years"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "S3 offence: fine and/or 10 years prison.",
+  "source": "Lecture 4 (CMA) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w07-011",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which Act of 1990 sets out the offences of unauthorised access to computer material and unauthorised acts with intent to impair a computer?",
+  "options": [
+   "Computer Misuse Act 1990",
+   "Data Protection Act 1998",
+   "Regulation of Investigation Powers Act 2000",
+   "Fraud Act 2006"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Computer Misuse Act 1990, Sections 1, 2, 3, 3ZA and 3A.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-012",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which of the following statements is correct?",
+  "options": [
+   "Laws come from moral attitudes or customs",
+   "Ethics carry the authority of a governing body",
+   "Law is not drawn from ethics",
+   "Ethics define socially acceptable behaviours"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Ethics define socially acceptable behaviours; laws are drawn from ethics and carry the authority of a governing body; ethics come from moral attitudes or customs.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w07-013",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which of the following statements is correct?",
+  "options": [
+   "Ethics carry the authority of a governing body",
+   "Laws carry the authority of a governing body",
+   "Laws come from moral attitudes or customs",
+   "Ethics are rules that mandate or prohibit certain behaviour"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Main differences: laws carry the authority of a governing body; ethics come from moral attitudes or customs.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w07-014",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which of the following statements is correct?",
+  "options": [
+   "Both ethics and laws are always local",
+   "Both ethics and laws are always universal",
+   "Laws can be universal, whereas ethics tend to be local",
+   "Ethics can be universal, whereas laws tend to be local"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Ethics can be universal, laws tend to be local.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w07-015",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which of the following statements about laws is correct?",
+  "options": [
+   "Laws are rules that mandate or prohibit certain behaviour and are drawn from ethics",
+   "Laws are guidelines that describe acceptable and unacceptable behaviour",
+   "Laws are not drawn from ethics",
+   "Laws define socially acceptable behaviours"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Laws: rules that mandate or prohibit certain behaviour; drawn from ethics. Policy is guidelines.",
+  "source": "Lecture 4 (CMA) slide 4-5",
+  "flag": ""
+ },
+ {
+  "id": "w07-016",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which statement about policy vs law is correct?",
+  "options": [
+   "A policy carries the authority of a governing body",
+   "A policy has no penalties for non-compliance",
+   "Ignoring a law is acceptable",
+   "Ignoring a law is unacceptable"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Main differences: ignoring a policy is acceptable; ignoring a law is unacceptable.",
+  "source": "Lecture 4 (CMA) slide 5",
+  "flag": "The slide says policy 'has penalties for non-compliance' yet also 'ignoring a policy is acceptable'; these sit awkwardly together. Follow the slide wording."
+ },
+ {
+  "id": "w07-017",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "According to the slides, which describes a policy?",
+  "options": [
+   "Behaviours that are socially acceptable, defined by custom",
+   "Guidelines that describe acceptable and unacceptable behaviour, with penalties for non-compliance",
+   "Rules that mandate or prohibit certain behaviour, drawn from ethics",
+   "Standards that carry the authority of a governing body"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Policy: guidelines that describe acceptable and unacceptable behaviour; has penalties for non-compliance.",
+  "source": "Lecture 4 (CMA) slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w07-018",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "In business law, what is 'due care'?",
+  "options": [
+   "The organisation reports all breaches to the ICO",
+   "The organisation makes sure employees know what is acceptable or unacceptable",
+   "The organisation makes a valid effort to protect employees, customers etc.",
+   "The organisation hires a reputable auditor"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Due care: organisation makes sure employees know what is acceptable or unacceptable.",
+  "source": "Lecture 4 (CMA) slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w07-019",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "In business law, what is 'due diligence'?",
+  "options": [
+   "The organisation publishes its terms and conditions",
+   "The organisation makes a valid effort to protect employees, customers etc.",
+   "The organisation hires an ethical hacker",
+   "The organisation makes sure employees know what is acceptable or unacceptable"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Due diligence: organisation makes valid effort to protect employees, customers etc.",
+  "source": "Lecture 4 (CMA) slide 6",
+  "flag": ""
+ },
+ {
+  "id": "w07-020",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which description matches cyber-dependent crime?",
+  "options": [
+   "Crimes that can be committed only through the use of ICT devices, where the devices are both the tool and the target of the crime",
+   "Crimes committed only by organised crime groups",
+   "Any crime in which a computer holds evidence",
+   "Traditional crimes which can be increased in scale or reach by the use of computers"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Cyber-dependent crimes can be committed only through ICT devices, where the devices are both the tool for committing the crime, and the target of the crime.",
+  "source": "Lecture 4 (CMA) slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w07-021",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which description matches cyber-enabled crime?",
+  "options": [
+   "Crimes that can be committed only through the use of ICT devices",
+   "Traditional crimes which can be increased in scale or reach by the use of computers, computer networks or other forms of ICT",
+   "Crimes where the device is both the tool and the target",
+   "Crimes that need malware to be committed"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Cyber-enabled crimes: traditional crimes which can be increased in scale or reach by the use of computers, computer networks or other forms of ICT.",
+  "source": "Lecture 4 (CMA) slide 7",
+  "flag": ""
+ },
+ {
+  "id": "w07-022",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which of the following is an example of a cyber-dependent crime?",
+  "options": [
+   "Online grooming",
+   "Cyberstalking",
+   "Piracy",
+   "Defacing a website"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Cyber-dependent: illicit intrusion into networks or disrupting a service, e.g. hacking, defacing a website, DoS, malware. Cyberstalking, grooming and piracy are cyber-enabled.",
+  "source": "Lecture 4 (CMA) slide 8-9",
+  "flag": ""
+ },
+ {
+  "id": "w07-023",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which of the following is an example of a cyber-enabled crime?",
+  "options": [
+   "Denial of service (DoS)",
+   "Defacing a website",
+   "Cyberstalking",
+   "Developing and propagating malware"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Cyber-enabled crimes include offenses against a specific target - cyberstalking. DoS, malware and defacing are cyber-dependent.",
+  "source": "Lecture 4 (CMA) slide 8-9",
+  "flag": ""
+ },
+ {
+  "id": "w07-024",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which Act, dated 2000, is listed with the Computer Misuse Act 1990 under cyber-dependent crime?",
+  "options": [
+   "Sarbanes Oxley Act 2000",
+   "Data Protection Act 2000",
+   "Fraud Act 2000",
+   "Regulation of Investigation Powers Act 2000"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Cyber-dependent crimes slide lists Computer Misuse Act 1990, Regulation of Investigation Powers Act 2000 and Data Protection Act 1998.",
+  "source": "Lecture 4 (CMA) slide 8",
+  "flag": "Slide spells it 'Regulation of Investigation Powers Act' (real title: Regulation of Investigatory Powers Act 2000)."
+ },
+ {
+  "id": "w07-025",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which Act, dated 1998, is listed with the Computer Misuse Act 1990 under cyber-dependent crime?",
+  "options": [
+   "Computer Misuse Act 1998",
+   "Fraud Act 2006",
+   "Data Protection Act 2018",
+   "Data Protection Act 1998"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Slide lists Data Protection Act 1998 (some civil + some criminal offences).",
+  "source": "Lecture 4 (CMA) slide 8, 11",
+  "flag": ""
+ },
+ {
+  "id": "w07-026",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which Act does the lecture say may be easier to prove to the criminal standard of proof than the Computer Misuse Act?",
+  "options": [
+   "Regulation of Investigation Powers Act 2000",
+   "Sarbanes Oxley",
+   "Fraud Act 2006",
+   "Data Protection Act 1998"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Other Acts (e.g. Fraud Act 2006) may be easier to prove to criminal standard of proof.",
+  "source": "Lecture 4 (CMA) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w07-027",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What does the Gary McKinnon case illustrate in the lecture?",
+  "options": [
+   "Jurisdictional problems, especially cross border",
+   "Due care in business law",
+   "The penalties for Section 3A",
+   "The need for PCI DSS compliance"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "NB: Often jurisdictional problems, especially cross border e.g. see long running saga of Gary McKinnon.",
+  "source": "Lecture 4 (CMA) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w07-028",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "What is required for penetration testing so the tester does not get arrested?",
+  "options": [
+   "An authorisation letter from a genuine high level manager (e.g. an IT Director) who has the authority to give it",
+   "Written approval from the NCSC",
+   "A verbal agreement from any employee",
+   "A report to the ICO"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Easy to get arrested - needs authorisation letter from genuine high level manager who has the authority to give it (e.g. IT Director) AND present to verify.",
+  "source": "Lecture 4 (CMA) slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w07-029",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which type of attacker breaks into networks to discover weaknesses in order to improve their security?",
+  "options": [
+   "Red hat",
+   "Gray hat",
+   "White hat",
+   "Black hat"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "White hat attackers break into networks or computer systems to discover weaknesses in order to improve the security of these systems.",
+  "source": "Lecture 4 (CMA) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w07-030",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which type of attacker may report a vulnerability to the owners of the system if that action coincides with their agenda?",
+  "options": [
+   "Gray hat",
+   "Blue hat",
+   "White hat",
+   "Black hat"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Gray hat attackers ... may find a vulnerability and report it to the owners of the system if that action coincides with their agenda.",
+  "source": "Lecture 4 (CMA) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w07-031",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "single",
+  "q": "Which type of attacker is described as an unethical criminal who violates computer and network security for personal gain or malicious reasons?",
+  "options": [
+   "Gray hat",
+   "Green hat",
+   "White hat",
+   "Black hat"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Black hat attackers are unethical criminals who violate computer and network security for personal gain, or for malicious reasons.",
+  "source": "Lecture 4 (CMA) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w07-032",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "What does PCI DSS stand for?",
+  "options": [
+   "Personal Card Information Data Safety Standard",
+   "Payment Card Internet Digital Security Scheme",
+   "Public Credit Industry Data Safety Standard",
+   "Payment Card Industry Data Security Standard"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "PCI DSS (Payment Card Industry Data Security Standard).",
+  "source": "Lecture 4 (CMA) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w07-033",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "PCI DSS was the result of collaboration between which groups?",
+  "options": [
+   "GCHQ and the NCSC",
+   "The UK Government and the ICO",
+   "The BCS and the IET",
+   "Credit card companies such as American Express, MasterCard and VISA"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "PCI DSS was a result of collaboration between credit card companies (American Express, MasterCard, VISA, etc.).",
+  "source": "Lecture 4 (CMA) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w07-034",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "If you lose card data under PCI DSS compliance, whom must you declare it to?",
+  "options": [
+   "The NCA",
+   "GCHQ",
+   "NIST",
+   "The ICO"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "If you lose card data you must declare it to ICO.",
+  "source": "Lecture 4 (CMA) slide 19",
+  "flag": ""
+ },
+ {
+  "id": "w07-035",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which Act requires US public companies to set up 'hotlines' so employees can anonymously raise concerns about accounting or audit irregularities?",
+  "options": [
+   "PCI DSS",
+   "EuroSOX",
+   "Sarbanes Oxley (SOX)",
+   "Fraud Act 2006"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Sarbanes Oxley (SOX): US public companies must establish procedures ('hotlines'). EuroSOX is the EU equivalent.",
+  "source": "Lecture 4 (CMA) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w07-036",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "What is EuroSOX?",
+  "options": [
+   "A UK law on card data",
+   "The EU equivalent of PCI DSS",
+   "The EU equivalent of Sarbanes Oxley",
+   "The EU equivalent of the Computer Misuse Act"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "EuroSOX - EU equivalent.",
+  "source": "Lecture 4 (CMA) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w07-037",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "What is 'Herod's clause' used to illustrate?",
+  "options": [
+   "That PCI DSS must be treated as law",
+   "That penetration testing needs authorisation",
+   "That hacking is a cross-border crime",
+   "That nobody reads terms and conditions, which are nevertheless legally binding"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "T&Cs are legally binding. How do you enforce them when no one reads them? Herod's clause (Guardian, 2014).",
+  "source": "Lecture 4 (CMA) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w07-038",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which body is part of the National Crime Agency (NCA)?",
+  "options": [
+   "Information Commissioner's Office (ICO)",
+   "National Cyber Crime Unit (NCCU)",
+   "GCHQ",
+   "National Cyber Security Centre (NCSC)"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "National Cyber Crime Unit: they are the police; part of the National Crime Agency (NCA).",
+  "source": "Lecture 4 (CMA) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w07-039",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which body collaborates with Regional Organised Crime Units (ROCUs) to reduce cybercrime?",
+  "options": [
+   "OWASP",
+   "GCHQ",
+   "National Cyber Security Centre (NCSC)",
+   "National Cyber Crime Unit (NCCU)"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "NCCU works with Regional Organised Crime Units (ROCUs); job: respond to threats, collaborate with partners to reduce cyber crime.",
+  "source": "Lecture 4 (CMA) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w07-040",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which government body's main responsibility is to protect UK critical services from cyber attacks?",
+  "options": [
+   "National Cyber Security Centre (NCSC)",
+   "GCHQ",
+   "Information Commissioner's Office (ICO)",
+   "National Cyber Crime Unit (NCCU)",
+   "NIST"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "NCSC job: protect UK critical services from cyber attacks; manage major incidents; improve the security of the UK Internet.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w07-041",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "GCHQ has the responsibility to:",
+  "options": [
+   "Test and set standards for technology",
+   "Protect UK critical services from cyber attacks",
+   "Defend Government systems from cyber threat",
+   "Report a DPA/GDPR breach"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "GCHQ: protect the UK (with law enforcement and other intelligence agencies); defend Government systems from cyber threat.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w07-042",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "What does NCSC stand for?",
+  "options": [
+   "National Computer Security Council",
+   "National Cyber Security Centre",
+   "Network Cyber Safety Centre",
+   "National Cyber Crime Service"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "National Cyber Security Centre (NCSC).",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w07-043",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which body is described as an independent authority to which you report a DPA/GDPR breach?",
+  "options": [
+   "Information Commissioner's Office (ICO)",
+   "GCHQ",
+   "National Cyber Security Centre (NCSC)",
+   "National Cyber Crime Unit (NCCU)"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "ICO: independent authority; report a DPA/GDPR breach.",
+  "source": "Lecture 4 (CMA) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w07-044",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which statement is correct about NIST?",
+  "options": [
+   "It is a UK police unit within the NCA",
+   "It is the UK independent authority for data protection",
+   "It is a non-regulatory US agency that tests and sets standards for technology including security",
+   "It is a global not-for-profit supporting application security"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "NIST (National Institute for Standards and Technology): non-regulatory US agency; test and set standards for technology including security.",
+  "source": "Lecture 4 (CMA) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w07-045",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which body is a global not-for-profit that supports application security through research, pen-testing and education?",
+  "options": [
+   "National Institute for Standards and Technology (NIST)",
+   "Information Commissioner's Office (ICO)",
+   "GCHQ",
+   "Open Web Application Security Project (OWASP)"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "OWASP: global not-for-profit that supports application security; research, pen-testing; education.",
+  "source": "Lecture 4 (CMA) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w07-046",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Which body is a not-for-profit representing the information security industry and linked on the slide to 'CyberEssentials' professional qualifications?",
+  "options": [
+   "NCSC",
+   "CREST",
+   "OWASP",
+   "NIST"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "CREST: non-for-profit organisation, representing the information security industry; research, pen-testing; education: 'CyberEssentials' - professional qualifications.",
+  "source": "Lecture 4 (CMA) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w07-047",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "single",
+  "q": "Where does the lecture say to report a cybercrime?",
+  "options": [
+   "The PCI Security Council",
+   "Action Fraud (www.actionfraud.police.uk)",
+   "The NCSC website",
+   "The ICO website"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Report a cybercrime: www.actionfraud.police.uk.",
+  "source": "Lecture 4 (CMA) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w07-048",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Under PCI DSS, which goal includes 'use and regularly update anti-virus software'?",
+  "options": [
+   "Build and Maintain a Secure Network",
+   "Maintain a Vulnerability Management Program",
+   "Implement Strong Access Control Measures",
+   "Protect Cardholder Data"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "3) Maintain a Vulnerability Management Program: use and regularly update anti-virus software; develop and maintain secure systems and applications.",
+  "source": "Lecture 4 (CMA) slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w07-049",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Under PCI DSS, which goal includes 'assign a unique ID to each person with computer access'?",
+  "options": [
+   "Implement Strong Access Control Measures",
+   "Maintain an Information Security Policy",
+   "Regularly Monitor and Test Networks",
+   "Protect Cardholder Data"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "4) Implement Strong Access Control Measures: restrict access to data by business need-to-know; assign a unique ID to each person with computer access; restrict physical access to cardholder data.",
+  "source": "Lecture 4 (CMA) slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w07-050",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "single",
+  "q": "Which is NOT one of the six PCI DSS goals?",
+  "options": [
+   "Report all card data losses to the NCA",
+   "Protect Cardholder Data",
+   "Maintain an Information Security Policy",
+   "Regularly Monitor and Test Networks",
+   "Build and Maintain a Secure Network"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The six goals: secure network; protect cardholder data; vulnerability management programme; strong access control; regularly monitor and test networks; information security policy.",
+  "source": "Lecture 4 (CMA) slide 17-18",
+  "flag": ""
+ },
+ {
+  "id": "w07-051",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "What are the main challenges in prosecuting crimes under the CMA?",
+  "options": [
+   "Proving intent (S2) or malicious intent (S3)",
+   "Proof that the defendant was the perpetrator",
+   "Proving access (S1) was unauthorized",
+   "Proof of offence (e.g. logs/audit trails) and that the computer was working properly",
+   "Irrelevant technical detail baffling the judge or jury"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide 15 lists these problems in prosecuting.",
+  "source": "Lecture 4 (CMA) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w07-052",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "What are the main challenges in prosecuting crimes under the CMA?",
+  "options": [
+   "Technical detail baffling a judge or jury",
+   "Proving access (S1) was unauthorized",
+   "Hacking is only an offence under the Data Protection Act",
+   "Proof that the defendant was the perpetrator",
+   "Section 1 carries no prison sentence",
+   "Proving intent (S2) or malicious intent (S3)",
+   "The Act only applies to US companies"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   5
+  ],
+  "explain": "Problems in prosecuting: proving unauthorised access, intent, offence/logs, the perpetrator, and technical detail baffling judge or jury.",
+  "source": "Lecture 4 (CMA) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w07-053",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "PCI DSS sets out ways to:",
+  "options": [
+   "Securely transfer card holder data",
+   "Prosecute card fraud offenders",
+   "Report data breaches to the NCA",
+   "Regulate US public companies",
+   "Protect card holder data",
+   "Monitor your own network"
+  ],
+  "answer": [
+   0,
+   4,
+   5
+  ],
+  "explain": "PCI DSS sets out ways to: protect card holder data; securely transfer card holder data; monitor your own network.",
+  "source": "Lecture 4 (CMA) slide 16",
+  "flag": ""
+ },
+ {
+  "id": "w07-054",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which of the following are PCI DSS goals?",
+  "options": [
+   "Maintain an Information Security Policy",
+   "Regularly Monitor and Test Networks",
+   "Build and Maintain a Secure Network",
+   "Protect Cardholder Data",
+   "Maintain a Vulnerability Management Program",
+   "Implement Strong Access Control Measures"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slides 17-18 list these six goals.",
+  "source": "Lecture 4 (CMA) slide 17-18",
+  "flag": ""
+ },
+ {
+  "id": "w07-055",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which of the following are PCI DSS goals?",
+  "options": [
+   "Regularly Monitor and Test Networks",
+   "Protect Cardholder Data",
+   "Maintain an Information Security Policy",
+   "Maintain a Vulnerability Disclosure Hotline",
+   "Outsource Card Processing",
+   "Publish an Annual Breach Report",
+   "Implement Strong Access Control Measures"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   6
+  ],
+  "explain": "Six goals: secure network; protect cardholder data; vulnerability management programme; strong access control; regularly monitor and test; information security policy.",
+  "source": "Lecture 4 (CMA) slide 17-18",
+  "flag": ""
+ },
+ {
+  "id": "w07-056",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Under PCI DSS 'Implement Strong Access Control Measures', which of the following apply?",
+  "options": [
+   "Restrict physical access to cardholder data",
+   "Restrict access to data by business need-to-know",
+   "Assign a unique ID to each person with computer access",
+   "Use vendor-supplied defaults for system passwords",
+   "Share one login among a team",
+   "Store cardholder data unencrypted"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "4) Implement Strong Access Control Measures: need-to-know; unique ID; restrict physical access.",
+  "source": "Lecture 4 (CMA) slide 18",
+  "flag": ""
+ },
+ {
+  "id": "w07-057",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Under PCI DSS 'Protect Cardholder Data' and 'Build and Maintain a Secure Network', which of the following apply?",
+  "options": [
+   "Do not use vendor-supplied defaults for system passwords and other security parameters",
+   "Protect stored data (use encryption)",
+   "Install and maintain a firewall configuration to protect data",
+   "Use vendor-supplied defaults for system passwords",
+   "Encrypt transmission of cardholder data and sensitive information across public net",
+   "Send cardholder data in plain text across public networks"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4
+  ],
+  "explain": "Goals 1 and 2 on slide 17.",
+  "source": "Lecture 4 (CMA) slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w07-058",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which of the following are cyber-enabled crimes?",
+  "options": [
+   "Cyberstalking",
+   "Developing and propagating malware",
+   "Defacing a website",
+   "Denial of service (DoS)",
+   "Piracy",
+   "Fraud",
+   "Online grooming"
+  ],
+  "answer": [
+   0,
+   4,
+   5,
+   6
+  ],
+  "explain": "Cyber-enabled: economic crime (fraud, piracy, IP theft, forgery), cyberstalking, child sexual offences (illicit images, online grooming). DoS, defacing and malware are cyber-dependent.",
+  "source": "Lecture 4 (CMA) slide 8-9",
+  "flag": ""
+ },
+ {
+  "id": "w07-059",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which of the following are examples of cyber-dependent crime?",
+  "options": [
+   "Cyberstalking",
+   "Hacking",
+   "Defacing a website",
+   "DoS",
+   "Cyberbullying",
+   "Forgery",
+   "Malware"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "explain": "Cyber-dependent: hacking, defacing a website, DoS, malware.",
+  "source": "Lecture 4 (CMA) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w07-060",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which of the following are listed as cyber-enabled crime?",
+  "options": [
+   "Economic crime - fraud, piracy, IP theft, forgery",
+   "Extreme publications - pornography",
+   "Offensive communication - cyberbullying, social media",
+   "Child sexual offences - illicit images, online grooming",
+   "Offenses against a specific target - cyberstalking",
+   "Online marketplaces for illegal items - drugs, guns, slaves"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 9 lists these six categories of crime transformed by technology.",
+  "source": "Lecture 4 (CMA) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w07-061",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which statements about penetration testing under CMA 1990 are correct?",
+  "options": [
+   "It can use hardware/software hacking, social engineering or any mix",
+   "It needs an authorisation letter from a genuine high level manager who has the authority to give it",
+   "No authorisation is needed if the tester is a reputable company",
+   "Only a VERY limited number of people in the organisation need to know",
+   "It is where an AUTHORISED person attempts to gain access to a computer system or data",
+   "It can prove that a system is safe",
+   "Everyone in the organisation must be told in advance"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Pen testing: authorised person; cannot 'PROVE' safe; hardware/software/social engineering; very limited need-to-know; authorisation letter; use reputable organisation.",
+  "source": "Lecture 4 (CMA) slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w07-062",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which statements about penetration testing are correct?",
+  "options": [
+   "It is lawful whenever the tester intends no harm",
+   "The tester must have an authorisation letter and be present to verify it",
+   "It is important to use a reputable organisation (e.g. your auditor?)",
+   "A penetration test cannot 'PROVE' a system safe",
+   "A passed test proves the system is secure",
+   "The authorisation can come from any employee"
+  ],
+  "answer": [
+   1,
+   2,
+   3
+  ],
+  "explain": "Authorisation letter from genuine high level manager AND present to verify; use reputable organisation; cannot 'PROVE' safe.",
+  "source": "Lecture 4 (CMA) slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w07-063",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which of the following bodies are listed as professional bodies in the cyber security lecture?",
+  "options": [
+   "NIST",
+   "GCHQ",
+   "OWASP",
+   "National Cyber Security Centre (NCSC)",
+   "Information Commissioner's Office (ICO)",
+   "National Cyber Crime Unit (NCCU)",
+   "CREST"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "explain": "Slides 22-25 list NCCU, GCHQ, NCSC, ICO, NIST, OWASP and CREST as professional bodies.",
+  "source": "Lecture 4 (CMA) slide 22-25",
+  "flag": ""
+ },
+ {
+  "id": "w07-064",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which professional bodies are responsible to prevent cyber threat and reduce cybercrime in the UK?",
+  "options": [
+   "GCHQ",
+   "National Cyber Security Centre (NCSC)",
+   "OWASP",
+   "The PCI Security Council",
+   "National Cyber Crime Unit (NCCU)",
+   "NIST"
+  ],
+  "answer": [
+   0,
+   1,
+   4
+  ],
+  "explain": "NCCU: respond to threats, reduce cyber crime. GCHQ: protect UK, defend Government systems. NCSC: protect UK critical services. NIST is a US agency; OWASP supports application security.",
+  "source": "Lecture 4 (CMA) slide 22-25",
+  "flag": ""
+ },
+ {
+  "id": "w07-065",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "What is the job of the National Cyber Security Centre (NCSC)?",
+  "options": [
+   "Improve the security of the UK Internet",
+   "Manage major incidents",
+   "Protect UK critical services from cyber attacks",
+   "Respond to threats as the police",
+   "Report a DPA/GDPR breach",
+   "Defend Government systems from cyber threat"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "NCSC: protect UK critical services from cyber attacks; manage major incidents; improve the security of the UK Internet.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w07-066",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "What is the job of GCHQ?",
+  "options": [
+   "Manage major incidents",
+   "Improve the security of the UK Internet",
+   "Defend Government systems from cyber threat",
+   "Collaborate with partners to reduce cyber crime",
+   "Protect the UK (with law enforcement and other intelligence agencies)",
+   "Test and set standards for technology"
+  ],
+  "answer": [
+   2,
+   4
+  ],
+  "explain": "GCHQ: protect the UK; defend Government systems from cyber threat. Other items belong to NCSC and NCCU.",
+  "source": "Lecture 4 (CMA) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w07-067",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which statements about the National Cyber Crime Unit are correct?",
+  "options": [
+   "It is an independent authority for DPA/GDPR breaches",
+   "They work with Regional Organised Crime Units (ROCUs)",
+   "It is part of the National Crime Agency (NCA)",
+   "They are the police",
+   "It is part of GCHQ",
+   "Its job is to respond to threats and collaborate with partners to reduce cyber crime"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "explain": "National Cyber Crime Unit: they are the police; part of NCA; work with ROCUs; respond to threats; collaborate with partners.",
+  "source": "Lecture 4 (CMA) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w07-068",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which statements about NIST are correct?",
+  "options": [
+   "It tests and sets standards for technology including security",
+   "It is part of the National Crime Agency",
+   "It stands for National Institute for Standards and Technology",
+   "It is a non-regulatory US agency",
+   "It is a UK independent authority"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "NIST: non-regulatory US agency; test and set standards for technology including security.",
+  "source": "Lecture 4 (CMA) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w07-069",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which bodies are listed as offering research, pen-testing and education?",
+  "options": [
+   "OWASP",
+   "NCSC",
+   "CREST",
+   "ICO",
+   "GCHQ",
+   "NIST"
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "explain": "OWASP: research, pen-testing, education. CREST: research, pen-testing, education ('CyberEssentials').",
+  "source": "Lecture 4 (CMA) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w07-070",
+  "week": 7,
+  "topic": "Cyber Security Bodies",
+  "type": "multi",
+  "q": "Which statements about OWASP and CREST are correct?",
+  "options": [
+   "OWASP is a global not-for-profit supporting application security",
+   "CREST is a not-for-profit representing the information security industry",
+   "OWASP is a US regulatory agency",
+   "Both offer research, pen-testing and education",
+   "CREST is a UK police unit"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explain": "OWASP and CREST are both not-for-profit with research, pen-testing, education.",
+  "source": "Lecture 4 (CMA) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w07-071",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "'Hacking' may also be an offence against which of the following?",
+  "options": [
+   "Data Protection Act 1998 [some civil + some criminal offences]",
+   "Other legislation and/or contract of employment",
+   "EuroSOX",
+   "Computer Misuse Act 1990 [criminal]",
+   "Sarbanes Oxley",
+   "PCI DSS"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explain": "'Hacking' may also be an offence against the CMA 1990, the DPA 1998, other legislation and/or contract of employment.",
+  "source": "Lecture 4 (CMA) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w07-072",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which laws are listed against cyber-dependent crimes?",
+  "options": [
+   "PCI DSS",
+   "Computer Misuse Act 1990",
+   "Regulation of Investigation Powers Act 2000",
+   "Sarbanes Oxley",
+   "Data Protection Act 1998",
+   "Fraud Act 2006"
+  ],
+  "answer": [
+   1,
+   2,
+   4
+  ],
+  "explain": "Cyber-dependent crimes slide lists these three Acts.",
+  "source": "Lecture 4 (CMA) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w07-073",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which penalty statements for CMA 1990 offences are correct?",
+  "options": [
+   "S1 was previously 6 months",
+   "S2: fine and/or 10 years prison",
+   "S3: fine and/or 5 years prison",
+   "S3: fine and/or 10 years prison",
+   "S2: fine and/or 5 years prison",
+   "S1: fine and/or 2 years prison"
+  ],
+  "answer": [
+   0,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 12 penalties: S1 2 years [prev. 6 months]; S2 5 years; S3 10 years.",
+  "source": "Lecture 4 (CMA) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w07-074",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which statements comparing ethics and law are correct?",
+  "options": [
+   "Laws carry the authority of a governing body",
+   "Laws are rules that mandate or prohibit certain behaviour",
+   "Ethics can be universal, laws tend to be local",
+   "Ethics come from moral attitudes or customs",
+   "Ethics define socially acceptable behaviours"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "All statements are from slide 4.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w07-075",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which statements comparing ethics and law are correct?",
+  "options": [
+   "Laws are drawn from ethics",
+   "Laws are not drawn from ethics",
+   "Laws carry the authority of a governing body",
+   "Ethics come from moral attitudes or customs",
+   "Laws come from moral attitudes or customs",
+   "Ethics carry the authority of a governing body"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Laws drawn from ethics; laws carry authority of a governing body; ethics from moral attitudes or customs.",
+  "source": "Lecture 4 (CMA) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w07-076",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which statements about terms and conditions (T&Cs) are correct?",
+  "options": [
+   "They protect a company's copyright or licenses",
+   "They outline user expectations",
+   "They outline company expectations",
+   "They are legally binding",
+   "They set out fair use of the product"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "T&Cs protect a company: fair use of the product; protect copyright or licenses; outline user and company expectations. T&Cs are legally binding.",
+  "source": "Lecture 4 (CMA) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w07-077",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Why does a software developer need to care about computer law?",
+  "options": [
+   "You may need to advise others as to what is legal (or illegal)",
+   "You may need to incorporate (or omit) features such as 'authorised users only' at login",
+   "Because developers are exempt from the Computer Misuse Act",
+   "Because only lawyers are bound by computer law",
+   "You may need to incorporate appropriate security and audit trails",
+   "You may need to seek further advice (and understand that advice)"
+  ],
+  "answer": [
+   0,
+   1,
+   4,
+   5
+  ],
+  "explain": "Computer law: incorporate or omit features, security, audit trails, advise others, seek further advice.",
+  "source": "Lecture 4 (CMA) slide 26",
+  "flag": ""
+ },
+ {
+  "id": "w07-078",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which statements about Sarbanes Oxley (SOX) are correct?",
+  "options": [
+   "Company directors must provide the correct information to auditors",
+   "EuroSOX is the EU equivalent",
+   "US public companies must establish 'hotlines' to enable employees to anonymously raise concerns about accounting or audit irregularities",
+   "It sets standards for storing card holder data",
+   "It is the UK law criminalising hacking"
+  ],
+  "answer": [
+   0,
+   1,
+   2
+  ],
+  "explain": "SOX: hotlines; directors must give correct information to auditors; EuroSOX - EU equivalent.",
+  "source": "Lecture 4 (CMA) slide 20",
+  "flag": ""
+ },
+ {
+  "id": "w07-079",
+  "week": 7,
+  "topic": "Governance and Law",
+  "type": "multi",
+  "q": "Which statements about PCI DSS compliance are correct?",
+  "options": [
+   "Only large merchants must comply",
+   "A merchant of any size that accepts credit cards must comply with PCI Security Council standards",
+   "If you lose card data you must declare it to the ICO",
+   "Lost card data must be reported to the NCA",
+   "Compliance is the responsibility of the third party processor only",
+   "Compliant means you are doing your best to keep customer's data safe, regardless of whether a third party processes it"
+  ],
+  "answer": [
+   1,
+   2,
+   5
+  ],
+  "explain": "PCI DSS slides 16 and 19.",
+  "source": "Lecture 4 (CMA) slide 16, 19",
+  "flag": ""
+ },
+ {
+  "id": "w07-080",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which statements about hacker types are correct?",
+  "options": [
+   "Black hat attackers are authorised to test systems",
+   "Black hat attackers are unethical criminals who violate security for personal gain or malicious reasons",
+   "Gray hat attackers always report vulnerabilities",
+   "Gray hat attackers are somewhere between white and black hat attackers",
+   "White hat attackers break into systems to discover weaknesses in order to improve security",
+   "White hat attackers attack networks for personal gain"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 13.",
+  "source": "Lecture 4 (CMA) slide 13",
+  "flag": ""
+ },
+ {
+  "id": "w07-081",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which statements about the Computer Misuse Act 1990 section scope are correct?",
+  "options": [
+   "Section 3ZA covers unauthorised acts causing, or creating risk of, serious damage",
+   "Section 1 covers unauthorised access to computer material",
+   "Section 1 covers acts causing serious damage",
+   "Section 3A covers making, supplying or obtaining articles for use in an offence under section 1, 2, 3 or 3ZA",
+   "Section 2 covers unauthorised access with intent to commit or facilitate further offences",
+   "Section 3 covers making articles for use in offences"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 10 section list.",
+  "source": "Lecture 4 (CMA) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w07-082",
+  "week": 7,
+  "topic": "Computer Misuse",
+  "type": "multi",
+  "q": "Which statements about cybercrime are correct?",
+  "options": [
+   "Cyber-dependent crimes can be committed only through the use of ICT devices",
+   "It describes two closely linked but distinct criminal activities",
+   "Cyber-enabled crimes can be committed only through ICT devices",
+   "Cyber-enabled crimes are traditional crimes increased in scale or reach by ICT",
+   "Cyber-dependent crimes are traditional crimes increased in reach by ICT"
+  ],
+  "answer": [
+   0,
+   1,
+   3
+  ],
+  "explain": "Cybercrime = cyber-dependent + cyber-enabled (UK Government, 2016).",
+  "source": "Lecture 4 (CMA) slide 7",
+  "flag": ""
+ }
+]

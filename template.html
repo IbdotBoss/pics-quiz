@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="description" content="Practice questions and revision notes for the MOD002647 Professional Issues: Computing and Society in-class test.">
+<meta name="theme-color" content="#1f4e8c">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e8c'/%3E%3Cpath d='M9 17l5 5 9-11' fill='none' stroke='%23fff' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<title>PICS Test Practice</title>
+<style>
+:root{--bg:#f6f4ef;--card:#fffdf8;--ink:#1d1b16;--mute:#6b665b;--line:#ddd7c9;--edge:#857f70;--acc:#1f4e8c;--acc-ink:#fff;--ok:#1f6b3a;--ok-bg:#e2f1e5;--bad:#a32a22;--bad-bg:#f8e3e0;--warn:#7a5200;--warn-bg:#fbefcf}
+@media (prefers-color-scheme:dark){:root{--bg:#15161a;--card:#1e2026;--ink:#ecebe6;--mute:#a09d94;--line:#34363e;--edge:#777a86;--acc:#8db8f2;--acc-ink:#10151d;--ok:#8fd6a3;--ok-bg:#1c3324;--bad:#f0a59e;--bad-bg:#3b1f1d;--warn:#f0cf80;--warn-bg:#3a3017}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:780px;margin:0 auto;padding:20px 16px 80px}
+h1,h2,h3,legend{text-wrap:balance}p{text-wrap:pretty}
+h1{font-size:1.5rem;margin:.2em 0}h1:focus,legend:focus,.fb:focus{outline:none}h2{font-size:1.15rem;margin:1.4em 0 .5em}h3{font-size:1rem;margin:1.2em 0 .4em}
+p{margin:.5em 0}.mute{color:var(--mute);font-size:.9rem}
+a{color:var(--acc)}html{overflow-x:clip}
+button{font:inherit;color:inherit;cursor:pointer;border:1px solid var(--edge);background:var(--card);border-radius:8px;padding:10px 16px;min-height:44px}
+button.pri{background:var(--acc);color:var(--acc-ink);border-color:var(--acc);font-weight:600}
+button:disabled{opacity:.45;cursor:default}
+button:focus-visible,label.opt:focus-within,a:focus-visible,summary:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin:12px 0}
+.modes{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.modes button{text-align:left;padding:14px 16px;height:100%}
+.modes b{display:block;margin-bottom:2px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.sp{justify-content:space-between}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chips label{border:1px solid var(--edge);border-radius:999px;padding:7px 13px;background:var(--card);cursor:pointer;font-size:.92rem}
+.chips input{position:absolute;opacity:0}
+.chips label:has(input:checked){background:var(--acc);color:var(--acc-ink);border-color:var(--acc)}
+.chips label:has(input:focus-visible){outline:3px solid var(--acc);outline-offset:2px}
+.q{font-size:1.08rem;font-weight:600;margin:.3em 0 .8em;white-space:pre-wrap}
+label.opt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--edge);border-radius:10px;padding:12px 14px;margin:8px 0;background:var(--card);cursor:pointer}
+label.opt input{margin-top:.3em;width:18px;height:18px;flex:none;accent-color:var(--acc)}
+label.opt.sel{border-color:var(--acc);box-shadow:inset 0 0 0 1px var(--acc)}
+label.opt.right{border-color:var(--ok);background:var(--ok-bg)}
+label.opt.wrong{border-color:var(--bad);background:var(--bad-bg)}
+label.opt .tag{margin-left:auto;font-size:.8rem;font-weight:600;white-space:nowrap;padding-left:8px}
+.right .tag{color:var(--ok)}.wrong .tag{color:var(--bad)}
+.fb{border-left:4px solid var(--line);padding:8px 12px;margin:12px 0}
+.fb.ok{border-color:var(--ok)}.fb.no{border-color:var(--bad)}
+.flag{background:var(--warn-bg);color:var(--warn);border-radius:8px;padding:8px 12px;margin:10px 0;font-size:.92rem}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;margin:8px 0}
+.bar i{display:block;height:100%;background:var(--acc)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(40px,1fr));gap:6px;margin:10px 0}
+.grid button{padding:0;min-height:40px;font-size:.85rem}
+.grid .done{background:var(--acc);color:var(--acc-ink);border-color:var(--acc);font-weight:700;text-decoration:underline}
+.grid .cur{outline:3px solid var(--acc);outline-offset:1px}
+.grid .gok{background:var(--ok-bg);border-color:var(--ok)}.grid .gno{background:var(--bad-bg);border-color:var(--bad)}
+.timer{font-variant-numeric:tabular-nums;font-weight:600}.timer.low{color:var(--bad)}
+table{border-collapse:collapse;width:100%;font-size:.93rem}td,th{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+.notes{overflow-wrap:break-word}.notes table{display:block;overflow-x:auto}.notes h1{font-size:1.3rem}.notes h2{border-top:1px solid var(--line);padding-top:.8em}
+.notes code{font-size:.9em}
+.big{font-size:2.2rem;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}
+button.link{border:0;background:none;padding:10px 0;color:var(--acc);text-decoration:underline;min-height:44px}
+details{margin:8px 0}summary{cursor:pointer;padding:6px 0}
+</style>
+</head>
+<body>
+<main id="app"></main>
+<noscript><p style="padding:16px">This practice app needs JavaScript switched on.</p></noscript>
+<script>
+const DATA = /*DATA*/;
+const WEEKS = {0:"Past paper 2024-25",1:"Week 1: Introduction and GDPR overview",2:"Week 2: Data Protection",3:"Week 3: Freedom of Information and Privacy",4:"Week 4: Sustainability",5:"Week 5: System Failures",6:"Week 6: Ethics",7:"Weeks 7-8: Computer Misuse Act and cyber bodies",9:"Week 9: Professionalism"};
+const Q = DATA.questions, BYID = Object.fromEntries(Q.map(q => [q.id, q]));
+const LS = "pics-quiz-v1";
+let st = {wrong:{}, seen:{}, run:null, hist:[], prefs:{weeks:null, kinds:["lecture","seminar","reading"], n:20}};
+try { Object.assign(st, JSON.parse(localStorage.getItem(LS) || "{}")); } catch(e) {}
+const save = () => { try { localStorage.setItem(LS, JSON.stringify(st)); } catch(e) {} };
+const app = document.getElementById("app");
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const marks = q => q.type === "multi" ? 3 : 2;
+const same = (a, b) => a.length === b.length && a.every(x => b.includes(x));
+const bank = Q.filter(q => q.week !== 0);
+const weeksPresent = [...new Set(bank.map(q => q.week))].sort((a, b) => a - b);
+let tick = null, first = true;
+const HASPAST = Q.some(q => q.week === 0);
+// After each re-render, put keyboard and screen-reader focus on the new view.
+const focusOn = sel => { const e = app.querySelector(sel); if (e) { e.tabIndex = -1; e.focus({preventScroll:true}); } };
+
+function home() {
+  clearInterval(tick);
+  const wrongN = Object.keys(st.wrong).filter(id => BYID[id]).length;
+  const resume = st.run && !st.run.done;
+  const last = st.hist.slice(-5).reverse();
+  app.innerHTML = `
+  <h1>PICS Test Practice</h1>
+  <p class="mute">MOD002647 Professional Issues: Computing and Society. ${bank.length} questions written from the weekly slides and readings${HASPAST ? ", plus the 2024-25 paper" : ""}. The real test: 40 questions, 50 minutes, 20 single-answer (2 marks) and 20 choose-all (3 marks).</p>
+  ${resume ? `<div class="card row sp"><span>You have an unfinished ${esc(st.run.title)}.</span><button class="pri" id="resume">Resume</button></div>` : ""}
+  <div class="modes">
+    <button id="m-mock"><b>Mock test</b><span class="mute">40 fresh questions in test format, 50 minutes, marked at the end.</span></button>
+    ${HASPAST ? `<button id="m-past"><b>2024-25 past paper</b><span class="mute">The real 40 questions, in order, 50 minutes.</span></button>` : ""}
+    <button id="m-prac"><b>Practice by week</b><span class="mute">Answer, then see the explanation and the slide it came from.</span></button>
+    <button id="m-wrong" ${wrongN ? "" : "disabled"}><b>My wrong answers (${wrongN})</b><span class="mute">Drill what you have missed until you get it right.</span></button>
+    <button id="m-notes"><b>Revision notes</b><span class="mute">Acts, years, acronyms, lists and numbers, week by week.</span></button>
+  </div>
+  ${last.length ? `<h2>Recent results</h2><table><tr><th scope="col">Session</th><th scope="col">Marks</th><th scope="col">Date</th></tr>${last.map(h => `<tr><td>${esc(h.title)}</td><td>${h.score}/${h.total} (${Math.round(100 * h.score / h.total)}%)</td><td class="mute">${new Date(h.at).toLocaleDateString()}</td></tr>`).join("")}</table>` : ""}
+  <p class="mute">Answers follow the lecture slides, because that is what the test is marked against. Where a slide is unclear or disagrees with current law the question carries a note. Choose-all questions are marked all-or-nothing here; the real marking scheme is not published. Progress is kept in this browser only.</p>`;
+  const on = (id, f) => { const e = document.getElementById(id); if (e) e.onclick = f; };
+  if (!first) focusOn("h1"); first = false;
+  on("resume", () => show());
+  on("m-mock", startMock);
+  on("m-past", () => start({title:"2024-25 past paper", ids:Q.filter(q => q.week === 0).map(q => q.id), exam:true, keepOrder:true, limit:50 * 60}));
+  on("m-prac", setup);
+  on("m-wrong", () => start({title:"Wrong answers drill", ids:shuffle(Object.keys(st.wrong).filter(id => BYID[id])), exam:false}));
+  on("m-notes", () => notes(DATA.notes[0] && DATA.notes[0].week));
+}
+
+function startMock() {
+  const lec = bank.filter(q => q.kind !== "reading"), rd = bank.filter(q => q.kind === "reading");
+  const pick = type => {
+    const fresh = q => (st.seen[q.id] || 0);
+    const byWeek = {};
+    shuffle(lec.filter(q => q.type === type)).sort((a, b) => fresh(a) - fresh(b)).forEach(q => (byWeek[q.week] = byWeek[q.week] || []).push(q));
+    // Weighted like the 2024-25 paper: data protection, CMA and FOI carry most of it.
+    const quota = {2:4, 7:4, 3:3, 5:2, 6:2, 1:1, 4:1, 9:1}, out = [];
+    for (const w in quota) out.push(...(byWeek[w] || []).splice(0, quota[w]));
+    const rest = shuffle(Object.values(byWeek).flat());
+    while (out.length < 18 && rest.length) out.push(rest.pop());
+    out.push(...shuffle(rd.filter(q => q.type === type)).slice(0, 20 - out.length));
+    return shuffle(out).map(q => q.id);
+  };
+  start({title:"Mock test", ids:[...pick("single"), ...pick("multi")], exam:true, limit:50 * 60});
+}
+
+function setup() {
+  const p = st.prefs; if (!p.weeks) p.weeks = weeksPresent.slice();
+  const count = () => bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind)).length;
+  app.innerHTML = `<p><button class="link" id="back">Back</button></p><h1>Practice by week</h1>
+  <h2>Weeks</h2><div class="chips" id="wk">${weeksPresent.map(w => `<label><input type="checkbox" value="${w}" ${p.weeks.includes(w) ? "checked" : ""}>${esc(WEEKS[w] || "Week " + w)} <span>(${bank.filter(q => q.week === w).length})</span></label>`).join("")}</div>
+  <h2>Drawn from</h2><div class="chips" id="kd">${[["lecture","Lecture slides"],["seminar","Seminar slides"],["reading","Set readings"]].map(([k, t]) => `<label><input type="checkbox" value="${k}" ${p.kinds.includes(k) ? "checked" : ""}>${t}</label>`).join("")}</div>
+  <h2>How many</h2><div class="chips" id="nn">${[10, 20, 40, 0].map(n => `<label><input type="radio" name="n" value="${n}" ${p.n === n ? "checked" : ""}>${n || "All"}</label>`).join("")}</div>
+  <p class="mute" id="cnt" aria-live="polite"></p><button class="pri" id="go">Start</button>`;
+  const upd = () => {
+    p.weeks = [...document.querySelectorAll("#wk input:checked")].map(e => +e.value);
+    p.kinds = [...document.querySelectorAll("#kd input:checked")].map(e => e.value);
+    p.n = +document.querySelector("#nn input:checked").value; save();
+    document.getElementById("cnt").textContent = count() + " questions match. Ones you have seen least come first.";
+    document.getElementById("go").disabled = !count();
+  };
+  app.querySelectorAll("input").forEach(e => e.onchange = upd); upd(); focusOn("h1");
+  document.getElementById("back").onclick = () => home();
+  document.getElementById("go").onclick = () => {
+    let pool = shuffle(bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind))).sort((a, b) => (st.seen[a.id] || 0) - (st.seen[b.id] || 0));
+    if (p.n) pool = pool.slice(0, p.n);
+    start({title:"Practice", ids:shuffle(pool).map(q => q.id), exam:false});
+  };
+}
+
+function start(o) {
+  const order = {};
+  o.ids.forEach(id => { const n = BYID[id].options.length, idx = [...Array(n).keys()]; order[id] = o.keepOrder ? idx : shuffle(idx); });
+  st.run = {title:o.title, ids:o.ids, exam:!!o.exam, limit:o.limit || 0, t0:Date.now(), i:0, ans:{}, checked:{}, order, done:false};
+  save(); show();
+}
+
+function show() { const r = st.run; if (!r) return home(); r.done ? results() : question(); }
+
+function timeLeft() { const r = st.run; return Math.max(0, r.limit - Math.floor((Date.now() - r.t0) / 1000)); }
+const fmt = s => Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+
+function question() {
+  clearInterval(tick);
+  const r = st.run, q = BYID[r.ids[r.i]], picked = r.ans[q.id] || [], checked = !r.exam && r.checked[q.id];
+  const multi = q.type === "multi", n = r.ids.length;
+  const opts = r.order[q.id].map(k => {
+    const isAns = q.answer.includes(k), sel = picked.includes(k);
+    let cls = sel ? "sel" : "", tag = "";
+    if (checked) { if (isAns) { cls = "right"; tag = sel ? "Correct" : "Missed"; } else if (sel) { cls = "wrong"; tag = "Wrong"; } }
+    return `<label class="opt ${cls}"><input type="${multi ? "checkbox" : "radio"}" name="o" value="${k}" ${sel ? "checked" : ""} ${checked ? "disabled" : ""}><span>${esc(q.options[k])}</span>${tag ? `<span class="tag">${tag}</span>` : ""}</label>`;
+  }).join("");
+  const good = same(picked, q.answer);
+  app.innerHTML = `
+  <div class="row sp"><button class="link" id="quit">${r.exam ? "Save and exit" : "Exit"}</button><span class="mute">${esc(r.title)}</span>${r.limit ? `<span class="timer" id="tm" role="timer"></span>` : ""}</div>
+  <div class="bar"><i style="width:${100 * (r.i + 1) / n}%"></i></div>
+  <p class="mute">Question ${r.i + 1} of ${n} · ${multi ? "choose ALL correct answers" : "choose ONE answer"} · ${marks(q)} marks${r.exam ? "" : " · " + esc(WEEKS[q.week] || "")}</p>
+  <fieldset style="border:0;padding:0;margin:0"><legend class="q">${esc(q.q)}</legend>${opts}</fieldset>
+  ${checked ? `<div class="fb ${good ? "ok" : "no"}" role="status"><b>${good ? "Correct." : "Not quite."}</b> ${esc(q.explain)}<br><span class="mute">Source: ${esc(q.source)}</span></div>${q.flag ? `<div class="flag"><b>Note:</b> ${esc(q.flag)}</div>` : ""}` : ""}
+  <div class="row sp" style="margin-top:14px">
+    <button id="prev" ${r.i ? "" : "disabled"}>Previous</button>
+    ${r.exam ? (r.i < n - 1 ? `<button class="pri" id="next">Next</button>` : `<button class="pri" id="fin">Finish and mark</button>`)
+      : (checked ? `<button class="pri" id="next">${r.i < n - 1 ? "Next" : "See results"}</button>` : `<button class="pri" id="chk" ${picked.length ? "" : "disabled"}>Check answer</button>`)}
+  </div>
+  ${r.exam ? `<details ${n > 40 ? "" : "open"}><summary class="mute">Jump to a question (${Object.values(r.ans).filter(a => a.length).length} of ${n} answered)</summary><div class="grid">${r.ids.map((id, i) => `<button data-i="${i}" class="${(r.ans[id] || []).length ? "done" : ""} ${i === r.i ? "cur" : ""}" aria-label="Question ${i + 1}, ${(r.ans[id] || []).length ? "answered" : "not answered"}"${i === r.i ? " aria-current=\"true\"" : ""}>${i + 1}</button>`).join("")}</div><button id="fin2">Finish and mark</button></details>` : ""}`;
+  app.querySelectorAll("input[name=o]").forEach(e => e.onchange = () => {
+    r.ans[q.id] = [...app.querySelectorAll("input[name=o]:checked")].map(x => +x.value); save();
+    app.querySelectorAll("label.opt").forEach(l => l.classList.toggle("sel", l.querySelector("input").checked));
+    const c = document.getElementById("chk"); if (c) c.disabled = !r.ans[q.id].length;
+  });
+  const on = (id, f) => { const e = document.getElementById(id); if (e) e.onclick = f; };
+  focusOn(checked ? ".fb" : "legend");
+  const go = i => { r.i = i; save(); question(); window.scrollTo(0, 0); };
+  on("quit", () => { if (!r.exam) { r.done = true; st.run = null; save(); } home(); });
+  on("prev", () => go(r.i - 1));
+  on("next", () => r.i < n - 1 ? go(r.i + 1) : finish());
+  on("chk", () => { r.checked[q.id] = true; record(q, same(r.ans[q.id] || [], q.answer)); save(); question(); });
+  const fin = () => { const left = r.ids.filter(id => !(r.ans[id] || []).length).length; if (!left || confirm(left + " question(s) unanswered. Finish anyway?")) finish(); };
+  on("fin", fin); on("fin2", fin);
+  app.querySelectorAll(".grid button").forEach(b => b.onclick = () => go(+b.dataset.i));
+  if (r.limit) {
+    const tm = document.getElementById("tm");
+    const upd = () => { const s = timeLeft(); tm.textContent = fmt(s); tm.classList.toggle("low", s < 300); if (!s) { clearInterval(tick); finish(); } };
+    upd(); tick = setInterval(upd, 1000);
+  }
+}
+
+function record(q, ok) {
+  st.seen[q.id] = (st.seen[q.id] || 0) + 1;
+  if (ok) delete st.wrong[q.id]; else st.wrong[q.id] = 1;
+}
+
+function finish() {
+  clearInterval(tick);
+  const r = st.run; let score = 0, total = 0;
+  r.ids.forEach(id => { const q = BYID[id], ok = same(r.ans[id] || [], q.answer); total += marks(q); if (ok) score += marks(q); if (r.exam) record(q, ok); });
+  r.done = true; r.score = score; r.total = total; r.took = Math.floor((Date.now() - r.t0) / 1000);
+  st.hist.push({title:r.title, score, total, at:Date.now()}); st.hist = st.hist.slice(-30);
+  save(); results(); window.scrollTo(0, 0);
+}
+
+function results() {
+  const r = st.run, by = {};
+  r.ids.forEach(id => { const q = BYID[id], k = q.week === 0 ? q.topic : (WEEKS[q.week] || q.week), ok = same(r.ans[id] || [], q.answer); by[k] = by[k] || [0, 0]; by[k][1]++; if (ok) by[k][0]++; });
+  const pct = Math.round(100 * r.score / r.total);
+  app.innerHTML = `<p><button class="link" id="back">Home</button></p><h1>${esc(r.title)}: result</h1>
+  <div class="card"><div class="big">${r.score} / ${r.total}</div><p>${pct}% · ${r.ids.filter(id => same(r.ans[id] || [], BYID[id].answer)).length} of ${r.ids.length} questions right · ${fmt(r.took)} taken${r.limit && r.took >= r.limit ? " (time ran out)" : ""}</p></div>
+  <h2>By ${r.ids.some(id => BYID[id].week === 0) ? "topic" : "week"}</h2>
+  <table><tr><th scope="col">Area</th><th scope="col">Right</th></tr>${Object.entries(by).sort((a, b) => a[1][0] / a[1][1] - b[1][0] / b[1][1]).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${v[0]}/${v[1]}</td></tr>`).join("")}</table>
+  <h2>Review</h2><div class="row"><button id="only">Show wrong only</button></div><div id="rev"></div>`;
+  const draw = wrongOnly => {
+    document.getElementById("rev").innerHTML = r.ids.map((id, i) => {
+      const q = BYID[id], pk = r.ans[id] || [], ok = same(pk, q.answer);
+      if (wrongOnly && ok) return "";
+      return `<div class="card"><p class="mute">Q${i + 1} · ${q.type === "multi" ? "choose all" : "single"} · ${ok ? "right" : (pk.length ? "wrong" : "not answered")}</p><p class="q">${esc(q.q)}</p>
+      ${r.order[id].map(k => { const a = q.answer.includes(k), s = pk.includes(k); return `<label class="opt ${a ? "right" : (s ? "wrong" : "")}"><input type="checkbox" disabled ${s ? "checked" : ""}><span>${esc(q.options[k])}</span>${a ? `<span class="tag">${s ? "Correct" : "Missed"}</span>` : (s ? `<span class="tag">Wrong</span>` : "")}</label>`; }).join("")}
+      <div class="fb ${ok ? "ok" : "no"}">${esc(q.explain)}<br><span class="mute">Source: ${esc(q.source)}</span></div>${q.flag ? `<div class="flag"><b>Note:</b> ${esc(q.flag)}</div>` : ""}</div>`;
+    }).join("") || "<p>Nothing wrong in this set.</p>";
+  };
+  let wo = false; draw(wo); focusOn("h1");
+  document.getElementById("only").onclick = e => { wo = !wo; e.target.textContent = wo ? "Show all" : "Show wrong only"; draw(wo); };
+  document.getElementById("back").onclick = () => { st.run = null; save(); home(); };
+}
+
+function notes(week) {
+  const n = DATA.notes.find(x => x.week === week) || DATA.notes[0];
+  app.innerHTML = `<p><button class="link" id="back">Home</button></p><h1>Revision notes</h1>
+  <div class="chips">${DATA.notes.map(x => `<label><input type="radio" name="w" value="${x.week}" ${x === n ? "checked" : ""}>${x.week === 0 ? "Cheat sheet" : (x.week === 7 ? "Weeks 7-8" : "Week " + x.week)}</label>`).join("")}</div>
+  <div class="notes card">${n ? n.html : "<p>No notes yet.</p>"}</div>`;
+  app.querySelectorAll("input[name=w]").forEach(e => e.onchange = () => { notes(+e.value); app.querySelector("input[name=w]:checked").focus(); });
+  document.getElementById("back").onclick = () => home();
+}
+
+if (st.run && !st.run.ids.every(id => BYID[id])) st.run = null;
+home();
+</script>
+</body>
+</html>

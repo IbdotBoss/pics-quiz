@@ -1,0 +1,978 @@
+[
+ {
+  "id": "w06-001",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "The word 'ethics' comes from the Greek 'ethos', meaning what?",
+  "options": [
+   "Belief or faith",
+   "Punishment or penalty",
+   "Law or statute",
+   "Custom or character"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Ethos [Greek] meaning custom or character.",
+  "source": "Lecture 6 (Ethics) slide 3",
+  "flag": ""
+ },
+ {
+  "id": "w06-002",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which of the following statements about ethics is correct?",
+  "options": [
+   "Ethics are a type of company policy",
+   "Ethics are always the same as the law",
+   "Ethics are not necessarily the law",
+   "Ethics are the same for everyone"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Ethics are not necessarily the law and not the same for everyone.",
+  "source": "Lecture 6 (Ethics) slide 4",
+  "flag": ""
+ },
+ {
+  "id": "w06-003",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Who may have been the first proponent of ethical behavior?",
+  "options": [
+   "Descartes",
+   "Hippocrates",
+   "Kant",
+   "Josephson"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "Hippocrates may have been the first proponent of ethical behavior.",
+  "source": "Lecture 6 (Ethics) slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w06-004",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "What is the FIRST thing to do before you make an ethical decision?",
+  "options": [
+   "Clearly identify all the facts",
+   "List the consequences of the actions",
+   "List all options",
+   "Identify the stakeholders"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "The list begins: clearly identify all the facts, define the areas of potential conflict, identify the stakeholders, list all options, list the consequences, now make the decision.",
+  "source": "Lecture 6 (Ethics) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w06-005",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the steps before making an ethical decision, what comes immediately after 'Clearly identify all the facts'?",
+  "options": [
+   "Now make the decision",
+   "List all options",
+   "Identify the stakeholders",
+   "Define the areas of potential conflict"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Order on the slide: facts, areas of potential conflict, stakeholders, options, consequences, decision.",
+  "source": "Lecture 6 (Ethics) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w06-006",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the steps before making an ethical decision, what is done immediately BEFORE listing the consequences of the actions?",
+  "options": [
+   "Now make the decision",
+   "Identify the stakeholders",
+   "List all options",
+   "Define the areas of potential conflict"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Options are listed, then the consequences of the actions are listed, then the decision is made.",
+  "source": "Lecture 6 (Ethics) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w06-007",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which principle says: take the decision for the greatest good of everyone?",
+  "options": [
+   "Rule of Universality",
+   "Rule of Change",
+   "Risk Aversion Principle",
+   "Utilitarianism Principle"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Utilitarianism Principle: take the decision for the greatest good of everyone.",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-008",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which principle says: take the decision that causes least harm?",
+  "options": [
+   "Utilitarianism Principle",
+   "Rule of Universality",
+   "Risk Aversion Principle",
+   "Rule of Change"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Risk Aversion Principle: take the decision that causes least harm.",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-009",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "The Rule of Universality ('if the action is not right for everyone, then it is not right for anyone') is attributed to whom?",
+  "options": [
+   "Hippocrates",
+   "Kuhn",
+   "Kant",
+   "Descartes"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Rule of Universality (Kant, 1724-1804).",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-010",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which rule says: if an action cannot be taken repeatedly, then it is not right to take it at all?",
+  "options": [
+   "Rule of Change",
+   "Rule of Universality",
+   "Risk Aversion Principle",
+   "Utilitarianism Principle"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Rule of Change: if an action cannot be taken repeatedly, then it is not right to take it at all (Descartes, 1596-1650).",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": "Slide attributes the Rule of Change to Descartes (1596-1650); follow the slide."
+ },
+ {
+  "id": "w06-011",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which philosopher is named alongside the Rule of Change?",
+  "options": [
+   "Descartes (1596-1650)",
+   "Holodny (2016)",
+   "Hippocrates",
+   "Kant (1724-1804)"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "Rule of Change ... (Descartes, 1596-1650); Rule of Universality is Kant, 1724-1804.",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-012",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which of the following is NOT listed as a source of ethics?",
+  "options": [
+   "Supernaturalism",
+   "Intuitionism",
+   "Exemplars",
+   "Statute",
+   "Ideologies"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Slide lists Supernaturalism, Intuitionism, Consequentialism, Exemplars, Ideologies.",
+  "source": "Lecture 6 (Ethics) slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w06-013",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which ethical position is expressed by 'I disapprove of murder'?",
+  "options": [
+   "Emotivism",
+   "Moral realism",
+   "Subjectivism",
+   "Prescriptivism"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Subjectivism - 'I disapprove of murder'.",
+  "source": "Lecture 6 (Ethics) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w06-014",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which ethical position is expressed by 'don't murder'?",
+  "options": [
+   "Subjectivism",
+   "Moral realism",
+   "Prescriptivism",
+   "Emotivism"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Prescriptivism - 'don't murder'.",
+  "source": "Lecture 6 (Ethics) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w06-015",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which ethical position is expressed by 'down with murder'?",
+  "options": [
+   "Prescriptivism",
+   "Moral realism",
+   "Subjectivism",
+   "Emotivism"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Emotivism - 'down with murder'.",
+  "source": "Lecture 6 (Ethics) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w06-016",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "How does the lecture sum up a person's morals?",
+  "options": [
+   "The decisions they make under legal pressure",
+   "The rules laid down by a governing body",
+   "The collection of the environmental factors they are exposed to and what they have taken away from them",
+   "The code of conduct of their professional body"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "A person's morals can be summed up as 'the collection of the environmental factors they are exposed to and what they have taken away from them.'",
+  "source": "Lecture 6 (Ethics) slide 12",
+  "flag": ""
+ },
+ {
+  "id": "w06-017",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the prisoner theory game, what happens if A and B each betray the other?",
+  "options": [
+   "Both are set free",
+   "Each serves one year in prison",
+   "Each serves two years in prison",
+   "Each serves three years in prison"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "If A and B each betray the other, each of them serves two years in prison.",
+  "source": "Lecture 6 (Ethics) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w06-018",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the prisoner theory game, A betrays B but B remains silent. What happens?",
+  "options": [
+   "Both serve two years",
+   "A is set free and B serves three years",
+   "Both serve one year",
+   "A serves three years and B is set free"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "If A betrays B but B remains silent, A will be set free and B will serve three years in prison.",
+  "source": "Lecture 6 (Ethics) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w06-019",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the prisoner theory game, what happens if A and B both remain silent?",
+  "options": [
+   "Both serve only one year (on the lesser charge)",
+   "Both are set free",
+   "Both serve two years",
+   "One is set free and the other serves three years"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "If A and B both remain silent, both of them will only serve one year in prison (on the lesser charge).",
+  "source": "Lecture 6 (Ethics) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w06-020",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "What does prisoner theory show?",
+  "options": [
+   "Rational people always cooperate when they cannot communicate",
+   "Betrayal is never the rational choice",
+   "Laws always override ethics",
+   "Two completely rational people might not cooperate, even when it is in their best interests to do so"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Prisoner theory shows that two completely rational people might not cooperate ... even when its is in their best interests to do so.",
+  "source": "Lecture 6 (Ethics) slide 17",
+  "flag": ""
+ },
+ {
+  "id": "w06-021",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In the prisoner theory scenario, what charge do the prosecutors lack enough evidence to convict the pair on?",
+  "options": [
+   "Fraud",
+   "Breach of the Data Protection Act",
+   "A lesser charge",
+   "The principal charge of hacking"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Prosecutors lack sufficient evidence to convict the pair on the principal charge of hacking, but have enough to convict both on a lesser charge.",
+  "source": "Lecture 6 (Ethics) slide 14",
+  "flag": ""
+ },
+ {
+  "id": "w06-022",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "Which of the following is NOT a trait of an ethical IT consultant?",
+  "options": [
+   "Subscribes to a professional body which has a code of professional conduct",
+   "Keeps up their CPD",
+   "Acts as a guide or mentor to junior or less experienced consultants",
+   "Has professional indemnity and public liability insurance as necessary",
+   "Takes assignments in any field to maximise income"
+  ],
+  "answer": [
+   4
+  ],
+  "explain": "An ethical consultant takes assignments only in those fields where they can confidently predict that they can help their client.",
+  "source": "Lecture 6 (Ethics) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w06-023",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "What does 'digital divide' refer to under social impacts?",
+  "options": [
+   "Employment, under employment and deskilling",
+   "Monitoring access to data on networks",
+   "The haves and have-nots",
+   "How good is good enough"
+  ],
+  "answer": [
+   2
+  ],
+  "explain": "Digital divide: the haves and have-nots.",
+  "source": "Lecture 6 (Ethics) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w06-024",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In research ethics, 'deception' means:",
+  "options": [
+   "Informing participants",
+   "Withholding information",
+   "Withdrawing at any time without penalty",
+   "Protecting participants at all times"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "deception - withholding information; consent - informing participants.",
+  "source": "Lecture 6 (Ethics) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w06-025",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In research ethics, 'confidentiality' is to be handled in accordance with:",
+  "options": [
+   "DPA/GDPR",
+   "The BCS Code of Conduct",
+   "PCI DSS",
+   "The Computer Misuse Act"
+  ],
+  "answer": [
+   0
+  ],
+  "explain": "confidentiality - in accordance with DPA/GDPR.",
+  "source": "Lecture 6 (Ethics) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w06-026",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "In research ethics, participants must be able to withdraw:",
+  "options": [
+   "Only with the researcher's permission",
+   "At any time without penalty",
+   "At any time, with a financial penalty",
+   "Only before the study starts"
+  ],
+  "answer": [
+   1
+  ],
+  "explain": "withdrawal - at any time without penalty.",
+  "source": "Lecture 6 (Ethics) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w06-027",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "single",
+  "q": "According to the lecture summary, ethics and morals are:",
+  "options": [
+   "Both fixed for everyone",
+   "Both defined by the law",
+   "Exactly the same thing",
+   "At times used interchangeably, but have two very different meanings"
+  ],
+  "answer": [
+   3
+  ],
+  "explain": "Ethics and morals are at times used interchangeable, but have two very different meanings.",
+  "source": "Lecture 6 (Ethics) slide 25",
+  "flag": ""
+ },
+ {
+  "id": "w06-028",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "What should you do before you make an ethical decision?",
+  "options": [
+   "Identify the stakeholders",
+   "Clearly identify all the facts",
+   "Define the areas of potential conflict",
+   "Ask your peer group to decide for you",
+   "List the consequences of the actions",
+   "Wait until the law changes",
+   "List all options"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   6
+  ],
+  "explain": "Slide 8 lists these five steps, after which you make the decision.",
+  "source": "Lecture 6 (Ethics) slide 8",
+  "flag": ""
+ },
+ {
+  "id": "w06-029",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "What are the main responsibilities of an ethical consultant in IT?",
+  "options": [
+   "Avoids mentoring junior consultants",
+   "Subscribes to a professional body which has a code of professional conduct",
+   "Charges clients according to their degree classification",
+   "Is professionally qualified in these areas and keeps up their CPD",
+   "Accepts any assignment offered by a client",
+   "Takes assignments only in fields where they can confidently predict they can help their client",
+   "Has professional indemnity and public liability insurance as necessary"
+  ],
+  "answer": [
+   1,
+   3,
+   5,
+   6
+  ],
+  "explain": "These match the slide's list of ethical consultant traits.",
+  "source": "Lecture 6 (Ethics) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w06-030",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which statements describe an ethical consultant in IT?",
+  "options": [
+   "Subscribes to a professional body which has a code of professional conduct",
+   "Is professionally qualified in these areas and keeps up their CPD",
+   "Has professional indemnity and public liability insurance as necessary",
+   "Takes assignments only in fields where they can confidently predict they can help their client",
+   "Acts as a guide or mentor to junior or less experienced consultants",
+   "Supports their professional body with their time or 'pro bono' consulting as appropriate"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "All six bullets on the slide describe the ethical consultant.",
+  "source": "Lecture 6 (Ethics) slide 21",
+  "flag": ""
+ },
+ {
+  "id": "w06-031",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are listed as potential areas of ethical conflict (ethical pressures)?",
+  "options": [
+   "Client",
+   "Manager",
+   "Self",
+   "Family",
+   "Government regulator",
+   "Competitor",
+   "Shareholder"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Potential areas for conflict: self, manager, client, organization, family, peer group.",
+  "source": "Lecture 6 (Ethics) slide 10",
+  "flag": ""
+ },
+ {
+  "id": "w06-032",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are basic concepts in ethical decisions?",
+  "options": [
+   "Accountability",
+   "Subjectivism",
+   "Due Process",
+   "Legal Principle",
+   "Responsibility",
+   "Liability",
+   "Emotivism"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Slide 9 lists Responsibility, Accountability, Liability, Due Process, Legal Principle.",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-033",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following does the lecture give as sources of ethics?",
+  "options": [
+   "Intuitionism",
+   "Exemplars",
+   "Consequentialism",
+   "Ideologies",
+   "Supernaturalism"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Where do ethics come from? Supernaturalism, Intuitionism, Consequentialism, Exemplars, Ideologies.",
+  "source": "Lecture 6 (Ethics) slide 5",
+  "flag": ""
+ },
+ {
+  "id": "w06-034",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which statements about ethics are correct?",
+  "options": [
+   "Ethos is Greek for custom or character",
+   "Ethics are the same for everyone",
+   "Ethics are not the same for everyone",
+   "Ethics are not necessarily the law",
+   "Ethics are always the law",
+   "Ethics are only about written rules"
+  ],
+  "answer": [
+   0,
+   2,
+   3
+  ],
+  "explain": "Slides 3 and 4.",
+  "source": "Lecture 6 (Ethics) slide 3-4",
+  "flag": ""
+ },
+ {
+  "id": "w06-035",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "When participants are involved in research, which issues must be considered?",
+  "options": [
+   "Confidentiality",
+   "Deception",
+   "Withdrawal",
+   "Publication rights",
+   "Consent",
+   "Payment",
+   "Protection"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   4,
+   6
+  ],
+  "explain": "Slide 24 lists consent, deception, withdrawal, confidentiality, protection.",
+  "source": "Lecture 6 (Ethics) slide 24",
+  "flag": ""
+ },
+ {
+  "id": "w06-036",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are listed as social impacts of IT?",
+  "options": [
+   "Digital divide: the haves and have-nots",
+   "Employment: unemployment, under employment, deskilling",
+   "Facial recognition",
+   "Software theft",
+   "Monitoring access to data on networks",
+   "Quality: how good is good enough?"
+  ],
+  "answer": [
+   0,
+   1,
+   5
+  ],
+  "explain": "Social impacts: Quality, Employment, Digital divide. Software theft is under IPR; the others under Privacy.",
+  "source": "Lecture 6 (Ethics) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w06-037",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are listed under the privacy issue in IT?",
+  "options": [
+   "Data mining",
+   "Web surveillance",
+   "Spurious backups",
+   "Customer profiling",
+   "Facial recognition",
+   "Deskilling",
+   "Monitoring access to data on networks"
+  ],
+  "answer": [
+   0,
+   1,
+   3,
+   4,
+   6
+  ],
+  "explain": "Privacy: Big Brother (data mining, web surveillance, facial recognition, customer profiling); Your boss is watching (monitoring access).",
+  "source": "Lecture 6 (Ethics) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w06-038",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are listed under intellectual property rights as ethical issues in IT?",
+  "options": [
+   "Copyright, ownership, how to reward the authors",
+   "Digital divide",
+   "Illicit copying",
+   "Software theft",
+   "Spurious backups",
+   "Customer profiling"
+  ],
+  "answer": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "explain": "Intellectual Property Rights: copyright, ownership, how to reward the authors; software theft, illicit copying, spurious backups.",
+  "source": "Lecture 6 (Ethics) slide 22",
+  "flag": ""
+ },
+ {
+  "id": "w06-039",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which are listed as personal values in business ethics?",
+  "options": [
+   "Mutual respect",
+   "Integrity",
+   "Loyalty",
+   "Client focus and teamwork",
+   "Secrecy",
+   "Honesty",
+   "Maximising profit"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3,
+   5
+  ],
+  "explain": "Personal values include integrity, honesty, quality, loyalty, professionalism, responsibility, mutual respect, fairness and meritocracy, leadership, client focus and teamwork.",
+  "source": "Lecture 6 (Ethics) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w06-040",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which pairings of ethical position and statement are correct?",
+  "options": [
+   "Prescriptivism - 'don't murder'",
+   "Subjectivism - 'I disapprove of murder'",
+   "Moral realism - 'it is wrong to murder'",
+   "Emotivism - 'down with murder'"
+  ],
+  "answer": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explain": "Slide 11 gives all four pairings.",
+  "source": "Lecture 6 (Ethics) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w06-041",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which pairings of ethical position and statement are correct?",
+  "options": [
+   "Prescriptivism - 'don't murder'",
+   "Subjectivism - 'down with murder'",
+   "Subjectivism - 'I disapprove of murder'",
+   "Moral realism - 'I disapprove of murder'",
+   "Emotivism - 'don't murder'"
+  ],
+  "answer": [
+   0,
+   2
+  ],
+  "explain": "Subjectivism = 'I disapprove of murder'; Prescriptivism = 'don't murder'; Emotivism = 'down with murder'; moral realism = 'it is wrong to murder'.",
+  "source": "Lecture 6 (Ethics) slide 11",
+  "flag": ""
+ },
+ {
+  "id": "w06-042",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which outcomes in the prisoner theory game are correct?",
+  "options": [
+   "Both betray: both are set free",
+   "Both silent: each serves two years",
+   "A betrays, B silent: A is set free and B serves three years",
+   "Both silent: each serves one year",
+   "A betrays, B silent: A serves one year",
+   "Both betray: each serves two years"
+  ],
+  "answer": [
+   2,
+   3,
+   5
+  ],
+  "explain": "Slide 15 gives the three outcomes.",
+  "source": "Lecture 6 (Ethics) slide 15",
+  "flag": ""
+ },
+ {
+  "id": "w06-043",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which statements about prisoner theory are correct?",
+  "options": [
+   "Purely rational people will betray the other",
+   "Betrayal is never the outcome for rational people",
+   "Both could get a lower sentence if both stay silent",
+   "The detainees can communicate with each other",
+   "Two completely rational people might not cooperate",
+   "The decision will affect the detainees' future reputation"
+  ],
+  "answer": [
+   0,
+   2,
+   4
+  ],
+  "explain": "Detainees are in solitary confinement and the decision will not affect their reputation; rational people (looking out for #1) betray.",
+  "source": "Lecture 6 (Ethics) slide 14-19",
+  "flag": ""
+ },
+ {
+  "id": "w06-044",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which of the following are rules or principles for ethical decisions given in the lecture?",
+  "options": [
+   "Rule of Law",
+   "Utilitarianism Principle",
+   "Rule of Universality",
+   "Risk Aversion Principle",
+   "Rule of Change",
+   "Rule of Precedent"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "explain": "Slide 9 lists these four.",
+  "source": "Lecture 6 (Ethics) slide 9",
+  "flag": ""
+ },
+ {
+  "id": "w06-045",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Business ethics involves adhering to which of the following?",
+  "options": [
+   "Maximising shareholder returns",
+   "Regulatory standards",
+   "Keeping promises and commitments",
+   "Company standards",
+   "Legal standards",
+   "Professional standards",
+   "Only the standards of competitors"
+  ],
+  "answer": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "explain": "Business ethics involves adhering to legal, regulatory, professional and company standards, keeping promises, commitments and abiding by general principles like fairness, truth, honesty and respect.",
+  "source": "Lecture 6 (Ethics) slide 23",
+  "flag": ""
+ },
+ {
+  "id": "w06-046",
+  "week": 6,
+  "topic": "Ethics",
+  "type": "multi",
+  "q": "Which definitions of ethics are given for 'ethos'?",
+  "options": [
+   "Law: rules that mandate or prohibit behaviour",
+   "Science: the moral element determining a character's action rather than his/her thought or emotion",
+   "Policy: guidelines with penalties for non-compliance",
+   "Philosophy: science of the character of a group or individual",
+   "Sociology: underlying sentiment informing beliefs, customs, practices"
+  ],
+  "answer": [
+   1,
+   3,
+   4
+  ],
+  "explain": "Slide 3 gives sociology, philosophy and science definitions.",
+  "source": "Lecture 6 (Ethics) slide 3",
+  "flag": ""
+ }
+]
