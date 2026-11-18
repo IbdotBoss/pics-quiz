@@ -49,12 +49,12 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var
 .cover{border-bottom:2px solid var(--ink);padding-bottom:14px}
 .rules{margin:8px 0;padding-left:20px}.rules li{margin:4px 0}
 .papers{border-top:2px solid var(--ink);margin-top:8px}
-.papers button{display:grid;grid-template-columns:1fr auto;gap:2px 16px;width:100%;text-align:left;border:0;border-bottom:1px solid var(--ink);padding:14px 0;font-weight:400}
-.papers button b{font-stretch:75%;font-size:var(--t-l);font-weight:700}
-.papers button span{grid-column:1;color:var(--ink-2);font-size:var(--t-s)}
-.papers button i{grid-row:1/3;grid-column:2;align-self:center;font-style:normal;font-size:var(--t-s);font-variant-numeric:tabular-nums;white-space:nowrap}
-.papers button:hover:not(:disabled) b{text-decoration:underline}
-.papers button:disabled b{color:#767676}
+.paper{display:grid;grid-template-columns:1fr auto;gap:8px 16px;align-items:center;border-bottom:1px solid var(--ink);padding:14px 0}
+.paper b{display:block;font-stretch:75%;font-size:var(--t-l);font-weight:700}
+.paper span{display:block;color:var(--ink-2);font-size:var(--t-s)}
+.paper .m{color:var(--ink);font-variant-numeric:tabular-nums}
+.acts{display:flex;gap:8px}.acts button{padding:11px 16px}
+@media (max-width:520px){.paper{grid-template-columns:1fr}}
 
 /* the answer box, used for answers and for filters */
 fieldset{border:0;margin:0;padding:0;min-width:0}legend{padding:0}
@@ -129,7 +129,7 @@ const marks = q => q.type === "multi" ? 3 : 2;
 const same = (a, b) => a.length === b.length && a.every(x => b.includes(x));
 const bank = Q.filter(q => q.week !== 0);
 const weeksPresent = [...new Set(bank.map(q => q.week))].sort((a, b) => a - b);
-const HASPAST = Q.some(q => q.week === 0);
+const HASPAST = Q.some(q => q.week === 0), CORE = bank.filter(q => q.core);
 let tick = null, first = true;
 // After each re-render, put keyboard and screen-reader focus on the new view.
 const focusOn = sel => { const e = app.querySelector(sel); if (e) { e.tabIndex = -1; e.focus({preventScroll:true}); } };
@@ -175,12 +175,13 @@ function home() {
   </ul>
   <h2>Papers</h2>
   <div class="papers">
-    ${resume ? `<button id="resume"><b>Resume ${esc(st.run.title.toLowerCase())}</b><span>You stopped at question ${st.run.i + 1}.</span><i>${st.run.ids.length} questions</i></button>` : ""}
-    <button id="m-mock"><b>Mock test</b><span>New questions each time. Marked when you hand in.</span><i>40 questions, 50 min</i></button>
-    ${HASPAST ? `<button id="m-past"><b>2024-25 past paper</b><span>The real questions in their original order.</span><i>40 questions, 50 min</i></button>` : ""}
-    <button id="m-prac"><b>Practice by week</b><span>Marked after each answer, with the source slide.</span><i>${bank.length} questions</i></button>
-    <button id="m-wrong" ${wrongN ? "" : "disabled"}><b>Corrections</b><span>${wrongN ? "The questions you got wrong." : "Nothing here until you get a question wrong."}</span><i>${wrongN} to redo</i></button>
-    <button id="m-notes"><b>Revision notes</b><span>Acts and years, acronyms, numbers and the lists to know.</span><i>${DATA.notes.length} sheets</i></button>
+    ${resume ? paper("Resume " + st.run.title.toLowerCase(), "You stopped at question " + (st.run.i + 1) + ".", st.run.ids.length + " questions", [["resume", "Resume", 1]]) : ""}
+    ${paper("Revision notes", "Acts and years, acronyms, numbers and the lists to know.", DATA.notes.length + " sheets", [["m-notes", "Open", 1]])}
+    ${HASPAST ? paper("2024-25 past paper", "The real questions in their original order.", "40 questions, 50 min", [["s-past", "Study", 1], ["m-past", "Test"]]) : ""}
+    ${paper("Core set", "One question for each list, body, Act and number on the cheat sheet.", CORE.length + " questions", [["s-core", "Study", 1], ["m-core", "Test"]])}
+    ${paper("Practice by week", "Choose weeks, then study or test.", bank.length + " questions", [["m-prac", "Choose"]])}
+    ${paper("Corrections", wrongN ? "The questions you got wrong." : "Nothing here until you get a question wrong.", wrongN + " to redo", [["s-wrong", "Study", 0, !wrongN], ["m-wrong", "Redo", 0, !wrongN]])}
+    ${paper("Mock test", "New questions each time. Marked when you hand in.", "40 questions, 50 min", [["m-mock", "Test"]])}
   </div>
   ${last.length ? `<h2>Recent marks</h2><table><tr><th scope="col">Paper</th><th scope="col">Date</th><th scope="col" class="num">Mark</th></tr>${last.map(h => `<tr><td>${esc(h.title)}</td><td>${new Date(h.at).toLocaleDateString()}</td><td class="num">${h.score} of ${h.total}</td></tr>`).join("")}</table>` : ""}
   <h2>How it is marked</h2>
@@ -188,10 +189,38 @@ function home() {
   if (!first) focusOn("h1"); first = false;
   on("resume", () => show());
   on("m-mock", startMock);
-  on("m-past", () => start({title:"2024-25 past paper", ids:Q.filter(q => q.week === 0).map(q => q.id), exam:true, keepOrder:true, limit:50 * 60}));
   on("m-prac", setup);
-  on("m-wrong", () => start({title:"Corrections", ids:shuffle(Object.keys(st.wrong).filter(id => BYID[id])), exam:false}));
+  const pastIds = Q.filter(q => q.week === 0).map(q => q.id), wrongIds = () => Object.keys(st.wrong).filter(id => BYID[id]).sort();
+  const pastTest = () => start({title:"2024-25 past paper", ids:pastIds, exam:true, keepOrder:true, limit:50 * 60});
+  const coreTest = () => start({title:"Core set", ids:leastSeen(CORE).map(q => q.id), exam:false});
+  const wrongTest = () => start({title:"Corrections", ids:shuffle(wrongIds()), exam:false});
+  on("s-past", () => study("2024-25 past paper", pastIds, pastTest));
+  on("s-core", () => study("Core set", CORE.map(q => q.id), coreTest));
+  on("m-core", coreTest);
+  on("s-wrong", () => study("Corrections", wrongIds(), wrongTest));
+  on("m-past", pastTest); on("m-wrong", wrongTest);
   on("m-notes", () => notes(DATA.notes[0] && DATA.notes[0].week));
+}
+
+// One row on the papers list. btns is a list of [id, label, primary, disabled].
+function paper(title, desc, meta, btns) {
+  return `<div class="paper"><div><b>${esc(title)}</b><span>${esc(desc)}</span><span class="m">${esc(meta)}</span></div>
+    <div class="acts">${btns.map(b => `<button id="${b[0]}" class="${b[2] ? "p" : ""}" ${b[3] ? "disabled" : ""} aria-label="${esc(b[1] + ", " + title)}">${b[1]}</button>`).join("")}</div></div>`;
+}
+const leastSeen = qs => shuffle(qs).sort((a, b) => (st.seen[a.id] || 0) - (st.seen[b.id] || 0));
+
+// Study view. Every question on one page with the right answers already marked.
+function study(title, ids, test) {
+  clearInterval(tick);
+  app.innerHTML = `<div class="top"><button class="l" id="back">Back to papers</button><b>Study</b><span class="s">${ids.length} questions</span></div>
+  <h1 style="margin-top:20px">${esc(title)}</h1>
+  <p class="s">Each right answer is marked. Read through, then test yourself on the same questions.</p>
+  <div class="nav"><span></span><button id="t1">Test me now</button></div>
+  ${ids.map((id, i) => { const q = BYID[id]; return `<div class="rev"><div class="qn"><span class="cond">Question ${i + 1}</span><span>(${marks(q)} marks)</span></div><p class="stem">${esc(q.q)}</p>
+    ${q.options.map((o, k) => row(q, k, k, q.answer.includes(k), "checkbox", q.answer.includes(k) ? "right" : "", true)).join("")}${feedback(q)}</div>`; }).join("")}
+  <div class="nav"><button id="up">Back to the top</button><button class="p" id="t2">Now test me</button></div>${FOOT}`;
+  focusOn("h1"); window.scrollTo(0, 0);
+  on("back", () => home()); on("t1", test); on("t2", test); on("up", () => { window.scrollTo(0, 0); focusOn("h1"); });
 }
 
 function startMock() {
@@ -220,22 +249,21 @@ function setup() {
   <fieldset id="wk"><legend><h2>Weeks</h2></legend><div class="cols">${weeksPresent.map((w, i) => tickBox("wk", "checkbox", w, `${esc(WEEKS[w] || "Week " + w)} <span class="s">${bank.filter(q => q.week === w).length}</span>`, p.weeks.includes(w), i)).join("")}</div></fieldset>
   <fieldset id="kd"><legend><h2>Taken from</h2></legend><div class="cols">${[["lecture","Lecture slides"],["seminar","Seminar slides"],["reading","Set readings"]].map(([k, t], i) => tickBox("kd", "checkbox", k, t, p.kinds.includes(k), i)).join("")}</div></fieldset>
   <fieldset id="nn"><legend><h2>Number of questions</h2></legend><div class="cols">${[10, 20, 40, 0].map((n, i) => tickBox("n", "radio", n, n || "All of them", p.n === n, i)).join("")}</div></fieldset>
-  <p class="s" id="cnt" aria-live="polite"></p><div class="nav"><span></span><button class="p" id="go">Start</button></div>`;
+  <p class="s" id="cnt" aria-live="polite"></p><div class="nav"><button id="go">Test me</button><button class="p" id="sg">Study these</button></div>`;
   const upd = () => {
     p.weeks = [...document.querySelectorAll("#wk input:checked")].map(e => +e.value);
     p.kinds = [...document.querySelectorAll("#kd input:checked")].map(e => e.value);
     p.n = +document.querySelector("#nn input:checked").value; save();
     const c = count();
     document.getElementById("cnt").textContent = c ? c + " questions match. The ones you have seen least come first." : "No questions match. Tick at least one week and one source.";
-    document.getElementById("go").disabled = !c;
+    document.getElementById("go").disabled = document.getElementById("sg").disabled = !c;
   };
   app.querySelectorAll("input").forEach(e => e.onchange = upd); upd(); focusOn("h1");
   on("back", () => home());
-  on("go", () => {
-    let pool = shuffle(bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind))).sort((a, b) => (st.seen[a.id] || 0) - (st.seen[b.id] || 0));
-    if (p.n) pool = pool.slice(0, p.n);
-    start({title:"Practice", ids:shuffle(pool).map(q => q.id), exam:false});
-  });
+  const pool = () => bank.filter(q => p.weeks.includes(q.week) && p.kinds.includes(q.kind));
+  const test = () => { let x = leastSeen(pool()); if (p.n) x = x.slice(0, p.n); start({title:"Practice", ids:shuffle(x).map(q => q.id), exam:false}); };
+  on("go", test);
+  on("sg", () => { let x = leastSeen(pool()); if (p.n) x = x.slice(0, p.n); study("Practice by week", x.map(q => q.id).sort(), () => start({title:"Practice", ids:shuffle(x).map(q => q.id), exam:false})); });
 }
 
 function start(o) {

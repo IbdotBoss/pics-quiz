@@ -50,6 +50,16 @@ for path in sorted(glob.glob(os.path.join(HERE, "bank", "*.json"))):
         q["kind"] = kind(q["source"])
         questions.append(q)
 
+core = set()
+for line in open(os.path.join(HERE, "bank", "core.txt"), encoding="utf8"):
+    if not line.startswith("#"):
+        core.update(line.split())
+unknown = core - {q["id"] for q in questions}
+if unknown:
+    errors.append("core.txt names ids that are not in the bank: " + " ".join(sorted(unknown)))
+for q in questions:
+    q["core"] = q["id"] in core
+
 if errors:
     print("\n".join(errors))
     sys.exit(f"{len(errors)} problem(s); nothing written")
@@ -83,4 +93,5 @@ from collections import Counter
 c = Counter((q["week"], q["type"]) for q in questions)
 for w in sorted({q["week"] for q in questions}):
     print(f"week {w:>2}: {c[(w,'single')]:>3} single  {c[(w,'multi')]:>3} multi")
+print(len(core), "in the core set")
 print(len(questions), "questions,", sum(1 for q in questions if q["flag"]), "flagged,", len(notes), "note files")

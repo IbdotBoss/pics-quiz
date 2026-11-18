@@ -8,13 +8,16 @@ GitHub Pages serves `docs/index.html`. It is one self-contained file that works 
 
 ## What it does
 
+The papers are listed in the order to work through them. Each question paper has a Study button and a Test button. Study shows every question on one page with the right answers already marked. Test asks you the same questions.
+
 | Paper | What you get |
 |---|---|
-| Mock test | 40 questions in test format, 50 minutes, marked at the end. Weeks are weighted like the 2024-25 paper, so Data Protection, the Computer Misuse Act and Freedom of Information carry most of it. Questions you have seen least come first. |
-| 2024-25 past paper | The real 40 questions in order, keyed against the slides. The module provided this paper as support material. |
-| Practice by week | You pick the weeks and sources. Each answer is marked at once, with the explanation and the slide it came from. |
-| Corrections | Every question you have got wrong, until you get it right. |
 | Revision notes | A cheat sheet and one sheet of notes per week. |
+| 2024-25 past paper | The real 40 questions in order, keyed against the slides. The module provided this paper as support material. The test is timed at 50 minutes. |
+| Core set | 84 questions, one for each list, body, Act and number on the cheat sheet. The ids are in `bank/core.txt`. |
+| Practice by week | You pick the weeks and sources, then study or test. Each test answer is marked at once, with the explanation and the slide it came from. |
+| Corrections | Every question you have got wrong, until you get it right. |
+| Mock test | 40 questions in test format, 50 minutes, marked at the end. Weeks are weighted like the 2024-25 paper, so Data Protection, the Computer Misuse Act and Freedom of Information carry most of it. Questions you have seen least come first. |
 
 ## How answers are decided
 

@@ -1,0 +1,22 @@
+# The core set. One question for each list, body, Act and number on the cheat sheet.
+# Every id here is a lecture question whose key was read against the slide text.
+# Week 2, Data Protection
+w02-001 w02-003 w02-004 w02-005 w02-006 w02-007 w02-011 w02-012 w02-017 w02-018
+w02-021 w02-033 w02-034 w02-035 w02-036 w02-038 w02-046 w02-050
+# Week 3, Freedom of Information and privacy
+w03-001 w03-002 w03-003 w03-006 w03-009 w03-011 w03-017 w03-018 w03-031 w03-032
+w03-033 w03-035 w03-037 w03-039 w03-040 w03-043 w03-047 w03-049
+# Weeks 7 and 8, Computer Misuse Act, PCI DSS and cyber bodies
+w07-001 w07-002 w07-003 w07-007 w07-009 w07-012 w07-016 w07-020 w07-028 w07-039
+w07-040 w07-041 w07-044 w07-051 w07-053 w07-054 w07-058 w07-059 w07-061 w07-064
+w07-067 w07-071 w07-073 w07-075
+# Week 5, System Failures
+w05-006 w05-014 w05-031 w05-033 w05-035 w05-040 w05-052
+# Week 6, Ethics
+w06-004 w06-007 w06-008 w06-028 w06-030 w06-032 w06-044
+# Week 1, Introduction
+w01-001 w01-006 w01-008
+# Week 9, Professionalism
+w09-001 w09-015 w09-031 w09-034 w09-046
+# Week 4, Sustainability
+w04-005 w04-027
