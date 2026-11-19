@@ -235,6 +235,20 @@ function startMock() {
     const rest = shuffle(Object.values(byWeek).flat());
     while (out.length < 18 && rest.length) out.push(rest.pop());
     out.push(...shuffle(rd.filter(q => q.type === type)).slice(0, 20 - out.length));
+    // On the 2024-25 paper, 8 of the 20 choose-all questions have every option correct. Swap questions to match, same week first.
+    if (type === "multi") {
+      const all = q => q.answer.length === q.options.length;
+      const swap = (want, have) => {
+        const spare = lec.filter(q => q.type === "multi" && want(q) && !out.includes(q)).sort((a, b) => fresh(a) - fresh(b));
+        for (const q of spare) {
+          if (out.filter(all).length === 8) break;
+          let i = out.findIndex(o => have(o) && o.week === q.week);
+          if (i < 0) i = out.findIndex(have);
+          if (i >= 0) out[i] = q;
+        }
+      };
+      if (out.filter(all).length < 8) swap(all, q => !all(q)); else swap(q => !all(q), all);
+    }
     return shuffle(out).map(q => q.id);
   };
   start({title:"Mock test", ids:[...pick("single"), ...pick("multi")], exam:true, limit:50 * 60});

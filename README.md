@@ -17,7 +17,7 @@ The papers are listed in the order to work through them. Each question paper has
 | Core set | 84 questions, one for each list, body, Act and number on the cheat sheet. The ids are in `bank/core.txt`. |
 | Practice by week | You pick the weeks and sources, then study or test. Each test answer is marked at once, with the explanation and the slide it came from. |
 | Corrections | Every question you have got wrong, until you get it right. |
-| Mock test | 40 questions in test format, 50 minutes, marked at the end. Weeks are weighted like the 2024-25 paper, so Data Protection, the Computer Misuse Act and Freedom of Information carry most of it. Questions you have seen least come first. |
+| Mock test | 40 questions in test format, 50 minutes, marked at the end. Weeks are weighted like the 2024-25 paper, so Data Protection, the Computer Misuse Act and Freedom of Information carry most of it. As on that paper, 8 of the 20 choose-all questions have every option correct. Questions you have seen least come first. |
 
 ## How answers are decided
 
