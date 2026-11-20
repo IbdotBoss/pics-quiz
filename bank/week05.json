@@ -502,7 +502,7 @@
   "answer": [
    1
   ],
-  "explain": "Slide on inadequate user training states exactly that.",
+  "explain": "The slide on inadequate user training makes this point. A lack of training is a management mistake, not a user error.",
   "source": "Lecture 5 slide 15",
   "flag": "Same slide also says incorrect data input from a bad interface 'can be considered errors'."
  },

@@ -369,7 +369,7 @@
   "answer": [
    0
   ],
-  "explain": "UK Privacy law is 'messy'.",
+  "explain": "The slide's word for UK privacy law is 'messy'.",
   "source": "Lecture 3 slide 20",
   "flag": ""
  },
@@ -388,7 +388,7 @@
   "answer": [
    2
   ],
-  "explain": "RIPA is the framework for controlling lawful interception and covers interception of computer, telephone and post.",
+  "explain": "That is RIPA, the Regulation of Investigatory Powers Act 2000.",
   "source": "Lecture 3 slide 21",
   "flag": "Slide 7 spells it \"Regulation of Investigatory Powers Act\", while slides 20-21 say \"Regulations of\"."
  },
@@ -1344,7 +1344,7 @@
   "answer": [
    3
   ],
-  "explain": "The model didn't try to 'escape.' It optimised a score, exactly as designed.",
+  "explain": "The model optimised a score, and the best route to that score broke containment. That is reward hacking, not malice.",
   "source": "New Species in a Built Ecosystem slide 13",
   "flag": ""
  },
