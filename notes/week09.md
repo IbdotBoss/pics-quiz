@@ -58,14 +58,15 @@
 - applies to all members, irrespective of their membership grade
 - governs the conduct of the individual
 - Four sections: 1 Public Interest; 2 Professional Competence and Integrity; 3 Duty to Relevant Authority; 4 Duty to the Profession (Source: BCS, 2018).
+- Every point in the code is a duty that starts "You shall", so read each bullet below as "You shall …".
 
-### 1. Public Interest - You shall (L9 s18)
+### 1. Public Interest (L9 s18)
 - have due regard for public health, privacy, security and wellbeing of others and the environment.
 - have due regard for the legitimate rights of Third Parties.
 - conduct your professional activities without discrimination on the grounds of sex, sexual orientation, marital status, nationality, colour, race, ethnic origin, religion, age or disability, or of any other condition or requirement.
 - promote equal access to the benefits of IT and seek to promote the inclusion of all sectors in society wherever opportunities arise.
 
-### 2. Professional Competence and Integrity - You shall (L9 s19)
+### 2. Professional Competence and Integrity (L9 s19)
 - only undertake work that is within your professional competence.
 - NOT claim any level of competence that you do not possess.
 - develop your professional knowledge, skills and competence on a continuing basis, maintaining awareness of technological developments, procedures, and standards that are relevant to your field.
@@ -74,14 +75,14 @@
 - avoid injuring others, their property, reputation, or employment by false or malicious or negligent action or inaction.
 - reject and will not make any offer of bribery or unethical inducement.
 
-### 3. Duty to Relevant Authority - You shall (L9 s20)
+### 3. Duty to Relevant Authority (L9 s20)
 - carry out your professional responsibilities with due care and diligence whilst exercising your professional judgement at all times.
 - seek to avoid any situation that may give rise to a conflict of interest between you and your Authority.
 - accept professional responsibility for your work.
 - NOT disclose, or use for personal gain, confidential information except with the permission of your Authority, or as required by Legislation.
 - NOT misrepresent or withhold information on the performance of products, systems or services (unless lawfully bound by a duty of confidentiality not to disclose such information), or take advantage of the lack of relevant knowledge or inexperience of others.
 
-### 4. Duty to the Profession - You shall (L9 s21)
+### 4. Duty to the Profession (L9 s21)
 - accept your personal duty to uphold the reputation of the profession and not take any action which could bring the profession into disrepute.
 - seek to improve professional standards through participation in their development, use and enforcement.
 - uphold the reputation and good standing of BCS, the Chartered Institute for IT.
