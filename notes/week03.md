@@ -19,7 +19,7 @@ Location key: L3 sN = Lecture 3 slide N; S3 sN = Seminar 3 slide N; US pN = "Und
 - Public authorities are obliged to publish certain information about their activities.
 - Any member of the public is entitled to request information from public authorities.
 
-### You can request information from (L3 s9)
+### Who you can request information from (L3 s9)
 - parliament
 - government departments, and other public bodies and committees
 - local councils

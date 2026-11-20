@@ -38,7 +38,7 @@
 - Section 3ZA: UNAUTHORISED acts causing, or creating risk of, serious damage.
 - Section 3A: Making, supplying or obtaining articles for use in offence under section 1, 2, 3 or 3ZA.
 
-## Hacking may also be an offence against (L7 s11)
+## Laws hacking may also break (L7 s11)
 - Computer Misuse Act 1990 [criminal]
 - Data Protection Act 1998 [some civil + some criminal offences]
 - Other legislation and/or contract of employment

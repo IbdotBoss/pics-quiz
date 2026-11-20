@@ -18,7 +18,7 @@
 - Should I be able to lie on my computer experience / my qualifications / my degree classification to get a job?
 - Kant's axe; Trolley problem (BBC programmes).
 
-## Before you make an (ethical) decision (L6 s8) - in order
+## Steps before you make an ethical decision (L6 s8)
 1. Clearly identify all the facts
 2. Define the areas of potential conflict
 3. Identify the stakeholders
